@@ -1,0 +1,17 @@
+{
+  "name": "Cazador de Chivos — Rock en vivo Heredia / GAM",
+  "short_name": "Chivos",
+  "description": "Chivos en vivo en Heredia y el GAM. Banda, fecha, cover y cómo llegar.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0909",
+  "theme_color": "#c82024",
+  "lang": "es",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
