@@ -25,11 +25,13 @@ jobs:
         run: |
           git config user.name "chivos-bot"
           git config user.email "chivos-bot@users.noreply.github.com"
-          git add vigilancia/state.json vigilancia/novedades.json vigilancia/candidatos vigilancia/logos-bares 2>/dev/null || true
+          git add -A vigilancia/ || true
+          if [ -d logos-bares ]; then git add -A logos-bares || true; fi
           git diff --cached --quiet && echo "sin cambios" || git commit -m "chore: vigilancia $(date -u +%Y%m%d-%H%M)"
           git push || true
       - name: Abrir issue si hay novedades
         run: |
+          gh label create vigilancia --color C82024 --description "Novedades de la vigilancia automatica" 2>/dev/null || true
           N=$(python -c "import json;print(len(json.load(open('vigilancia/novedades.json'))['novedades']))")
           if [ "$N" != "0" ]; then
             STAMP=$(python -c "import json;print(json.load(open('vigilancia/novedades.json'))['stamp'])")
