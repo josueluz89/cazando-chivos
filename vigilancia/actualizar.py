@@ -4,7 +4,7 @@
 Fusiona eventos nuevos en data/eventos.json:
   - ignora eventos sin banda/bar/fecha
   - deduplica por (bar, fecha, banda)
-  - elimina eventos vencidos (fecha < hoy en America/Costa_Rica)
+  - elimina eventos con más de 45 días de pasados (fecha < hoy-45 en America/Costa_Rica)
   - ordena por fecha, hora, bar
   - agrega a data/locales.json los bares nuevos (con direccion del evento)
 
@@ -14,7 +14,7 @@ que data/eventos.json (banda, bar, fecha AAAA-MM-DD, hora, cover, flyer, ...).
 """
 import json
 import sys
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -64,7 +64,8 @@ def main() -> None:
         agregados += 1
 
     hoy = hoy_cr()
-    vigentes = [e for e in eventos if str(e.get("fecha", "")) >= hoy]
+    limite_pasado = (datetime.now(ZoneInfo("America/Costa_Rica")) - timedelta(days=45)).strftime("%Y-%m-%d")
+    vigentes = [e for e in eventos if str(e.get("fecha", "")) >= limite_pasado]
     vencidos = len(eventos) - len(vigentes)
     vigentes.sort(key=lambda e: (e.get("fecha", ""), e.get("hora") or "23:59", e.get("bar", "")))
     EVENTOS.write_text(json.dumps(vigentes, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
