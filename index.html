@@ -152,6 +152,8 @@ const icons={
 let activeFilter='all',expanded=false,view='events';
 const esc=s=>String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function crToday(){return new Intl.DateTimeFormat('en-CA',{timeZone:'America/Costa_Rica',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date())}
+function addDays(iso,n){const d=new Date(iso+'T12:00:00');d.setDate(d.getDate()+n);return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0')}
+function ventana15(){const hoy=crToday();return [hoy,addDays(hoy,15)]}
 function dateParts(iso){const d=new Date(iso+'T12:00:00');return {day:new Intl.DateTimeFormat('es-CR',{day:'2-digit'}).format(d),mon:new Intl.DateTimeFormat('es-CR',{month:'short'}).format(d).replace('.',''),full:new Intl.DateTimeFormat('es-CR',{weekday:'long',day:'numeric',month:'long'}).format(d)}}
 function placeFor(name,address){return {label:name,venue:name,address:address||'',country:'Costa Rica'}}
 function directions(name,address){try{return MapHelpers.mapsDirectionsUrl(placeFor(name,address),{travelmode:'driving'})||'#'}catch(e){return '#'}}
@@ -170,11 +172,11 @@ document.querySelectorAll('.filter').forEach(b=>b.addEventListener('click',()=>{
 document.querySelector('#search').addEventListener('input',()=>view==='events'?renderEvents():renderVenues());
 document.querySelector('#moreBtn').addEventListener('click',()=>{expanded=!expanded;renderEvents()});
 document.querySelector('#modalClose').addEventListener('click',closeModal);document.querySelector('#modal').addEventListener('click',e=>{if(e.target.id==='modal')closeModal()});document.addEventListener('keydown',e=>{if(e.key==='Escape')closeModal()});
-let LOGOS={"Anfiteatro Imperial (Parque Viva)":"logos-bares/anfiteatro-imperial-parque-viva.jpg","Music Factory":"logos-bares/music-factory.jpg"};
+const LOGOS={"Anfiteatro Imperial (Parque Viva)":"logos-bares/anfiteatro-imperial-parque-viva.jpg","Music Factory":"logos-bares/music-factory.jpg"};
 function reportURL(){const body=["## Nuevo chivo","- Banda: ","- Bar: ","- Fecha (AAAA-MM-DD): ","- Hora: ","- Cover: ","- Link del anuncio: ","- Mi contacto (opcional): "].join("\n");return "https://github.com/josueluz89/cazando-chivos/issues/new?labels=reporte&title="+encodeURIComponent("[reporte] Banda - Bar - fecha")+"&body="+encodeURIComponent(body)}
 document.querySelectorAll(".report-link").forEach(a=>a.href=reportURL());
 function initDynamic(){const wk=weekendDates();const nWk=events.filter(e=>wk.includes(e.fecha)).length;const pb=document.querySelector('.pulse-board');document.querySelector('#pulseCount').textContent=nWk;pb.setAttribute('aria-label','Próximo fin de semana: '+nWk+' chivos');document.querySelector('#statEvents').textContent=events.length;document.querySelector('#statVenues').textContent=venues.length;document.querySelector('#statSolo').textContent=events.filter(e=>e.rama==='chivo_en_solista').length;const mes=new Intl.DateTimeFormat('es-CR',{month:'long',timeZone:'America/Costa_Rica'}).format(new Date());document.querySelector('[data-filter="month"]').textContent=mes.charAt(0).toUpperCase()+mes.slice(1)}
-function boot(){fetch('data/eventos.json').then(r=>{if(!r.ok)throw new Error('eventos');return r.json()}).then(ev=>{events=ev;sortEvents();return fetch('data/locales.json')}).then(r=>{if(!r.ok)throw new Error('locales');return r.json()}).then(locales=>{venues=buildVenues(locales);return fetch('data/logos.json').then(r=>r.ok?r.json():{}).catch(()=>({})).then(l=>{Object.assign(LOGOS,l);initDynamic();renderEvents()})}).catch(()=>{const m=document.querySelector('#eventEmpty');m.textContent='No se pudo cargar la cartelera. Revisá tu conexión e intentá de nuevo.';m.style.display='block'})}
+function boot(){fetch('data/eventos.json').then(r=>{if(!r.ok)throw new Error('eventos');return r.json()}).then(ev=>{const [hoy,lim]=ventana15();events=ev.filter(e=>e.fecha>=hoy&&e.fecha<=lim);sortEvents();return fetch('data/locales.json')}).then(r=>{if(!r.ok)throw new Error('locales');return r.json()}).then(locales=>{venues=buildVenues(locales);initDynamic();renderEvents()}).catch(()=>{const m=document.querySelector('#eventEmpty');m.textContent='No se pudo cargar la cartelera. Revisá tu conexión e intentá de nuevo.';m.style.display='block'})}
 boot();
 if ("serviceWorker" in navigator) { window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {})); }
 </script>
