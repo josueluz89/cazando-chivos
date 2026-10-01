@@ -1,201 +1,207 @@
 [
- {
-  "nombre": "Amon Solar",
-  "direccion": "Calle 3, Av 9-11, Barrio Amón, San José",
-  "estilo": "Bar / centro cultural, música en vivo",
-  "historial": [
-   "Rotten Souls",
-   "Belial Horde",
-   "Suppressor",
-   "Enfleshed"
-  ]
- },
- {
-  "nombre": "Bar Alcatraz",
-  "direccion": "Av. 1 / Calle 5, Heredia",
-  "estilo": "Rock / alternativo, eventos de tatuajes",
-  "historial": [
-   "Iron Fist"
-  ]
- },
- {
-  "nombre": "Bar Chamuco",
-  "direccion": "Cartago, frente al antiguo Hogares Crea",
-  "estilo": "Bar rock, classics rock show",
-  "historial": [
-   "Flashback"
-  ]
- },
- {
-  "nombre": "Bar Legendario",
-  "direccion": "Calle 4, de Correos 100 m oeste y 125 m sur, Heredia (Yesterday Classic Rock Bar, mismo local)",
-  "estilo": "Rock y metal, tributos",
-  "historial": [
-   "Wrathchilds (tributo Iron Maiden)",
-   "Vacíos Cuerpos (México, darkwave/post-punk — 29 may 2026)"
-  ]
- },
- {
-  "nombre": "Casa Jimmy",
-  "direccion": "Santa Ana",
-  "estilo": "Bar, tributos de rock",
-  "historial": [
-   "Bad Moon (tributo Creedence)"
-  ]
- },
- {
-  "nombre": "El Muro ArtPub & Comedy Club",
-  "direccion": "50 m norte del Parque Morazán, Barrio Amón, San José",
-  "estilo": "Art pub, tributos de rock",
-  "historial": [
-   "MarAdentro (tributo Héroes del Silencio)"
-  ]
- },
- {
-  "nombre": "Pepper's Club",
-  "direccion": "Av. 34, Calle 61-63, Zapote, San José",
-  "estilo": "Live music venue: conciertos nacionales e internacionales",
-  "historial": [
-   "Servile Conceptions (USA)",
-   "Colemesis",
-   "Arsenal",
-   "Golgota"
-  ]
- },
- {
-  "nombre": "Yellow Submarine Bar",
-  "direccion": "C.C. Plaza Los Colegios, Av 65, Moravia",
-  "estilo": "Bar rock, tributos en vivo",
-  "historial": [
-   "Las Tortugas (tributos Pink Floyd, The Doors, Creedence)"
-  ]
- },
- {
-  "nombre": "Mercadito La California",
-  "direccion": "Calle 21, Av 0-1, Barrio La California, San José",
-  "estilo": "Mercado urbano, conciertos de rock",
-  "historial": [
-   "Gandhi",
-   "Magpie Jay",
-   "A Flock of Seagulls"
-  ]
- },
- {
-  "nombre": "MundoLoco El Chante",
-  "direccion": "San Pedro",
-  "estilo": "Rock en vivo",
-  "historial": [
-   "Tiempos del Lucero",
-   "Perrozompopo",
-   "Corpse Garden",
-   "Seka"
-  ]
- },
- {
-  "nombre": "Jazz Café",
-  "direccion": "Paralela a la Autopista Próspero Fernández, Escazú",
-  "estilo": "Café-concierto, tributos de rock y pop",
-  "historial": [
-   "Diesel",
-   "D'Classics"
-  ]
- },
- {
-  "nombre": "Mangisfera",
-  "direccion": "Grecia",
-  "estilo": "Bar, tributos de rock",
-  "historial": [
-   "Bad Moon (tributo Creedence)"
-  ]
- },
- {
-  "nombre": "Anfiteatro Imperial (Parque Viva)",
-  "direccion": "Parque Viva, La Guácima, Alajuela",
-  "estilo": "Anfiteatro, conciertos internacionales",
-  "historial": [
-   "Def Leppard",
-   "Extreme"
-  ]
- },
- {
-  "nombre": "Bar Reflexiones",
-  "direccion": "San Rafael de Heredia",
-  "estilo": "Rock clásico, tributos y música original",
-  "historial": [
-   "Black Cat Project (tributo Red Hot Chili Peppers)",
-   "Cannibals Band (rock clásico: Led Zeppelin, Heart, Blondie)",
-   "Rades Band (tributo Iron Maiden)",
-   "Nancy Garita (Fleetwood Mac, ABBA)",
-   "Perfect Strangers",
-   "Homel L.",
-   "Supersticion",
-   "The Regent Noir",
-   "MAMUT (rock clásico: Jethro Tull, Def Leppard, AC/DC, Pink Floyd — 2 mar 2019)",
-   "Easy Rider (ene 2020)"
-  ]
- },
- {
-  "nombre": "Campo Verde",
-  "direccion": "Atenas",
-  "estilo": "Bar, tributos de rock",
-  "historial": [
-   "Bad Moon (tributo Creedence)"
-  ]
- },
- {
-  "nombre": "Al Son del Fuego",
-  "direccion": "Detrás de la iglesia del parque central, Heredia",
-  "estilo": "Restaurante/bar, música en vivo: rock español/inglés, trova, reggae",
-  "historial": [
-   "Milton Abarca"
-  ]
- },
- {
-  "nombre": "Bar Retro",
-  "direccion": "Dirección sin confirmar",
-  "estilo": "",
-  "historial": []
- },
- {
-  "nombre": "Casa Azul",
-  "direccion": "Dirección sin confirmar",
-  "estilo": "",
-  "historial": []
- },
- {
-  "nombre": "Cheers Cantina",
-  "direccion": "Plaza Real Cariari, Local #1, Heredia",
-  "estilo": "Cantina, música en vivo los viernes",
-  "historial": []
- },
- {
-  "nombre": "Mini Taberna",
-  "direccion": "Dirección sin confirmar",
-  "estilo": "",
-  "historial": []
- },
- {
-  "nombre": "Auditorio Vida Abundante",
-  "direccion": "La Uruca, San José",
-  "estilo": "",
-  "historial": []
- },
- {
-  "nombre": "Music Factory",
-  "direccion": "Los Yoses",
-  "estilo": "",
-  "historial": []
- },
- {
-  "nombre": "Centro de Eventos Pedregal",
-  "direccion": "Dirección sin confirmar",
-  "estilo": "",
-  "historial": []
- },
- {
-  "nombre": "Oasis",
-  "direccion": "San Pedro",
-  "estilo": "",
-  "historial": []
- }
+  {
+    "nombre": "Amon Solar",
+    "direccion": "Calle 3, Av 9-11, Barrio Amón, San José",
+    "estilo": "Bar / centro cultural, música en vivo",
+    "historial": [
+      "Rotten Souls",
+      "Belial Horde",
+      "Suppressor",
+      "Enfleshed"
+    ]
+  },
+  {
+    "nombre": "Bar Alcatraz",
+    "direccion": "Av. 1 / Calle 5, Heredia",
+    "estilo": "Rock / alternativo, eventos de tatuajes",
+    "historial": [
+      "Iron Fist"
+    ]
+  },
+  {
+    "nombre": "Bar Chamuco",
+    "direccion": "Cartago, frente al antiguo Hogares Crea",
+    "estilo": "Bar rock, classics rock show",
+    "historial": [
+      "Flashback"
+    ]
+  },
+  {
+    "nombre": "Bar Legendario",
+    "direccion": "Calle 4, de Correos 100 m oeste y 125 m sur, Heredia (Yesterday Classic Rock Bar, mismo local)",
+    "estilo": "Rock y metal, tributos",
+    "historial": [
+      "Wrathchilds (tributo Iron Maiden)",
+      "Vacíos Cuerpos (México, darkwave/post-punk — 29 may 2026)"
+    ]
+  },
+  {
+    "nombre": "Casa Jimmy",
+    "direccion": "Santa Ana",
+    "estilo": "Bar, tributos de rock",
+    "historial": [
+      "Bad Moon (tributo Creedence)"
+    ]
+  },
+  {
+    "nombre": "El Muro ArtPub & Comedy Club",
+    "direccion": "50 m norte del Parque Morazán, Barrio Amón, San José",
+    "estilo": "Art pub, tributos de rock",
+    "historial": [
+      "MarAdentro (tributo Héroes del Silencio)"
+    ]
+  },
+  {
+    "nombre": "Pepper's Club",
+    "direccion": "Av. 34, Calle 61-63, Zapote, San José",
+    "estilo": "Live music venue: conciertos nacionales e internacionales",
+    "historial": [
+      "Servile Conceptions (USA)",
+      "Colemesis",
+      "Arsenal",
+      "Golgota"
+    ]
+  },
+  {
+    "nombre": "Yellow Submarine Bar",
+    "direccion": "C.C. Plaza Los Colegios, Av 65, Moravia",
+    "estilo": "Bar rock, tributos en vivo",
+    "historial": [
+      "Las Tortugas (tributos Pink Floyd, The Doors, Creedence)"
+    ]
+  },
+  {
+    "nombre": "Mercadito La California",
+    "direccion": "Calle 21, Av 0-1, Barrio La California, San José",
+    "estilo": "Mercado urbano, conciertos de rock",
+    "historial": [
+      "Gandhi",
+      "Magpie Jay",
+      "A Flock of Seagulls"
+    ]
+  },
+  {
+    "nombre": "MundoLoco El Chante",
+    "direccion": "San Pedro",
+    "estilo": "Rock en vivo",
+    "historial": [
+      "Tiempos del Lucero",
+      "Perrozompopo",
+      "Corpse Garden",
+      "Seka"
+    ]
+  },
+  {
+    "nombre": "Jazz Café",
+    "direccion": "Paralela a la Autopista Próspero Fernández, Escazú",
+    "estilo": "Café-concierto, tributos de rock y pop",
+    "historial": [
+      "Diesel",
+      "D'Classics"
+    ]
+  },
+  {
+    "nombre": "Mangisfera",
+    "direccion": "Grecia",
+    "estilo": "Bar, tributos de rock",
+    "historial": [
+      "Bad Moon (tributo Creedence)"
+    ]
+  },
+  {
+    "nombre": "Anfiteatro Imperial (Parque Viva)",
+    "direccion": "Parque Viva, La Guácima, Alajuela",
+    "estilo": "Anfiteatro, conciertos internacionales",
+    "historial": [
+      "Def Leppard",
+      "Extreme"
+    ]
+  },
+  {
+    "nombre": "Bar Reflexiones",
+    "direccion": "San Rafael de Heredia",
+    "estilo": "Rock clásico, tributos y música original",
+    "historial": [
+      "Black Cat Project (tributo Red Hot Chili Peppers)",
+      "Cannibals Band (rock clásico: Led Zeppelin, Heart, Blondie)",
+      "Rades Band (tributo Iron Maiden)",
+      "Nancy Garita (Fleetwood Mac, ABBA)",
+      "Perfect Strangers",
+      "Homel L.",
+      "Supersticion",
+      "The Regent Noir",
+      "MAMUT (rock clásico: Jethro Tull, Def Leppard, AC/DC, Pink Floyd — 2 mar 2019)",
+      "Easy Rider (ene 2020)"
+    ]
+  },
+  {
+    "nombre": "Campo Verde",
+    "direccion": "Atenas",
+    "estilo": "Bar, tributos de rock",
+    "historial": [
+      "Bad Moon (tributo Creedence)"
+    ]
+  },
+  {
+    "nombre": "Al Son del Fuego",
+    "direccion": "Detrás de la iglesia del parque central, Heredia",
+    "estilo": "Restaurante/bar, música en vivo: rock español/inglés, trova, reggae",
+    "historial": [
+      "Milton Abarca"
+    ]
+  },
+  {
+    "nombre": "Bar Retro",
+    "direccion": "Dirección sin confirmar",
+    "estilo": "",
+    "historial": []
+  },
+  {
+    "nombre": "Casa Azul",
+    "direccion": "Dirección sin confirmar",
+    "estilo": "",
+    "historial": []
+  },
+  {
+    "nombre": "Cheers Cantina",
+    "direccion": "Plaza Real Cariari, Local #1, Heredia",
+    "estilo": "Cantina, música en vivo los viernes",
+    "historial": []
+  },
+  {
+    "nombre": "Mini Taberna",
+    "direccion": "Dirección sin confirmar",
+    "estilo": "",
+    "historial": []
+  },
+  {
+    "nombre": "Auditorio Vida Abundante",
+    "direccion": "La Uruca, San José",
+    "estilo": "",
+    "historial": []
+  },
+  {
+    "nombre": "Music Factory",
+    "direccion": "Los Yoses",
+    "estilo": "",
+    "historial": []
+  },
+  {
+    "nombre": "Centro de Eventos Pedregal",
+    "direccion": "Dirección sin confirmar",
+    "estilo": "",
+    "historial": []
+  },
+  {
+    "nombre": "Oasis",
+    "direccion": "San Pedro",
+    "estilo": "",
+    "historial": []
+  },
+  {
+    "nombre": "Butts Bar",
+    "direccion": "",
+    "estilo": "Bar metal, música en vivo",
+    "historial": []
+  }
 ]
