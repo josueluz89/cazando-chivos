@@ -1,1 +1,260 @@
-WwogewogICJub21icmUiOiAiQW1vbiBTb2xhciIsCiAgImRpcmVjY2lvbiI6ICJDYWxsZSAzLCBBdiA5LTExLCBCYXJyaW8gQW3Ds24sIFNhbiBKb3PDqSIsCiAgImVzdGlsbyI6ICJCYXIgLyBjZW50cm8gY3VsdHVyYWwsIG3DunNpY2EgZW4gdml2byIsCiAgImhpc3RvcmlhbCI6IFsKICAgIlJvdHRlbiBTb3VscyIsCiAgICJCZWxpYWwgSG9yZGUiLAogICAiU3VwcHJlc3NvciIsCiAgICJFbmZsZXNoZWQiCiAgXSwKICAidGVsZWZvbm8iOiAiIgogfSwKIHsKICAibm9tYnJlIjogIkJhciBBbGNhdHJheiIsCiAgImRpcmVjY2lvbiI6ICJBdi4gMSAvIENhbGxlIDUsIEhlcmVkaWEiLAogICJlc3RpbG8iOiAiUm9jayAvIGFsdGVybmF0aXZvLCBldmVudG9zIGRlIHRhdHVhamVzIiwKICAiaGlzdG9yaWFsIjogWwogICAiSXJvbiBGaXN0IgogIF0sCiAgInRlbGVmb25vIjogIjgzNTAzMzMzIgogfSwKIHsKICAibm9tYnJlIjogIkJhciBDaGFtdWNvIiwKICAiZGlyZWNjaW9uIjogIkNhcnRhZ28sIGZyZW50ZSBhbCBhbnRpZ3VvIEhvZ2FyZXMgQ3JlYSIsCiAgImVzdGlsbyI6ICJCYXIgcm9jaywgY2xhc3NpY3Mgcm9jayBzaG93IiwKICAiaGlzdG9yaWFsIjogWwogICAiRmxhc2hiYWNrIgogIF0sCiAgInRlbGVmb25vIjogIiIKIH0sCiB7CiAgIm5vbWJyZSI6ICJCYXIgTGVnZW5kYXJpbyIsCiAgImRpcmVjY2lvbiI6ICJDYWxsZSA0LCBkZSBDb3JyZW9zIDEwMCBtIG9lc3RlIHkgMTI1IG0gc3VyLCBIZXJlZGlhIChZZXN0ZXJkYXkgQ2xhc3NpYyBSb2NrIEJhciwgbWlzbW8gbG9jYWwpIiwKICAiZXN0aWxvIjogIlJvY2sgeSBtZXRhbCwgdHJpYnV0b3MiLAogICJoaXN0b3JpYWwiOiBbCiAgICJXcmF0aGNoaWxkcyAodHJpYnV0byBJcm9uIE1haWRlbikiLAogICAiVmFjw61vcyBDdWVycG9zIChNw6l4aWNvLCBkYXJrd2F2ZS9wb3N0LXB1bmsg4oCUIDI5IG1heSAyMDI2KSIKICBdLAogICJ0ZWxlZm9ubyI6ICIiCiB9LAogewogICJub21icmUiOiAiQ2FzYSBKaW1teSIsCiAgImRpcmVjY2lvbiI6ICJTYW50YSBBbmEiLAogICJlc3RpbG8iOiAiQmFyLCB0cmlidXRvcyBkZSByb2NrIiwKICAiaGlzdG9yaWFsIjogWwogICAiQmFkIE1vb24gKHRyaWJ1dG8gQ3JlZWRlbmNlKSIKICBdLAogICJ0ZWxlZm9ubyI6ICIiCiB9LAogewogICJub21icmUiOiAiRWwgTXVybyBBcnRQdWIgJiBDb21lZHkgQ2x1YiIsCiAgImRpcmVjY2lvbiI6ICI1MCBtIG5vcnRlIGRlbCBQYXJxdWUgTW9yYXrDoW4sIEJhcnJpbyBBbcOzbiwgU2FuIEpvc8OpIiwKICAiZXN0aWxvIjogIkFydCBwdWIsIHRyaWJ1dG9zIGRlIHJvY2siLAogICJoaXN0b3JpYWwiOiBbCiAgICJNYXJBZGVudHJvICh0cmlidXRvIEjDqXJvZXMgZGVsIFNpbGVuY2lvKSIKICBdLAogICJ0ZWxlZm9ubyI6ICIiCiB9LAogewogICJub21icmUiOiAiUGVwcGVyJ3MgQ2x1YiIsCiAgImRpcmVjY2lvbiI6ICJBdi4gMzQsIENhbGxlIDYxLTYzLCBaYXBvdGUsIFNhbiBKb3PDqSIsCiAgImVzdGlsbyI6ICJMaXZlIG11c2ljIHZlbnVlOiBjb25jaWVydG9zIG5hY2lvbmFsZXMgZSBpbnRlcm5hY2lvbmFsZXMiLAogICJoaXN0b3JpYWwiOiBbCiAgICJTZXJ2aWxlIENvbmNlcHRpb25zIChVU0EpIiwKICAgIkNvbGVtZXNpcyIsCiAgICJBcnNlbmFsIiwKICAgIkdvbGdvdGEiCiAgXSwKICAidGVsZWZvbm8iOiAiNjMyOTk5OTkiCiB9LAogewogICJub21icmUiOiAiWWVsbG93IFN1Ym1hcmluZSBCYXIiLAogICJkaXJlY2Npb24iOiAiQy5DLiBQbGF6YSBMb3MgQ29sZWdpb3MsIEF2IDY1LCBNb3JhdmlhIiwKICAiZXN0aWxvIjogIkJhciByb2NrLCB0cmlidXRvcyBlbiB2aXZvIiwKICAiaGlzdG9yaWFsIjogWwogICAiTGFzIFRvcnR1Z2FzICh0cmlidXRvcyBQaW5rIEZsb3lkLCBUaGUgRG9vcnMsIENyZWVkZW5jZSkiCiAgXSwKICAidGVsZWZvbm8iOiAiIgogfSwKIHsKICAibm9tYnJlIjogIk1lcmNhZGl0byBMYSBDYWxpZm9ybmlhIiwKICAiZGlyZWNjaW9uIjogIkNhbGxlIDIxLCBBdiAwLTEsIEJhcnJpbyBMYSBDYWxpZm9ybmlhLCBTYW4gSm9zw6kiLAogICJlc3RpbG8iOiAiTWVyY2FkbyB1cmJhbm8sIGNvbmNpZXJ0b3MgZGUgcm9jayIsCiAgImhpc3RvcmlhbCI6IFsKICAgIkdhbmRoaSIsCiAgICJNYWdwaWUgSmF5IiwKICAgIkEgRmxvY2sgb2YgU2VhZ3VsbHMiCiAgXSwKICAidGVsZWZvbm8iOiAiIgogfSwKIHsKICAibm9tYnJlIjogIk11bmRvTG9jbyBFbCBDaGFudGUiLAogICJkaXJlY2Npb24iOiAiU2FuIFBlZHJvIiwKICAiZXN0aWxvIjogIlJvY2sgZW4gdml2byIsCiAgImhpc3RvcmlhbCI6IFsKICAgIlRpZW1wb3MgZGVsIEx1Y2VybyIsCiAgICJQZXJyb3pvbXBvcG8iLAogICAiQ29ycHNlIEdhcmRlbiIsCiAgICJTZWthIgogIF0sCiAgInRlbGVmb25vIjogIiIKIH0sCiB7CiAgIm5vbWJyZSI6ICJKYXp6IENhZsOpIiwKICAiZGlyZWNjaW9uIjogIlBhcmFsZWxhIGEgbGEgQXV0b3Bpc3RhIFByw7NzcGVybyBGZXJuw6FuZGV6LCBFc2NhesO6IiwKICAiZXN0aWxvIjogIkNhZsOpLWNvbmNpZXJ0bywgdHJpYnV0b3MgZGUgcm9jayB5IHBvcCIsCiAgImhpc3RvcmlhbCI6IFsKICAgIkRpZXNlbCIsCiAgICJEJ0NsYXNzaWNzIgogIF0sCiAgInRlbGVmb25vIjogIjIyNTM4OTMzIgogfSwKIHsKICAibm9tYnJlIjogIk1hbmdpc2ZlcmEiLAogICJkaXJlY2Npb24iOiAiR3JlY2lhIiwKICAiZXN0aWxvIjogIkJhciwgdHJpYnV0b3MgZGUgcm9jayIsCiAgImhpc3RvcmlhbCI6IFsKICAgIkJhZCBNb29uICh0cmlidXRvIENyZWVkZW5jZSkiCiAgXSwKICAidGVsZWZvbm8iOiAiIgogfSwKIHsKICAibm9tYnJlIjogIkFuZml0ZWF0cm8gSW1wZXJpYWwgKFBhcnF1ZSBWaXZhKSIsCiAgImRpcmVjY2lvbiI6ICJQYXJxdWUgVml2YSwgTGEgR3XDoWNpbWEsIEFsYWp1ZWxhIiwKICAiZXN0aWxvIjogIkFuZml0ZWF0cm8sIGNvbmNpZXJ0b3MgaW50ZXJuYWNpb25hbGVzIiwKICAiaGlzdG9yaWFsIjogWwogICAiRGVmIExlcHBhcmQiLAogICAiRXh0cmVtZSIKICBdLAogICJ0ZWxlZm9ubyI6ICIiCiB9LAogewogICJub21icmUiOiAiQmFyIFJlZmxleGlvbmVzIiwKICAiZGlyZWNjaW9uIjogIlNhbiBSYWZhZWwgZGUgSGVyZWRpYSIsCiAgImVzdGlsbyI6ICJSb2NrIGNsw6FzaWNvLCB0cmlidXRvcyB5IG3DunNpY2Egb3JpZ2luYWwiLAogICJoaXN0b3JpYWwiOiBbCiAgICJCbGFjayBDYXQgUHJvamVjdCAodHJpYnV0byBSZWQgSG90IENoaWxpIFBlcHBlcnMpIiwKICAgIkNhbm5pYmFscyBCYW5kIChyb2NrIGNsw6FzaWNvOiBMZWQgWmVwcGVsaW4sIEhlYXJ0LCBCbG9uZGllKSIsCiAgICJSYWRlcyBCYW5kICh0cmlidXRvIElyb24gTWFpZGVuKSIsCiAgICJOYW5jeSBHYXJpdGEgKEZsZWV0d29vZCBNYWMsIEFCQkEpIiwKICAgIlBlcmZlY3QgU3RyYW5nZXJzIiwKICAgIkhvbWVsIEwuIiwKICAgIlN1cGVyc3RpY2lvbiIsCiAgICJUaGUgUmVnZW50IE5vaXIiLAogICAiTUFNVVQgKHJvY2sgY2zDoXNpY286IEpldGhybyBUdWxsLCBEZWYgTGVwcGFyZCwgQUMvREMsIFBpbmsgRmxveWQg4oCUIDIgbWFyIDIwMTkpIiwKICAgIkVhc3kgUmlkZXIgKGVuZSAyMDIwKSIKICBdLAogICJ0ZWxlZm9ubyI6ICIiCiB9LAogewogICJub21icmUiOiAiQ2FtcG8gVmVyZGUiLAogICJkaXJlY2Npb24iOiAiQXRlbmFzIiwKICAiZXN0aWxvIjogIkJhciwgdHJpYnV0b3MgZGUgcm9jayIsCiAgImhpc3RvcmlhbCI6IFsKICAgIkJhZCBNb29uICh0cmlidXRvIENyZWVkZW5jZSkiCiAgXSwKICAidGVsZWZvbm8iOiAiIgogfSwKIHsKICAibm9tYnJlIjogIkFsIFNvbiBkZWwgRnVlZ28iLAogICJkaXJlY2Npb24iOiAiRGV0csOhcyBkZSBsYSBpZ2xlc2lhIGRlbCBwYXJxdWUgY2VudHJhbCwgSGVyZWRpYSIsCiAgImVzdGlsbyI6ICJSZXN0YXVyYW50ZS9iYXIsIG3DunNpY2EgZW4gdml2bzogcm9jayBlc3Bhw7FvbC9pbmdsw6lzLCB0cm92YSwgcmVnZ2FlIiwKICAiaGlzdG9yaWFsIjogWwogICAiTWlsdG9uIEFiYXJjYSIKICBdLAogICJ0ZWxlZm9ubyI6ICIiCiB9LAogewogICJub21icmUiOiAiQmFyIFJldHJvIiwKICAiZGlyZWNjaW9uIjogIkRpcmVjY2nDs24gc2luIGNvbmZpcm1hciIsCiAgImVzdGlsbyI6ICIiLAogICJoaXN0b3JpYWwiOiBbXSwKICAidGVsZWZvbm8iOiAiIgogfSwKIHsKICAibm9tYnJlIjogIkNhc2EgQXp1bCIsCiAgImRpcmVjY2lvbiI6ICJEaXJlY2Npw7NuIHNpbiBjb25maXJtYXIiLAogICJlc3RpbG8iOiAiIiwKICAiaGlzdG9yaWFsIjogW10sCiAgInRlbGVmb25vIjogIiIKIH0sCiB7CiAgIm5vbWJyZSI6ICJDaGVlcnMgQ2FudGluYSIsCiAgImRpcmVjY2lvbiI6ICJQbGF6YSBSZWFsIENhcmlhcmksIExvY2FsICMxLCBIZXJlZGlhIiwKICAiZXN0aWxvIjogIkNhbnRpbmEsIG3DunNpY2EgZW4gdml2byBsb3Mgdmllcm5lcyIsCiAgImhpc3RvcmlhbCI6IFtdLAogICJ0ZWxlZm9ubyI6ICIiCiB9LAogewogICJub21icmUiOiAiTWluaSBUYWJlcm5hIiwKICAiZGlyZWNjaW9uIjogIkRpcmVjY2nDs24gc2luIGNvbmZpcm1hciIsCiAgImVzdGlsbyI6ICIiLAogICJoaXN0b3JpYWwiOiBbXSwKICAidGVsZWZvbm8iOiAiIgogfSwKIHsKICAibm9tYnJlIjogIkF1ZGl0b3JpbyBWaWRhIEFidW5kYW50ZSIsCiAgImRpcmVjY2lvbiI6ICJMYSBVcnVjYSwgU2FuIEpvc8OpIiwKICAiZXN0aWxvIjogIiIsCiAgImhpc3RvcmlhbCI6IFtdLAogICJ0ZWxlZm9ubyI6ICIiCiB9LAogewogICJub21icmUiOiAiTXVzaWMgRmFjdG9yeSIsCiAgImRpcmVjY2lvbiI6ICJMb3MgWW9zZXMiLAogICJlc3RpbG8iOiAiIiwKICAiaGlzdG9yaWFsIjogW10sCiAgInRlbGVmb25vIjogIiIKIH0sCiB7CiAgIm5vbWJyZSI6ICJDZW50cm8gZGUgRXZlbnRvcyBQZWRyZWdhbCIsCiAgImRpcmVjY2lvbiI6ICJEaXJlY2Npw7NuIHNpbiBjb25maXJtYXIiLAogICJlc3RpbG8iOiAiIiwKICAiaGlzdG9yaWFsIjogW10sCiAgInRlbGVmb25vIjogIiIKIH0sCiB7CiAgIm5vbWJyZSI6ICJPYXNpcyIsCiAgImRpcmVjY2lvbiI6ICJTYW4gUGVkcm8iLAogICJlc3RpbG8iOiAiIiwKICAiaGlzdG9yaWFsIjogW10sCiAgInRlbGVmb25vIjogIiIKIH0sCiB7CiAgIm5vbWJyZSI6ICJCdXR0cyBCYXIiLAogICJkaXJlY2Npb24iOiAiIiwKICAiZXN0aWxvIjogIkJhciBtZXRhbCwgbcO6c2ljYSBlbiB2aXZvIiwKICAiaGlzdG9yaWFsIjogW10sCiAgInRlbGVmb25vIjogIiIKIH0sCiB7CiAgIm5vbWJyZSI6ICJDYXNleSdzIEJhciAmIFJlc3RhdXJhbnRlIiwKICAiZGlyZWNjaW9uIjogIlNhbiBQZWRybyBkZSBQb8OhcywgQWxhanVlbGEiLAogICJlc3RpbG8iOiAiIiwKICAidGVsZWZvbm8iOiAiIiwKICAiaGlzdG9yaWFsIjogW10KIH0sCiB7CiAgIm5vbWJyZSI6ICJCYXIgUm9jayBSZWZsZXhpb25lcyIsCiAgImRpcmVjY2lvbiI6ICJTYW4gUmFmYWVsIGRlIEhlcmVkaWEiLAogICJlc3RpbG8iOiAiIiwKICAidGVsZWZvbm8iOiAiODgxNDE3OTEiLAogICJoaXN0b3JpYWwiOiBbXQogfSwKIHsKICAibm9tYnJlIjogIkFydCBGZXN0IFVyYmFubyIsCiAgImRpcmVjY2lvbiI6ICJDdXJyaWRhYmF0LCBTYW4gSm9zw6kiLAogICJlc3RpbG8iOiAiIiwKICAidGVsZWZvbm8iOiAiIiwKICAiaGlzdG9yaWFsIjogW10KIH0sCiB7CiAgIm5vbWJyZSI6ICJTdGVpbiBSb29tIiwKICAiZGlyZWNjaW9uIjogIkVsIENhcm1lbiwgU2FuIEpvc8OpIiwKICAiZXN0aWxvIjogIiIsCiAgInRlbGVmb25vIjogIiIsCiAgImhpc3RvcmlhbCI6IFtdCiB9Cl0K
+[
+ {
+  "nombre": "Amon Solar",
+  "direccion": "Calle 3, Av 9-11, Barrio Amón, San José",
+  "estilo": "Bar / centro cultural, música en vivo",
+  "historial": [
+   "Rotten Souls",
+   "Belial Horde",
+   "Suppressor",
+   "Enfleshed"
+  ],
+  "telefono": ""
+ },
+ {
+  "nombre": "Bar Alcatraz",
+  "direccion": "Av. 1 / Calle 5, Heredia",
+  "estilo": "Rock / alternativo, eventos de tatuajes",
+  "historial": [
+   "Iron Fist"
+  ],
+  "telefono": "83503333"
+ },
+ {
+  "nombre": "Bar Chamuco",
+  "direccion": "Cartago, frente al antiguo Hogares Crea",
+  "estilo": "Bar rock, classics rock show",
+  "historial": [
+   "Flashback"
+  ],
+  "telefono": ""
+ },
+ {
+  "nombre": "Bar Legendario",
+  "direccion": "Calle 4, de Correos 100 m oeste y 125 m sur, Heredia (Yesterday Classic Rock Bar, mismo local)",
+  "estilo": "Rock y metal, tributos",
+  "historial": [
+   "Wrathchilds (tributo Iron Maiden)",
+   "Vacíos Cuerpos (México, darkwave/post-punk — 29 may 2026)"
+  ],
+  "telefono": ""
+ },
+ {
+  "nombre": "Casa Jimmy",
+  "direccion": "Santa Ana",
+  "estilo": "Bar, tributos de rock",
+  "historial": [
+   "Bad Moon (tributo Creedence)"
+  ],
+  "telefono": ""
+ },
+ {
+  "nombre": "El Muro ArtPub & Comedy Club",
+  "direccion": "50 m norte del Parque Morazán, Barrio Amón, San José",
+  "estilo": "Art pub, tributos de rock",
+  "historial": [
+   "MarAdentro (tributo Héroes del Silencio)"
+  ],
+  "telefono": ""
+ },
+ {
+  "nombre": "Pepper's Club",
+  "direccion": "Av. 34, Calle 61-63, Zapote, San José",
+  "estilo": "Live music venue: conciertos nacionales e internacionales",
+  "historial": [
+   "Servile Conceptions (USA)",
+   "Colemesis",
+   "Arsenal",
+   "Golgota"
+  ],
+  "telefono": "63299999"
+ },
+ {
+  "nombre": "Yellow Submarine Bar",
+  "direccion": "C.C. Plaza Los Colegios, Av 65, Moravia",
+  "estilo": "Bar rock, tributos en vivo",
+  "historial": [
+   "Las Tortugas (tributos Pink Floyd, The Doors, Creedence)"
+  ],
+  "telefono": ""
+ },
+ {
+  "nombre": "Mercadito La California",
+  "direccion": "Calle 21, Av 0-1, Barrio La California, San José",
+  "estilo": "Mercado urbano, conciertos de rock",
+  "historial": [
+   "Gandhi",
+   "Magpie Jay",
+   "A Flock of Seagulls"
+  ],
+  "telefono": ""
+ },
+ {
+  "nombre": "MundoLoco El Chante",
+  "direccion": "San Pedro",
+  "estilo": "Rock en vivo",
+  "historial": [
+   "Tiempos del Lucero",
+   "Perrozompopo",
+   "Corpse Garden",
+   "Seka"
+  ],
+  "telefono": ""
+ },
+ {
+  "nombre": "Jazz Café",
+  "direccion": "Paralela a la Autopista Próspero Fernández, Escazú",
+  "estilo": "Café-concierto, tributos de rock y pop",
+  "historial": [
+   "Diesel",
+   "D'Classics"
+  ],
+  "telefono": "22538933"
+ },
+ {
+  "nombre": "Mangisfera",
+  "direccion": "Grecia",
+  "estilo": "Bar, tributos de rock",
+  "historial": [
+   "Bad Moon (tributo Creedence)"
+  ],
+  "telefono": ""
+ },
+ {
+  "nombre": "Anfiteatro Imperial (Parque Viva)",
+  "direccion": "Parque Viva, La Guácima, Alajuela",
+  "estilo": "Anfiteatro, conciertos internacionales",
+  "historial": [
+   "Def Leppard",
+   "Extreme"
+  ],
+  "telefono": ""
+ },
+ {
+  "nombre": "Bar Reflexiones",
+  "direccion": "San Rafael de Heredia",
+  "estilo": "Rock clásico, tributos y música original",
+  "historial": [
+   "Black Cat Project (tributo Red Hot Chili Peppers)",
+   "Cannibals Band (rock clásico: Led Zeppelin, Heart, Blondie)",
+   "Rades Band (tributo Iron Maiden)",
+   "Nancy Garita (Fleetwood Mac, ABBA)",
+   "Perfect Strangers",
+   "Homel L.",
+   "Supersticion",
+   "The Regent Noir",
+   "MAMUT (rock clásico: Jethro Tull, Def Leppard, AC/DC, Pink Floyd — 2 mar 2019)",
+   "Easy Rider (ene 2020)"
+  ],
+  "telefono": ""
+ },
+ {
+  "nombre": "Campo Verde",
+  "direccion": "Atenas",
+  "estilo": "Bar, tributos de rock",
+  "historial": [
+   "Bad Moon (tributo Creedence)"
+  ],
+  "telefono": ""
+ },
+ {
+  "nombre": "Al Son del Fuego",
+  "direccion": "Detrás de la iglesia del parque central, Heredia",
+  "estilo": "Restaurante/bar, música en vivo: rock español/inglés, trova, reggae",
+  "historial": [
+   "Milton Abarca"
+  ],
+  "telefono": ""
+ },
+ {
+  "nombre": "Bar Retro",
+  "direccion": "Dirección sin confirmar",
+  "estilo": "",
+  "historial": [],
+  "telefono": ""
+ },
+ {
+  "nombre": "Casa Azul",
+  "direccion": "Dirección sin confirmar",
+  "estilo": "",
+  "historial": [],
+  "telefono": ""
+ },
+ {
+  "nombre": "Cheers Cantina",
+  "direccion": "Plaza Real Cariari, Local #1, Heredia",
+  "estilo": "Cantina, música en vivo los viernes",
+  "historial": [],
+  "telefono": ""
+ },
+ {
+  "nombre": "Mini Taberna",
+  "direccion": "Dirección sin confirmar",
+  "estilo": "",
+  "historial": [],
+  "telefono": ""
+ },
+ {
+  "nombre": "Auditorio Vida Abundante",
+  "direccion": "La Uruca, San José",
+  "estilo": "",
+  "historial": [],
+  "telefono": ""
+ },
+ {
+  "nombre": "Music Factory",
+  "direccion": "Los Yoses",
+  "estilo": "",
+  "historial": [],
+  "telefono": ""
+ },
+ {
+  "nombre": "Centro de Eventos Pedregal",
+  "direccion": "Dirección sin confirmar",
+  "estilo": "",
+  "historial": [],
+  "telefono": ""
+ },
+ {
+  "nombre": "Oasis",
+  "direccion": "San Pedro",
+  "estilo": "",
+  "historial": [],
+  "telefono": ""
+ },
+ {
+  "nombre": "Butts Bar",
+  "direccion": "",
+  "estilo": "Bar metal, música en vivo",
+  "historial": [],
+  "telefono": ""
+ },
+ {
+  "nombre": "Casey's Bar & Restaurante",
+  "direccion": "San Pedro de Poás, Alajuela",
+  "estilo": "",
+  "telefono": "",
+  "historial": []
+ },
+ {
+  "nombre": "Bar Rock Reflexiones",
+  "direccion": "San Rafael de Heredia",
+  "estilo": "",
+  "telefono": "88141791",
+  "historial": []
+ },
+ {
+  "nombre": "Art Fest Urbano",
+  "direccion": "Curridabat, San José",
+  "estilo": "",
+  "telefono": "",
+  "historial": []
+ },
+ {
+  "nombre": "Stein Room",
+  "direccion": "El Carmen, San José",
+  "estilo": "",
+  "telefono": "",
+  "historial": []
+ }
+]
