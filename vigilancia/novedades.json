@@ -1,0 +1,72 @@
+{
+ "stamp": "20261001-0131",
+ "novedades": [
+  {
+   "bar": "Pepper's Club",
+   "fuente": "https://pepperclub.bar",
+   "tipo": "fuente_caida",
+   "detalle": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "bar": "Amon Solar",
+   "fuente": "https://amonsolar.com",
+   "tipo": "fuente_caida",
+   "detalle": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
+  },
+  {
+   "bar": "Mercadito La California",
+   "fuente": "https://starticket.cr",
+   "tipo": "cambio_detectado",
+   "titulo": "",
+   "imagenes": []
+  },
+  {
+   "bar": "Anfiteatro Imperial (Parque Viva)",
+   "fuente": "https://www.eticket.cr",
+   "tipo": "cambio_detectado",
+   "titulo": "",
+   "imagenes": [
+    "candidatos/20261001-0131/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
+    "candidatos/20261001-0131/anfiteatro-imperial-parque-viva-0b5a7dcd.jpg",
+    "candidatos/20261001-0131/anfiteatro-imperial-parque-viva-5a41518b.jpg",
+    "candidatos/20261001-0131/anfiteatro-imperial-parque-viva-bc8453cc.jpg",
+    "candidatos/20261001-0131/anfiteatro-imperial-parque-viva-ad5133bd.jpg",
+    "candidatos/20261001-0131/anfiteatro-imperial-parque-viva-40e3ac18.jpg",
+    "candidatos/20261001-0131/anfiteatro-imperial-parque-viva-a86e3305.jpg",
+    "candidatos/20261001-0131/anfiteatro-imperial-parque-viva-89fe0ee6.gif",
+    "candidatos/20261001-0131/anfiteatro-imperial-parque-viva-01cd4ef7.png",
+    "candidatos/20261001-0131/anfiteatro-imperial-parque-viva-3ca692d5.png"
+   ],
+   "logo_bar": true
+  },
+  {
+   "bar": "Music Factory",
+   "fuente": "https://musicfactorycr.com",
+   "tipo": "cambio_detectado",
+   "titulo": "Music Factory CR - 3 Restaurantes y Música en Vivo",
+   "imagenes": [],
+   "logo_bar": true
+  }
+ ],
+ "pendientes": [
+  "Bar Reflexiones: sin fuente web, revision manual o WhatsApp",
+  "Bar Legendario: sin fuente web, revision manual o WhatsApp",
+  "Bar Alcatraz: sin fuente web, revision manual o WhatsApp",
+  "Bar Retro: sin fuente web, revision manual o WhatsApp",
+  "Mini Taberna: sin fuente web, revision manual o WhatsApp",
+  "Casa Azul: sin fuente web, revision manual o WhatsApp",
+  "MundoLoco El Chante: sin fuente web, revision manual o WhatsApp",
+  "Yellow Submarine Bar: sin fuente web, revision manual o WhatsApp",
+  "Jazz Café: sin fuente web, revision manual o WhatsApp",
+  "Bar Chamuco: sin fuente web, revision manual o WhatsApp",
+  "El Muro ArtPub & Comedy Club: sin fuente web, revision manual o WhatsApp",
+  "Casa Jimmy: sin fuente web, revision manual o WhatsApp",
+  "Mangisfera: sin fuente web, revision manual o WhatsApp",
+  "Campo Verde: sin fuente web, revision manual o WhatsApp",
+  "Cheers Cantina: sin fuente web, revision manual o WhatsApp",
+  "Al Son del Fuego: sin fuente web, revision manual o WhatsApp",
+  "Oasis: sin fuente web, revision manual o WhatsApp",
+  "Centro de Eventos Pedregal: sin fuente web, revision manual o WhatsApp"
+ ],
+ "eventos_conocidos": 21
+}
