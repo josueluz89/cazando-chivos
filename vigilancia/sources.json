@@ -141,5 +141,12 @@
       "facebook": null,
       "instagram": null
     }
+  ],
+  "personas": [
+    {
+      "nombre": "Homel Lewis",
+      "facebook": "https://www.facebook.com/homel.lewis",
+      "nota": "Agregado por Josué el 2026-09-30: revisar sus posts por anuncios de chivos"
+    }
   ]
 }
