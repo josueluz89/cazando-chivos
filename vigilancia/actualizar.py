@@ -21,6 +21,18 @@ from zoneinfo import ZoneInfo
 ROOT = Path(__file__).resolve().parent.parent
 EVENTOS = ROOT / "data" / "eventos.json"
 LOCALES = ROOT / "data" / "locales.json"
+LOGOS_JSON = ROOT / "data" / "logos.json"
+LOGOS_DIR = ROOT / "logos-bares"
+
+
+def slug(s: str) -> str:
+    out = []
+    for ch in s.lower():
+        if ch.isalnum():
+            out.append(ch)
+        elif out and out[-1] != "-":
+            out.append("-")
+    return "".join(out).strip("-")
 
 
 def hoy_cr() -> str:
@@ -36,8 +48,8 @@ def clave(e: dict) -> tuple:
 
 
 def main() -> None:
-    nuevos = json.loads(Path(sys.argv[1]).read_text()) if len(sys.argv) > 1 else []
-    eventos = json.loads(EVENTOS.read_text())
+    nuevos = json.loads(Path(sys.argv[1]).read_text(encoding="utf-8")) if len(sys.argv) > 1 else []
+    eventos = json.loads(EVENTOS.read_text(encoding="utf-8"))
 
     vistos = {clave(e) for e in eventos}
     agregados = 0
@@ -55,9 +67,9 @@ def main() -> None:
     vigentes = [e for e in eventos if str(e.get("fecha", "")) >= hoy]
     vencidos = len(eventos) - len(vigentes)
     vigentes.sort(key=lambda e: (e.get("fecha", ""), e.get("hora") or "23:59", e.get("bar", "")))
-    EVENTOS.write_text(json.dumps(vigentes, ensure_ascii=False, indent=1) + "\n")
+    EVENTOS.write_text(json.dumps(vigentes, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
 
-    locales = json.loads(LOCALES.read_text())
+    locales = json.loads(LOCALES.read_text(encoding="utf-8"))
     nombres = {loc["nombre"] for loc in locales}
     for e in vigentes:
         if e["bar"] not in nombres:
@@ -68,7 +80,19 @@ def main() -> None:
                 "estilo": "",
                 "historial": [],
             })
-    LOCALES.write_text(json.dumps(locales, ensure_ascii=False, indent=1) + "\n")
+    LOCALES.write_text(json.dumps(locales, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+
+    logos = {}
+    if LOGOS_DIR.is_dir():
+        for f in sorted(LOGOS_DIR.iterdir()):
+            if f.suffix.lower() not in (".jpg", ".jpeg", ".png", ".webp"):
+                continue
+            stem = slug(f.stem)
+            for loc in locales:
+                if slug(loc["nombre"]) == stem:
+                    logos[loc["nombre"]] = f"logos-bares/{f.name}"
+                    break
+    LOGOS_JSON.write_text(json.dumps(logos, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
 
     print(json.dumps({
         "agregados": agregados,
