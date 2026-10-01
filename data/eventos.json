@@ -1,0 +1,211 @@
+[
+ {
+  "banda": "APOCALIPSIS 18: Servile Conceptions (USA), Colemesis, Arsenal, Golgota, Flesh Storm, Mortinox, Cloaca, Human Mass Extermination",
+  "bar": "Pepper's Club",
+  "fecha": "2026-10-03",
+  "hora": "16:00",
+  "cover": "Preventa ₡5500 | Puerta ₡6000",
+  "flyer": "",
+  "fuente": "https://www.facebook.com/events/1538599417830508/",
+  "direccion_display": "Av. 34, Calle 61-63, Zapote, San José",
+  "region": "San José"
+ },
+ {
+  "banda": "Rotten Souls + Belial Horde + Suppressor + Enfleshed",
+  "bar": "Amon Solar",
+  "fecha": "2026-10-03",
+  "hora": "18:30",
+  "cover": "₡5000",
+  "flyer": "",
+  "direccion_display": "Calle 3, Av 9-11, Barrio Amón, San José",
+  "region": "San José"
+ },
+ {
+  "banda": "Flashback — Classics Rock Show",
+  "bar": "Bar Chamuco",
+  "fecha": "2026-10-03",
+  "hora": "20:00",
+  "cover": "₡2000",
+  "entradas": "Info: 88739070",
+  "flyer": "flyers/flashback-chamuco.jpg",
+  "direccion_display": "Cartago, frente al antiguo Hogares Crea",
+  "region": "Cartago"
+ },
+ {
+  "banda": "Wrathchilds (tributo a Iron Maiden) — Flight 666",
+  "bar": "Bar Legendario",
+  "cover": "Preventa ₡7000 | Día del evento ₡10000",
+  "entradas": "6046-1040 (José Mario Delgado)",
+  "fecha": "2026-10-03",
+  "flyer": "flyers/wrathchilds-legendario.jpg",
+  "hora": "20:00",
+  "direccion_display": "Calle 4, de Correos 100 m oeste y 125 m sur, Heredia (Yesterday Classic Rock Bar, mismo local)",
+  "region": "Heredia"
+ },
+ {
+  "banda": "Zona Púrpura (clásicos en inglés) + Error Óptico (clásicos en español)",
+  "bar": "Music Factory",
+  "cover": "Preventa ₡6000 | Día del evento ₡8000",
+  "direccion": "Los Yoses",
+  "fecha": "2026-10-03",
+  "flyer": "flyers/rock-dos-idiomas-musicfactory.jpg",
+  "hora": "20:00",
+  "info": "8340-0950 / musicfactorycr.com",
+  "direccion_display": "Los Yoses",
+  "region": "San José"
+ },
+ {
+  "banda": "MarAdentro (tributo a Héroes del Silencio)",
+  "bar": "El Muro ArtPub & Comedy Club",
+  "fecha": "2026-10-03",
+  "hora": "21:00",
+  "cover": "Preventa ₡7000 | Día del evento ₡9000",
+  "entradas": "Sinpe: 8332-8255",
+  "flyer": "flyers/maradentro-elmuro.jpg",
+  "direccion_display": "50 m norte del Parque Morazán, Barrio Amón, San José",
+  "region": "San José"
+ },
+ {
+  "banda": "Iron Fist (Alcatraz Tattoo Riot — flash day de tatuajes)",
+  "bar": "Bar Alcatraz",
+  "cover": "",
+  "fecha": "2026-10-03",
+  "flyer": "flyers/tattoo-riot-alcatraz.jpg",
+  "hora": "",
+  "direccion_display": "Av. 1 / Calle 5, Heredia",
+  "region": "Heredia"
+ },
+ {
+  "banda": "Bad Moon (tributo a Creedence Clearwater Revival)",
+  "bar": "Casa Jimmy",
+  "fecha": "2026-10-03",
+  "hora": "",
+  "flyer": "flyers/badmoon-tour.jpg",
+  "direccion_display": "Santa Ana",
+  "region": "San José"
+ },
+ {
+  "banda": "Diesel Rock CR en Oktober Costa Rica",
+  "bar": "Centro de Eventos Pedregal",
+  "fecha": "2026-10-03",
+  "fecha_fin": "2026-10-04",
+  "hora": "",
+  "cover": "",
+  "flyer": "flyers/diesel-oktober-pedregal.jpg",
+  "direccion_display": "",
+  "region": "Heredia"
+ },
+ {
+  "banda": "Emo for the Broken Hearts (noche emo/rock tributo)",
+  "bar": "Yellow Submarine Bar",
+  "fecha": "2026-10-03",
+  "hora": "",
+  "cover": "Reservas WhatsApp 8342-9214",
+  "flyer": "",
+  "direccion_display": "C.C. Plaza Los Colegios, Av 65, Moravia",
+  "region": "San José"
+ },
+ {
+  "banda": "A Flock of Seagulls + Sisterboi",
+  "bar": "Mercadito La California",
+  "fecha": "2026-10-04",
+  "hora": "19:00",
+  "cover": "Entradas en TICKZ.CR",
+  "flyer": "",
+  "direccion_display": "Calle 21, Av 0-1, Barrio La California, San José",
+  "region": "San José"
+ },
+ {
+  "banda": "Espinoza — Rock Argentino Íntimo (voz y guitarra: Fito, Charly García, Spinetta, Cerati, Soda Stereo, Enanitos Verdes)",
+  "bar": "MundoLoco El Chante",
+  "fecha": "2026-10-06",
+  "hora": "20:00",
+  "cover": "₡2500",
+  "entradas": "Sinpe: 64876641",
+  "flyer": "flyers/espinoza-mundoloco.jpg",
+  "formato": "solista",
+  "rama": "chivo_en_solista",
+  "direccion_display": "San Pedro",
+  "region": "San José"
+ },
+ {
+  "banda": "Chivo de Rock Up 2ª edición — Nuestras Voceras (covers con voces femeninas: Flyleaf, Epica, Nightwish, Halestorm...)",
+  "bar": "Oasis",
+  "direccion": "San Pedro",
+  "fecha": "2026-10-09",
+  "hora": "20:00",
+  "cover": "₡7000",
+  "flyer": "flyers/rockup-oasis.jpg",
+  "entradas": "Tiquete Box",
+  "direccion_display": "San Pedro",
+  "region": "San José"
+ },
+ {
+  "banda": "No Fun At All + Authority Zero (Latin America Tour 2026)",
+  "bar": "Amon Solar",
+  "fecha": "2026-10-09",
+  "hora": "",
+  "flyer": "flyers/nofunatall-amonsolar.jpg",
+  "direccion_display": "Calle 3, Av 9-11, Barrio Amón, San José",
+  "region": "San José"
+ },
+ {
+  "banda": "Diesel & D'Classics: Lo mejor de Rock & Pop (tributos: Guns N' Roses, Metallica, Nirvana, Queen, AC/DC, Kiss y más)",
+  "bar": "Jazz Café",
+  "fecha": "2026-10-16",
+  "hora": "",
+  "cover": "Info entradas: 8325-1957 / 8830-1591",
+  "flyer": "flyers/diesel-jazzcafe.jpg",
+  "nota": "16 y 17 de octubre",
+  "direccion_display": "Paralela a la Autopista Próspero Fernández, Escazú",
+  "region": "San José"
+ },
+ {
+  "banda": "Bad Moon (tributo a Creedence Clearwater Revival)",
+  "bar": "Mangisfera",
+  "fecha": "2026-10-24",
+  "hora": "",
+  "flyer": "flyers/badmoon-tour.jpg",
+  "direccion_display": "Grecia",
+  "region": "Alajuela"
+ },
+ {
+  "banda": "Def Leppard + Extreme (Live 2026)",
+  "bar": "Anfiteatro Imperial (Parque Viva)",
+  "fecha": "2026-10-27",
+  "hora": "18:00",
+  "entradas": "eticket",
+  "flyer": "flyers/defleppard-parqueviva.jpg",
+  "direccion_display": "Parque Viva, La Guácima, Alajuela",
+  "region": "Alajuela"
+ },
+ {
+  "banda": "Halloween Party — evento musical en vivo + concurso de disfraces",
+  "bar": "Bar Reflexiones",
+  "cover": "₡3000",
+  "fecha": "2026-10-31",
+  "flyer": "flyers/halloween-reflexiones.jpg",
+  "hora": "20:00",
+  "reservas": "8814-1791",
+  "direccion_display": "San Rafael de Heredia",
+  "region": "Heredia"
+ },
+ {
+  "banda": "Bad Moon (tributo a Creedence Clearwater Revival)",
+  "bar": "Campo Verde",
+  "fecha": "2026-10-31",
+  "hora": "",
+  "flyer": "flyers/badmoon-tour.jpg",
+  "direccion_display": "Atenas",
+  "region": "Alajuela"
+ },
+ {
+  "banda": "Bad Moon (tributo a Creedence Clearwater Revival)",
+  "bar": "Bar Reflexiones",
+  "fecha": "2026-11-28",
+  "hora": "",
+  "flyer": "flyers/badmoon-tour.jpg",
+  "direccion_display": "San Rafael de Heredia",
+  "region": "Heredia"
+ }
+]
