@@ -173,5 +173,29 @@
   "direccion": "Dirección sin confirmar",
   "estilo": "",
   "historial": []
+ },
+ {
+  "nombre": "Auditorio Vida Abundante",
+  "direccion": "La Uruca, San José",
+  "estilo": "",
+  "historial": []
+ },
+ {
+  "nombre": "Music Factory",
+  "direccion": "Los Yoses",
+  "estilo": "",
+  "historial": []
+ },
+ {
+  "nombre": "Centro de Eventos Pedregal",
+  "direccion": "Dirección sin confirmar",
+  "estilo": "",
+  "historial": []
+ },
+ {
+  "nombre": "Oasis",
+  "direccion": "San Pedro",
+  "estilo": "",
+  "historial": []
  }
 ]
