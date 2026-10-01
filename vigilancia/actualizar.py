@@ -7,6 +7,8 @@ Fusiona eventos nuevos en data/eventos.json:
   - elimina eventos con más de 45 días de pasados (fecha < hoy-45 en America/Costa_Rica)
   - ordena por fecha, hora, bar
   - agrega a data/locales.json los bares nuevos (con direccion del evento)
+  - genera data/app.json: paquete liviano para la app Android (próximos 60 días,
+    hora normalizada a "Por confirmar" si falta)
 
 Uso: actualizar.py [nuevos.json]
 donde nuevos.json es una lista de objetos evento con los mismos campos
@@ -94,6 +96,26 @@ def main() -> None:
                     logos[loc["nombre"]] = f"logos-bares/{f.name}"
                     break
     LOGOS_JSON.write_text(json.dumps(logos, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+
+    # data/app.json: paquete liviano para la app Android (solo próximos 60 días,
+    # hora normalizada). La app NO lee eventos.json ni locales.json directo.
+    lim_futuro = (datetime.now(ZoneInfo("America/Costa_Rica")) + timedelta(days=60)).strftime("%Y-%m-%d")
+    proximos = []
+    for e in vigentes:
+        f = str(e.get("fecha", ""))
+        if hoy <= f <= lim_futuro:
+            ev = dict(e)
+            ev["hora"] = e.get("hora") or "Por confirmar"
+            proximos.append(ev)
+    zonas = sorted({e.get("region", "") for e in proximos if e.get("region")})
+    app_data = {
+        "actualizado": datetime.now(ZoneInfo("America/Costa_Rica")).isoformat(timespec="seconds"),
+        "ventana_dias": 60,
+        "zonas": zonas,
+        "eventos": proximos,
+        "locales": locales,
+    }
+    (ROOT / "data" / "app.json").write_text(json.dumps(app_data, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
 
     print(json.dumps({
         "agregados": agregados,
