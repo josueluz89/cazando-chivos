@@ -83,7 +83,50 @@ class Meta(html.parser.HTMLParser):
 def abs_url(base, src):
     if not src or src.startswith("data:"):
         return None
-    return urllib.parse.urljoin(base, src.split("?")[0] if False else src)
+    return urllib.parse.urljoin(base, src)
+
+
+MESES = ("enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|setiembre|"
+         "octubre|noviembre|diciembre|jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec")
+DATE_RE = re.compile(rf"20\d{{2}}[-/]\d{{1,2}}[-/]\d{{1,2}}|\d{{1,2}}\s+de\s+(?:{MESES})|"
+                     rf"(?:{MESES})\s+\d{{1,2}}", re.I)
+STRIP_RE = re.compile(r"<!--.*?-->|<script\b.*?</script>|<style\b.*?</style>"
+                      r"|\s+data-[a-z-]+=\"[^\"]*\"|csrf|nonce|timestamp", re.I | re.S)
+
+
+class Text(html.parser.HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.parts = []
+
+    def handle_data(self, d):
+        d = d.strip()
+        if d:
+            self.parts.append(d)
+
+
+def signal_of(html, base):
+    """Huella solo de senales de evento: fechas + titulo + imagenes (sin scripts/ads)."""
+    clean = STRIP_RE.sub(" ", html[:500000])
+    p = Meta()
+    try:
+        p.feed(clean)
+    except Exception:
+        pass
+    t = Text()
+    try:
+        t.feed(clean)
+    except Exception:
+        pass
+    text = re.sub(r"\s+", " ", " ".join(t.parts).lower())
+    fechas = sorted(set(DATE_RE.findall(text)))
+    imgs = []
+    for cand in ([p.og_image] if p.og_image else []) + p.imgs:
+        u = abs_url(base, cand)
+        if u and u.startswith("http") and not SKIP_RE.search(u) and u not in imgs:
+            imgs.append(re.sub(r"\?.*$", "", u))
+    blob = "\n".join([(p.og_title or "").strip()] + fechas + sorted(imgs))
+    return hashlib.sha256(blob.encode("utf-8")).hexdigest(), p
 
 
 def main():
@@ -118,20 +161,17 @@ def main():
             continue
         if "html" not in ctype:
             continue
-        h = hashlib.sha256(data).hexdigest()
-        key = f"hash:{bar}"
-        if state.get(key) == h:
-            continue  # sin cambios
-        state[key] = h
         try:
             html = data.decode("utf-8", "replace")
         except Exception:
             html = ""
-        p = Meta()
-        try:
-            p.feed(html[:500000])
-        except Exception:
-            pass
+        sig, p = signal_of(html, url)
+        key = f"sig:{bar}"
+        if state.get(key) == sig:
+            continue  # sin cambios en senales de evento
+        state[key] = sig
+        # limpia hashes viejos de pagina completa para no arrastrar ruido
+        state.pop(f"hash:{bar}", None)
         item = {"bar": bar, "fuente": url, "tipo": "cambio_detectado",
                 "titulo": (p.og_title or "")[:150], "imagenes": []}
         urls = []

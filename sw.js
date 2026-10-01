@@ -1,5 +1,6 @@
-/* Cazador de Chivos SW v1: cache-first mismo origen, offline con última cartelera vista. */
-const CACHE = "chivos-v1";
+/* Cazador de Chivos SW v2: red-primero para paginas (nunca version vieja),
+   cache-primero para assets (flyers, iconos). Offline con ultima copia vista. */
+const CACHE = "chivos-v2";
 const CORE = ["./", "./index.html", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png"];
 
 self.addEventListener("install", (e) => {
@@ -17,6 +18,17 @@ self.addEventListener("activate", (e) => {
 self.addEventListener("fetch", (e) => {
   const u = new URL(e.request.url);
   if (e.request.method !== "GET" || u.origin !== self.location.origin) return;
+  const isPage = e.request.mode === "navigate" || /(^|\/)index\.html$/.test(u.pathname);
+  if (isPage) {
+    e.respondWith(
+      fetch(e.request).then((res) => {
+        const copy = res.clone();
+        caches.open(CACHE).then((c) => c.put(e.request, copy));
+        return res;
+      }).catch(() => caches.match(e.request))
+    );
+    return;
+  }
   e.respondWith(
     caches.match(e.request).then(
       (hit) => hit || fetch(e.request).then((res) => {
