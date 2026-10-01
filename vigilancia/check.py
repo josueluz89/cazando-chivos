@@ -23,6 +23,7 @@ BASE = os.path.dirname(os.path.abspath(__file__))
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) CazadorChivos-vigilancia/1.0"}
 TIMEOUT = 20
 MAX_IMG = 3 * 1024 * 1024
+MIN_IMG = 5 * 1024
 MAX_IMGS_RUN = 10
 SKIP_RE = re.compile(r"logo|icon|sprite|pixel|tracking|favicon|blank|placeholder", re.I)
 
@@ -148,7 +149,7 @@ def main():
             if len(img) > MAX_IMG:
                 continue
             ext = sniff(img[:16])
-            if not ext:
+            if not ext or len(img) < MIN_IMG:
                 continue
             if not dry:
                 os.makedirs(cand_dir, exist_ok=True)
