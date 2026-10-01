@@ -21,6 +21,8 @@ jobs:
           python-version: "3.12"
       - name: Revisar fuentes
         run: python vigilancia/check.py --run
+        env:
+          META_TOKEN: ${{ secrets.META_TOKEN }}
       - name: Guardar estado y candidatos
         run: |
           git config user.name "chivos-bot"

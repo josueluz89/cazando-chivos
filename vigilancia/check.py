@@ -146,6 +146,42 @@ def main():
 
     for entry in sources["bares"]:
         bar = entry["bar"]
+        try:
+            import meta as _meta
+            _tok = _meta.token()
+            _map = _meta.load_map(BASE)
+            if _tok and bar in _map and "page_id" in _map[bar]:
+                posts = _meta.page_posts(_map[bar]["page_id"], _tok)
+                known_ids = set(state.get(f"meta_ids:{bar}", []))
+                fresh = [x for x in posts if x.get("id") not in known_ids]
+                if fresh:
+                    state[f"meta_ids:{bar}"] = [x.get("id") for x in posts]
+                    if not dry:
+                        os.makedirs(cand_dir, exist_ok=True)
+                    item = {"bar": bar, "fuente": "facebook",
+                            "tipo": "posts_nuevos", "imagenes": []}
+                    for x in fresh[:5]:
+                        pic = x.get("full_picture")
+                        if pic and saved < MAX_IMGS_RUN:
+                            try:
+                                _, img = fetch(pic)
+                            except Exception:
+                                continue
+                            ext = sniff(img[:16])
+                            if ext and MIN_IMG <= len(img) <= MAX_IMG:
+                                if not dry:
+                                    name = f"{slug(bar)}-fb-{hashlib.sha256(img).hexdigest()[:8]}{ext}"
+                                    with open(os.path.join(cand_dir, name), "wb") as f:
+                                        f.write(img)
+                                    item["imagenes"].append(f"candidatos/{stamp}/{name}")
+                                else:
+                                    item["imagenes"].append(pic + " (dry-run)")
+                                saved += 1
+                    novedades.append(item)
+                    meta_hit = True
+        except Exception as e:
+            novedades.append({"bar": bar, "fuente": "facebook", "tipo": "meta_error",
+                              "detalle": f"{type(e).__name__}: {e}"[:200]})
         url = entry.get("web")
         if not url:
             if entry.get("facebook") or entry.get("instagram"):
