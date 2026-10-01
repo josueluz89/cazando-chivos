@@ -11,6 +11,17 @@
   "region": "San José"
  },
  {
+  "banda": "Homel Lewis",
+  "bar": "Casey's Bar & Restaurante",
+  "fecha": "2026-10-02",
+  "hora": "20:30",
+  "cover": "",
+  "flyer": "flyers/homel-lewis-caseys.jpg",
+  "fuente": "https://www.facebook.com/homel.lewis",
+  "direccion_display": "San Pedro de Poás, Alajuela",
+  "region": "Alajuela"
+ },
+ {
   "banda": "APOCALIPSIS 18: Servile Conceptions (USA), Colemesis, Arsenal, Golgota, Flesh Storm, Mortinox, Cloaca, Human Mass Extermination",
   "bar": "Pepper's Club",
   "fecha": "2026-10-03",
@@ -140,6 +151,17 @@
   "region": "San José"
  },
  {
+  "banda": "Homel Lewis",
+  "bar": "Bar Rock Reflexiones",
+  "fecha": "2026-10-09",
+  "hora": "20:00",
+  "cover": "2500 colones",
+  "flyer": "flyers/homel-lewis-reflexiones.jpg",
+  "fuente": "https://www.facebook.com/homel.lewis",
+  "direccion_display": "San Rafael de Heredia",
+  "region": "Heredia"
+ },
+ {
   "banda": "Chivo de Rock Up 2ª edición — Nuestras Voceras (covers con voces femeninas: Flyleaf, Epica, Nightwish, Halestorm...)",
   "bar": "Oasis",
   "direccion": "San Pedro",
@@ -169,6 +191,17 @@
   "flyer": "flyers/diesel-jazzcafe.jpg",
   "nota": "16 y 17 de octubre",
   "direccion_display": "Paralela a la Autopista Próspero Fernández, Escazú",
+  "region": "San José"
+ },
+ {
+  "banda": "Homel Lewis Duoband",
+  "bar": "Art Fest Urbano",
+  "fecha": "2026-10-17",
+  "hora": "16:00",
+  "cover": "",
+  "flyer": "flyers/homel-lewis-duoband-artfest.jpg",
+  "fuente": "https://www.facebook.com/homel.lewis",
+  "direccion_display": "Curridabat, San José",
   "region": "San José"
  },
  {

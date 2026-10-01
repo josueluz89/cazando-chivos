@@ -228,5 +228,26 @@
   "estilo": "Bar metal, música en vivo",
   "historial": [],
   "telefono": ""
+ },
+ {
+  "nombre": "Casey's Bar & Restaurante",
+  "direccion": "San Pedro de Poás, Alajuela",
+  "estilo": "",
+  "telefono": "",
+  "historial": []
+ },
+ {
+  "nombre": "Bar Rock Reflexiones",
+  "direccion": "San Rafael de Heredia",
+  "estilo": "",
+  "telefono": "88141791",
+  "historial": []
+ },
+ {
+  "nombre": "Art Fest Urbano",
+  "direccion": "Curridabat, San José",
+  "estilo": "",
+  "telefono": "",
+  "historial": []
  }
 ]

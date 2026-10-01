@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-01T01:48:03-06:00",
+ "actualizado": "2026-10-01T02:35:58-06:00",
  "ventana_dias": 60,
  "zonas": [
   "Alajuela",
@@ -18,6 +18,17 @@
    "fuente": "https://www.facebook.com/events/1439063837811230/",
    "direccion_display": "La Uruca, San José",
    "region": "San José"
+  },
+  {
+   "banda": "Homel Lewis",
+   "bar": "Casey's Bar & Restaurante",
+   "fecha": "2026-10-02",
+   "hora": "20:30",
+   "cover": "",
+   "flyer": "flyers/homel-lewis-caseys.jpg",
+   "fuente": "https://www.facebook.com/homel.lewis",
+   "direccion_display": "San Pedro de Poás, Alajuela",
+   "region": "Alajuela"
   },
   {
    "banda": "APOCALIPSIS 18: Servile Conceptions (USA), Colemesis, Arsenal, Golgota, Flesh Storm, Mortinox, Cloaca, Human Mass Extermination",
@@ -149,6 +160,17 @@
    "region": "San José"
   },
   {
+   "banda": "Homel Lewis",
+   "bar": "Bar Rock Reflexiones",
+   "fecha": "2026-10-09",
+   "hora": "20:00",
+   "cover": "2500 colones",
+   "flyer": "flyers/homel-lewis-reflexiones.jpg",
+   "fuente": "https://www.facebook.com/homel.lewis",
+   "direccion_display": "San Rafael de Heredia",
+   "region": "Heredia"
+  },
+  {
    "banda": "Chivo de Rock Up 2ª edición — Nuestras Voceras (covers con voces femeninas: Flyleaf, Epica, Nightwish, Halestorm...)",
    "bar": "Oasis",
    "direccion": "San Pedro",
@@ -178,6 +200,17 @@
    "flyer": "flyers/diesel-jazzcafe.jpg",
    "nota": "16 y 17 de octubre",
    "direccion_display": "Paralela a la Autopista Próspero Fernández, Escazú",
+   "region": "San José"
+  },
+  {
+   "banda": "Homel Lewis Duoband",
+   "bar": "Art Fest Urbano",
+   "fecha": "2026-10-17",
+   "hora": "16:00",
+   "cover": "",
+   "flyer": "flyers/homel-lewis-duoband-artfest.jpg",
+   "fuente": "https://www.facebook.com/homel.lewis",
+   "direccion_display": "Curridabat, San José",
    "region": "San José"
   },
   {
@@ -471,6 +504,27 @@
    "estilo": "Bar metal, música en vivo",
    "historial": [],
    "telefono": ""
+  },
+  {
+   "nombre": "Casey's Bar & Restaurante",
+   "direccion": "San Pedro de Poás, Alajuela",
+   "estilo": "",
+   "telefono": "",
+   "historial": []
+  },
+  {
+   "nombre": "Bar Rock Reflexiones",
+   "direccion": "San Rafael de Heredia",
+   "estilo": "",
+   "telefono": "88141791",
+   "historial": []
+  },
+  {
+   "nombre": "Art Fest Urbano",
+   "direccion": "Curridabat, San José",
+   "estilo": "",
+   "telefono": "",
+   "historial": []
   }
  ]
 }
