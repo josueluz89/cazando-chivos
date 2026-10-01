@@ -1,0 +1,24 @@
+{
+  "stamp": "manual-20260930-2037",
+  "origen": "Búsqueda manual con facebook-cli (cuenta de Josué), 30 sep 2026 ~8:35pm",
+  "rango": "2026-10-01 a 2026-11-15, Heredia + San José",
+  "nota": "Candidatos pendientes de aprobación. No se publican solos (regla: Mike aprueba).",
+  "candidatos": [
+    {
+      "nombre": "Tributo a Creed & Chevelle – Noche de Rock Alternativo",
+      "fecha": "2026-10-02",
+      "hora": "19:00",
+      "lugar": "Auditorio Vida Abundante, La Uruca",
+      "url": "https://www.facebook.com/events/1439063837811230/",
+      "detalle": "Evento cristiano (Metal y Fe), entrada gratuita. Rock en vivo sí, pero no es bar: queda a criterio."
+    },
+    {
+      "nombre": "Rawhead en concierto – White Metal (covers)",
+      "fecha": "2026-11-06",
+      "hora": "por confirmar",
+      "lugar": "Auditorio Vida Abundante, La Uruca",
+      "url": "https://www.facebook.com/events/1539369150695684/",
+      "detalle": "White metal (cristiano), covers. Mismo recinto que el anterior: queda a criterio."
+    }
+  ]
+}
