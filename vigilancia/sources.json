@@ -3,28 +3,143 @@
   "frecuencia": "2 veces por dia (9am y 6pm CR)",
   "nota": "Fuentes web abiertas. Facebook/Instagram directos se marcan pendiente: bloquean scraping sin token Meta. Esos se revisan manual o por WhatsApp al bar.",
   "bares": [
-    {"bar": "Bar Reflexiones", "web": null, "facebook": null, "instagram": null},
-    {"bar": "Bar Legendario", "web": null, "facebook": null, "instagram": null},
-    {"bar": "Bar Alcatraz", "web": null, "facebook": null, "instagram": null},
-    {"bar": "Bar Retro", "web": null, "facebook": null, "instagram": null},
-    {"bar": "Mini Taberna", "web": null, "facebook": null, "instagram": null},
-    {"bar": "Casa Azul", "web": null, "facebook": null, "instagram": null},
-    {"bar": "MundoLoco El Chante", "web": null, "facebook": null, "instagram": null},
-    {"bar": "Pepper's Club", "web": "https://pepperclub.bar", "facebook": null, "instagram": null},
-    {"bar": "Amon Solar", "web": "https://amonsolar.com", "facebook": null, "instagram": null},
-    {"bar": "Yellow Submarine Bar", "web": null, "facebook": null, "instagram": null},
-    {"bar": "Mercadito La California", "web": "https://starticket.cr", "facebook": null, "instagram": null},
-    {"bar": "Jazz Café", "web": null, "facebook": null, "instagram": null},
-    {"bar": "Bar Chamuco", "web": null, "facebook": null, "instagram": null},
-    {"bar": "El Muro ArtPub & Comedy Club", "web": null, "facebook": null, "instagram": null},
-    {"bar": "Anfiteatro Imperial (Parque Viva)", "web": "https://www.eticket.cr", "facebook": null, "instagram": null},
-    {"bar": "Casa Jimmy", "web": null, "facebook": null, "instagram": null},
-    {"bar": "Mangisfera", "web": null, "facebook": null, "instagram": null},
-    {"bar": "Campo Verde", "web": null, "facebook": null, "instagram": null},
-    {"bar": "Cheers Cantina", "web": null, "facebook": null, "instagram": null},
-    {"bar": "Al Son del Fuego", "web": null, "facebook": null, "instagram": null},
-    {"bar": "Music Factory", "web": "https://musicfactorycr.com", "facebook": null, "instagram": null},
-    {"bar": "Oasis", "web": null, "facebook": null, "instagram": null},
-    {"bar": "Centro de Eventos Pedregal", "web": null, "facebook": null, "instagram": null}
+    {
+      "bar": "Bar Reflexiones",
+      "web": null,
+      "facebook": null,
+      "instagram": null
+    },
+    {
+      "bar": "Bar Legendario",
+      "web": null,
+      "facebook": null,
+      "instagram": null
+    },
+    {
+      "bar": "Bar Alcatraz",
+      "web": null,
+      "facebook": "https://www.facebook.com/BarAlca",
+      "instagram": null
+    },
+    {
+      "bar": "Bar Retro",
+      "web": null,
+      "facebook": null,
+      "instagram": null
+    },
+    {
+      "bar": "Mini Taberna",
+      "web": null,
+      "facebook": null,
+      "instagram": null
+    },
+    {
+      "bar": "Casa Azul",
+      "web": null,
+      "facebook": null,
+      "instagram": null
+    },
+    {
+      "bar": "MundoLoco El Chante",
+      "web": null,
+      "facebook": null,
+      "instagram": null
+    },
+    {
+      "bar": "Pepper's Club",
+      "web": "https://pepperclub.bar",
+      "facebook": null,
+      "instagram": null
+    },
+    {
+      "bar": "Amon Solar",
+      "web": "https://amonsolar.com",
+      "facebook": null,
+      "instagram": null
+    },
+    {
+      "bar": "Yellow Submarine Bar",
+      "web": null,
+      "facebook": "https://www.facebook.com/207867532581140",
+      "instagram": null
+    },
+    {
+      "bar": "Mercadito La California",
+      "web": "https://starticket.cr",
+      "facebook": "https://www.facebook.com/MercadoLaCalifornia",
+      "instagram": null
+    },
+    {
+      "bar": "Jazz Café",
+      "web": null,
+      "facebook": null,
+      "instagram": null
+    },
+    {
+      "bar": "Bar Chamuco",
+      "web": null,
+      "facebook": null,
+      "instagram": null
+    },
+    {
+      "bar": "El Muro ArtPub & Comedy Club",
+      "web": null,
+      "facebook": "https://www.facebook.com/elmuroartpub",
+      "instagram": null
+    },
+    {
+      "bar": "Anfiteatro Imperial (Parque Viva)",
+      "web": "https://www.eticket.cr",
+      "facebook": null,
+      "instagram": null
+    },
+    {
+      "bar": "Casa Jimmy",
+      "web": null,
+      "facebook": null,
+      "instagram": null
+    },
+    {
+      "bar": "Mangisfera",
+      "web": null,
+      "facebook": null,
+      "instagram": null
+    },
+    {
+      "bar": "Campo Verde",
+      "web": null,
+      "facebook": "https://www.facebook.com/barrestaurantecampoverde/",
+      "instagram": null
+    },
+    {
+      "bar": "Cheers Cantina",
+      "web": null,
+      "facebook": "https://www.facebook.com/331851266682223",
+      "instagram": null
+    },
+    {
+      "bar": "Al Son del Fuego",
+      "web": null,
+      "facebook": null,
+      "instagram": null
+    },
+    {
+      "bar": "Music Factory",
+      "web": "https://musicfactorycr.com",
+      "facebook": null,
+      "instagram": null
+    },
+    {
+      "bar": "Oasis",
+      "web": null,
+      "facebook": null,
+      "instagram": null
+    },
+    {
+      "bar": "Centro de Eventos Pedregal",
+      "web": null,
+      "facebook": null,
+      "instagram": null
+    }
   ]
 }

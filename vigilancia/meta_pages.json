@@ -1,4 +1,10 @@
 {
   "_nota": "Page ID de Facebook por bar. Se llena cuando cada bar autoriza la app (ver docs/token-meta.md). Sin esto, esa fuente se omite.",
-  "ejemplo": {"page_id": "1234567890"}
+  "Yellow Submarine Bar": {
+    "page_id": "207867532581140"
+  },
+  "Cheers Cantina": {
+    "page_id": "331851266682223"
+  },
+  "_nota2": "Vanity URLs pendientes de resolver a page_id (con META_TOKEN: /{vanity}?fields=id): BarAlca, MercadoLaCalifornia, elmuroartpub, barrestaurantecampoverde"
 }
