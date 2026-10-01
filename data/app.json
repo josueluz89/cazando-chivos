@@ -1,0 +1,451 @@
+{
+ "actualizado": "2026-10-01T01:48:03-06:00",
+ "ventana_dias": 60,
+ "zonas": [
+  "Alajuela",
+  "Cartago",
+  "Heredia",
+  "San José"
+ ],
+ "eventos": [
+  {
+   "banda": "Tributo a Creed & Chevelle — Noche de Rock Alternativo (Metal y Fe)",
+   "bar": "Auditorio Vida Abundante",
+   "fecha": "2026-10-02",
+   "hora": "19:00",
+   "cover": "Gratis",
+   "flyer": "",
+   "fuente": "https://www.facebook.com/events/1439063837811230/",
+   "direccion_display": "La Uruca, San José",
+   "region": "San José"
+  },
+  {
+   "banda": "APOCALIPSIS 18: Servile Conceptions (USA), Colemesis, Arsenal, Golgota, Flesh Storm, Mortinox, Cloaca, Human Mass Extermination",
+   "bar": "Pepper's Club",
+   "fecha": "2026-10-03",
+   "hora": "16:00",
+   "cover": "Preventa ₡5500 | Puerta ₡6000",
+   "flyer": "",
+   "fuente": "https://www.facebook.com/events/1538599417830508/",
+   "direccion_display": "Av. 34, Calle 61-63, Zapote, San José",
+   "region": "San José"
+  },
+  {
+   "banda": "Rotten Souls + Belial Horde + Suppressor + Enfleshed",
+   "bar": "Amon Solar",
+   "fecha": "2026-10-03",
+   "hora": "18:30",
+   "cover": "₡5000",
+   "flyer": "",
+   "direccion_display": "Calle 3, Av 9-11, Barrio Amón, San José",
+   "region": "San José"
+  },
+  {
+   "banda": "Flashback — Classics Rock Show",
+   "bar": "Bar Chamuco",
+   "fecha": "2026-10-03",
+   "hora": "20:00",
+   "cover": "₡2000",
+   "entradas": "Info: 88739070",
+   "flyer": "flyers/flashback-chamuco.jpg",
+   "direccion_display": "Cartago, frente al antiguo Hogares Crea",
+   "region": "Cartago"
+  },
+  {
+   "banda": "Wrathchilds (tributo a Iron Maiden) — Flight 666",
+   "bar": "Bar Legendario",
+   "cover": "Preventa ₡7000 | Día del evento ₡10000",
+   "entradas": "6046-1040 (José Mario Delgado)",
+   "fecha": "2026-10-03",
+   "flyer": "flyers/wrathchilds-legendario.jpg",
+   "hora": "20:00",
+   "direccion_display": "Calle 4, de Correos 100 m oeste y 125 m sur, Heredia (Yesterday Classic Rock Bar, mismo local)",
+   "region": "Heredia"
+  },
+  {
+   "banda": "Zona Púrpura (clásicos en inglés) + Error Óptico (clásicos en español)",
+   "bar": "Music Factory",
+   "cover": "Preventa ₡6000 | Día del evento ₡8000",
+   "direccion": "Los Yoses",
+   "fecha": "2026-10-03",
+   "flyer": "flyers/rock-dos-idiomas-musicfactory.jpg",
+   "hora": "20:00",
+   "info": "8340-0950 / musicfactorycr.com",
+   "direccion_display": "Los Yoses",
+   "region": "San José"
+  },
+  {
+   "banda": "MarAdentro (tributo a Héroes del Silencio)",
+   "bar": "El Muro ArtPub & Comedy Club",
+   "fecha": "2026-10-03",
+   "hora": "21:00",
+   "cover": "Preventa ₡7000 | Día del evento ₡9000",
+   "entradas": "Sinpe: 8332-8255",
+   "flyer": "flyers/maradentro-elmuro.jpg",
+   "direccion_display": "50 m norte del Parque Morazán, Barrio Amón, San José",
+   "region": "San José"
+  },
+  {
+   "banda": "Iron Fist (Alcatraz Tattoo Riot — flash day de tatuajes)",
+   "bar": "Bar Alcatraz",
+   "cover": "",
+   "fecha": "2026-10-03",
+   "flyer": "flyers/tattoo-riot-alcatraz.jpg",
+   "hora": "Por confirmar",
+   "direccion_display": "Av. 1 / Calle 5, Heredia",
+   "region": "Heredia"
+  },
+  {
+   "banda": "Bad Moon (tributo a Creedence Clearwater Revival)",
+   "bar": "Casa Jimmy",
+   "fecha": "2026-10-03",
+   "hora": "Por confirmar",
+   "flyer": "flyers/badmoon-tour.jpg",
+   "direccion_display": "Santa Ana",
+   "region": "San José"
+  },
+  {
+   "banda": "Diesel Rock CR en Oktober Costa Rica",
+   "bar": "Centro de Eventos Pedregal",
+   "fecha": "2026-10-03",
+   "fecha_fin": "2026-10-04",
+   "hora": "Por confirmar",
+   "cover": "",
+   "flyer": "flyers/diesel-oktober-pedregal.jpg",
+   "direccion_display": "",
+   "region": "Heredia"
+  },
+  {
+   "banda": "Emo for the Broken Hearts (noche emo/rock tributo)",
+   "bar": "Yellow Submarine Bar",
+   "fecha": "2026-10-03",
+   "hora": "Por confirmar",
+   "cover": "Reservas WhatsApp 8342-9214",
+   "flyer": "",
+   "direccion_display": "C.C. Plaza Los Colegios, Av 65, Moravia",
+   "region": "San José"
+  },
+  {
+   "banda": "A Flock of Seagulls + Sisterboi",
+   "bar": "Mercadito La California",
+   "fecha": "2026-10-04",
+   "hora": "19:00",
+   "cover": "Entradas en TICKZ.CR",
+   "flyer": "",
+   "direccion_display": "Calle 21, Av 0-1, Barrio La California, San José",
+   "region": "San José"
+  },
+  {
+   "banda": "Espinoza — Rock Argentino Íntimo (voz y guitarra: Fito, Charly García, Spinetta, Cerati, Soda Stereo, Enanitos Verdes)",
+   "bar": "MundoLoco El Chante",
+   "fecha": "2026-10-06",
+   "hora": "20:00",
+   "cover": "₡2500",
+   "entradas": "Sinpe: 64876641",
+   "flyer": "flyers/espinoza-mundoloco.jpg",
+   "formato": "solista",
+   "rama": "chivo_en_solista",
+   "direccion_display": "San Pedro",
+   "region": "San José"
+  },
+  {
+   "banda": "Chivo de Rock Up 2ª edición — Nuestras Voceras (covers con voces femeninas: Flyleaf, Epica, Nightwish, Halestorm...)",
+   "bar": "Oasis",
+   "direccion": "San Pedro",
+   "fecha": "2026-10-09",
+   "hora": "20:00",
+   "cover": "₡7000",
+   "flyer": "flyers/rockup-oasis.jpg",
+   "entradas": "Tiquete Box",
+   "direccion_display": "San Pedro",
+   "region": "San José"
+  },
+  {
+   "banda": "No Fun At All + Authority Zero (Latin America Tour 2026)",
+   "bar": "Amon Solar",
+   "fecha": "2026-10-09",
+   "hora": "Por confirmar",
+   "flyer": "flyers/nofunatall-amonsolar.jpg",
+   "direccion_display": "Calle 3, Av 9-11, Barrio Amón, San José",
+   "region": "San José"
+  },
+  {
+   "banda": "Diesel & D'Classics: Lo mejor de Rock & Pop (tributos: Guns N' Roses, Metallica, Nirvana, Queen, AC/DC, Kiss y más)",
+   "bar": "Jazz Café",
+   "fecha": "2026-10-16",
+   "hora": "Por confirmar",
+   "cover": "Info entradas: 8325-1957 / 8830-1591",
+   "flyer": "flyers/diesel-jazzcafe.jpg",
+   "nota": "16 y 17 de octubre",
+   "direccion_display": "Paralela a la Autopista Próspero Fernández, Escazú",
+   "region": "San José"
+  },
+  {
+   "banda": "Bad Moon (tributo a Creedence Clearwater Revival)",
+   "bar": "Mangisfera",
+   "fecha": "2026-10-24",
+   "hora": "Por confirmar",
+   "flyer": "flyers/badmoon-tour.jpg",
+   "direccion_display": "Grecia",
+   "region": "Alajuela"
+  },
+  {
+   "banda": "Def Leppard + Extreme (Live 2026)",
+   "bar": "Anfiteatro Imperial (Parque Viva)",
+   "fecha": "2026-10-27",
+   "hora": "18:00",
+   "entradas": "eticket",
+   "flyer": "flyers/defleppard-parqueviva.jpg",
+   "direccion_display": "Parque Viva, La Guácima, Alajuela",
+   "region": "Alajuela"
+  },
+  {
+   "banda": "Halloween Party — evento musical en vivo + concurso de disfraces",
+   "bar": "Bar Reflexiones",
+   "cover": "₡3000",
+   "fecha": "2026-10-31",
+   "flyer": "flyers/halloween-reflexiones.jpg",
+   "hora": "20:00",
+   "reservas": "8814-1791",
+   "direccion_display": "San Rafael de Heredia",
+   "region": "Heredia"
+  },
+  {
+   "banda": "Bad Moon (tributo a Creedence Clearwater Revival)",
+   "bar": "Campo Verde",
+   "fecha": "2026-10-31",
+   "hora": "Por confirmar",
+   "flyer": "flyers/badmoon-tour.jpg",
+   "direccion_display": "Atenas",
+   "region": "Alajuela"
+  },
+  {
+   "banda": "Rawhead en concierto — White Metal (covers)",
+   "bar": "Auditorio Vida Abundante",
+   "fecha": "2026-11-06",
+   "hora": "19:00",
+   "cover": "Gratis",
+   "flyer": "",
+   "direccion_display": "50 metros sur de La KIA, La Uruca",
+   "region": "San José",
+   "fuente": "https://www.facebook.com/events/1539369150695684/",
+   "nota": "Metal y Fe presenta. Entrada gratuita."
+  },
+  {
+   "banda": "Bad Moon (tributo a Creedence Clearwater Revival)",
+   "bar": "Bar Reflexiones",
+   "fecha": "2026-11-28",
+   "hora": "Por confirmar",
+   "flyer": "flyers/badmoon-tour.jpg",
+   "direccion_display": "San Rafael de Heredia",
+   "region": "Heredia"
+  }
+ ],
+ "locales": [
+  {
+   "nombre": "Amon Solar",
+   "direccion": "Calle 3, Av 9-11, Barrio Amón, San José",
+   "estilo": "Bar / centro cultural, música en vivo",
+   "historial": [
+    "Rotten Souls",
+    "Belial Horde",
+    "Suppressor",
+    "Enfleshed"
+   ]
+  },
+  {
+   "nombre": "Bar Alcatraz",
+   "direccion": "Av. 1 / Calle 5, Heredia",
+   "estilo": "Rock / alternativo, eventos de tatuajes",
+   "historial": [
+    "Iron Fist"
+   ]
+  },
+  {
+   "nombre": "Bar Chamuco",
+   "direccion": "Cartago, frente al antiguo Hogares Crea",
+   "estilo": "Bar rock, classics rock show",
+   "historial": [
+    "Flashback"
+   ]
+  },
+  {
+   "nombre": "Bar Legendario",
+   "direccion": "Calle 4, de Correos 100 m oeste y 125 m sur, Heredia (Yesterday Classic Rock Bar, mismo local)",
+   "estilo": "Rock y metal, tributos",
+   "historial": [
+    "Wrathchilds (tributo Iron Maiden)",
+    "Vacíos Cuerpos (México, darkwave/post-punk — 29 may 2026)"
+   ]
+  },
+  {
+   "nombre": "Casa Jimmy",
+   "direccion": "Santa Ana",
+   "estilo": "Bar, tributos de rock",
+   "historial": [
+    "Bad Moon (tributo Creedence)"
+   ]
+  },
+  {
+   "nombre": "El Muro ArtPub & Comedy Club",
+   "direccion": "50 m norte del Parque Morazán, Barrio Amón, San José",
+   "estilo": "Art pub, tributos de rock",
+   "historial": [
+    "MarAdentro (tributo Héroes del Silencio)"
+   ]
+  },
+  {
+   "nombre": "Pepper's Club",
+   "direccion": "Av. 34, Calle 61-63, Zapote, San José",
+   "estilo": "Live music venue: conciertos nacionales e internacionales",
+   "historial": [
+    "Servile Conceptions (USA)",
+    "Colemesis",
+    "Arsenal",
+    "Golgota"
+   ]
+  },
+  {
+   "nombre": "Yellow Submarine Bar",
+   "direccion": "C.C. Plaza Los Colegios, Av 65, Moravia",
+   "estilo": "Bar rock, tributos en vivo",
+   "historial": [
+    "Las Tortugas (tributos Pink Floyd, The Doors, Creedence)"
+   ]
+  },
+  {
+   "nombre": "Mercadito La California",
+   "direccion": "Calle 21, Av 0-1, Barrio La California, San José",
+   "estilo": "Mercado urbano, conciertos de rock",
+   "historial": [
+    "Gandhi",
+    "Magpie Jay",
+    "A Flock of Seagulls"
+   ]
+  },
+  {
+   "nombre": "MundoLoco El Chante",
+   "direccion": "San Pedro",
+   "estilo": "Rock en vivo",
+   "historial": [
+    "Tiempos del Lucero",
+    "Perrozompopo",
+    "Corpse Garden",
+    "Seka"
+   ]
+  },
+  {
+   "nombre": "Jazz Café",
+   "direccion": "Paralela a la Autopista Próspero Fernández, Escazú",
+   "estilo": "Café-concierto, tributos de rock y pop",
+   "historial": [
+    "Diesel",
+    "D'Classics"
+   ]
+  },
+  {
+   "nombre": "Mangisfera",
+   "direccion": "Grecia",
+   "estilo": "Bar, tributos de rock",
+   "historial": [
+    "Bad Moon (tributo Creedence)"
+   ]
+  },
+  {
+   "nombre": "Anfiteatro Imperial (Parque Viva)",
+   "direccion": "Parque Viva, La Guácima, Alajuela",
+   "estilo": "Anfiteatro, conciertos internacionales",
+   "historial": [
+    "Def Leppard",
+    "Extreme"
+   ]
+  },
+  {
+   "nombre": "Bar Reflexiones",
+   "direccion": "San Rafael de Heredia",
+   "estilo": "Rock clásico, tributos y música original",
+   "historial": [
+    "Black Cat Project (tributo Red Hot Chili Peppers)",
+    "Cannibals Band (rock clásico: Led Zeppelin, Heart, Blondie)",
+    "Rades Band (tributo Iron Maiden)",
+    "Nancy Garita (Fleetwood Mac, ABBA)",
+    "Perfect Strangers",
+    "Homel L.",
+    "Supersticion",
+    "The Regent Noir",
+    "MAMUT (rock clásico: Jethro Tull, Def Leppard, AC/DC, Pink Floyd — 2 mar 2019)",
+    "Easy Rider (ene 2020)"
+   ]
+  },
+  {
+   "nombre": "Campo Verde",
+   "direccion": "Atenas",
+   "estilo": "Bar, tributos de rock",
+   "historial": [
+    "Bad Moon (tributo Creedence)"
+   ]
+  },
+  {
+   "nombre": "Al Son del Fuego",
+   "direccion": "Detrás de la iglesia del parque central, Heredia",
+   "estilo": "Restaurante/bar, música en vivo: rock español/inglés, trova, reggae",
+   "historial": [
+    "Milton Abarca"
+   ]
+  },
+  {
+   "nombre": "Bar Retro",
+   "direccion": "Dirección sin confirmar",
+   "estilo": "",
+   "historial": []
+  },
+  {
+   "nombre": "Casa Azul",
+   "direccion": "Dirección sin confirmar",
+   "estilo": "",
+   "historial": []
+  },
+  {
+   "nombre": "Cheers Cantina",
+   "direccion": "Plaza Real Cariari, Local #1, Heredia",
+   "estilo": "Cantina, música en vivo los viernes",
+   "historial": []
+  },
+  {
+   "nombre": "Mini Taberna",
+   "direccion": "Dirección sin confirmar",
+   "estilo": "",
+   "historial": []
+  },
+  {
+   "nombre": "Auditorio Vida Abundante",
+   "direccion": "La Uruca, San José",
+   "estilo": "",
+   "historial": []
+  },
+  {
+   "nombre": "Music Factory",
+   "direccion": "Los Yoses",
+   "estilo": "",
+   "historial": []
+  },
+  {
+   "nombre": "Centro de Eventos Pedregal",
+   "direccion": "Dirección sin confirmar",
+   "estilo": "",
+   "historial": []
+  },
+  {
+   "nombre": "Oasis",
+   "direccion": "San Pedro",
+   "estilo": "",
+   "historial": []
+  },
+  {
+   "nombre": "Butts Bar",
+   "direccion": "",
+   "estilo": "Bar metal, música en vivo",
+   "historial": []
+  }
+ ]
+}
