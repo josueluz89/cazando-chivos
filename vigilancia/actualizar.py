@@ -81,6 +81,7 @@ def main() -> None:
                 "nombre": e["bar"],
                 "direccion": e.get("direccion_display") or "Dirección sin confirmar",
                 "estilo": "",
+                "telefono": "",
                 "historial": [],
             })
     LOCALES.write_text(json.dumps(locales, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")

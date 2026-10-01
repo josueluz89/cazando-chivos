@@ -251,7 +251,8 @@
     "Belial Horde",
     "Suppressor",
     "Enfleshed"
-   ]
+   ],
+   "telefono": ""
   },
   {
    "nombre": "Bar Alcatraz",
@@ -259,7 +260,8 @@
    "estilo": "Rock / alternativo, eventos de tatuajes",
    "historial": [
     "Iron Fist"
-   ]
+   ],
+   "telefono": "83503333"
   },
   {
    "nombre": "Bar Chamuco",
@@ -267,7 +269,8 @@
    "estilo": "Bar rock, classics rock show",
    "historial": [
     "Flashback"
-   ]
+   ],
+   "telefono": ""
   },
   {
    "nombre": "Bar Legendario",
@@ -276,7 +279,8 @@
    "historial": [
     "Wrathchilds (tributo Iron Maiden)",
     "Vacíos Cuerpos (México, darkwave/post-punk — 29 may 2026)"
-   ]
+   ],
+   "telefono": ""
   },
   {
    "nombre": "Casa Jimmy",
@@ -284,7 +288,8 @@
    "estilo": "Bar, tributos de rock",
    "historial": [
     "Bad Moon (tributo Creedence)"
-   ]
+   ],
+   "telefono": ""
   },
   {
    "nombre": "El Muro ArtPub & Comedy Club",
@@ -292,7 +297,8 @@
    "estilo": "Art pub, tributos de rock",
    "historial": [
     "MarAdentro (tributo Héroes del Silencio)"
-   ]
+   ],
+   "telefono": ""
   },
   {
    "nombre": "Pepper's Club",
@@ -303,7 +309,8 @@
     "Colemesis",
     "Arsenal",
     "Golgota"
-   ]
+   ],
+   "telefono": "63299999"
   },
   {
    "nombre": "Yellow Submarine Bar",
@@ -311,7 +318,8 @@
    "estilo": "Bar rock, tributos en vivo",
    "historial": [
     "Las Tortugas (tributos Pink Floyd, The Doors, Creedence)"
-   ]
+   ],
+   "telefono": ""
   },
   {
    "nombre": "Mercadito La California",
@@ -321,7 +329,8 @@
     "Gandhi",
     "Magpie Jay",
     "A Flock of Seagulls"
-   ]
+   ],
+   "telefono": ""
   },
   {
    "nombre": "MundoLoco El Chante",
@@ -332,7 +341,8 @@
     "Perrozompopo",
     "Corpse Garden",
     "Seka"
-   ]
+   ],
+   "telefono": ""
   },
   {
    "nombre": "Jazz Café",
@@ -341,7 +351,8 @@
    "historial": [
     "Diesel",
     "D'Classics"
-   ]
+   ],
+   "telefono": "22538933"
   },
   {
    "nombre": "Mangisfera",
@@ -349,7 +360,8 @@
    "estilo": "Bar, tributos de rock",
    "historial": [
     "Bad Moon (tributo Creedence)"
-   ]
+   ],
+   "telefono": ""
   },
   {
    "nombre": "Anfiteatro Imperial (Parque Viva)",
@@ -358,7 +370,8 @@
    "historial": [
     "Def Leppard",
     "Extreme"
-   ]
+   ],
+   "telefono": ""
   },
   {
    "nombre": "Bar Reflexiones",
@@ -375,7 +388,8 @@
     "The Regent Noir",
     "MAMUT (rock clásico: Jethro Tull, Def Leppard, AC/DC, Pink Floyd — 2 mar 2019)",
     "Easy Rider (ene 2020)"
-   ]
+   ],
+   "telefono": ""
   },
   {
    "nombre": "Campo Verde",
@@ -383,7 +397,8 @@
    "estilo": "Bar, tributos de rock",
    "historial": [
     "Bad Moon (tributo Creedence)"
-   ]
+   ],
+   "telefono": ""
   },
   {
    "nombre": "Al Son del Fuego",
@@ -391,61 +406,71 @@
    "estilo": "Restaurante/bar, música en vivo: rock español/inglés, trova, reggae",
    "historial": [
     "Milton Abarca"
-   ]
+   ],
+   "telefono": ""
   },
   {
    "nombre": "Bar Retro",
    "direccion": "Dirección sin confirmar",
    "estilo": "",
-   "historial": []
+   "historial": [],
+   "telefono": ""
   },
   {
    "nombre": "Casa Azul",
    "direccion": "Dirección sin confirmar",
    "estilo": "",
-   "historial": []
+   "historial": [],
+   "telefono": ""
   },
   {
    "nombre": "Cheers Cantina",
    "direccion": "Plaza Real Cariari, Local #1, Heredia",
    "estilo": "Cantina, música en vivo los viernes",
-   "historial": []
+   "historial": [],
+   "telefono": ""
   },
   {
    "nombre": "Mini Taberna",
    "direccion": "Dirección sin confirmar",
    "estilo": "",
-   "historial": []
+   "historial": [],
+   "telefono": ""
   },
   {
    "nombre": "Auditorio Vida Abundante",
    "direccion": "La Uruca, San José",
    "estilo": "",
-   "historial": []
+   "historial": [],
+   "telefono": ""
   },
   {
    "nombre": "Music Factory",
    "direccion": "Los Yoses",
    "estilo": "",
-   "historial": []
+   "historial": [],
+   "telefono": ""
   },
   {
    "nombre": "Centro de Eventos Pedregal",
    "direccion": "Dirección sin confirmar",
    "estilo": "",
-   "historial": []
+   "historial": [],
+   "telefono": ""
   },
   {
    "nombre": "Oasis",
    "direccion": "San Pedro",
    "estilo": "",
-   "historial": []
+   "historial": [],
+   "telefono": ""
   },
   {
    "nombre": "Butts Bar",
    "direccion": "",
    "estilo": "Bar metal, música en vivo",
-   "historial": []
+   "historial": [],
+   "telefono": ""
   }
  ]
 }
