@@ -1,6 +1,6 @@
-# Vigilancia 20261002-0521 (2x/dia)
+# Vigilancia 20261002-1946 (2x/dia)
 
-Novedades: 3 | Fuentes pendientes: 19
+Novedades: 4 | Fuentes pendientes: 19
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
 
 ## Pepper's Club
@@ -13,13 +13,20 @@ Novedades: 3 | Fuentes pendientes: 19
 
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261002-0521/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
-  - Imagen original: candidatos/20261002-0521/anfiteatro-imperial-parque-viva-0b5a7dcd.jpg
-  - Imagen original: candidatos/20261002-0521/anfiteatro-imperial-parque-viva-a86e3305.jpg
-  - Imagen original: candidatos/20261002-0521/anfiteatro-imperial-parque-viva-3ee8268f.jpg
-  - Imagen original: candidatos/20261002-0521/anfiteatro-imperial-parque-viva-710646b9.jpg
-  - Imagen original: candidatos/20261002-0521/anfiteatro-imperial-parque-viva-b338d3a4.jpg
-  - Imagen original: candidatos/20261002-0521/anfiteatro-imperial-parque-viva-5fab6f76.jpg
+  - Imagen original: candidatos/20261002-1946/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
+  - Imagen original: candidatos/20261002-1946/anfiteatro-imperial-parque-viva-40e3ac18.jpg
+  - Imagen original: candidatos/20261002-1946/anfiteatro-imperial-parque-viva-ad5133bd.jpg
+  - Imagen original: candidatos/20261002-1946/anfiteatro-imperial-parque-viva-cf4a2608.jpg
+  - Imagen original: candidatos/20261002-1946/anfiteatro-imperial-parque-viva-76060bdc.jpg
+  - Imagen original: candidatos/20261002-1946/anfiteatro-imperial-parque-viva-d48b3535.jpg
+  - Imagen original: candidatos/20261002-1946/anfiteatro-imperial-parque-viva-6b2e1209.jpg
+
+## Music Factory
+- Fuente: https://musicfactorycr.com | Tipo: cambio_detectado
+- Titulo: Music Factory CR - 3 Restaurantes y Música en Vivo
+  - Imagen original: candidatos/20261002-1946/music-factory-4a6336a0.jpg
+  - Imagen original: candidatos/20261002-1946/music-factory-e85de790.jpg
+  - Imagen original: candidatos/20261002-1946/music-factory-e0c48a3a.jpg
 
 ## Pendientes (revision manual/WhatsApp)
 - Bar Reflexiones: FB/IG configurado pero requiere token o revision manual

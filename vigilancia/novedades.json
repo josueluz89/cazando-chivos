@@ -1,5 +1,5 @@
 {
- "stamp": "20261002-0521",
+ "stamp": "20261002-1946",
  "novedades": [
   {
    "bar": "Pepper's Club",
@@ -19,13 +19,24 @@
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261002-0521/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
-    "candidatos/20261002-0521/anfiteatro-imperial-parque-viva-0b5a7dcd.jpg",
-    "candidatos/20261002-0521/anfiteatro-imperial-parque-viva-a86e3305.jpg",
-    "candidatos/20261002-0521/anfiteatro-imperial-parque-viva-3ee8268f.jpg",
-    "candidatos/20261002-0521/anfiteatro-imperial-parque-viva-710646b9.jpg",
-    "candidatos/20261002-0521/anfiteatro-imperial-parque-viva-b338d3a4.jpg",
-    "candidatos/20261002-0521/anfiteatro-imperial-parque-viva-5fab6f76.jpg"
+    "candidatos/20261002-1946/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
+    "candidatos/20261002-1946/anfiteatro-imperial-parque-viva-40e3ac18.jpg",
+    "candidatos/20261002-1946/anfiteatro-imperial-parque-viva-ad5133bd.jpg",
+    "candidatos/20261002-1946/anfiteatro-imperial-parque-viva-cf4a2608.jpg",
+    "candidatos/20261002-1946/anfiteatro-imperial-parque-viva-76060bdc.jpg",
+    "candidatos/20261002-1946/anfiteatro-imperial-parque-viva-d48b3535.jpg",
+    "candidatos/20261002-1946/anfiteatro-imperial-parque-viva-6b2e1209.jpg"
+   ]
+  },
+  {
+   "bar": "Music Factory",
+   "fuente": "https://musicfactorycr.com",
+   "tipo": "cambio_detectado",
+   "titulo": "Music Factory CR - 3 Restaurantes y Música en Vivo",
+   "imagenes": [
+    "candidatos/20261002-1946/music-factory-4a6336a0.jpg",
+    "candidatos/20261002-1946/music-factory-e85de790.jpg",
+    "candidatos/20261002-1946/music-factory-e0c48a3a.jpg"
    ]
   }
  ],
