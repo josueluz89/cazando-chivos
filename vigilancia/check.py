@@ -145,7 +145,7 @@ def main():
     cand_dir = os.path.join(BASE, "candidatos", stamp)
 
     for entry in sources["bares"]:
-        bar = entry["bar"]
+        bar = entry.get("bar") or entry.get("nombre") or "?"
         try:
             import meta as _meta
             _tok = _meta.token()

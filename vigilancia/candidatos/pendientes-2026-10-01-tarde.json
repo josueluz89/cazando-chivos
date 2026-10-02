@@ -1,0 +1,79 @@
+{
+ "stamp": "2026-10-01-tarde",
+ "origen": "Corrida automática 6pm 2026-10-01 (cuenta de Josué)",
+ "nota": "Dudosos pendientes de aprobación. No van a la cartelera.",
+ "candidatos": [
+  {
+   "banda": "Istmo Alterno",
+   "bar": "Amon Solar",
+   "fecha": "2026-10-02",
+   "hora": "19:00",
+   "cover": "",
+   "flyer": "",
+   "direccion_display": "Calle 3, Barrio Amón, San José",
+   "region": "San José",
+   "fuente": "https://starticket.cr/e/istmo-alterno/9867",
+   "detalle": "Encuentro de la escena alternativa centroamericana; no confirma bandas tocando en vivo."
+  },
+  {
+   "banda": "The Mode (tributo a Depeche Mode)",
+   "bar": "Amon Solar",
+   "fecha": "2026-10-11",
+   "hora": "20:00",
+   "cover": "",
+   "flyer": "",
+   "direccion_display": "Calle 3, Barrio Amón, San José",
+   "region": "San José",
+   "fuente": "https://starticket.cr/e/the-mode-depeche-mode-revival-experience/9299",
+   "detalle": "'Depeche Mode Revival Experience': formato (banda en vivo vs DJ/experiencia) sin confirmar."
+  },
+  {
+   "banda": "Dead Inside: Halloween Massacre",
+   "bar": "Stein Room",
+   "fecha": "2026-10-30",
+   "hora": "21:00",
+   "cover": "",
+   "flyer": "",
+   "direccion_display": "San José centro, El Carmen",
+   "region": "San José",
+   "fuente": "https://starticket.cr/e/dead-inside-halloween-massacre/10057",
+   "detalle": "Lineup de artistas sin confirmar en el anuncio."
+  },
+  {
+   "banda": "Unholy Lust",
+   "bar": "Oasis La Calle",
+   "fecha": "2026-10-31",
+   "hora": "20:00",
+   "cover": "",
+   "flyer": "",
+   "direccion_display": "San Pedro, Montes de Oca",
+   "region": "San José",
+   "fuente": "https://starticket.cr/e/unholy-lust/9930",
+   "detalle": "Fiesta de Halloween; no confirma rock/metal en vivo."
+  },
+  {
+   "banda": "Spectaculum Maledictum — Actus I (Nox)",
+   "bar": "La Treinta ML Bar / Restaurante",
+   "fecha": "2026-10-30",
+   "hora": "21:00",
+   "cover": "",
+   "flyer": "",
+   "direccion_display": "San José centro, El Carmen",
+   "region": "San José",
+   "fuente": "https://starticket.cr/e/spectaculum-maledictum-actus-i-nox/9801",
+   "detalle": "Show teatral ('Maestro de Ceremonias'); música en vivo sin confirmar."
+  },
+  {
+   "banda": "Spectaculum Maledictum — Actus II (Infernum)",
+   "bar": "La Treinta ML Bar / Restaurante",
+   "fecha": "2026-10-31",
+   "hora": "21:00",
+   "cover": "",
+   "flyer": "",
+   "direccion_display": "San José centro, El Carmen",
+   "region": "San José",
+   "fuente": "https://starticket.cr/e/spectaculum-maledictum-actus-ii-infernum/9802",
+   "detalle": "Show teatral; música en vivo sin confirmar."
+  }
+ ]
+}

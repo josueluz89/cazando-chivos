@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-01T09:53:27-06:00",
+ "actualizado": "2026-10-01T18:02:35-06:00",
  "ventana_dias": 60,
  "zonas": [
   "Alajuela",
@@ -204,6 +204,30 @@
    "region": "San José"
   },
   {
+   "banda": "El Peso del Rock Mammut + Flashback",
+   "bar": "Fulcro Gastro Bar",
+   "fecha": "2026-10-10",
+   "hora": "20:00",
+   "cover": "",
+   "flyer": "",
+   "direccion_display": "Quebradilla, Cartago",
+   "region": "Cartago",
+   "fuente": "https://starticket.cr/e/fulcro-rock-el-peso-del-rock-flashback/9972",
+   "nota": "Noche de rock nacional en vivo: El Peso del Rock, Mammut y Flashback."
+  },
+  {
+   "banda": "El Gatillazo + Tito Méndez (3er aniversario Fulcro Box)",
+   "bar": "Fulcro Gastro Bar",
+   "fecha": "2026-10-16",
+   "hora": "20:00",
+   "cover": "",
+   "flyer": "",
+   "direccion_display": "Quebradilla, Cartago",
+   "region": "Cartago",
+   "fuente": "https://starticket.cr/e/3er-aniversario-fulcro-box-el-gatillazo-tito-mendez/10009",
+   "nota": "Aniversario del venue con bandas en vivo."
+  },
+  {
    "banda": "¡Iconos de Inglaterra! (tributo rock británico: Led Zeppelin, Rolling Stones, Oasis, The Beatles)",
    "bar": "Music Factory",
    "fecha": "2026-10-16",
@@ -236,6 +260,18 @@
    "fuente": "https://www.facebook.com/homel.lewis",
    "direccion_display": "Curridabat, San José",
    "region": "San José"
+  },
+  {
+   "banda": "Metamorfeame — Especial Caifanes & Jaguares",
+   "bar": "Fulcro Gastro Bar",
+   "fecha": "2026-10-18",
+   "hora": "17:00",
+   "cover": "",
+   "flyer": "",
+   "direccion_display": "Quebradilla, Cartago",
+   "region": "Cartago",
+   "fuente": "https://starticket.cr/e/especial-caifanes-jaguares-con-el-vampiro-y-federico-fong/9783",
+   "nota": "Tributo en vivo a Caifanes y Jaguares (rock mexicano)."
   },
   {
    "banda": "Bad Moon (tributo a Creedence Clearwater Revival)",
@@ -577,6 +613,13 @@
   {
    "nombre": "Stein Room",
    "direccion": "El Carmen, San José",
+   "estilo": "",
+   "telefono": "",
+   "historial": []
+  },
+  {
+   "nombre": "Fulcro Gastro Bar",
+   "direccion": "Quebradilla, Cartago",
    "estilo": "",
    "telefono": "",
    "historial": []
