@@ -1,27 +1,17 @@
 {
- "stamp": "20261001-2359",
+ "stamp": "20261002-0521",
  "novedades": [
   {
    "bar": "Pepper's Club",
    "fuente": "https://pepperclub.bar",
-   "tipo": "cambio_detectado",
-   "titulo": "",
-   "imagenes": [
-    "candidatos/20261001-2359/pepper-s-club-734c5d4f.png"
-   ]
+   "tipo": "fuente_caida",
+   "detalle": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "bar": "Amon Solar",
    "fuente": "https://amonsolar.com",
    "tipo": "fuente_caida",
-   "detalle": "RemoteDisconnected: Remote end closed connection without response"
-  },
-  {
-   "bar": "Mercadito La California",
-   "fuente": "https://starticket.cr",
-   "tipo": "cambio_detectado",
-   "titulo": "",
-   "imagenes": []
+   "detalle": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
   },
   {
    "bar": "Anfiteatro Imperial (Parque Viva)",
@@ -29,23 +19,13 @@
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261001-2359/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
-    "candidatos/20261001-2359/anfiteatro-imperial-parque-viva-0c1b74bb.jpg",
-    "candidatos/20261001-2359/anfiteatro-imperial-parque-viva-20f61396.jpg",
-    "candidatos/20261001-2359/anfiteatro-imperial-parque-viva-b0637474.jpg",
-    "candidatos/20261001-2359/anfiteatro-imperial-parque-viva-3ebd13e5.jpg",
-    "candidatos/20261001-2359/anfiteatro-imperial-parque-viva-ad5133bd.jpg",
-    "candidatos/20261001-2359/anfiteatro-imperial-parque-viva-6b2e1209.jpg"
-   ]
-  },
-  {
-   "bar": "Music Factory",
-   "fuente": "https://musicfactorycr.com",
-   "tipo": "cambio_detectado",
-   "titulo": "Music Factory CR - 3 Restaurantes y Música en Vivo",
-   "imagenes": [
-    "candidatos/20261001-2359/music-factory-5128a4b4.jpg",
-    "candidatos/20261001-2359/music-factory-4a6336a0.jpg"
+    "candidatos/20261002-0521/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
+    "candidatos/20261002-0521/anfiteatro-imperial-parque-viva-0b5a7dcd.jpg",
+    "candidatos/20261002-0521/anfiteatro-imperial-parque-viva-a86e3305.jpg",
+    "candidatos/20261002-0521/anfiteatro-imperial-parque-viva-3ee8268f.jpg",
+    "candidatos/20261002-0521/anfiteatro-imperial-parque-viva-710646b9.jpg",
+    "candidatos/20261002-0521/anfiteatro-imperial-parque-viva-b338d3a4.jpg",
+    "candidatos/20261002-0521/anfiteatro-imperial-parque-viva-5fab6f76.jpg"
    ]
   }
  ],

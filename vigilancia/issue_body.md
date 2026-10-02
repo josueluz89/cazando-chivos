@@ -1,34 +1,25 @@
-# Vigilancia 20261001-2359 (2x/dia)
+# Vigilancia 20261002-0521 (2x/dia)
 
-Novedades: 5 | Fuentes pendientes: 19
+Novedades: 3 | Fuentes pendientes: 19
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
 
 ## Pepper's Club
-- Fuente: https://pepperclub.bar | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261001-2359/pepper-s-club-734c5d4f.png
+- Fuente: https://pepperclub.bar | Tipo: fuente_caida
+- Detalle: HTTPError: HTTP Error 403: Forbidden
 
 ## Amon Solar
 - Fuente: https://amonsolar.com | Tipo: fuente_caida
-- Detalle: RemoteDisconnected: Remote end closed connection without response
-
-## Mercadito La California
-- Fuente: https://starticket.cr | Tipo: cambio_detectado
+- Detalle: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>
 
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261001-2359/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
-  - Imagen original: candidatos/20261001-2359/anfiteatro-imperial-parque-viva-0c1b74bb.jpg
-  - Imagen original: candidatos/20261001-2359/anfiteatro-imperial-parque-viva-20f61396.jpg
-  - Imagen original: candidatos/20261001-2359/anfiteatro-imperial-parque-viva-b0637474.jpg
-  - Imagen original: candidatos/20261001-2359/anfiteatro-imperial-parque-viva-3ebd13e5.jpg
-  - Imagen original: candidatos/20261001-2359/anfiteatro-imperial-parque-viva-ad5133bd.jpg
-  - Imagen original: candidatos/20261001-2359/anfiteatro-imperial-parque-viva-6b2e1209.jpg
-
-## Music Factory
-- Fuente: https://musicfactorycr.com | Tipo: cambio_detectado
-- Titulo: Music Factory CR - 3 Restaurantes y Música en Vivo
-  - Imagen original: candidatos/20261001-2359/music-factory-5128a4b4.jpg
-  - Imagen original: candidatos/20261001-2359/music-factory-4a6336a0.jpg
+  - Imagen original: candidatos/20261002-0521/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
+  - Imagen original: candidatos/20261002-0521/anfiteatro-imperial-parque-viva-0b5a7dcd.jpg
+  - Imagen original: candidatos/20261002-0521/anfiteatro-imperial-parque-viva-a86e3305.jpg
+  - Imagen original: candidatos/20261002-0521/anfiteatro-imperial-parque-viva-3ee8268f.jpg
+  - Imagen original: candidatos/20261002-0521/anfiteatro-imperial-parque-viva-710646b9.jpg
+  - Imagen original: candidatos/20261002-0521/anfiteatro-imperial-parque-viva-b338d3a4.jpg
+  - Imagen original: candidatos/20261002-0521/anfiteatro-imperial-parque-viva-5fab6f76.jpg
 
 ## Pendientes (revision manual/WhatsApp)
 - Bar Reflexiones: FB/IG configurado pero requiere token o revision manual
