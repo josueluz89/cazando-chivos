@@ -1,5 +1,5 @@
 {
- "stamp": "20261003-0504",
+ "stamp": "20261003-1501",
  "novedades": [
   {
    "bar": "Pepper's Club",
@@ -11,7 +11,7 @@
    "bar": "Amon Solar",
    "fuente": "https://amonsolar.com",
    "tipo": "fuente_caida",
-   "detalle": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
+   "detalle": "RemoteDisconnected: Remote end closed connection without response"
   },
   {
    "bar": "Anfiteatro Imperial (Parque Viva)",
@@ -19,13 +19,24 @@
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261003-0504/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
-    "candidatos/20261003-0504/anfiteatro-imperial-parque-viva-c3b77304.jpg",
-    "candidatos/20261003-0504/anfiteatro-imperial-parque-viva-bc8453cc.jpg",
-    "candidatos/20261003-0504/anfiteatro-imperial-parque-viva-2b27c54c.jpg",
-    "candidatos/20261003-0504/anfiteatro-imperial-parque-viva-e88c295f.jpg",
-    "candidatos/20261003-0504/anfiteatro-imperial-parque-viva-76060bdc.jpg",
-    "candidatos/20261003-0504/anfiteatro-imperial-parque-viva-0c1b74bb.jpg"
+    "candidatos/20261003-1501/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
+    "candidatos/20261003-1501/anfiteatro-imperial-parque-viva-5744bf22.jpg",
+    "candidatos/20261003-1501/anfiteatro-imperial-parque-viva-40e3ac18.jpg",
+    "candidatos/20261003-1501/anfiteatro-imperial-parque-viva-bc8453cc.jpg",
+    "candidatos/20261003-1501/anfiteatro-imperial-parque-viva-7e818349.jpg",
+    "candidatos/20261003-1501/anfiteatro-imperial-parque-viva-3ebd13e5.jpg",
+    "candidatos/20261003-1501/anfiteatro-imperial-parque-viva-73edde09.jpg"
+   ]
+  },
+  {
+   "bar": "Music Factory",
+   "fuente": "https://musicfactorycr.com",
+   "tipo": "cambio_detectado",
+   "titulo": "Music Factory CR - 3 Restaurantes y Música en Vivo",
+   "imagenes": [
+    "candidatos/20261003-1501/music-factory-e85de790.jpg",
+    "candidatos/20261003-1501/music-factory-e0c48a3a.jpg",
+    "candidatos/20261003-1501/music-factory-fea7f5d6.jpg"
    ]
   }
  ],

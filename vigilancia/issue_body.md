@@ -1,6 +1,6 @@
-# Vigilancia 20261003-0504 (2x/dia)
+# Vigilancia 20261003-1501 (2x/dia)
 
-Novedades: 3 | Fuentes pendientes: 19
+Novedades: 4 | Fuentes pendientes: 19
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
 
 ## Pepper's Club
@@ -9,17 +9,24 @@ Novedades: 3 | Fuentes pendientes: 19
 
 ## Amon Solar
 - Fuente: https://amonsolar.com | Tipo: fuente_caida
-- Detalle: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>
+- Detalle: RemoteDisconnected: Remote end closed connection without response
 
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261003-0504/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
-  - Imagen original: candidatos/20261003-0504/anfiteatro-imperial-parque-viva-c3b77304.jpg
-  - Imagen original: candidatos/20261003-0504/anfiteatro-imperial-parque-viva-bc8453cc.jpg
-  - Imagen original: candidatos/20261003-0504/anfiteatro-imperial-parque-viva-2b27c54c.jpg
-  - Imagen original: candidatos/20261003-0504/anfiteatro-imperial-parque-viva-e88c295f.jpg
-  - Imagen original: candidatos/20261003-0504/anfiteatro-imperial-parque-viva-76060bdc.jpg
-  - Imagen original: candidatos/20261003-0504/anfiteatro-imperial-parque-viva-0c1b74bb.jpg
+  - Imagen original: candidatos/20261003-1501/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
+  - Imagen original: candidatos/20261003-1501/anfiteatro-imperial-parque-viva-5744bf22.jpg
+  - Imagen original: candidatos/20261003-1501/anfiteatro-imperial-parque-viva-40e3ac18.jpg
+  - Imagen original: candidatos/20261003-1501/anfiteatro-imperial-parque-viva-bc8453cc.jpg
+  - Imagen original: candidatos/20261003-1501/anfiteatro-imperial-parque-viva-7e818349.jpg
+  - Imagen original: candidatos/20261003-1501/anfiteatro-imperial-parque-viva-3ebd13e5.jpg
+  - Imagen original: candidatos/20261003-1501/anfiteatro-imperial-parque-viva-73edde09.jpg
+
+## Music Factory
+- Fuente: https://musicfactorycr.com | Tipo: cambio_detectado
+- Titulo: Music Factory CR - 3 Restaurantes y Música en Vivo
+  - Imagen original: candidatos/20261003-1501/music-factory-e85de790.jpg
+  - Imagen original: candidatos/20261003-1501/music-factory-e0c48a3a.jpg
+  - Imagen original: candidatos/20261003-1501/music-factory-fea7f5d6.jpg
 
 ## Pendientes (revision manual/WhatsApp)
 - Bar Reflexiones: FB/IG configurado pero requiere token o revision manual
