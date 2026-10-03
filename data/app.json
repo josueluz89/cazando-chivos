@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-02T08:59:23-06:00",
+ "actualizado": "2026-10-02T18:01:36-06:00",
  "ventana_dias": 60,
  "zonas": [
   "Alajuela",
@@ -170,6 +170,19 @@
    "rama": "chivo_en_solista",
    "direccion_display": "San Pedro",
    "region": "San José"
+  },
+  {
+   "banda": "Iron Maiden + The Raven Age (Run For Your Lives — 50 aniversario)",
+   "bar": "Estadio Nacional",
+   "fecha": "2026-10-08",
+   "hora": "18:30",
+   "cover": "",
+   "entradas": "eticket (₡33.500 a ₡71.600)",
+   "flyer": "",
+   "direccion_display": "Estadio Nacional, La Sabana, San José",
+   "region": "San José",
+   "fuente": "https://www.eticket.cr",
+   "nota": "Metal en vivo: Iron Maiden + banda invitada The Raven Age. Solo quedan The Trooper y Gramilla (18+) en eticket."
   },
   {
    "banda": "Homel Lewis",
@@ -620,6 +633,13 @@
   {
    "nombre": "Fulcro Gastro Bar",
    "direccion": "Quebradilla, Cartago",
+   "estilo": "",
+   "telefono": "",
+   "historial": []
+  },
+  {
+   "nombre": "Estadio Nacional",
+   "direccion": "Estadio Nacional, La Sabana, San José",
    "estilo": "",
    "telefono": "",
    "historial": []
