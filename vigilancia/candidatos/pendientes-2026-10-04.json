@@ -1,0 +1,55 @@
+{
+ "stamp": "2026-10-04-manana",
+ "origen": "Corrida automática 9am 2026-10-04 (cuenta de Josué)",
+ "nota": "Dudosos pendientes de aprobación. No van a la cartelera.",
+ "candidatos": [
+  {
+   "banda": "Oktoberfest Costa Rica XIII edición (16 bandas, 38h de festival)",
+   "bar": "",
+   "fecha": "",
+   "hora": "",
+   "cover": "",
+   "flyer": "",
+   "direccion_display": "",
+   "region": "",
+   "fuente": "https://acontecer.co.cr",
+   "detalle": "Anuncio truncado: no se pudieron extraer fechas, sede ni cartel. Falta todo."
+  },
+  {
+   "banda": "Liberación Punk / Concierto de Halloween",
+   "bar": "",
+   "fecha": "2026-10-31",
+   "hora": "20:00",
+   "cover": "",
+   "flyer": "",
+   "direccion_display": "",
+   "region": "",
+   "fuente": "Bandsintown",
+   "detalle": "Falta el lugar/bar."
+  },
+  {
+   "banda": "Total Doom Vol. 2 / Crypt Monarch",
+   "bar": "",
+   "fecha": "2026-10-23",
+   "hora": "20:00",
+   "cover": "",
+   "flyer": "",
+   "direccion_display": "",
+   "region": "",
+   "fuente": "Bandsintown",
+   "detalle": "Falta el lugar; parece metal pero sin confirmar formato en vivo."
+  },
+  {
+   "banda": "Forever Grey",
+   "bar": "Amon Solar",
+   "fecha": "2026-10-16",
+   "hora": "20:00",
+   "cover": "",
+   "flyer": "",
+   "direccion_display": "Calle 3, Av 9-11, Barrio Amón, San José",
+   "region": "San José",
+   "fuente": "Bandsintown",
+   "detalle": "Falta confirmar formato/género (no se sabe si es rock en vivo)."
+  }
+ ]
+}
