@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-04T09:06:23-06:00",
+ "actualizado": "2026-10-04T17:20:56-06:00",
  "ventana_dias": 60,
  "zonas": [
   "Alajuela",
@@ -57,7 +57,7 @@
   },
   {
    "banda": "Homel Lewis",
-   "bar": "Bar Rock Reflexiones",
+   "bar": "Bar Reflexiones",
    "fecha": "2026-10-09",
    "hora": "20:00",
    "cover": "2500 colones",
@@ -494,7 +494,7 @@
     "MAMUT (rock clásico: Jethro Tull, Def Leppard, AC/DC, Pink Floyd — 2 mar 2019)",
     "Easy Rider (ene 2020)"
    ],
-   "telefono": ""
+   "telefono": "88141791"
   },
   {
    "nombre": "Campo Verde",
@@ -582,13 +582,6 @@
    "direccion": "San Pedro de Poás, Alajuela",
    "estilo": "",
    "telefono": "",
-   "historial": []
-  },
-  {
-   "nombre": "Bar Rock Reflexiones",
-   "direccion": "San Rafael de Heredia",
-   "estilo": "",
-   "telefono": "88141791",
    "historial": []
   },
   {
