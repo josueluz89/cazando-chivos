@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-04T17:20:56-06:00",
+ "actualizado": "2026-10-05T15:01:46-06:00",
  "ventana_dias": 60,
  "zonas": [
   "Alajuela",
@@ -8,16 +8,6 @@
   "San José"
  ],
  "eventos": [
-  {
-   "banda": "A Flock of Seagulls + Sisterboi",
-   "bar": "Mercadito La California",
-   "fecha": "2026-10-04",
-   "hora": "19:00",
-   "cover": "Entradas en TICKZ.CR",
-   "flyer": "",
-   "direccion_display": "Calle 21, Av 0-1, Barrio La California, San José",
-   "region": "San José"
-  },
   {
    "banda": "Espinoza — Rock Argentino Íntimo (voz y guitarra: Fito, Charly García, Spinetta, Cerati, Soda Stereo, Enanitos Verdes)",
    "bar": "MundoLoco El Chante",
