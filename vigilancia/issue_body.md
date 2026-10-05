@@ -1,6 +1,6 @@
-# Vigilancia 20261004-2359 (2x/dia)
+# Vigilancia 20261005-0520 (2x/dia)
 
-Novedades: 4 | Fuentes pendientes: 19
+Novedades: 3 | Fuentes pendientes: 19
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
 
 ## Pepper's Club
@@ -9,21 +9,17 @@ Novedades: 4 | Fuentes pendientes: 19
 
 ## Amon Solar
 - Fuente: https://amonsolar.com | Tipo: fuente_caida
-- Detalle: RemoteDisconnected: Remote end closed connection without response
-
-## Mercadito La California
-- Fuente: https://starticket.cr | Tipo: fuente_caida
-- Detalle: HTTPError: HTTP Error 403: Forbidden
+- Detalle: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>
 
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261004-2359/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
-  - Imagen original: candidatos/20261004-2359/anfiteatro-imperial-parque-viva-ad5133bd.jpg
-  - Imagen original: candidatos/20261004-2359/anfiteatro-imperial-parque-viva-09321d74.jpg
-  - Imagen original: candidatos/20261004-2359/anfiteatro-imperial-parque-viva-6189069c.jpg
-  - Imagen original: candidatos/20261004-2359/anfiteatro-imperial-parque-viva-7e818349.jpg
-  - Imagen original: candidatos/20261004-2359/anfiteatro-imperial-parque-viva-81cbc43d.jpg
-  - Imagen original: candidatos/20261004-2359/anfiteatro-imperial-parque-viva-89360bfe.jpg
+  - Imagen original: candidatos/20261005-0520/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
+  - Imagen original: candidatos/20261005-0520/anfiteatro-imperial-parque-viva-7e818349.jpg
+  - Imagen original: candidatos/20261005-0520/anfiteatro-imperial-parque-viva-6189069c.jpg
+  - Imagen original: candidatos/20261005-0520/anfiteatro-imperial-parque-viva-3ee8268f.jpg
+  - Imagen original: candidatos/20261005-0520/anfiteatro-imperial-parque-viva-5afaea16.jpg
+  - Imagen original: candidatos/20261005-0520/anfiteatro-imperial-parque-viva-b0637474.jpg
+  - Imagen original: candidatos/20261005-0520/anfiteatro-imperial-parque-viva-09321d74.jpg
 
 ## Pendientes (revision manual/WhatsApp)
 - Bar Reflexiones: FB/IG configurado pero requiere token o revision manual
