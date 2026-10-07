@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-06T15:30:34-06:00",
+ "actualizado": "2026-10-07T14:17:54-06:00",
  "ventana_dias": 60,
  "zonas": [
   "Alajuela",
@@ -8,19 +8,6 @@
   "San José"
  ],
  "eventos": [
-  {
-   "banda": "Espinoza — Rock Argentino Íntimo (voz y guitarra: Fito, Charly García, Spinetta, Cerati, Soda Stereo, Enanitos Verdes)",
-   "bar": "MundoLoco El Chante",
-   "fecha": "2026-10-06",
-   "hora": "20:00",
-   "cover": "₡2500",
-   "entradas": "Sinpe: 64876641",
-   "flyer": "flyers/espinoza-mundoloco.jpg",
-   "formato": "solista",
-   "rama": "chivo_en_solista",
-   "direccion_display": "San Pedro",
-   "region": "San José"
-  },
   {
    "banda": "Amorphis (Borderland Tour 2026)",
    "bar": "Pepper's Club",
@@ -39,7 +26,7 @@
    "hora": "18:30",
    "cover": "",
    "entradas": "eticket (₡33.500 a ₡71.600)",
-   "flyer": "",
+   "flyer": "flyers/iron-maiden-cr.jpg",
    "direccion_display": "Estadio Nacional, La Sabana, San José",
    "region": "San José",
    "fuente": "https://www.eticket.cr",
