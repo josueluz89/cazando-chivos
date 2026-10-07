@@ -1,0 +1,31 @@
+{
+ "stamp": "2026-10-07-tarde",
+ "origen": "Corrida automática 3pm 2026-10-07 (cuenta de Josué)",
+ "nota": "Dudosos pendientes de aprobación. No van a la cartelera.",
+ "candidatos": [
+  {
+   "banda": "Strung Out — Celebrando 35 Años",
+   "bar": "",
+   "fecha": "",
+   "hora": "",
+   "cover": "",
+   "flyer": "",
+   "direccion_display": "",
+   "region": "",
+   "fuente": "https://eventos.cr/evento/25-09-19-strung-out-celebrando-35-anos",
+   "detalle": "Punk rock/melódico en vivo, pero la página no trae fecha ni sede. Falta todo lo publicable."
+  },
+  {
+   "banda": "ICONOS DE INGLATERRA",
+   "bar": "Music Factory",
+   "fecha": "2026-10-16",
+   "hora": "",
+   "cover": "",
+   "flyer": "",
+   "direccion_display": "Centro Comercial Veritas, Zapote, San José",
+   "region": "San José",
+   "fuente": "https://musicfactorycr.com",
+   "detalle": "Anuncio en la cartelera de Music Factory ('VIE 16 OCT'); no se pudo abrir el detalle para confirmar banda/formato en vivo."
+  }
+ ]
+}

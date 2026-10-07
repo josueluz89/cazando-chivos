@@ -219,6 +219,18 @@
   "region": "San José"
  },
  {
+  "banda": "25 aniversario de Toxicity — Tributo a System of a Down (One Toxic Night)",
+  "bar": "London Room",
+  "fecha": "2026-10-09",
+  "hora": "9:00 p. m.",
+  "cover": "Preventa ₡8.000 / día del evento ₡10.000",
+  "flyer": "",
+  "direccion_display": "London Room, Paseo Colón, San José",
+  "region": "San José",
+  "fuente": "https://www.facebook.com/events/1509414737648896/",
+  "nota": "TOXICITY completo en vivo + éxitos de System of a Down. Reservas: 8344-8277. Cupo limitado."
+ },
+ {
   "banda": "El Peso del Rock Mammut + Flashback",
   "bar": "Fulcro Gastro Bar",
   "fecha": "2026-10-10",
@@ -229,6 +241,18 @@
   "region": "Cartago",
   "fuente": "https://starticket.cr/e/fulcro-rock-el-peso-del-rock-flashback/9972",
   "nota": "Noche de rock nacional en vivo: El Peso del Rock, Mammut y Flashback."
+ },
+ {
+  "banda": "The Mode (tributo a Depeche Mode) — Depeche Mode Revival Experience",
+  "bar": "Amon Solar",
+  "fecha": "2026-10-11",
+  "hora": "8:00 p. m.",
+  "cover": "₡10.000",
+  "flyer": "",
+  "direccion_display": "Calle 3, Av 9-11, Barrio Amón, San José",
+  "region": "San José",
+  "fuente": "https://starticket.cr/e/the-mode-depeche-mode-revival-experience/9299",
+  "nota": "Presentado por DISSONANTTE. Tributo en vivo. Sinpe Móvil: 6007-2525."
  },
  {
   "banda": "¡Iconos de Inglaterra! (tributo rock británico: Led Zeppelin, Rolling Stones, Oasis, The Beatles)",
