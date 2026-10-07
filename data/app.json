@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-07T14:17:54-06:00",
+ "actualizado": "2026-10-07T14:24:20-06:00",
  "ventana_dias": 60,
  "zonas": [
   "Alajuela",
@@ -75,18 +75,6 @@
    "region": "Cartago",
    "fuente": "https://starticket.cr/e/fulcro-rock-el-peso-del-rock-flashback/9972",
    "nota": "Noche de rock nacional en vivo: El Peso del Rock, Mammut y Flashback."
-  },
-  {
-   "banda": "El Gatillazo + Tito Méndez (3er aniversario Fulcro Box)",
-   "bar": "Fulcro Gastro Bar",
-   "fecha": "2026-10-16",
-   "hora": "20:00",
-   "cover": "",
-   "flyer": "",
-   "direccion_display": "Quebradilla, Cartago",
-   "region": "Cartago",
-   "fuente": "https://starticket.cr/e/3er-aniversario-fulcro-box-el-gatillazo-tito-mendez/10009",
-   "nota": "Aniversario del venue con bandas en vivo."
   },
   {
    "banda": "¡Iconos de Inglaterra! (tributo rock británico: Led Zeppelin, Rolling Stones, Oasis, The Beatles)",
