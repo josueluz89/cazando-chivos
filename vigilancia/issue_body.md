@@ -1,4 +1,4 @@
-# Vigilancia 20261008-2030 (2x/dia)
+# Vigilancia 20261009-0552 (2x/dia)
 
 Novedades: 3 | Fuentes pendientes: 19
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
@@ -13,13 +13,13 @@ Novedades: 3 | Fuentes pendientes: 19
 
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261008-2030/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
-  - Imagen original: candidatos/20261008-2030/anfiteatro-imperial-parque-viva-20f61396.jpg
-  - Imagen original: candidatos/20261008-2030/anfiteatro-imperial-parque-viva-5a41518b.jpg
-  - Imagen original: candidatos/20261008-2030/anfiteatro-imperial-parque-viva-0b5a7dcd.jpg
-  - Imagen original: candidatos/20261008-2030/anfiteatro-imperial-parque-viva-e53b27be.jpg
-  - Imagen original: candidatos/20261008-2030/anfiteatro-imperial-parque-viva-e88c295f.jpg
-  - Imagen original: candidatos/20261008-2030/anfiteatro-imperial-parque-viva-0c1b74bb.jpg
+  - Imagen original: candidatos/20261009-0552/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
+  - Imagen original: candidatos/20261009-0552/anfiteatro-imperial-parque-viva-40e3ac18.jpg
+  - Imagen original: candidatos/20261009-0552/anfiteatro-imperial-parque-viva-b0637474.jpg
+  - Imagen original: candidatos/20261009-0552/anfiteatro-imperial-parque-viva-ad5133bd.jpg
+  - Imagen original: candidatos/20261009-0552/anfiteatro-imperial-parque-viva-0c1b74bb.jpg
+  - Imagen original: candidatos/20261009-0552/anfiteatro-imperial-parque-viva-d48b3535.jpg
+  - Imagen original: candidatos/20261009-0552/anfiteatro-imperial-parque-viva-3ee8268f.jpg
 
 ## Pendientes (revision manual/WhatsApp)
 - Bar Reflexiones: FB/IG configurado pero requiere token o revision manual
