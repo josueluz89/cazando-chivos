@@ -3,8 +3,8 @@ name: vigilancia-chivos
 # 2 veces por dia: 9am y 6pm Costa Rica (UTC-6) + manual. Gratis (Actions free tier).
 on:
   schedule:
-    - cron: "0 15 * * *"
-    - cron: "0 0 * * *"
+    - cron: "7 15 * * *"
+    - cron: "7 0 * * *"
   workflow_dispatch:
 
 permissions:
