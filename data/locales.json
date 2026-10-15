@@ -326,5 +326,33 @@
   "estilo": "",
   "telefono": "",
   "historial": []
+ },
+ {
+  "nombre": "Club de Bello",
+  "direccion": "Club de Bello, Escazú",
+  "estilo": "",
+  "telefono": "",
+  "historial": []
+ },
+ {
+  "nombre": "Stereo Caníbal",
+  "direccion": "Stereo Caníbal, San José",
+  "estilo": "",
+  "telefono": "",
+  "historial": []
+ },
+ {
+  "nombre": "Antologías",
+  "direccion": "Antologías, Desamparados",
+  "estilo": "",
+  "telefono": "",
+  "historial": []
+ },
+ {
+  "nombre": "Montaña Viva",
+  "direccion": "Montaña Viva, Fraijanes",
+  "estilo": "",
+  "telefono": "",
+  "historial": []
  }
 ]

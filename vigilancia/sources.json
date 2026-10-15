@@ -215,6 +215,34 @@
       "facebook": null,
       "instagram": null,
       "nota": "Agregado 2026-10-15 por regla viceversa: recinto municipal, sin página propia"
+    },
+    {
+      "bar": "Club de Bello",
+      "web": null,
+      "facebook": null,
+      "instagram": null,
+      "nota": "Agregado 2026-10-15 por regla viceversa (póster gira Bad Moon); sin página encontrada"
+    },
+    {
+      "bar": "Stereo Caníbal",
+      "web": null,
+      "facebook": null,
+      "instagram": null,
+      "nota": "Agregado 2026-10-15 por regla viceversa (póster gira Bad Moon); sin página encontrada"
+    },
+    {
+      "bar": "Antologías",
+      "web": null,
+      "facebook": null,
+      "instagram": null,
+      "nota": "Agregado 2026-10-15 por regla viceversa (póster gira Bad Moon); sin página encontrada"
+    },
+    {
+      "bar": "Montaña Viva",
+      "web": null,
+      "facebook": null,
+      "instagram": null,
+      "nota": "Agregado 2026-10-15 por regla viceversa (póster gira Bad Moon); sin página encontrada"
     }
   ],
   "personas": [
@@ -257,6 +285,81 @@
       "nombre": "InKharma",
       "facebook": "https://www.facebook.com/inkharma",
       "nota": "Agregado por Josué el 2026-10-15: banda que anuncia sus chivos en su página; revisar sus posts por eventos"
+    },
+    {
+      "nombre": "Forever Grey",
+      "facebook": null,
+      "nota": "Banda tica; agregada 2026-10-15 por regla (cartelera); sin página encontrada"
+    },
+    {
+      "nombre": "Mustang65",
+      "facebook": null,
+      "nota": "Tributo a Pearl Jam; agregada 2026-10-15 por regla (cartelera); sin página encontrada"
+    },
+    {
+      "nombre": "Diesel Rock CR",
+      "facebook": null,
+      "nota": "Agregada 2026-10-15 por regla (cartelera); sin página encontrada"
+    },
+    {
+      "nombre": "D'Classics",
+      "facebook": null,
+      "nota": "Agregada 2026-10-15 por regla (cartelera); Instagram @dclassicscr, sin Facebook encontrado"
+    },
+    {
+      "nombre": "The KILLERS Experience",
+      "facebook": null,
+      "nota": "Tributo a The Killers; agregada 2026-10-15 por regla (cartelera); sin página encontrada"
+    },
+    {
+      "nombre": "Los Cuchillos",
+      "facebook": null,
+      "nota": "Banda tica surf/garage; agregada 2026-10-15 por regla (cartelera); sin página encontrada"
+    },
+    {
+      "nombre": "Rawhead",
+      "facebook": null,
+      "nota": "Agregada 2026-10-15 por regla (cartelera); sin página encontrada"
+    },
+    {
+      "nombre": "Percance",
+      "facebook": null,
+      "nota": "Agregada 2026-10-15 por regla (cartelera); handle reportado /percance, URL no verificada"
+    },
+    {
+      "nombre": "Magpie Jay",
+      "facebook": null,
+      "nota": "Agregada 2026-10-15 por regla (cartelera); handle reportado MagpieJayBand, URL no verificada"
+    },
+    {
+      "nombre": "Ramón & The Go Go Dancer",
+      "facebook": null,
+      "nota": "Agregada 2026-10-15 por regla (cartelera); sin página encontrada"
+    },
+    {
+      "nombre": "The Freak & The Puppet",
+      "facebook": null,
+      "nota": "Banda tica rock alternativo; agregada 2026-10-15 por regla (cartelera); sin página encontrada"
+    },
+    {
+      "nombre": "Nomat",
+      "facebook": null,
+      "nota": "Agregada 2026-10-15 por regla (cartelera); sin página encontrada"
+    },
+    {
+      "nombre": "Burst Into Fire",
+      "facebook": null,
+      "nota": "Tributo a Bullet for My Valentine; agregada 2026-10-15 por regla (cartelera); sin página encontrada"
+    },
+    {
+      "nombre": "Endemia",
+      "facebook": null,
+      "nota": "Punk rock tico; agregada 2026-10-15 por regla (cartelera); sin página encontrada"
+    },
+    {
+      "nombre": "Bihotza",
+      "facebook": "https://www.facebook.com/missBihotza",
+      "nota": "Banda española (Madrid); agregada 2026-10-15 por regla (cartelera)"
     }
   ]
 }
