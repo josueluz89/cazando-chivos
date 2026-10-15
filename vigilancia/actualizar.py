@@ -20,6 +20,12 @@ from datetime import datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+try:
+    from buscar_flyers import resolver_flyer
+except Exception:
+    resolver_flyer = None
+
 ROOT = Path(__file__).resolve().parent.parent
 EVENTOS = ROOT / "data" / "eventos.json"
 LOCALES = ROOT / "data" / "locales.json"
@@ -62,6 +68,15 @@ def main() -> None:
         if k in vistos:
             continue
         vistos.add(k)
+        # Todo evento nuevo entra con imagen: póster de la fuente o foto del
+        # artista. Si falla, queda sin flyer pero el evento igual se publica.
+        if not e.get("flyer") and resolver_flyer is not None:
+            try:
+                flyer = resolver_flyer(e)
+                if flyer:
+                    e["flyer"] = flyer
+            except Exception:
+                pass
         eventos.append(e)
         agregados += 1
 
