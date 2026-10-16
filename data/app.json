@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-15T15:25:21-06:00",
+ "actualizado": "2026-10-16T15:15:19-06:00",
  "ventana_dias": 60,
  "zonas": [
   "Alajuela",
@@ -8,19 +8,6 @@
   "San José"
  ],
  "eventos": [
-  {
-   "banda": "Homel Lewis",
-   "bar": "Fonda Mi Viejo",
-   "fecha": "2026-10-15",
-   "hora": "19:00",
-   "cover": "No cover",
-   "flyer": "",
-   "formato": "solista",
-   "rama": "chivo_en_solista",
-   "fuente": "https://facebook.com/100000918916945/posts/pfbid02QfXk2P1HveZdHX7zQ2eUiLdPZXEizyP7oUYKwTcTxTVfbntvDmniHHhXdpbhNk4xl/",
-   "direccion_display": "Barva, Heredia",
-   "region": "Heredia"
-  },
   {
    "banda": "Forever Grey (post-punk/darkwave)",
    "bar": "Amon Solar",
@@ -43,6 +30,18 @@
    "direccion_display": "Av 2, Calle 38-40, Paseo Colón, San José",
    "region": "San José",
    "fuente": "https://www.gamcultural.com/cr/events/1312603/ccr-tributo-bad-moon-rising-tour-london-room"
+  },
+  {
+   "banda": "Endemia — Noche endémica (27 años de punk)",
+   "bar": "El Corsa",
+   "cover": "₡3,500",
+   "direccion_display": "El Corsa, Calle de la Amargura, San Pedro, Montes de Oca",
+   "entradas": "27 años de punk tico; exposición de fotos y afiches; todas las edades (menores con adulto responsable).",
+   "fecha": "2026-10-16",
+   "flyer": "flyers/endemia-noche-endémica-27-años-de-punk-2026-10-16.jpg",
+   "fuente": "https://www.teletica.com/entretenimiento/endemia-invita-a-sus-seguidores-a-celebrar-27-anos-de-punk_418237",
+   "hora": "20:00",
+   "region": "San José"
   },
   {
    "banda": "¡Iconos de Inglaterra! (tributo rock británico: Led Zeppelin, Rolling Stones, Oasis, The Beatles)",
@@ -111,6 +110,18 @@
    "region": "Cartago",
    "fuente": "https://starticket.cr/e/especial-caifanes-jaguares-con-el-vampiro-y-federico-fong/9783",
    "nota": "Tributo en vivo a Caifanes y Jaguares (rock mexicano)."
+  },
+  {
+   "banda": "Candlelight Stories + Emma Stoner + Seraph",
+   "bar": "MundoLoco El Chante",
+   "cover": "₡4,000",
+   "direccion_display": "MundoLoco El Chante, San Pedro, Montes de Oca",
+   "entradas": "Rock progresivo / art rock tico; debut en vivo de Candlelight Stories; entradas por WhatsApp 8657-4659; solo +18.",
+   "fecha": "2026-10-20",
+   "flyer": "flyers/candlelight-stories-emma-stoner-seraph-2026-10-20.jpg",
+   "fuente": "https://www.bandsintown.com/es/e/108948498-candlelight-stories-at-mundoloco-el-chante",
+   "hora": "19:00",
+   "region": "San José"
   },
   {
    "banda": "The Rasmus (Weirdo Tour 2026)",
@@ -771,6 +782,13 @@
   {
    "nombre": "Montaña Viva",
    "direccion": "Montaña Viva, Fraijanes",
+   "estilo": "",
+   "telefono": "",
+   "historial": []
+  },
+  {
+   "nombre": "El Corsa",
+   "direccion": "El Corsa, Calle de la Amargura, San Pedro, Montes de Oca",
    "estilo": "",
    "telefono": "",
    "historial": []

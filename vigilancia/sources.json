@@ -1,370 +1,382 @@
 {
-  "zona_horaria": "America/Costa Rica",
-  "frecuencia": "2 veces por dia (9am y 6pm CR)",
-  "nota": "Fuentes web abiertas. Facebook/Instagram directos se marcan pendiente: bloquean scraping sin token Meta. Esos se revisan manual o por WhatsApp al bar.",
-  "bares": [
-    {
-      "bar": "Bar Reflexiones",
-      "web": null,
-      "facebook": "https://www.facebook.com/profile.php?id=100077455964587",
-      "instagram": null
-    },
-    {
-      "bar": "Bar Legendario",
-      "web": null,
-      "facebook": "https://www.facebook.com/116247884902688/",
-      "instagram": null
-    },
-    {
-      "bar": "Bar Alcatraz",
-      "web": null,
-      "facebook": "https://www.facebook.com/BarAlca",
-      "instagram": null
-    },
-    {
-      "bar": "Bar Retro",
-      "web": null,
-      "facebook": null,
-      "instagram": null
-    },
-    {
-      "bar": "Mini Taberna",
-      "web": null,
-      "facebook": null,
-      "instagram": null
-    },
-    {
-      "bar": "Casa Azul",
-      "web": null,
-      "facebook": null,
-      "instagram": null
-    },
-    {
-      "bar": "MundoLoco El Chante",
-      "web": null,
-      "facebook": null,
-      "instagram": null
-    },
-    {
-      "bar": "Pepper's Club",
-      "web": "https://pepperclub.bar",
-      "facebook": null,
-      "instagram": null
-    },
-    {
-      "bar": "Amon Solar",
-      "web": "https://amonsolar.com",
-      "facebook": null,
-      "instagram": null
-    },
-    {
-      "bar": "Yellow Submarine Bar",
-      "web": null,
-      "facebook": "https://www.facebook.com/207867532581140",
-      "instagram": null
-    },
-    {
-      "bar": "Mercadito La California",
-      "web": "https://starticket.cr",
-      "facebook": "https://www.facebook.com/MercadoLaCalifornia",
-      "instagram": null
-    },
-    {
-      "bar": "Jazz Café",
-      "web": null,
-      "facebook": "https://www.facebook.com/jazzcafe.costarica",
-      "instagram": null
-    },
-    {
-      "bar": "Bar Chamuco",
-      "web": null,
-      "facebook": null,
-      "instagram": null
-    },
-    {
-      "bar": "El Muro ArtPub & Comedy Club",
-      "web": null,
-      "facebook": "https://www.facebook.com/elmuroartpub",
-      "instagram": null
-    },
-    {
-      "bar": "Anfiteatro Imperial (Parque Viva)",
-      "web": "https://www.eticket.cr",
-      "facebook": null,
-      "instagram": null
-    },
-    {
-      "bar": "Casa Jimmy",
-      "web": null,
-      "facebook": null,
-      "instagram": null
-    },
-    {
-      "bar": "Mangisfera",
-      "web": null,
-      "facebook": null,
-      "instagram": null
-    },
-    {
-      "bar": "Campo Verde",
-      "web": null,
-      "facebook": "https://www.facebook.com/barrestaurantecampoverde/",
-      "instagram": null
-    },
-    {
-      "bar": "Cheers Cantina",
-      "web": null,
-      "facebook": "https://www.facebook.com/331851266682223",
-      "instagram": null
-    },
-    {
-      "bar": "Al Son del Fuego",
-      "web": null,
-      "facebook": null,
-      "instagram": null
-    },
-    {
-      "bar": "Music Factory",
-      "web": "https://musicfactorycr.com",
-      "facebook": null,
-      "instagram": null
-    },
-    {
-      "bar": "Oasis",
-      "web": null,
-      "facebook": null,
-      "instagram": null
-    },
-    {
-      "bar": "Centro de Eventos Pedregal",
-      "web": null,
-      "facebook": null,
-      "instagram": null
-    },
-    {
-      "nombre": "Butts Bar",
-      "facebook": "https://www.facebook.com/buttsbarmetal",
-      "nota": "Agregado por Josué el 2026-09-30: página del bar para monitorear eventos"
-    },
-    {
-      "bar": "Teatro Espressivo",
-      "web": null,
-      "facebook": "https://www.facebook.com/teatroespressivocr",
-      "instagram": null,
-      "nota": "Agregado por Josué el 2026-10-14: teatro en Curridabat (Momentum Pinares) que a veces programa conciertos de rock (ej. Time's Forgotten, Diesel); revisar su agenda por chivos"
-    },
-    {
-      "bar": "Central Pub London Room",
-      "web": "https://www.gamcultural.com/cr/p/v-CentralPubLondonRoom",
-      "facebook": null,
-      "instagram": null,
-      "nota": "Agregado 2026-10-15 por regla viceversa: sin página de Facebook confirmada"
-    },
-    {
-      "bar": "Fonda Mi Viejo",
-      "web": null,
-      "facebook": null,
-      "instagram": null,
-      "nota": "Agregado 2026-10-15 por regla viceversa: sin página encontrada"
-    },
-    {
-      "bar": "Fulcro Gastro Bar",
-      "web": "https://linktr.ee/fulcrogastrobar",
-      "facebook": "https://www.facebook.com/105288982219338/",
-      "instagram": null,
-      "nota": "Agregado 2026-10-15 por regla viceversa"
-    },
-    {
-      "bar": "Auditorio Vida Abundante",
-      "web": null,
-      "facebook": null,
-      "instagram": null,
-      "nota": "Agregado 2026-10-15 por regla viceversa: auditorio de iglesia, eventos ocasionales; sin página encontrada"
-    },
-    {
-      "bar": "CIC ANDE (Anfiteatro)",
-      "web": "https://www.ande.cr/",
-      "facebook": null,
-      "instagram": null,
-      "nota": "Agregado 2026-10-15 por regla viceversa: sin página propia, web de ANDE"
-    },
-    {
-      "bar": "Campo Ferial Hogar de Ancianos",
-      "web": null,
-      "facebook": null,
-      "instagram": null,
-      "nota": "Agregado 2026-10-15 por regla viceversa: sin página encontrada"
-    },
-    {
-      "bar": "Stein Room",
-      "web": null,
-      "facebook": null,
-      "instagram": null,
-      "nota": "Agregado 2026-10-15 por regla viceversa: sin página encontrada"
-    },
-    {
-      "bar": "Xcape Bar La Calle",
-      "web": "https://starticket.cr/o/3186/xcape-bar-la-calle",
-      "facebook": "https://www.facebook.com/181775361870374/",
-      "instagram": null,
-      "nota": "Agregado 2026-10-15 por regla viceversa"
-    },
-    {
-      "bar": "Palacio de los Deportes",
-      "web": "https://www.heredia.go.cr/",
-      "facebook": null,
-      "instagram": null,
-      "nota": "Agregado 2026-10-15 por regla viceversa: recinto municipal, sin página propia"
-    },
-    {
-      "bar": "Club de Bello",
-      "web": null,
-      "facebook": null,
-      "instagram": null,
-      "nota": "Agregado 2026-10-15 por regla viceversa (póster gira Bad Moon); sin página encontrada"
-    },
-    {
-      "bar": "Stereo Caníbal",
-      "web": null,
-      "facebook": null,
-      "instagram": null,
-      "nota": "Agregado 2026-10-15 por regla viceversa (póster gira Bad Moon); sin página encontrada"
-    },
-    {
-      "bar": "Antologías",
-      "web": null,
-      "facebook": null,
-      "instagram": null,
-      "nota": "Agregado 2026-10-15 por regla viceversa (póster gira Bad Moon); sin página encontrada"
-    },
-    {
-      "bar": "Montaña Viva",
-      "web": null,
-      "facebook": null,
-      "instagram": null,
-      "nota": "Agregado 2026-10-15 por regla viceversa (póster gira Bad Moon); sin página encontrada"
-    }
-  ],
-  "personas": [
-    {
-      "nombre": "Homel Lewis",
-      "facebook": "https://www.facebook.com/homel.lewis",
-      "nota": "Agregado por Josué el 2026-09-30: revisar sus posts por anuncios de chivos"
-    },
-    {
-      "nombre": "Blackline Productions CR",
-      "facebook": "https://www.facebook.com/blacklineproductionscr",
-      "nota": "Agregado por Josué el 2026-09-30: revisar sus posts por anuncios de chivos"
-    },
-    {
-      "nombre": "Los Barbas",
-      "facebook": "https://www.facebook.com/losbarbasmusic",
-      "nota": "Agregado por Josué el 2026-10-15: banda que anuncia sus chivos en su página; revisar sus posts por eventos"
-    },
-    {
-      "nombre": "Mantra CR",
-      "facebook": "https://www.facebook.com/mantracr",
-      "nota": "Agregado por Josué el 2026-10-15: banda que anuncia sus chivos en su página; revisar sus posts por eventos"
-    },
-    {
-      "nombre": "Deznuke",
-      "facebook": "https://www.facebook.com/DeznukePage",
-      "nota": "Agregado por Josué el 2026-10-15: banda que anuncia sus chivos en su página; revisar sus posts por eventos"
-    },
-    {
-      "nombre": "Colemesis",
-      "facebook": "https://www.facebook.com/colemesis",
-      "nota": "Agregado por Josué el 2026-10-15: banda que anuncia sus chivos en su página; revisar sus posts por eventos"
-    },
-    {
-      "nombre": "Acero Heavy Metal CR",
-      "facebook": "https://www.facebook.com/aceroheavymetalcr",
-      "nota": "Agregado por Josué el 2026-10-15: banda que anuncia sus chivos en su página; revisar sus posts por eventos"
-    },
-    {
-      "nombre": "InKharma",
-      "facebook": "https://www.facebook.com/inkharma",
-      "nota": "Agregado por Josué el 2026-10-15: banda que anuncia sus chivos en su página; revisar sus posts por eventos"
-    },
-    {
-      "nombre": "Forever Grey",
-      "facebook": null,
-      "nota": "Banda tica; agregada 2026-10-15 por regla (cartelera); sin página encontrada"
-    },
-    {
-      "nombre": "Mustang65",
-      "facebook": null,
-      "nota": "Tributo a Pearl Jam; agregada 2026-10-15 por regla (cartelera); sin página encontrada"
-    },
-    {
-      "nombre": "Diesel Rock CR",
-      "facebook": null,
-      "nota": "Agregada 2026-10-15 por regla (cartelera); sin página encontrada"
-    },
-    {
-      "nombre": "D'Classics",
-      "facebook": null,
-      "nota": "Agregada 2026-10-15 por regla (cartelera); Instagram @dclassicscr, sin Facebook encontrado"
-    },
-    {
-      "nombre": "The KILLERS Experience",
-      "facebook": null,
-      "nota": "Tributo a The Killers; agregada 2026-10-15 por regla (cartelera); sin página encontrada"
-    },
-    {
-      "nombre": "Los Cuchillos",
-      "facebook": null,
-      "nota": "Banda tica surf/garage; agregada 2026-10-15 por regla (cartelera); sin página encontrada"
-    },
-    {
-      "nombre": "Rawhead",
-      "facebook": null,
-      "nota": "Agregada 2026-10-15 por regla (cartelera); sin página encontrada"
-    },
-    {
-      "nombre": "Percance",
-      "facebook": null,
-      "nota": "Agregada 2026-10-15 por regla (cartelera); handle reportado /percance, URL no verificada"
-    },
-    {
-      "nombre": "Magpie Jay",
-      "facebook": null,
-      "nota": "Agregada 2026-10-15 por regla (cartelera); handle reportado MagpieJayBand, URL no verificada"
-    },
-    {
-      "nombre": "Ramón & The Go Go Dancer",
-      "facebook": null,
-      "nota": "Agregada 2026-10-15 por regla (cartelera); sin página encontrada"
-    },
-    {
-      "nombre": "The Freak & The Puppet",
-      "facebook": null,
-      "nota": "Banda tica rock alternativo; agregada 2026-10-15 por regla (cartelera); sin página encontrada"
-    },
-    {
-      "nombre": "Nomat",
-      "facebook": null,
-      "nota": "Agregada 2026-10-15 por regla (cartelera); sin página encontrada"
-    },
-    {
-      "nombre": "Burst Into Fire",
-      "facebook": null,
-      "nota": "Tributo a Bullet for My Valentine; agregada 2026-10-15 por regla (cartelera); sin página encontrada"
-    },
-    {
-      "nombre": "Endemia",
-      "facebook": null,
-      "nota": "Punk rock tico; agregada 2026-10-15 por regla (cartelera); sin página encontrada"
-    },
-    {
-      "nombre": "Bihotza",
-      "facebook": "https://www.facebook.com/missBihotza",
-      "nota": "Banda española (Madrid); agregada 2026-10-15 por regla (cartelera)"
-    },
-    {
-      "nombre": "Deceiver CR",
-      "facebook": "https://www.facebook.com/deceivercr",
-      "nota": "Agregado por Josué el 2026-10-15: banda que anuncia sus chivos en su página; revisar sus posts por eventos"
-    }
-  ]
+ "zona_horaria": "America/Costa Rica",
+ "frecuencia": "2 veces por dia (9am y 6pm CR)",
+ "nota": "Fuentes web abiertas. Facebook/Instagram directos se marcan pendiente: bloquean scraping sin token Meta. Esos se revisan manual o por WhatsApp al bar.",
+ "bares": [
+  {
+   "bar": "Bar Reflexiones",
+   "web": null,
+   "facebook": "https://www.facebook.com/profile.php?id=100077455964587",
+   "instagram": null
+  },
+  {
+   "bar": "Bar Legendario",
+   "web": null,
+   "facebook": "https://www.facebook.com/116247884902688/",
+   "instagram": null
+  },
+  {
+   "bar": "Bar Alcatraz",
+   "web": null,
+   "facebook": "https://www.facebook.com/BarAlca",
+   "instagram": null
+  },
+  {
+   "bar": "Bar Retro",
+   "web": null,
+   "facebook": null,
+   "instagram": null
+  },
+  {
+   "bar": "Mini Taberna",
+   "web": null,
+   "facebook": null,
+   "instagram": null
+  },
+  {
+   "bar": "Casa Azul",
+   "web": null,
+   "facebook": null,
+   "instagram": null
+  },
+  {
+   "bar": "MundoLoco El Chante",
+   "web": null,
+   "facebook": null,
+   "instagram": null
+  },
+  {
+   "bar": "Pepper's Club",
+   "web": "https://pepperclub.bar",
+   "facebook": null,
+   "instagram": null
+  },
+  {
+   "bar": "Amon Solar",
+   "web": "https://amonsolar.com",
+   "facebook": null,
+   "instagram": null
+  },
+  {
+   "bar": "Yellow Submarine Bar",
+   "web": null,
+   "facebook": "https://www.facebook.com/207867532581140",
+   "instagram": null
+  },
+  {
+   "bar": "Mercadito La California",
+   "web": "https://starticket.cr",
+   "facebook": "https://www.facebook.com/MercadoLaCalifornia",
+   "instagram": null
+  },
+  {
+   "bar": "Jazz Café",
+   "web": null,
+   "facebook": "https://www.facebook.com/jazzcafe.costarica",
+   "instagram": null
+  },
+  {
+   "bar": "Bar Chamuco",
+   "web": null,
+   "facebook": null,
+   "instagram": null
+  },
+  {
+   "bar": "El Muro ArtPub & Comedy Club",
+   "web": null,
+   "facebook": "https://www.facebook.com/elmuroartpub",
+   "instagram": null
+  },
+  {
+   "bar": "Anfiteatro Imperial (Parque Viva)",
+   "web": "https://www.eticket.cr",
+   "facebook": null,
+   "instagram": null
+  },
+  {
+   "bar": "Casa Jimmy",
+   "web": null,
+   "facebook": null,
+   "instagram": null
+  },
+  {
+   "bar": "Mangisfera",
+   "web": null,
+   "facebook": null,
+   "instagram": null
+  },
+  {
+   "bar": "Campo Verde",
+   "web": null,
+   "facebook": "https://www.facebook.com/barrestaurantecampoverde/",
+   "instagram": null
+  },
+  {
+   "bar": "Cheers Cantina",
+   "web": null,
+   "facebook": "https://www.facebook.com/331851266682223",
+   "instagram": null
+  },
+  {
+   "bar": "Al Son del Fuego",
+   "web": null,
+   "facebook": null,
+   "instagram": null
+  },
+  {
+   "bar": "Music Factory",
+   "web": "https://musicfactorycr.com",
+   "facebook": null,
+   "instagram": null
+  },
+  {
+   "bar": "Oasis",
+   "web": null,
+   "facebook": null,
+   "instagram": null
+  },
+  {
+   "bar": "Centro de Eventos Pedregal",
+   "web": null,
+   "facebook": null,
+   "instagram": null
+  },
+  {
+   "nombre": "Butts Bar",
+   "facebook": "https://www.facebook.com/buttsbarmetal",
+   "nota": "Agregado por Josué el 2026-09-30: página del bar para monitorear eventos"
+  },
+  {
+   "bar": "Teatro Espressivo",
+   "web": null,
+   "facebook": "https://www.facebook.com/teatroespressivocr",
+   "instagram": null,
+   "nota": "Agregado por Josué el 2026-10-14: teatro en Curridabat (Momentum Pinares) que a veces programa conciertos de rock (ej. Time's Forgotten, Diesel); revisar su agenda por chivos"
+  },
+  {
+   "bar": "Central Pub London Room",
+   "web": "https://www.gamcultural.com/cr/p/v-CentralPubLondonRoom",
+   "facebook": null,
+   "instagram": null,
+   "nota": "Agregado 2026-10-15 por regla viceversa: sin página de Facebook confirmada"
+  },
+  {
+   "bar": "Fonda Mi Viejo",
+   "web": null,
+   "facebook": null,
+   "instagram": null,
+   "nota": "Agregado 2026-10-15 por regla viceversa: sin página encontrada"
+  },
+  {
+   "bar": "Fulcro Gastro Bar",
+   "web": "https://linktr.ee/fulcrogastrobar",
+   "facebook": "https://www.facebook.com/105288982219338/",
+   "instagram": null,
+   "nota": "Agregado 2026-10-15 por regla viceversa"
+  },
+  {
+   "bar": "Auditorio Vida Abundante",
+   "web": null,
+   "facebook": null,
+   "instagram": null,
+   "nota": "Agregado 2026-10-15 por regla viceversa: auditorio de iglesia, eventos ocasionales; sin página encontrada"
+  },
+  {
+   "bar": "CIC ANDE (Anfiteatro)",
+   "web": "https://www.ande.cr/",
+   "facebook": null,
+   "instagram": null,
+   "nota": "Agregado 2026-10-15 por regla viceversa: sin página propia, web de ANDE"
+  },
+  {
+   "bar": "Campo Ferial Hogar de Ancianos",
+   "web": null,
+   "facebook": null,
+   "instagram": null,
+   "nota": "Agregado 2026-10-15 por regla viceversa: sin página encontrada"
+  },
+  {
+   "bar": "Stein Room",
+   "web": null,
+   "facebook": null,
+   "instagram": null,
+   "nota": "Agregado 2026-10-15 por regla viceversa: sin página encontrada"
+  },
+  {
+   "bar": "Xcape Bar La Calle",
+   "web": "https://starticket.cr/o/3186/xcape-bar-la-calle",
+   "facebook": "https://www.facebook.com/181775361870374/",
+   "instagram": null,
+   "nota": "Agregado 2026-10-15 por regla viceversa"
+  },
+  {
+   "bar": "Palacio de los Deportes",
+   "web": "https://www.heredia.go.cr/",
+   "facebook": null,
+   "instagram": null,
+   "nota": "Agregado 2026-10-15 por regla viceversa: recinto municipal, sin página propia"
+  },
+  {
+   "bar": "Club de Bello",
+   "web": null,
+   "facebook": null,
+   "instagram": null,
+   "nota": "Agregado 2026-10-15 por regla viceversa (póster gira Bad Moon); sin página encontrada"
+  },
+  {
+   "bar": "Stereo Caníbal",
+   "web": null,
+   "facebook": null,
+   "instagram": null,
+   "nota": "Agregado 2026-10-15 por regla viceversa (póster gira Bad Moon); sin página encontrada"
+  },
+  {
+   "bar": "Antologías",
+   "web": null,
+   "facebook": null,
+   "instagram": null,
+   "nota": "Agregado 2026-10-15 por regla viceversa (póster gira Bad Moon); sin página encontrada"
+  },
+  {
+   "bar": "Montaña Viva",
+   "web": null,
+   "facebook": null,
+   "instagram": null,
+   "nota": "Agregado 2026-10-15 por regla viceversa (póster gira Bad Moon); sin página encontrada"
+  },
+  {
+   "bar": "El Corsa",
+   "web": null,
+   "facebook": null,
+   "instagram": null,
+   "nota": "Bar Restaurante El Corsa, Calle de la Amargura, San Pedro, Montes de Oca. Agregado 2026-10-16: toca Endemia (Noche endémica). Sin página encontrada."
+  }
+ ],
+ "personas": [
+  {
+   "nombre": "Homel Lewis",
+   "facebook": "https://www.facebook.com/homel.lewis",
+   "nota": "Agregado por Josué el 2026-09-30: revisar sus posts por anuncios de chivos"
+  },
+  {
+   "nombre": "Blackline Productions CR",
+   "facebook": "https://www.facebook.com/blacklineproductionscr",
+   "nota": "Agregado por Josué el 2026-09-30: revisar sus posts por anuncios de chivos"
+  },
+  {
+   "nombre": "Los Barbas",
+   "facebook": "https://www.facebook.com/losbarbasmusic",
+   "nota": "Agregado por Josué el 2026-10-15: banda que anuncia sus chivos en su página; revisar sus posts por eventos"
+  },
+  {
+   "nombre": "Mantra CR",
+   "facebook": "https://www.facebook.com/mantracr",
+   "nota": "Agregado por Josué el 2026-10-15: banda que anuncia sus chivos en su página; revisar sus posts por eventos"
+  },
+  {
+   "nombre": "Deznuke",
+   "facebook": "https://www.facebook.com/DeznukePage",
+   "nota": "Agregado por Josué el 2026-10-15: banda que anuncia sus chivos en su página; revisar sus posts por eventos"
+  },
+  {
+   "nombre": "Colemesis",
+   "facebook": "https://www.facebook.com/colemesis",
+   "nota": "Agregado por Josué el 2026-10-15: banda que anuncia sus chivos en su página; revisar sus posts por eventos"
+  },
+  {
+   "nombre": "Acero Heavy Metal CR",
+   "facebook": "https://www.facebook.com/aceroheavymetalcr",
+   "nota": "Agregado por Josué el 2026-10-15: banda que anuncia sus chivos en su página; revisar sus posts por eventos"
+  },
+  {
+   "nombre": "InKharma",
+   "facebook": "https://www.facebook.com/inkharma",
+   "nota": "Agregado por Josué el 2026-10-15: banda que anuncia sus chivos en su página; revisar sus posts por eventos"
+  },
+  {
+   "nombre": "Forever Grey",
+   "facebook": null,
+   "nota": "Banda tica; agregada 2026-10-15 por regla (cartelera); sin página encontrada"
+  },
+  {
+   "nombre": "Mustang65",
+   "facebook": null,
+   "nota": "Tributo a Pearl Jam; agregada 2026-10-15 por regla (cartelera); sin página encontrada"
+  },
+  {
+   "nombre": "Diesel Rock CR",
+   "facebook": null,
+   "nota": "Agregada 2026-10-15 por regla (cartelera); sin página encontrada"
+  },
+  {
+   "nombre": "D'Classics",
+   "facebook": null,
+   "nota": "Agregada 2026-10-15 por regla (cartelera); Instagram @dclassicscr, sin Facebook encontrado"
+  },
+  {
+   "nombre": "The KILLERS Experience",
+   "facebook": null,
+   "nota": "Tributo a The Killers; agregada 2026-10-15 por regla (cartelera); sin página encontrada"
+  },
+  {
+   "nombre": "Los Cuchillos",
+   "facebook": null,
+   "nota": "Banda tica surf/garage; agregada 2026-10-15 por regla (cartelera); sin página encontrada"
+  },
+  {
+   "nombre": "Rawhead",
+   "facebook": null,
+   "nota": "Agregada 2026-10-15 por regla (cartelera); sin página encontrada"
+  },
+  {
+   "nombre": "Percance",
+   "facebook": null,
+   "nota": "Agregada 2026-10-15 por regla (cartelera); handle reportado /percance, URL no verificada"
+  },
+  {
+   "nombre": "Magpie Jay",
+   "facebook": null,
+   "nota": "Agregada 2026-10-15 por regla (cartelera); handle reportado MagpieJayBand, URL no verificada"
+  },
+  {
+   "nombre": "Ramón & The Go Go Dancer",
+   "facebook": null,
+   "nota": "Agregada 2026-10-15 por regla (cartelera); sin página encontrada"
+  },
+  {
+   "nombre": "The Freak & The Puppet",
+   "facebook": null,
+   "nota": "Banda tica rock alternativo; agregada 2026-10-15 por regla (cartelera); sin página encontrada"
+  },
+  {
+   "nombre": "Nomat",
+   "facebook": null,
+   "nota": "Agregada 2026-10-15 por regla (cartelera); sin página encontrada"
+  },
+  {
+   "nombre": "Burst Into Fire",
+   "facebook": null,
+   "nota": "Tributo a Bullet for My Valentine; agregada 2026-10-15 por regla (cartelera); sin página encontrada"
+  },
+  {
+   "nombre": "Endemia",
+   "facebook": null,
+   "nota": "Punk rock tico; agregada 2026-10-15 por regla (cartelera); sin página encontrada"
+  },
+  {
+   "nombre": "Bihotza",
+   "facebook": "https://www.facebook.com/missBihotza",
+   "nota": "Banda española (Madrid); agregada 2026-10-15 por regla (cartelera)"
+  },
+  {
+   "nombre": "Deceiver CR",
+   "facebook": "https://www.facebook.com/deceivercr",
+   "nota": "Agregado por Josué el 2026-10-15: banda que anuncia sus chivos en su página; revisar sus posts por eventos"
+  },
+  {
+   "nombre": "Candlelight Stories",
+   "facebook": null,
+   "nota": "sin página encontrada. Agregada 2026-10-16: rock progresivo/art rock tico; debut en vivo 2026-10-20 en MundoLoco El Chante."
+  }
+ ]
 }
