@@ -1,5 +1,5 @@
 {
- "stamp": "20261015-1905",
+ "stamp": "20261016-0422",
  "novedades": [
   {
    "bar": "Pepper's Club",
@@ -19,14 +19,64 @@
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261015-1905/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
-    "candidatos/20261015-1905/anfiteatro-imperial-parque-viva-d48b3535.jpg",
-    "candidatos/20261015-1905/anfiteatro-imperial-parque-viva-9c0800c6.jpg",
-    "candidatos/20261015-1905/anfiteatro-imperial-parque-viva-4f5707eb.jpg",
-    "candidatos/20261015-1905/anfiteatro-imperial-parque-viva-2b27c54c.jpg",
-    "candidatos/20261015-1905/anfiteatro-imperial-parque-viva-fe1fcacd.jpg",
-    "candidatos/20261015-1905/anfiteatro-imperial-parque-viva-76060bdc.jpg"
+    "candidatos/20261016-0422/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
+    "candidatos/20261016-0422/anfiteatro-imperial-parque-viva-54aab93a.jpg",
+    "candidatos/20261016-0422/anfiteatro-imperial-parque-viva-b0637474.jpg",
+    "candidatos/20261016-0422/anfiteatro-imperial-parque-viva-ad5133bd.jpg",
+    "candidatos/20261016-0422/anfiteatro-imperial-parque-viva-d5e93129.jpg",
+    "candidatos/20261016-0422/anfiteatro-imperial-parque-viva-dbb88842.jpg",
+    "candidatos/20261016-0422/anfiteatro-imperial-parque-viva-710646b9.jpg"
    ]
+  },
+  {
+   "bar": "Music Factory",
+   "fuente": "https://musicfactorycr.com",
+   "tipo": "cambio_detectado",
+   "titulo": "Music Factory CR - 3 Restaurantes y Música en Vivo",
+   "imagenes": [
+    "candidatos/20261016-0422/music-factory-891671a1.jpg",
+    "candidatos/20261016-0422/music-factory-eb593a57.jpg",
+    "candidatos/20261016-0422/music-factory-940e43a7.jpg"
+   ]
+  },
+  {
+   "bar": "Central Pub London Room",
+   "fuente": "https://www.gamcultural.com/cr/p/v-CentralPubLondonRoom",
+   "tipo": "cambio_detectado",
+   "titulo": "Central Pub London Room - GAM Cultural",
+   "imagenes": [],
+   "logo_bar": true
+  },
+  {
+   "bar": "Fulcro Gastro Bar",
+   "fuente": "https://linktr.ee/fulcrogastrobar",
+   "tipo": "cambio_detectado",
+   "titulo": "@fulcrogastrobarr Official: TikTok, Instagram, Facebook | Linktree",
+   "imagenes": [],
+   "logo_bar": true
+  },
+  {
+   "bar": "CIC ANDE (Anfiteatro)",
+   "fuente": "https://www.ande.cr/",
+   "tipo": "cambio_detectado",
+   "titulo": "Sindicato ANDE | www.ande.cr",
+   "imagenes": [],
+   "logo_bar": true
+  },
+  {
+   "bar": "Xcape Bar La Calle",
+   "fuente": "https://starticket.cr/o/3186/xcape-bar-la-calle",
+   "tipo": "cambio_detectado",
+   "titulo": "Xcape Bar La Calle",
+   "imagenes": [],
+   "logo_bar": true
+  },
+  {
+   "bar": "Palacio de los Deportes",
+   "fuente": "https://www.heredia.go.cr/",
+   "tipo": "cambio_detectado",
+   "titulo": "Portal Municipalidad de Heredia",
+   "imagenes": []
   }
  ],
  "pendientes": [
@@ -49,7 +99,15 @@
   "Oasis: sin fuente web, revision manual o WhatsApp",
   "Centro de Eventos Pedregal: sin fuente web, revision manual o WhatsApp",
   "Butts Bar: FB/IG configurado pero requiere token o revision manual",
-  "Teatro Espressivo: FB/IG configurado pero requiere token o revision manual"
+  "Teatro Espressivo: FB/IG configurado pero requiere token o revision manual",
+  "Fonda Mi Viejo: sin fuente web, revision manual o WhatsApp",
+  "Auditorio Vida Abundante: sin fuente web, revision manual o WhatsApp",
+  "Campo Ferial Hogar de Ancianos: sin fuente web, revision manual o WhatsApp",
+  "Stein Room: sin fuente web, revision manual o WhatsApp",
+  "Club de Bello: sin fuente web, revision manual o WhatsApp",
+  "Stereo Caníbal: sin fuente web, revision manual o WhatsApp",
+  "Antologías: sin fuente web, revision manual o WhatsApp",
+  "Montaña Viva: sin fuente web, revision manual o WhatsApp"
  ],
  "eventos_conocidos": 21
 }
