@@ -1,5 +1,5 @@
 {
- "stamp": "20261016-1846",
+ "stamp": "20261017-0415",
  "novedades": [
   {
    "bar": "Pepper's Club",
@@ -19,32 +19,25 @@
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261016-1846/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
-    "candidatos/20261016-1846/anfiteatro-imperial-parque-viva-fe1fcacd.jpg",
-    "candidatos/20261016-1846/anfiteatro-imperial-parque-viva-2b27c54c.jpg",
-    "candidatos/20261016-1846/anfiteatro-imperial-parque-viva-e88c295f.jpg",
-    "candidatos/20261016-1846/anfiteatro-imperial-parque-viva-b338d3a4.jpg",
-    "candidatos/20261016-1846/anfiteatro-imperial-parque-viva-a86e3305.jpg",
-    "candidatos/20261016-1846/anfiteatro-imperial-parque-viva-6b2e1209.jpg"
-   ]
-  },
-  {
-   "bar": "Music Factory",
-   "fuente": "https://musicfactorycr.com",
-   "tipo": "cambio_detectado",
-   "titulo": "Music Factory CR - 3 Restaurantes y Música en Vivo",
-   "imagenes": [
-    "candidatos/20261016-1846/music-factory-eb593a57.jpg",
-    "candidatos/20261016-1846/music-factory-940e43a7.jpg",
-    "candidatos/20261016-1846/music-factory-1c4f6b16.jpg"
+    "candidatos/20261017-0415/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
+    "candidatos/20261017-0415/anfiteatro-imperial-parque-viva-2b27c54c.jpg",
+    "candidatos/20261017-0415/anfiteatro-imperial-parque-viva-d37ac2b0.jpg",
+    "candidatos/20261017-0415/anfiteatro-imperial-parque-viva-4f5707eb.jpg",
+    "candidatos/20261017-0415/anfiteatro-imperial-parque-viva-ed1ede53.jpg",
+    "candidatos/20261017-0415/anfiteatro-imperial-parque-viva-5a41518b.jpg",
+    "candidatos/20261017-0415/anfiteatro-imperial-parque-viva-5fab6f76.jpg"
    ]
   },
   {
    "bar": "Fulcro Gastro Bar",
    "fuente": "https://linktr.ee/fulcrogastrobar",
    "tipo": "cambio_detectado",
-   "titulo": "@fulcrogastrobarr Restaurant - Visit to Find Food Options & See @fulcrogastrobarr Social Media & Official Accounts | Linktree",
-   "imagenes": []
+   "titulo": "@fulcrogastrobarr Official: TikTok, Instagram, Facebook | Linktree",
+   "imagenes": [
+    "candidatos/20261017-0415/fulcro-gastro-bar-f6013b1a.jpg",
+    "candidatos/20261017-0415/fulcro-gastro-bar-7b1b1ace.jpg",
+    "candidatos/20261017-0415/fulcro-gastro-bar-aad1e031.jpg"
+   ]
   }
  ],
  "pendientes": [
@@ -75,7 +68,8 @@
   "Club de Bello: sin fuente web, revision manual o WhatsApp",
   "Stereo Caníbal: sin fuente web, revision manual o WhatsApp",
   "Antologías: sin fuente web, revision manual o WhatsApp",
-  "Montaña Viva: sin fuente web, revision manual o WhatsApp"
+  "Montaña Viva: sin fuente web, revision manual o WhatsApp",
+  "El Corsa: sin fuente web, revision manual o WhatsApp"
  ],
  "eventos_conocidos": 21
 }

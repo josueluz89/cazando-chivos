@@ -1,6 +1,6 @@
-# Vigilancia 20261016-1846 (2x/dia)
+# Vigilancia 20261017-0415 (2x/dia)
 
-Novedades: 5 | Fuentes pendientes: 28
+Novedades: 4 | Fuentes pendientes: 29
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
 
 ## Pepper's Club
@@ -13,24 +13,20 @@ Novedades: 5 | Fuentes pendientes: 28
 
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261016-1846/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
-  - Imagen original: candidatos/20261016-1846/anfiteatro-imperial-parque-viva-fe1fcacd.jpg
-  - Imagen original: candidatos/20261016-1846/anfiteatro-imperial-parque-viva-2b27c54c.jpg
-  - Imagen original: candidatos/20261016-1846/anfiteatro-imperial-parque-viva-e88c295f.jpg
-  - Imagen original: candidatos/20261016-1846/anfiteatro-imperial-parque-viva-b338d3a4.jpg
-  - Imagen original: candidatos/20261016-1846/anfiteatro-imperial-parque-viva-a86e3305.jpg
-  - Imagen original: candidatos/20261016-1846/anfiteatro-imperial-parque-viva-6b2e1209.jpg
-
-## Music Factory
-- Fuente: https://musicfactorycr.com | Tipo: cambio_detectado
-- Titulo: Music Factory CR - 3 Restaurantes y Música en Vivo
-  - Imagen original: candidatos/20261016-1846/music-factory-eb593a57.jpg
-  - Imagen original: candidatos/20261016-1846/music-factory-940e43a7.jpg
-  - Imagen original: candidatos/20261016-1846/music-factory-1c4f6b16.jpg
+  - Imagen original: candidatos/20261017-0415/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
+  - Imagen original: candidatos/20261017-0415/anfiteatro-imperial-parque-viva-2b27c54c.jpg
+  - Imagen original: candidatos/20261017-0415/anfiteatro-imperial-parque-viva-d37ac2b0.jpg
+  - Imagen original: candidatos/20261017-0415/anfiteatro-imperial-parque-viva-4f5707eb.jpg
+  - Imagen original: candidatos/20261017-0415/anfiteatro-imperial-parque-viva-ed1ede53.jpg
+  - Imagen original: candidatos/20261017-0415/anfiteatro-imperial-parque-viva-5a41518b.jpg
+  - Imagen original: candidatos/20261017-0415/anfiteatro-imperial-parque-viva-5fab6f76.jpg
 
 ## Fulcro Gastro Bar
 - Fuente: https://linktr.ee/fulcrogastrobar | Tipo: cambio_detectado
-- Titulo: @fulcrogastrobarr Restaurant - Visit to Find Food Options & See @fulcrogastrobarr Social Media & Official Accounts | Linktree
+- Titulo: @fulcrogastrobarr Official: TikTok, Instagram, Facebook | Linktree
+  - Imagen original: candidatos/20261017-0415/fulcro-gastro-bar-f6013b1a.jpg
+  - Imagen original: candidatos/20261017-0415/fulcro-gastro-bar-7b1b1ace.jpg
+  - Imagen original: candidatos/20261017-0415/fulcro-gastro-bar-aad1e031.jpg
 
 ## Pendientes (revision manual/WhatsApp)
 - Bar Reflexiones: FB/IG configurado pero requiere token o revision manual
@@ -61,3 +57,4 @@ Novedades: 5 | Fuentes pendientes: 28
 - Stereo Caníbal: sin fuente web, revision manual o WhatsApp
 - Antologías: sin fuente web, revision manual o WhatsApp
 - Montaña Viva: sin fuente web, revision manual o WhatsApp
+- El Corsa: sin fuente web, revision manual o WhatsApp
