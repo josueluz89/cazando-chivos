@@ -168,7 +168,7 @@
  },
  {
   "nombre": "Bar Retro",
-  "direccion": "Dirección sin confirmar",
+  "direccion": "Av. 2, 50 m este de la entrada al Barrio Chino, frente a parada de Tres Ríos, San José",
   "estilo": "",
   "historial": [],
   "telefono": ""
@@ -358,6 +358,13 @@
  {
   "nombre": "El Corsa",
   "direccion": "El Corsa, Calle de la Amargura, San Pedro, Montes de Oca",
+  "estilo": "",
+  "telefono": "",
+  "historial": []
+ },
+ {
+  "nombre": "La Esquina Rock Bar",
+  "direccion": "La Esquina Rock Bar, 100 m norte de la UNA, Heredia",
   "estilo": "",
   "telefono": "",
   "historial": []

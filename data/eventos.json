@@ -348,6 +348,18 @@
   "region": "San José"
  },
  {
+  "banda": "Macbeth (regreso) + Buenaire + Bufonic",
+  "bar": "Stein Room",
+  "cover": "",
+  "direccion_display": "Stein Room, Edificio Steinvorth, El Carmen, San José",
+  "fecha": "2026-10-17",
+  "flyer": "",
+  "fuente": "https://www.teletica.com/entretenimiento/macbeth-prepara-su-regreso-a-los-escenarios-con-un-nuevo-ep_417713",
+  "hora": "19:00",
+  "nota": "Punk tico: regreso de Macbeth (nacida 2004) con EP 'Veinte años después'; invitadas Buenaire (banda nueva) y Bufonic.",
+  "region": "San José"
+ },
+ {
   "banda": "Brutal Assault: Six Feet Under + Malevolent Creation + Mystic Circle",
   "bar": "Pepper's Club",
   "fecha": "2026-10-17",
@@ -357,6 +369,18 @@
   "direccion_display": "Av. 34, Calle 61-63, Zapote, San José",
   "region": "San José",
   "fuente": "https://eleven-to.com/"
+ },
+ {
+  "banda": "Tributo a Avenged Sevenfold",
+  "bar": "Amon Solar",
+  "cover": "",
+  "direccion_display": "Calle 3, Av 9-11, Barrio Amón, San José",
+  "fecha": "2026-10-17",
+  "flyer": "",
+  "fuente": "https://www.gamcultural.com/cr/events/1356950/twin-tribes",
+  "hora": "20:00",
+  "nota": "Tributo en vivo. Hora 20:00 según patrón GAM Cultural (ficha 2026-10-18T02:00).",
+  "region": "San José"
  },
  {
   "banda": "The KILLERS Experience (tributo a The Killers)",
@@ -403,6 +427,30 @@
   "direccion_display": "Av. 34, Calle 61-63, Zapote, San José",
   "region": "San José",
   "fuente": "https://es.concerts-metal.com/"
+ },
+ {
+  "banda": "Diesel Rock CR — Night of the Damned (Halloween Sessions)",
+  "bar": "Teatro Espressivo",
+  "cover": "¢12.500",
+  "direccion_display": "Teatro Espressivo, Momentum Pinares, Curridabat",
+  "fecha": "2026-10-22",
+  "flyer": "flyers/diesel-rock-cr-night-of-the-damned-halloween-sessions-2026-10-22.jpg",
+  "fuente": "https://boleteria.espressivo.cr/eventperformances.asp?evt=521",
+  "hora": "20:00",
+  "nota": "Única presentación; repertorio rock + ambientación Halloween. Precio IVA y cargos incluidos.",
+  "region": "San José"
+ },
+ {
+  "banda": "SEKA | Desorden Siniestro | Adrián Poveda",
+  "bar": "Amon Solar",
+  "cover": "",
+  "direccion_display": "Calle 3, Av 9-11, Barrio Amón, San José",
+  "fecha": "2026-10-23",
+  "flyer": "",
+  "fuente": "https://www.gamcultural.com/cr/events/1356950/twin-tribes",
+  "hora": "19:00",
+  "nota": "Punk tico (Seka) en vivo. Hora 19:00 explícita en GAM Cultural.",
+  "region": "San José"
  },
  {
   "banda": "Bad Moon (tributo a Creedence Clearwater Revival)",
@@ -479,6 +527,18 @@
   "region": "Alajuela"
  },
  {
+  "banda": "Tributo Soda Stereo: 40 años de SIGNOS + éxitos de Soda Stereo & Cerati",
+  "bar": "Jazz Café",
+  "cover": "",
+  "direccion_display": "Jazz Café, Escazú",
+  "fecha": "2026-11-04",
+  "flyer": "",
+  "fuente": "https://www.gamcultural.com/cr/events/1690317/sesion-de-rock-clasico-en-jazz-cafe-7-de-noviembre",
+  "hora": "20:00",
+  "nota": "Tributo en vivo; distinto al show Soda Stereo 2026 del 11 nov en Parque Viva.",
+  "region": "San José"
+ },
+ {
   "banda": "Rawhead en concierto — White Metal (covers)",
   "bar": "Auditorio Vida Abundante",
   "fecha": "2026-11-06",
@@ -489,6 +549,30 @@
   "region": "San José",
   "fuente": "https://www.facebook.com/events/1539369150695684/",
   "nota": "Metal y Fe presenta. Entrada gratuita."
+ },
+ {
+  "banda": "Rock Hyrax — The Awakening",
+  "bar": "La Esquina Rock Bar",
+  "cover": "Preventa ₡2.000 / día del evento ₡3.000",
+  "direccion_display": "La Esquina Rock Bar, 100 m norte de la UNA, Heredia",
+  "fecha": "2026-11-06",
+  "flyer": "flyers/rock-hyrax-the-awakening-2026-11-06.jpg",
+  "fuente": "https://ticoticket.com/event/5/rock-hyrax-the-awakening",
+  "hora": "20:00",
+  "nota": "Concierto debut en vivo: clásicos del rock y metal. Reservas 8941-6204 / 7114-7439.",
+  "region": "Heredia"
+ },
+ {
+  "banda": "Kaos Urbano + Bastardos Oi!",
+  "bar": "Mercadito La California",
+  "cover": "₡27.000 final",
+  "direccion_display": "Calle 21, Av 0-1, Barrio La California, San José",
+  "fecha": "2026-11-07",
+  "flyer": "flyers/kaos-urbano-bastardos-oi-2026-11-07.jpg",
+  "fuente": "https://www.passline.com/eventos/kaos-urbano-en-costa-rica",
+  "hora": "18:00",
+  "nota": "Gira 30 aniversario, punk callejero. Solo +18. Banda nacional: Bastardos Oi!.",
+  "region": "San José"
  },
  {
   "banda": "Percance 20 Años (ska/rock CR)",
@@ -562,6 +646,30 @@
   "region": "San José"
  },
  {
+  "banda": "Sin Anestesia: The Riot Company + Morfinx + Gorilla Fun",
+  "bar": "Stereo Caníbal",
+  "cover": "Preventa $10,40 / General $12,60",
+  "direccion_display": "Stereo Caníbal, San José",
+  "fecha": "2026-11-13",
+  "flyer": "flyers/sin-anestesia-the-riot-company-morfinx-gorilla-fun-2026-11-13.png",
+  "fuente": "https://starticket.cr/e/sin-anestesia/10242",
+  "hora": "19:00",
+  "nota": "Rock alternativo y punk en vivo: The Riot Company (nuevo sencillo Entre Líneas), Morfinx (punk rock), Gorilla Fun (rock alternativo).",
+  "region": "San José"
+ },
+ {
+  "banda": "Awesome as Fuck presenta Tributo a Green Day",
+  "bar": "Amon Solar",
+  "cover": "",
+  "direccion_display": "Calle 3, Av 9-11, Barrio Amón, San José",
+  "fecha": "2026-11-13",
+  "flyer": "",
+  "fuente": "https://www.gamcultural.com/cr/events/1356950/twin-tribes",
+  "hora": "21:00",
+  "nota": "Tributo en vivo. Hora 21:00 según patrón GAM Cultural (ficha 2026-11-14T03:00).",
+  "region": "San José"
+ },
+ {
   "banda": "Rock con Todo Corazón (festival benéfico)",
   "bar": "Campo Ferial Hogar de Ancianos",
   "fecha": "2026-11-14",
@@ -584,6 +692,18 @@
   "fuente": "https://eticket.cr/eventos.aspx?idartista=1366",
   "hora": "19:00",
   "region": "Alajuela"
+ },
+ {
+  "banda": "Invasion Grunge Chepe: The Skarlatas + In Front To Doom + Needlejar",
+  "bar": "Bar Retro",
+  "cover": "₡2.000",
+  "direccion_display": "Av. 2, 50 m este de la entrada al Barrio Chino, frente a parada de Tres Ríos, San José",
+  "fecha": "2026-11-14",
+  "flyer": "flyers/invasion-grunge-chepe-the-skarlatas-in-front-to-doom-needlejar-2026-11-14.jpg",
+  "fuente": "https://delfino.cr/2026/10/invasion-grunge-chepe-reunira-a-tres-bandas-costarricenses-en-san-jose",
+  "hora": "20:00",
+  "nota": "3ª edición: grunge / nu metal / post-grunge en vivo. Puertas 19:30. Reservas 7035-4145.",
+  "region": "San José"
  },
  {
   "banda": "Los Fabulosos Cadillacs",
@@ -655,6 +775,18 @@
   "nota": "Hardcore punk en vivo."
  },
  {
+  "banda": "Eclipse y Demolition Lovers presenta 20 aniversario de Black Parade (tributo a My Chemical Romance)",
+  "bar": "Pepper's Club",
+  "cover": "",
+  "direccion_display": "Av. 34, Calle 61-63, Zapote, San José",
+  "fecha": "2026-11-28",
+  "flyer": "",
+  "fuente": "https://www.gamcultural.com/cr/events/1480274/avalanch-trick-or-treat-en-costa-rica",
+  "hora": "20:00",
+  "nota": "Tributo en vivo. Hora 20:00 según patrón GAM Cultural (ficha 2026-11-29T02:00).",
+  "region": "San José"
+ },
+ {
   "banda": "Bad Moon (tributo a Creedence Clearwater Revival)",
   "bar": "Bar Reflexiones",
   "fecha": "2026-11-28",
@@ -662,6 +794,18 @@
   "flyer": "flyers/badmoon-tour.jpg",
   "direccion_display": "San Rafael de Heredia",
   "region": "Heredia"
+ },
+ {
+  "banda": "A Night Like This: Tributo a The Cure",
+  "bar": "Amon Solar",
+  "cover": "$7,98",
+  "direccion_display": "Calle 3, Av 9-11, Barrio Amón, San José",
+  "fecha": "2026-12-04",
+  "flyer": "flyers/a-night-like-this-tributo-a-the-cure-2026-12-04.png",
+  "fuente": "https://starticket.cr/e/a-night-like-this-tributo-the-cure/10248",
+  "hora": "20:00",
+  "nota": "Homenaje a The Cure (post-punk / rock alternativo).",
+  "region": "San José"
  },
  {
   "banda": "Endemia + Bihotza",
@@ -697,5 +841,17 @@
   "region": "Heredia",
   "fuente": "https://eleven-to.com/product/kreator-y-dimmu-borgir-the-grand-karmageddon/",
   "entradas": "Fecha única en Centroamérica. Apertura de puertas 18:00."
+ },
+ {
+  "banda": "BLACK SABBATH & OZZY OSBOURNE — THE LEGACY",
+  "bar": "Jazz Café",
+  "cover": "",
+  "direccion_display": "Jazz Café, Escazú",
+  "fecha": "2026-12-12",
+  "flyer": "",
+  "fuente": "https://www.gamcultural.com/cr/events/1690317/sesion-de-rock-clasico-en-jazz-cafe-7-de-noviembre",
+  "hora": "20:00",
+  "nota": "Tributo en vivo. Hora 20:00 según patrón GAM Cultural (ficha 2026-12-13T02:00).",
+  "region": "San José"
  }
 ]
