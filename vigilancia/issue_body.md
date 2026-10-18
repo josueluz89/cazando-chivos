@@ -1,11 +1,7 @@
-# Vigilancia 20261017-1751 (2x/dia)
+# Vigilancia 20261018-0421 (2x/dia)
 
-Novedades: 6 | Fuentes pendientes: 29
+Novedades: 2 | Fuentes pendientes: 31
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
-
-## Pepper's Club
-- Fuente: https://pepperclub.bar | Tipo: fuente_caida
-- Detalle: HTTPError: HTTP Error 403: Forbidden
 
 ## Amon Solar
 - Fuente: https://amonsolar.com | Tipo: fuente_caida
@@ -13,28 +9,13 @@ Novedades: 6 | Fuentes pendientes: 29
 
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261017-1751/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
-  - Imagen original: candidatos/20261017-1751/anfiteatro-imperial-parque-viva-54aab93a.jpg
-  - Imagen original: candidatos/20261017-1751/anfiteatro-imperial-parque-viva-710646b9.jpg
-  - Imagen original: candidatos/20261017-1751/anfiteatro-imperial-parque-viva-ad5133bd.jpg
-  - Imagen original: candidatos/20261017-1751/anfiteatro-imperial-parque-viva-9c0800c6.jpg
-  - Imagen original: candidatos/20261017-1751/anfiteatro-imperial-parque-viva-f4861e7a.jpg
-  - Imagen original: candidatos/20261017-1751/anfiteatro-imperial-parque-viva-e88c295f.jpg
-
-## Music Factory
-- Fuente: https://musicfactorycr.com | Tipo: cambio_detectado
-- Titulo: Music Factory CR - 3 Restaurantes y Música en Vivo
-  - Imagen original: candidatos/20261017-1751/music-factory-940e43a7.jpg
-  - Imagen original: candidatos/20261017-1751/music-factory-1c4f6b16.jpg
-  - Imagen original: candidatos/20261017-1751/music-factory-62681298.jpg
-
-## Fulcro Gastro Bar
-- Fuente: https://linktr.ee/fulcrogastrobar | Tipo: cambio_detectado
-- Titulo: @fulcrogastrobarr Restaurant - Visit to Find Food Options & See @fulcrogastrobarr Social Media & Official Accounts | Linktree
-
-## Xcape Bar La Calle
-- Fuente: https://starticket.cr/o/3186/xcape-bar-la-calle | Tipo: cambio_detectado
-- Titulo: Xcape Bar La Calle
+  - Imagen original: candidatos/20261018-0421/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
+  - Imagen original: candidatos/20261018-0421/anfiteatro-imperial-parque-viva-5a41518b.jpg
+  - Imagen original: candidatos/20261018-0421/anfiteatro-imperial-parque-viva-d37ac2b0.jpg
+  - Imagen original: candidatos/20261018-0421/anfiteatro-imperial-parque-viva-bc8453cc.jpg
+  - Imagen original: candidatos/20261018-0421/anfiteatro-imperial-parque-viva-b338d3a4.jpg
+  - Imagen original: candidatos/20261018-0421/anfiteatro-imperial-parque-viva-0c1b74bb.jpg
+  - Imagen original: candidatos/20261018-0421/anfiteatro-imperial-parque-viva-f4861e7a.jpg
 
 ## Pendientes (revision manual/WhatsApp)
 - Bar Reflexiones: FB/IG configurado pero requiere token o revision manual
@@ -44,6 +25,7 @@ Novedades: 6 | Fuentes pendientes: 29
 - Mini Taberna: sin fuente web, revision manual o WhatsApp
 - Casa Azul: sin fuente web, revision manual o WhatsApp
 - MundoLoco El Chante: sin fuente web, revision manual o WhatsApp
+- Pepper's Club: sin fuente web, revision manual o WhatsApp
 - Yellow Submarine Bar: FB/IG configurado pero requiere token o revision manual
 - Jazz Café: FB/IG configurado pero requiere token o revision manual
 - Bar Chamuco: sin fuente web, revision manual o WhatsApp
@@ -66,3 +48,4 @@ Novedades: 6 | Fuentes pendientes: 29
 - Antologías: sin fuente web, revision manual o WhatsApp
 - Montaña Viva: sin fuente web, revision manual o WhatsApp
 - El Corsa: sin fuente web, revision manual o WhatsApp
+- La Esquina Rock Bar: sin fuente web, revision manual o WhatsApp

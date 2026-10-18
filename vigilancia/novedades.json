@@ -1,12 +1,6 @@
 {
- "stamp": "20261017-1751",
+ "stamp": "20261018-0421",
  "novedades": [
-  {
-   "bar": "Pepper's Club",
-   "fuente": "https://pepperclub.bar",
-   "tipo": "fuente_caida",
-   "detalle": "HTTPError: HTTP Error 403: Forbidden"
-  },
   {
    "bar": "Amon Solar",
    "fuente": "https://amonsolar.com",
@@ -19,39 +13,14 @@
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261017-1751/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
-    "candidatos/20261017-1751/anfiteatro-imperial-parque-viva-54aab93a.jpg",
-    "candidatos/20261017-1751/anfiteatro-imperial-parque-viva-710646b9.jpg",
-    "candidatos/20261017-1751/anfiteatro-imperial-parque-viva-ad5133bd.jpg",
-    "candidatos/20261017-1751/anfiteatro-imperial-parque-viva-9c0800c6.jpg",
-    "candidatos/20261017-1751/anfiteatro-imperial-parque-viva-f4861e7a.jpg",
-    "candidatos/20261017-1751/anfiteatro-imperial-parque-viva-e88c295f.jpg"
+    "candidatos/20261018-0421/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
+    "candidatos/20261018-0421/anfiteatro-imperial-parque-viva-5a41518b.jpg",
+    "candidatos/20261018-0421/anfiteatro-imperial-parque-viva-d37ac2b0.jpg",
+    "candidatos/20261018-0421/anfiteatro-imperial-parque-viva-bc8453cc.jpg",
+    "candidatos/20261018-0421/anfiteatro-imperial-parque-viva-b338d3a4.jpg",
+    "candidatos/20261018-0421/anfiteatro-imperial-parque-viva-0c1b74bb.jpg",
+    "candidatos/20261018-0421/anfiteatro-imperial-parque-viva-f4861e7a.jpg"
    ]
-  },
-  {
-   "bar": "Music Factory",
-   "fuente": "https://musicfactorycr.com",
-   "tipo": "cambio_detectado",
-   "titulo": "Music Factory CR - 3 Restaurantes y Música en Vivo",
-   "imagenes": [
-    "candidatos/20261017-1751/music-factory-940e43a7.jpg",
-    "candidatos/20261017-1751/music-factory-1c4f6b16.jpg",
-    "candidatos/20261017-1751/music-factory-62681298.jpg"
-   ]
-  },
-  {
-   "bar": "Fulcro Gastro Bar",
-   "fuente": "https://linktr.ee/fulcrogastrobar",
-   "tipo": "cambio_detectado",
-   "titulo": "@fulcrogastrobarr Restaurant - Visit to Find Food Options & See @fulcrogastrobarr Social Media & Official Accounts | Linktree",
-   "imagenes": []
-  },
-  {
-   "bar": "Xcape Bar La Calle",
-   "fuente": "https://starticket.cr/o/3186/xcape-bar-la-calle",
-   "tipo": "cambio_detectado",
-   "titulo": "Xcape Bar La Calle",
-   "imagenes": []
   }
  ],
  "pendientes": [
@@ -62,6 +31,7 @@
   "Mini Taberna: sin fuente web, revision manual o WhatsApp",
   "Casa Azul: sin fuente web, revision manual o WhatsApp",
   "MundoLoco El Chante: sin fuente web, revision manual o WhatsApp",
+  "Pepper's Club: sin fuente web, revision manual o WhatsApp",
   "Yellow Submarine Bar: FB/IG configurado pero requiere token o revision manual",
   "Jazz Café: FB/IG configurado pero requiere token o revision manual",
   "Bar Chamuco: sin fuente web, revision manual o WhatsApp",
@@ -83,7 +53,8 @@
   "Stereo Caníbal: sin fuente web, revision manual o WhatsApp",
   "Antologías: sin fuente web, revision manual o WhatsApp",
   "Montaña Viva: sin fuente web, revision manual o WhatsApp",
-  "El Corsa: sin fuente web, revision manual o WhatsApp"
+  "El Corsa: sin fuente web, revision manual o WhatsApp",
+  "La Esquina Rock Bar: sin fuente web, revision manual o WhatsApp"
  ],
  "eventos_conocidos": 21
 }
