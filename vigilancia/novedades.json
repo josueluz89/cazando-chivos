@@ -1,5 +1,5 @@
 {
- "stamp": "20261018-0421",
+ "stamp": "20261018-1802",
  "novedades": [
   {
    "bar": "Amon Solar",
@@ -13,14 +13,20 @@
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261018-0421/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
-    "candidatos/20261018-0421/anfiteatro-imperial-parque-viva-5a41518b.jpg",
-    "candidatos/20261018-0421/anfiteatro-imperial-parque-viva-d37ac2b0.jpg",
-    "candidatos/20261018-0421/anfiteatro-imperial-parque-viva-bc8453cc.jpg",
-    "candidatos/20261018-0421/anfiteatro-imperial-parque-viva-b338d3a4.jpg",
-    "candidatos/20261018-0421/anfiteatro-imperial-parque-viva-0c1b74bb.jpg",
-    "candidatos/20261018-0421/anfiteatro-imperial-parque-viva-f4861e7a.jpg"
+    "candidatos/20261018-1802/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
+    "candidatos/20261018-1802/anfiteatro-imperial-parque-viva-0b5a7dcd.jpg",
+    "candidatos/20261018-1802/anfiteatro-imperial-parque-viva-710646b9.jpg",
+    "candidatos/20261018-1802/anfiteatro-imperial-parque-viva-2b27c54c.jpg",
+    "candidatos/20261018-1802/anfiteatro-imperial-parque-viva-4f5707eb.jpg",
+    "candidatos/20261018-1802/anfiteatro-imperial-parque-viva-b338d3a4.jpg",
+    "candidatos/20261018-1802/anfiteatro-imperial-parque-viva-5fab6f76.jpg"
    ]
+  },
+  {
+   "bar": "Central Pub London Room",
+   "fuente": "https://www.gamcultural.com/cr/p/v-CentralPubLondonRoom",
+   "tipo": "fuente_caida",
+   "detalle": "URLError: <urlopen error timed out>"
   }
  ],
  "pendientes": [

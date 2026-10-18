@@ -1,6 +1,6 @@
-# Vigilancia 20261018-0421 (2x/dia)
+# Vigilancia 20261018-1802 (2x/dia)
 
-Novedades: 2 | Fuentes pendientes: 31
+Novedades: 3 | Fuentes pendientes: 31
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
 
 ## Amon Solar
@@ -9,13 +9,17 @@ Novedades: 2 | Fuentes pendientes: 31
 
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261018-0421/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
-  - Imagen original: candidatos/20261018-0421/anfiteatro-imperial-parque-viva-5a41518b.jpg
-  - Imagen original: candidatos/20261018-0421/anfiteatro-imperial-parque-viva-d37ac2b0.jpg
-  - Imagen original: candidatos/20261018-0421/anfiteatro-imperial-parque-viva-bc8453cc.jpg
-  - Imagen original: candidatos/20261018-0421/anfiteatro-imperial-parque-viva-b338d3a4.jpg
-  - Imagen original: candidatos/20261018-0421/anfiteatro-imperial-parque-viva-0c1b74bb.jpg
-  - Imagen original: candidatos/20261018-0421/anfiteatro-imperial-parque-viva-f4861e7a.jpg
+  - Imagen original: candidatos/20261018-1802/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
+  - Imagen original: candidatos/20261018-1802/anfiteatro-imperial-parque-viva-0b5a7dcd.jpg
+  - Imagen original: candidatos/20261018-1802/anfiteatro-imperial-parque-viva-710646b9.jpg
+  - Imagen original: candidatos/20261018-1802/anfiteatro-imperial-parque-viva-2b27c54c.jpg
+  - Imagen original: candidatos/20261018-1802/anfiteatro-imperial-parque-viva-4f5707eb.jpg
+  - Imagen original: candidatos/20261018-1802/anfiteatro-imperial-parque-viva-b338d3a4.jpg
+  - Imagen original: candidatos/20261018-1802/anfiteatro-imperial-parque-viva-5fab6f76.jpg
+
+## Central Pub London Room
+- Fuente: https://www.gamcultural.com/cr/p/v-CentralPubLondonRoom | Tipo: fuente_caida
+- Detalle: URLError: <urlopen error timed out>
 
 ## Pendientes (revision manual/WhatsApp)
 - Bar Reflexiones: FB/IG configurado pero requiere token o revision manual
