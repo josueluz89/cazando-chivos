@@ -453,13 +453,15 @@
   "region": "San José"
  },
  {
-  "banda": "Bad Moon (tributo a Creedence Clearwater Revival)",
+  "banda": "The Glorious Bastards CR + Bad Moon (tributo a Creedence Clearwater Revival)",
   "bar": "Mangisfera",
   "fecha": "2026-10-24",
-  "hora": "",
+  "hora": "20:00",
   "flyer": "flyers/badmoon-tour.jpg",
   "direccion_display": "Grecia",
-  "region": "Alajuela"
+  "region": "Alajuela",
+  "cover": "₡5000",
+  "fuente": "https://www.facebook.com/events/1768115011137905/"
  },
  {
   "banda": "Ploho (post-punk, Rusia)",
@@ -472,6 +474,18 @@
   "region": "San José",
   "fuente": "https://gosconcerts.com/ploho/",
   "entradas": "Gira por Latinoamérica 2026 de la banda siberiana de post-punk."
+ },
+ {
+  "banda": "Gorilla Fun + bandas invitadas",
+  "bar": "La Esquina Rock Bar",
+  "cover": "",
+  "direccion_display": "La Esquina Rock Bar, Heredia",
+  "fecha": "2026-10-25",
+  "flyer": "flyers/gorilla-fun-bandas-invitadas-2026-10-25.jpg",
+  "fuente": "https://www.bandsintown.com/es/e/108973923-gorilla-fun-at-esquina-rock-bar",
+  "hora": "20:00",
+  "nota": "GORILLA FUN LIVE: 4 bandas en tarima, cumpleaños de Gerson, entrada gratis. Rock en vivo confirmado.",
+  "region": "Heredia"
  },
  {
   "banda": "Enrique Bunbury",
@@ -539,6 +553,18 @@
   "region": "San José"
  },
  {
+  "banda": "NOX Melodiam + Quienes Somos?",
+  "bar": "Mundoloco El Chante",
+  "cover": "Preventa ₡4,000 (2x₡7,000) / día del evento ₡5,000",
+  "direccion_display": "Mundoloco live San Pedro (diagonal al Banco Popular, Montes de Oca)",
+  "fecha": "2026-11-05",
+  "flyer": "flyers/nox-melodiam-quienes-somos-2026-11-05.jpg",
+  "fuente": "https://www.bandsintown.com/es/e/108948088-nox-melodiam-at-mundoloco-el-chante",
+  "hora": "19:30",
+  "nota": "NOXTIFICADOS Vol. 1: noche llena de rock. NOX Melodiam (rock/metal/pop punk de Cartago) + Quienes Somos?. Preventa al 7285-8486.",
+  "region": "San José"
+ },
+ {
   "banda": "Rawhead en concierto — White Metal (covers)",
   "bar": "Auditorio Vida Abundante",
   "fecha": "2026-11-06",
@@ -597,6 +623,18 @@
   "region": "San José",
   "fuente": "https://starticket.cr/",
   "entradas": ""
+ },
+ {
+  "banda": "Gorilla Fun + Lo Que Me Queda + Científicos Advierten",
+  "bar": "Retro Videos Clasicos Chepe 50's, 60's, 70's Y 80's",
+  "cover": "₡3,000 (preventa 2x1 ₡3,000)",
+  "direccion_display": "75 este del arco del, San José",
+  "fecha": "2026-11-07",
+  "flyer": "flyers/gorilla-fun-lo-que-me-queda-científicos-advierten-2026-11-07.jpg",
+  "fuente": "https://www.bandsintown.com/es/e/109045488-gorilla-fun-at-retro-videos-clasicos-chepe-50's-60's-70's-y-80's",
+  "hora": "19:00",
+  "nota": "3 bandas en escena, toda la fuerza del rock nacional, música en vivo.",
+  "region": "San José"
  },
  {
   "banda": "A Wilhelm Scream (banda invitada: Nomat)",
@@ -820,6 +858,18 @@
   "entradas": "Punk rock tico (Endemia) + punk español (Bihotza)."
  },
  {
+  "banda": "NOX Melodiam",
+  "bar": "Cartago Ruins",
+  "cover": "",
+  "direccion_display": "Cartago Ruins (Parque de Las Ruinas), Cartago",
+  "fecha": "2026-12-05",
+  "flyer": "flyers/nox-melodiam-2026-12-05.jpg",
+  "fuente": "https://www.bandsintown.com/es/e/108457319-nox-melodiam-at-cartago-ruins",
+  "hora": "14:00",
+  "nota": "Sábado de Rock: show gratis al aire libre con otras bandas de rock de Cartago.",
+  "region": "Cartago"
+ },
+ {
   "banda": "Bad Moon (tributo a Creedence Clearwater Revival)",
   "bar": "Montaña Viva",
   "fecha": "2026-12-05",
@@ -829,6 +879,18 @@
   "direccion_display": "Montaña Viva, Fraijanes",
   "region": "Alajuela",
   "fuente": "flyers/badmoon-tour.jpg"
+ },
+ {
+  "banda": "Endemia",
+  "bar": "Mercadito La California",
+  "cover": "",
+  "direccion_display": "Mercadito La California, Barrio La California, San José",
+  "fecha": "2026-12-06",
+  "flyer": "flyers/endemia-2026-12-06.jpg",
+  "fuente": "https://www.bandsintown.com/es/e/108912399-endemia-at-mercadito-la-california",
+  "hora": "15:00",
+  "nota": "El Chopo Tico presenta: 30 años de UFO. Endemia (punk rock) en vivo.",
+  "region": "San José"
  },
  {
   "banda": "KREATOR y DIMMU BORGIR — The Grand Karmageddon",
