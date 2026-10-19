@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-18T15:15:59-06:00",
+ "actualizado": "2026-10-19T15:18:24-06:00",
  "ventana_dias": 60,
  "zonas": [
   "Alajuela",
@@ -8,18 +8,6 @@
   "San José"
  ],
  "eventos": [
-  {
-   "banda": "Metamorfeame — Especial Caifanes & Jaguares",
-   "bar": "Fulcro Gastro Bar",
-   "fecha": "2026-10-18",
-   "hora": "17:00",
-   "cover": "",
-   "flyer": "flyers/metamorfeame-especial-caifanes-jaguares-2026-10-18.jpg",
-   "direccion_display": "Quebradilla, Cartago",
-   "region": "Cartago",
-   "fuente": "https://starticket.cr/e/especial-caifanes-jaguares-con-el-vampiro-y-federico-fong/9783",
-   "nota": "Tributo en vivo a Caifanes y Jaguares (rock mexicano)."
-  },
   {
    "banda": "Candlelight Stories + Emma Stoner + Seraph",
    "bar": "MundoLoco El Chante",
@@ -68,6 +56,17 @@
    "region": "San José"
   },
   {
+   "banda": "Crypt Monarch + AVERSION (Total Doom Vol. 2, presenta MORBID SOUND)",
+   "bar": "Bar Starview",
+   "cover": "₡5,000",
+   "direccion_display": "La Línea, Barrio Otoya, San José",
+   "fecha": "2026-10-23",
+   "flyer": "flyers/crypt-monarch-aversion-total-doom-vol-2-presenta-morbid-sound-2026-10-23.jpg",
+   "fuente": "https://www.bandsintown.com/es/e/108806932-crypt-monarch-at-la-linea-restaurant-and-bar",
+   "hora": "20:00",
+   "region": "San José"
+  },
+  {
    "banda": "The Glorious Bastards CR + Bad Moon (tributo a Creedence Clearwater Revival)",
    "bar": "Mangisfera",
    "fecha": "2026-10-24",
@@ -77,6 +76,17 @@
    "region": "Alajuela",
    "cover": "₡5000",
    "fuente": "https://www.facebook.com/events/1768115011137905/"
+  },
+  {
+   "banda": "Acústico en el Boulevard: Pesacabal + Descafeinados + LANNN + NOX Melodiam",
+   "bar": "Cartago Ruins",
+   "cover": "",
+   "direccion_display": "Boulevard de Cartago, a un costado de la Municipalidad, Cartago",
+   "fecha": "2026-10-25",
+   "flyer": "flyers/acústico-en-el-boulevard-pesacabal-descafeinados-lannn-nox-melodiam-2026-10-25.jpg",
+   "fuente": "https://www.bandsintown.com/es/e/109045409-descafeinados-at-cartago-ruins",
+   "hora": "13:00",
+   "region": "Cartago"
   },
   {
    "banda": "Ploho (post-punk, Rusia)",
@@ -125,6 +135,17 @@
    "region": "Alajuela"
   },
   {
+   "banda": "ADN Rock: Pedro Capmany y Jose Mata (con banda Mr.Beat)",
+   "bar": "Jazz Café",
+   "cover": "₡9,000",
+   "direccion_display": "Jazz Café, Escazú",
+   "fecha": "2026-10-29",
+   "flyer": "flyers/adn-rock-pedro-capmany-y-jose-mata-con-banda-mr-beat-2026-10-29.jpg",
+   "fuente": "https://www.gamcultural.com/cr/events/1860626/adn-rock-pedro-capmany-y-jose-mata",
+   "hora": "20:00",
+   "region": "San José"
+  },
+  {
    "banda": "Los Cuchillos (Fiesta de Halloween)",
    "bar": "Amon Solar",
    "fecha": "2026-10-31",
@@ -145,6 +166,17 @@
    "reservas": "8814-1791",
    "direccion_display": "San Rafael de Heredia",
    "region": "Heredia"
+  },
+  {
+   "banda": "Liberación Punk + Phantom Lord + Astro Zombies (Concierto de Halloween)",
+   "bar": "Butts Bar",
+   "cover": "",
+   "direccion_display": "75 Este del Parque Nacional, San José",
+   "fecha": "2026-10-31",
+   "flyer": "flyers/liberación-punk-phantom-lord-astro-zombies-concierto-de-halloween-2026-10-31.jpg",
+   "fuente": "https://www.bandsintown.com/es/e/108750795-liberacion-punk-at-butts-bar-metal",
+   "hora": "20:00",
+   "region": "San José"
   },
   {
    "banda": "Bad Moon (tributo a Creedence Clearwater Revival)",
@@ -202,6 +234,18 @@
    "hora": "20:00",
    "nota": "Concierto debut en vivo: clásicos del rock y metal. Reservas 8941-6204 / 7114-7439.",
    "region": "Heredia"
+  },
+  {
+   "banda": "Tierra Santa + Dragonfly",
+   "bar": "Mercadito La California",
+   "fecha": "2026-11-06",
+   "hora": "Por confirmar",
+   "cover": "",
+   "flyer": "flyers/tierra-santa-dragonfly-2026-11-06.png",
+   "direccion_display": "Mercadito La California, San José",
+   "region": "San José",
+   "fuente": "https://passline.cr",
+   "entradas": "Heavy/power metal español."
   },
   {
    "banda": "Kaos Urbano + Bastardos Oi!",
@@ -426,6 +470,29 @@
    "region": "San José",
    "fuente": "https://starticket.cr/e/militarie-gun/9383",
    "nota": "Hardcore punk en vivo."
+  },
+  {
+   "banda": "Allison (Euforia Tour)",
+   "bar": "Mercadito La California",
+   "fecha": "2026-11-22",
+   "hora": "19:00",
+   "cover": "",
+   "flyer": "flyers/allison-euforia-tour-2026-11-22.png",
+   "direccion_display": "Mercadito La California, San José",
+   "region": "San José",
+   "fuente": "https://passline.cr"
+  },
+  {
+   "banda": "Voices of Faith: Jamie Rowe + Guardian + Bloodgood (rock cristiano)",
+   "bar": "Pepper Club",
+   "fecha": "2026-11-28",
+   "hora": "16:00",
+   "cover": "",
+   "flyer": "flyers/voices-of-faith-jamie-rowe-guardian-bloodgood-rock-cristiano-2026-11-28.png",
+   "direccion_display": "Pepper Club, Zapote, San José",
+   "region": "San José",
+   "fuente": "https://passline.cr",
+   "entradas": "Concierto público de rock/metal cristiano."
   },
   {
    "banda": "Eclipse y Demolition Lovers presenta 20 aniversario de Black Parade (tributo a My Chemical Romance)",
@@ -920,6 +987,20 @@
   {
    "nombre": "Cartago Ruins",
    "direccion": "Cartago Ruins (Parque de Las Ruinas), Cartago",
+   "estilo": "",
+   "telefono": "",
+   "historial": []
+  },
+  {
+   "nombre": "Bar Starview",
+   "direccion": "La Línea, Barrio Otoya, San José",
+   "estilo": "",
+   "telefono": "",
+   "historial": []
+  },
+  {
+   "nombre": "Pepper Club",
+   "direccion": "Pepper Club, Zapote, San José",
    "estilo": "",
    "telefono": "",
    "historial": []

@@ -389,5 +389,19 @@
   "estilo": "",
   "telefono": "",
   "historial": []
+ },
+ {
+  "nombre": "Bar Starview",
+  "direccion": "La Línea, Barrio Otoya, San José",
+  "estilo": "",
+  "telefono": "",
+  "historial": []
+ },
+ {
+  "nombre": "Pepper Club",
+  "direccion": "Pepper Club, Zapote, San José",
+  "estilo": "",
+  "telefono": "",
+  "historial": []
  }
 ]
