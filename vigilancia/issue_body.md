@@ -1,4 +1,4 @@
-# Vigilancia 20261019-0431 (2x/dia)
+# Vigilancia 20261019-2033 (2x/dia)
 
 Novedades: 3 | Fuentes pendientes: 33
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
@@ -9,20 +9,19 @@ Novedades: 3 | Fuentes pendientes: 33
 
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261019-0431/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
-  - Imagen original: candidatos/20261019-0431/anfiteatro-imperial-parque-viva-e53b27be.jpg
-  - Imagen original: candidatos/20261019-0431/anfiteatro-imperial-parque-viva-6b2e1209.jpg
-  - Imagen original: candidatos/20261019-0431/anfiteatro-imperial-parque-viva-5fab6f76.jpg
-  - Imagen original: candidatos/20261019-0431/anfiteatro-imperial-parque-viva-a7114307.jpg
-  - Imagen original: candidatos/20261019-0431/anfiteatro-imperial-parque-viva-3ee8268f.jpg
-  - Imagen original: candidatos/20261019-0431/anfiteatro-imperial-parque-viva-710646b9.jpg
+  - Imagen original: candidatos/20261019-2033/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
+  - Imagen original: candidatos/20261019-2033/anfiteatro-imperial-parque-viva-dbb88842.jpg
+  - Imagen original: candidatos/20261019-2033/anfiteatro-imperial-parque-viva-6b2e1209.jpg
+  - Imagen original: candidatos/20261019-2033/anfiteatro-imperial-parque-viva-ed1ede53.jpg
+  - Imagen original: candidatos/20261019-2033/anfiteatro-imperial-parque-viva-a2ec6b11.jpg
+  - Imagen original: candidatos/20261019-2033/anfiteatro-imperial-parque-viva-710646b9.jpg
+  - Imagen original: candidatos/20261019-2033/anfiteatro-imperial-parque-viva-d5e93129.jpg
 
-## Fulcro Gastro Bar
-- Fuente: https://linktr.ee/fulcrogastrobar | Tipo: cambio_detectado
-- Titulo: @fulcrogastrobarr Official: TikTok, Instagram, Facebook | Linktree
-  - Imagen original: candidatos/20261019-0431/fulcro-gastro-bar-f6013b1a.jpg
-  - Imagen original: candidatos/20261019-0431/fulcro-gastro-bar-7b1b1ace.jpg
-  - Imagen original: candidatos/20261019-0431/fulcro-gastro-bar-aad1e031.jpg
+## Palacio de los Deportes
+- Fuente: https://www.heredia.go.cr/ | Tipo: cambio_detectado
+- Titulo: Portal Municipalidad de Heredia
+  - Imagen original: candidatos/20261019-2033/palacio-de-los-deportes-1de075b8.png
+  - Imagen original: candidatos/20261019-2033/palacio-de-los-deportes-32cae6bc.jpg
 
 ## Pendientes (revision manual/WhatsApp)
 - Bar Reflexiones: FB/IG configurado pero requiere token o revision manual
