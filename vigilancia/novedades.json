@@ -1,5 +1,5 @@
 {
- "stamp": "20261018-1802",
+ "stamp": "20261019-0431",
  "novedades": [
   {
    "bar": "Amon Solar",
@@ -13,20 +13,25 @@
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261018-1802/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
-    "candidatos/20261018-1802/anfiteatro-imperial-parque-viva-0b5a7dcd.jpg",
-    "candidatos/20261018-1802/anfiteatro-imperial-parque-viva-710646b9.jpg",
-    "candidatos/20261018-1802/anfiteatro-imperial-parque-viva-2b27c54c.jpg",
-    "candidatos/20261018-1802/anfiteatro-imperial-parque-viva-4f5707eb.jpg",
-    "candidatos/20261018-1802/anfiteatro-imperial-parque-viva-b338d3a4.jpg",
-    "candidatos/20261018-1802/anfiteatro-imperial-parque-viva-5fab6f76.jpg"
+    "candidatos/20261019-0431/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
+    "candidatos/20261019-0431/anfiteatro-imperial-parque-viva-e53b27be.jpg",
+    "candidatos/20261019-0431/anfiteatro-imperial-parque-viva-6b2e1209.jpg",
+    "candidatos/20261019-0431/anfiteatro-imperial-parque-viva-5fab6f76.jpg",
+    "candidatos/20261019-0431/anfiteatro-imperial-parque-viva-a7114307.jpg",
+    "candidatos/20261019-0431/anfiteatro-imperial-parque-viva-3ee8268f.jpg",
+    "candidatos/20261019-0431/anfiteatro-imperial-parque-viva-710646b9.jpg"
    ]
   },
   {
-   "bar": "Central Pub London Room",
-   "fuente": "https://www.gamcultural.com/cr/p/v-CentralPubLondonRoom",
-   "tipo": "fuente_caida",
-   "detalle": "URLError: <urlopen error timed out>"
+   "bar": "Fulcro Gastro Bar",
+   "fuente": "https://linktr.ee/fulcrogastrobar",
+   "tipo": "cambio_detectado",
+   "titulo": "@fulcrogastrobarr Official: TikTok, Instagram, Facebook | Linktree",
+   "imagenes": [
+    "candidatos/20261019-0431/fulcro-gastro-bar-f6013b1a.jpg",
+    "candidatos/20261019-0431/fulcro-gastro-bar-7b1b1ace.jpg",
+    "candidatos/20261019-0431/fulcro-gastro-bar-aad1e031.jpg"
+   ]
   }
  ],
  "pendientes": [
@@ -60,7 +65,9 @@
   "Antologías: sin fuente web, revision manual o WhatsApp",
   "Montaña Viva: sin fuente web, revision manual o WhatsApp",
   "El Corsa: sin fuente web, revision manual o WhatsApp",
-  "La Esquina Rock Bar: sin fuente web, revision manual o WhatsApp"
+  "La Esquina Rock Bar: sin fuente web, revision manual o WhatsApp",
+  "Retro Videos Clasicos Chepe 50's, 60's, 70's Y 80's: sin fuente web, revision manual o WhatsApp",
+  "Cartago Ruins: sin fuente web, revision manual o WhatsApp"
  ],
  "eventos_conocidos": 21
 }
