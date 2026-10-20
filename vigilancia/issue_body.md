@@ -1,25 +1,32 @@
-# Vigilancia 20261020-1910 (2x/dia)
+# Vigilancia 20261020-2110 (2x/dia)
 
-Novedades: 3 | Fuentes pendientes: 34
+Novedades: 4 | Fuentes pendientes: 34
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
 
 ## Amon Solar
 - Fuente: https://amonsolar.com | Tipo: fuente_caida
-- Detalle: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>
+- Detalle: RemoteDisconnected: Remote end closed connection without response
 
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261020-1910/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
-  - Imagen original: candidatos/20261020-1910/anfiteatro-imperial-parque-viva-6189069c.jpg
-  - Imagen original: candidatos/20261020-1910/anfiteatro-imperial-parque-viva-d37ac2b0.jpg
-  - Imagen original: candidatos/20261020-1910/anfiteatro-imperial-parque-viva-4f5707eb.jpg
-  - Imagen original: candidatos/20261020-1910/anfiteatro-imperial-parque-viva-3ebd13e5.jpg
-  - Imagen original: candidatos/20261020-1910/anfiteatro-imperial-parque-viva-5afaea16.jpg
-  - Imagen original: candidatos/20261020-1910/anfiteatro-imperial-parque-viva-a2ec6b11.jpg
+  - Imagen original: candidatos/20261020-2110/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
+  - Imagen original: candidatos/20261020-2110/anfiteatro-imperial-parque-viva-bc8453cc.jpg
+  - Imagen original: candidatos/20261020-2110/anfiteatro-imperial-parque-viva-fe1fcacd.jpg
+  - Imagen original: candidatos/20261020-2110/anfiteatro-imperial-parque-viva-5fab6f76.jpg
+  - Imagen original: candidatos/20261020-2110/anfiteatro-imperial-parque-viva-a7114307.jpg
+  - Imagen original: candidatos/20261020-2110/anfiteatro-imperial-parque-viva-81cbc43d.jpg
+  - Imagen original: candidatos/20261020-2110/anfiteatro-imperial-parque-viva-d48b3535.jpg
+
+## Music Factory
+- Fuente: https://musicfactorycr.com | Tipo: cambio_detectado
+- Titulo: Music Factory CR - 3 Restaurantes y Música en Vivo
+  - Imagen original: candidatos/20261020-2110/music-factory-940e43a7.jpg
+  - Imagen original: candidatos/20261020-2110/music-factory-cf9d3e85.jpg
+  - Imagen original: candidatos/20261020-2110/music-factory-1c4f6b16.jpg
 
 ## Palacio de los Deportes
 - Fuente: https://www.heredia.go.cr/ | Tipo: fuente_caida
-- Detalle: URLError: <urlopen error timed out>
+- Detalle: RemoteDisconnected: Remote end closed connection without response
 
 ## Pendientes (revision manual/WhatsApp)
 - Bar Reflexiones: FB/IG configurado pero requiere token o revision manual

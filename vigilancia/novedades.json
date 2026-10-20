@@ -1,11 +1,11 @@
 {
- "stamp": "20261020-1910",
+ "stamp": "20261020-2110",
  "novedades": [
   {
    "bar": "Amon Solar",
    "fuente": "https://amonsolar.com",
    "tipo": "fuente_caida",
-   "detalle": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
+   "detalle": "RemoteDisconnected: Remote end closed connection without response"
   },
   {
    "bar": "Anfiteatro Imperial (Parque Viva)",
@@ -13,20 +13,31 @@
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261020-1910/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
-    "candidatos/20261020-1910/anfiteatro-imperial-parque-viva-6189069c.jpg",
-    "candidatos/20261020-1910/anfiteatro-imperial-parque-viva-d37ac2b0.jpg",
-    "candidatos/20261020-1910/anfiteatro-imperial-parque-viva-4f5707eb.jpg",
-    "candidatos/20261020-1910/anfiteatro-imperial-parque-viva-3ebd13e5.jpg",
-    "candidatos/20261020-1910/anfiteatro-imperial-parque-viva-5afaea16.jpg",
-    "candidatos/20261020-1910/anfiteatro-imperial-parque-viva-a2ec6b11.jpg"
+    "candidatos/20261020-2110/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
+    "candidatos/20261020-2110/anfiteatro-imperial-parque-viva-bc8453cc.jpg",
+    "candidatos/20261020-2110/anfiteatro-imperial-parque-viva-fe1fcacd.jpg",
+    "candidatos/20261020-2110/anfiteatro-imperial-parque-viva-5fab6f76.jpg",
+    "candidatos/20261020-2110/anfiteatro-imperial-parque-viva-a7114307.jpg",
+    "candidatos/20261020-2110/anfiteatro-imperial-parque-viva-81cbc43d.jpg",
+    "candidatos/20261020-2110/anfiteatro-imperial-parque-viva-d48b3535.jpg"
+   ]
+  },
+  {
+   "bar": "Music Factory",
+   "fuente": "https://musicfactorycr.com",
+   "tipo": "cambio_detectado",
+   "titulo": "Music Factory CR - 3 Restaurantes y Música en Vivo",
+   "imagenes": [
+    "candidatos/20261020-2110/music-factory-940e43a7.jpg",
+    "candidatos/20261020-2110/music-factory-cf9d3e85.jpg",
+    "candidatos/20261020-2110/music-factory-1c4f6b16.jpg"
    ]
   },
   {
    "bar": "Palacio de los Deportes",
    "fuente": "https://www.heredia.go.cr/",
    "tipo": "fuente_caida",
-   "detalle": "URLError: <urlopen error timed out>"
+   "detalle": "RemoteDisconnected: Remote end closed connection without response"
   }
  ],
  "pendientes": [

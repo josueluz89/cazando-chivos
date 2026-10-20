@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-19T15:18:24-06:00",
+ "actualizado": "2026-10-20T15:18:11-06:00",
  "ventana_dias": 60,
  "zonas": [
   "Alajuela",
@@ -30,6 +30,17 @@
    "direccion_display": "Av. 34, Calle 61-63, Zapote, San José",
    "region": "San José",
    "fuente": "https://es.concerts-metal.com/"
+  },
+  {
+   "banda": "Niña Lobo + A Su Ladera",
+   "bar": "Bar Starview",
+   "cover": "",
+   "direccion_display": "La Línea, Barrio Otoya, San José",
+   "fecha": "2026-10-22",
+   "flyer": "flyers/niña-lobo-a-su-ladera-2026-10-22.jpg",
+   "fuente": "https://www.bandsintown.com/es/e/109055367-nina-lobo-at-la-linea-restaurant-and-bar",
+   "hora": "20:00",
+   "region": "San José"
   },
   {
    "banda": "Diesel Rock CR — Night of the Damned (Halloween Sessions)",
@@ -241,7 +252,7 @@
    "fecha": "2026-11-06",
    "hora": "Por confirmar",
    "cover": "",
-   "flyer": "flyers/tierra-santa-dragonfly-2026-11-06.png",
+   "flyer": "",
    "direccion_display": "Mercadito La California, San José",
    "region": "San José",
    "fuente": "https://passline.cr",
@@ -477,7 +488,7 @@
    "fecha": "2026-11-22",
    "hora": "19:00",
    "cover": "",
-   "flyer": "flyers/allison-euforia-tour-2026-11-22.png",
+   "flyer": "",
    "direccion_display": "Mercadito La California, San José",
    "region": "San José",
    "fuente": "https://passline.cr"
@@ -488,7 +499,7 @@
    "fecha": "2026-11-28",
    "hora": "16:00",
    "cover": "",
-   "flyer": "flyers/voices-of-faith-jamie-rowe-guardian-bloodgood-rock-cristiano-2026-11-28.png",
+   "flyer": "",
    "direccion_display": "Pepper Club, Zapote, San José",
    "region": "San José",
    "fuente": "https://passline.cr",
