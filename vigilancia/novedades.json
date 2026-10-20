@@ -1,5 +1,5 @@
 {
- "stamp": "20261020-0440",
+ "stamp": "20261020-1910",
  "novedades": [
   {
    "bar": "Amon Solar",
@@ -13,24 +13,20 @@
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261020-0440/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
-    "candidatos/20261020-0440/anfiteatro-imperial-parque-viva-6b2e1209.jpg",
-    "candidatos/20261020-0440/anfiteatro-imperial-parque-viva-2b27c54c.jpg",
-    "candidatos/20261020-0440/anfiteatro-imperial-parque-viva-40e3ac18.jpg",
-    "candidatos/20261020-0440/anfiteatro-imperial-parque-viva-d48b3535.jpg",
-    "candidatos/20261020-0440/anfiteatro-imperial-parque-viva-d5e93129.jpg",
-    "candidatos/20261020-0440/anfiteatro-imperial-parque-viva-a86e3305.jpg"
+    "candidatos/20261020-1910/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
+    "candidatos/20261020-1910/anfiteatro-imperial-parque-viva-6189069c.jpg",
+    "candidatos/20261020-1910/anfiteatro-imperial-parque-viva-d37ac2b0.jpg",
+    "candidatos/20261020-1910/anfiteatro-imperial-parque-viva-4f5707eb.jpg",
+    "candidatos/20261020-1910/anfiteatro-imperial-parque-viva-3ebd13e5.jpg",
+    "candidatos/20261020-1910/anfiteatro-imperial-parque-viva-5afaea16.jpg",
+    "candidatos/20261020-1910/anfiteatro-imperial-parque-viva-a2ec6b11.jpg"
    ]
   },
   {
    "bar": "Palacio de los Deportes",
    "fuente": "https://www.heredia.go.cr/",
-   "tipo": "cambio_detectado",
-   "titulo": "Portal Municipalidad de Heredia",
-   "imagenes": [
-    "candidatos/20261020-0440/palacio-de-los-deportes-1de075b8.png",
-    "candidatos/20261020-0440/palacio-de-los-deportes-32cae6bc.jpg"
-   ]
+   "tipo": "fuente_caida",
+   "detalle": "URLError: <urlopen error timed out>"
   }
  ],
  "pendientes": [

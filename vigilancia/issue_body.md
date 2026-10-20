@@ -1,4 +1,4 @@
-# Vigilancia 20261020-0440 (2x/dia)
+# Vigilancia 20261020-1910 (2x/dia)
 
 Novedades: 3 | Fuentes pendientes: 34
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
@@ -9,19 +9,17 @@ Novedades: 3 | Fuentes pendientes: 34
 
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261020-0440/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
-  - Imagen original: candidatos/20261020-0440/anfiteatro-imperial-parque-viva-6b2e1209.jpg
-  - Imagen original: candidatos/20261020-0440/anfiteatro-imperial-parque-viva-2b27c54c.jpg
-  - Imagen original: candidatos/20261020-0440/anfiteatro-imperial-parque-viva-40e3ac18.jpg
-  - Imagen original: candidatos/20261020-0440/anfiteatro-imperial-parque-viva-d48b3535.jpg
-  - Imagen original: candidatos/20261020-0440/anfiteatro-imperial-parque-viva-d5e93129.jpg
-  - Imagen original: candidatos/20261020-0440/anfiteatro-imperial-parque-viva-a86e3305.jpg
+  - Imagen original: candidatos/20261020-1910/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
+  - Imagen original: candidatos/20261020-1910/anfiteatro-imperial-parque-viva-6189069c.jpg
+  - Imagen original: candidatos/20261020-1910/anfiteatro-imperial-parque-viva-d37ac2b0.jpg
+  - Imagen original: candidatos/20261020-1910/anfiteatro-imperial-parque-viva-4f5707eb.jpg
+  - Imagen original: candidatos/20261020-1910/anfiteatro-imperial-parque-viva-3ebd13e5.jpg
+  - Imagen original: candidatos/20261020-1910/anfiteatro-imperial-parque-viva-5afaea16.jpg
+  - Imagen original: candidatos/20261020-1910/anfiteatro-imperial-parque-viva-a2ec6b11.jpg
 
 ## Palacio de los Deportes
-- Fuente: https://www.heredia.go.cr/ | Tipo: cambio_detectado
-- Titulo: Portal Municipalidad de Heredia
-  - Imagen original: candidatos/20261020-0440/palacio-de-los-deportes-1de075b8.png
-  - Imagen original: candidatos/20261020-0440/palacio-de-los-deportes-32cae6bc.jpg
+- Fuente: https://www.heredia.go.cr/ | Tipo: fuente_caida
+- Detalle: URLError: <urlopen error timed out>
 
 ## Pendientes (revision manual/WhatsApp)
 - Bar Reflexiones: FB/IG configurado pero requiere token o revision manual
