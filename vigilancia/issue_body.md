@@ -1,6 +1,6 @@
-# Vigilancia 20261019-2033 (2x/dia)
+# Vigilancia 20261020-0440 (2x/dia)
 
-Novedades: 3 | Fuentes pendientes: 33
+Novedades: 3 | Fuentes pendientes: 34
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
 
 ## Amon Solar
@@ -9,19 +9,19 @@ Novedades: 3 | Fuentes pendientes: 33
 
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261019-2033/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
-  - Imagen original: candidatos/20261019-2033/anfiteatro-imperial-parque-viva-dbb88842.jpg
-  - Imagen original: candidatos/20261019-2033/anfiteatro-imperial-parque-viva-6b2e1209.jpg
-  - Imagen original: candidatos/20261019-2033/anfiteatro-imperial-parque-viva-ed1ede53.jpg
-  - Imagen original: candidatos/20261019-2033/anfiteatro-imperial-parque-viva-a2ec6b11.jpg
-  - Imagen original: candidatos/20261019-2033/anfiteatro-imperial-parque-viva-710646b9.jpg
-  - Imagen original: candidatos/20261019-2033/anfiteatro-imperial-parque-viva-d5e93129.jpg
+  - Imagen original: candidatos/20261020-0440/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
+  - Imagen original: candidatos/20261020-0440/anfiteatro-imperial-parque-viva-6b2e1209.jpg
+  - Imagen original: candidatos/20261020-0440/anfiteatro-imperial-parque-viva-2b27c54c.jpg
+  - Imagen original: candidatos/20261020-0440/anfiteatro-imperial-parque-viva-40e3ac18.jpg
+  - Imagen original: candidatos/20261020-0440/anfiteatro-imperial-parque-viva-d48b3535.jpg
+  - Imagen original: candidatos/20261020-0440/anfiteatro-imperial-parque-viva-d5e93129.jpg
+  - Imagen original: candidatos/20261020-0440/anfiteatro-imperial-parque-viva-a86e3305.jpg
 
 ## Palacio de los Deportes
 - Fuente: https://www.heredia.go.cr/ | Tipo: cambio_detectado
 - Titulo: Portal Municipalidad de Heredia
-  - Imagen original: candidatos/20261019-2033/palacio-de-los-deportes-1de075b8.png
-  - Imagen original: candidatos/20261019-2033/palacio-de-los-deportes-32cae6bc.jpg
+  - Imagen original: candidatos/20261020-0440/palacio-de-los-deportes-1de075b8.png
+  - Imagen original: candidatos/20261020-0440/palacio-de-los-deportes-32cae6bc.jpg
 
 ## Pendientes (revision manual/WhatsApp)
 - Bar Reflexiones: FB/IG configurado pero requiere token o revision manual
@@ -57,3 +57,4 @@ Novedades: 3 | Fuentes pendientes: 33
 - La Esquina Rock Bar: sin fuente web, revision manual o WhatsApp
 - Retro Videos Clasicos Chepe 50's, 60's, 70's Y 80's: sin fuente web, revision manual o WhatsApp
 - Cartago Ruins: sin fuente web, revision manual o WhatsApp
+- Bar Starview: sin fuente web, revision manual o WhatsApp
