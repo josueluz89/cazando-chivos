@@ -1,21 +1,25 @@
-# Vigilancia 20261021-1916 (2x/dia)
+# Vigilancia 20261021-2146 (2x/dia)
 
-Novedades: 2 | Fuentes pendientes: 34
+Novedades: 3 | Fuentes pendientes: 34
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
 
 ## Amon Solar
 - Fuente: https://amonsolar.com | Tipo: fuente_caida
-- Detalle: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>
+- Detalle: RemoteDisconnected: Remote end closed connection without response
 
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261021-1916/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
-  - Imagen original: candidatos/20261021-1916/anfiteatro-imperial-parque-viva-d5e93129.jpg
-  - Imagen original: candidatos/20261021-1916/anfiteatro-imperial-parque-viva-81cbc43d.jpg
-  - Imagen original: candidatos/20261021-1916/anfiteatro-imperial-parque-viva-5a41518b.jpg
-  - Imagen original: candidatos/20261021-1916/anfiteatro-imperial-parque-viva-fe1fcacd.jpg
-  - Imagen original: candidatos/20261021-1916/anfiteatro-imperial-parque-viva-f4861e7a.jpg
-  - Imagen original: candidatos/20261021-1916/anfiteatro-imperial-parque-viva-a86e3305.jpg
+  - Imagen original: candidatos/20261021-2146/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
+  - Imagen original: candidatos/20261021-2146/anfiteatro-imperial-parque-viva-4f5707eb.jpg
+  - Imagen original: candidatos/20261021-2146/anfiteatro-imperial-parque-viva-3ee8268f.jpg
+  - Imagen original: candidatos/20261021-2146/anfiteatro-imperial-parque-viva-45183140.jpg
+  - Imagen original: candidatos/20261021-2146/anfiteatro-imperial-parque-viva-0b5a7dcd.jpg
+  - Imagen original: candidatos/20261021-2146/anfiteatro-imperial-parque-viva-d48b3535.jpg
+  - Imagen original: candidatos/20261021-2146/anfiteatro-imperial-parque-viva-6189069c.jpg
+
+## Palacio de los Deportes
+- Fuente: https://www.heredia.go.cr/ | Tipo: fuente_caida
+- Detalle: RemoteDisconnected: Remote end closed connection without response
 
 ## Pendientes (revision manual/WhatsApp)
 - Bar Reflexiones: FB/IG configurado pero requiere token o revision manual
