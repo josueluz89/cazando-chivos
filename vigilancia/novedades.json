@@ -1,11 +1,11 @@
 {
- "stamp": "20261022-1911",
+ "stamp": "20261022-2108",
  "novedades": [
   {
    "bar": "Amon Solar",
    "fuente": "https://amonsolar.com",
    "tipo": "fuente_caida",
-   "detalle": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
+   "detalle": "RemoteDisconnected: Remote end closed connection without response"
   },
   {
    "bar": "Anfiteatro Imperial (Parque Viva)",
@@ -13,25 +13,31 @@
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261022-1911/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
-    "candidatos/20261022-1911/anfiteatro-imperial-parque-viva-7e818349.jpg",
-    "candidatos/20261022-1911/anfiteatro-imperial-parque-viva-e53b27be.jpg",
-    "candidatos/20261022-1911/anfiteatro-imperial-parque-viva-b338d3a4.jpg",
-    "candidatos/20261022-1911/anfiteatro-imperial-parque-viva-6189069c.jpg",
-    "candidatos/20261022-1911/anfiteatro-imperial-parque-viva-76060bdc.jpg",
-    "candidatos/20261022-1911/anfiteatro-imperial-parque-viva-9c0800c6.jpg"
+    "candidatos/20261022-2108/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
+    "candidatos/20261022-2108/anfiteatro-imperial-parque-viva-3ebd13e5.jpg",
+    "candidatos/20261022-2108/anfiteatro-imperial-parque-viva-0b5a7dcd.jpg",
+    "candidatos/20261022-2108/anfiteatro-imperial-parque-viva-a2ec6b11.jpg",
+    "candidatos/20261022-2108/anfiteatro-imperial-parque-viva-d37ac2b0.jpg",
+    "candidatos/20261022-2108/anfiteatro-imperial-parque-viva-81cbc43d.jpg",
+    "candidatos/20261022-2108/anfiteatro-imperial-parque-viva-76060bdc.jpg"
    ]
   },
   {
-   "bar": "Fulcro Gastro Bar",
-   "fuente": "https://linktr.ee/fulcrogastrobar",
+   "bar": "Music Factory",
+   "fuente": "https://musicfactorycr.com",
    "tipo": "cambio_detectado",
-   "titulo": "@fulcrogastrobarr Restaurant - Visit to Find Food Options & See @fulcrogastrobarr Social Media & Official Accounts | Linktree",
+   "titulo": "Music Factory CR - 3 Restaurantes y Música en Vivo",
    "imagenes": [
-    "candidatos/20261022-1911/fulcro-gastro-bar-f6013b1a.jpg",
-    "candidatos/20261022-1911/fulcro-gastro-bar-7b1b1ace.jpg",
-    "candidatos/20261022-1911/fulcro-gastro-bar-aad1e031.jpg"
+    "candidatos/20261022-2108/music-factory-940e43a7.jpg",
+    "candidatos/20261022-2108/music-factory-cf9d3e85.jpg",
+    "candidatos/20261022-2108/music-factory-1c4f6b16.jpg"
    ]
+  },
+  {
+   "bar": "Palacio de los Deportes",
+   "fuente": "https://www.heredia.go.cr/",
+   "tipo": "fuente_caida",
+   "detalle": "RemoteDisconnected: Remote end closed connection without response"
   }
  ],
  "pendientes": [

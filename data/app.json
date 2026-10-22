@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-20T15:18:11-06:00",
+ "actualizado": "2026-10-22T15:21:52-06:00",
  "ventana_dias": 60,
  "zonas": [
   "Alajuela",
@@ -8,29 +8,6 @@
   "San José"
  ],
  "eventos": [
-  {
-   "banda": "Candlelight Stories + Emma Stoner + Seraph",
-   "bar": "MundoLoco El Chante",
-   "cover": "₡4,000",
-   "direccion_display": "MundoLoco El Chante, San Pedro, Montes de Oca",
-   "entradas": "Rock progresivo / art rock tico; debut en vivo de Candlelight Stories; entradas por WhatsApp 8657-4659; solo +18.",
-   "fecha": "2026-10-20",
-   "flyer": "flyers/candlelight-stories-emma-stoner-seraph-2026-10-20.jpg",
-   "fuente": "https://www.bandsintown.com/es/e/108948498-candlelight-stories-at-mundoloco-el-chante",
-   "hora": "19:00",
-   "region": "San José"
-  },
-  {
-   "banda": "The Rasmus (Weirdo Tour 2026)",
-   "bar": "Pepper's Club",
-   "fecha": "2026-10-20",
-   "hora": "19:00",
-   "cover": "",
-   "flyer": "flyers/the-rasmus-weirdo-tour-2026-2026-10-20.webp",
-   "direccion_display": "Av. 34, Calle 61-63, Zapote, San José",
-   "region": "San José",
-   "fuente": "https://es.concerts-metal.com/"
-  },
   {
    "banda": "Niña Lobo + A Su Ladera",
    "bar": "Bar Starview",
@@ -435,6 +412,18 @@
    "direccion_display": "Stereo Caníbal, San José",
    "region": "San José",
    "fuente": "flyers/badmoon-tour.jpg"
+  },
+  {
+   "banda": "Picha",
+   "bar": "Clande Arte Rock",
+   "cover": "",
+   "direccion_display": "Clande Arte Rock, San José",
+   "fecha": "2026-11-21",
+   "flyer": "",
+   "fuente": "https://www.bandsintown.com/c/san-jose-costa-rica",
+   "hora": "18:00",
+   "nota": "punk tico (Bandsintown)",
+   "region": "San José"
   },
   {
    "banda": "Tributo a Bullet for My Valentine interpretado x Burst Into Fire (2ª edición)",
@@ -1012,6 +1001,13 @@
   {
    "nombre": "Pepper Club",
    "direccion": "Pepper Club, Zapote, San José",
+   "estilo": "",
+   "telefono": "",
+   "historial": []
+  },
+  {
+   "nombre": "Clande Arte Rock",
+   "direccion": "Clande Arte Rock, San José",
    "estilo": "",
    "telefono": "",
    "historial": []

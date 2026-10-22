@@ -1,0 +1,31 @@
+{
+  "candidatos": [
+    {
+      "banda": "Bihotza + Endemia + Vendaval",
+      "bar": "Por confirmar",
+      "cover": "",
+      "detalle": "PENDIENTE (arrastre): (1) Teletica (2026-09-23) dice que la noche incluye participación de DJ Six — regla anti-DJ; (2) CONFLICTO DE FECHA sin resolver: Teletica dice 4 de noviembre en Club Oasis (Calle de la Amargura, San Pedro), Bandsintown en vivo dice 4 de diciembre 20:00 en Xcape Bar La Calle. La cartelera ya tiene Endemia+Bihotza el 2026-12-04 en Xcape Bar La Calle. No publicar la versión del 4-nov hasta desempate. (2026-10-22-tarde: sin novedades; además Bihotza toca en el Festival Ruido Ibérico, CDMX, el 28-nov-2026.)",
+      "direccion_display": "",
+      "fecha": "2026-11-04",
+      "flyer": "",
+      "fuente": "https://www.teletica.com/entretenimiento/bihotza-llegara-por-primera-vez-a-costa-rica-junto-a-endemia-y-vendaval_417714",
+      "hora": "",
+      "region": "San José"
+    },
+    {
+      "banda": "Diffuse Horizons En Concierto",
+      "bar": "Amon Solar",
+      "cover": "",
+      "detalle": "PENDIENTE (arrastre): GAM Cultural lo lista en la agenda de Amón Solar (ficha 2026-11-29T01:00 → noche del 28). Sigue sin evidencia de que sea rock en vivo. No publicar hasta confirmar género. Amon Solar sigue con fuente caída (RemoteDisconnected) el 2026-10-22.",
+      "direccion_display": "Calle 3, Av 9-11, Barrio Amón, San José",
+      "fecha": "2026-11-28",
+      "flyer": "",
+      "fuente": "https://www.gamcultural.com/cr/events/1356950/twin-tribes",
+      "hora": "",
+      "region": "San José"
+    }
+  ],
+  "nota": "Dudosos pendientes de aprobación. No van a la cartelera. Actualizado 2026-10-22-tarde: 0 publicados. Rawayana (12-dic, Parque Viva) DESCARTADO por regla de género: reggae/ska/funk/fusión tropical — más suave que rock. FB events discover (4 búsquedas, 2026-10-22→2026-12-21): solo el candidato ya publicado (Glorious Bastards + Bad Moon, 24-oct Grecia) → nada nuevo. check.py --run: 4 novedades — Amon Solar fuente caída (RemoteDisconnected, igual que días anteriores), Palacio de los Deportes fuente caída (heredia.go.cr, RemoteDisconnected), eticket con 7 imágenes triadas: Def Leppard + Extreme 27-oct YA PUBLICADO (confirmado real por prensa y eticket en venta); Mon Laferte (pop), Cultura Profética + Gondwana (reggae) y Halloween Sech + De La Rose (urbano) descartados por género; White City Epic (ciclismo) y Circuito Aguas Abiertas (natación) no son música; 1 banner logo sin evento; Music Factory con 3 imágenes: concierto de academia de música, milonga de tango y Plancha Live — ninguno es rock. Barrido web: 1 PUBLICADO — Picha (punk tico) en Clande Arte Rock, 2026-11-21 18:00 (Bandsintown); banda agregada a personas y lugar a bares/locales. Resto del barrido (19 candidatos) ya estaba en cartelera: Def Leppard, Bunbury, ADN Rock, Liberación Punk, Los Cuchillos, SEKA, PLOHO, A Wilhelm Scream, Kaos Urbano, Tierra Santa, Gorillaz, Invasion Grunge, Tributo Green Day, CRIM, Militarie Gun, Allison, Testament (Metal Roadshow), NOXTIFICADOS, NOX Melodiam, Gorilla Fun, Kreator+Dimmu. Verificados SIN CONFLICTO: The Metal Roadshow sigue en Pepper's Club (fuente Teletica, midday run) — Bandsintown dice SPORTS PALACE pero la prensa tica es más fiable; Crypt Monarch 23-oct: Bar Starview = La Linea Restaurant and Bar (mismo lugar, confirmado por revista Calavibe). Diffuse Horizons 28-nov queda pendiente (género sin confirmar).",
+  "origen": "Corrida automática 3pm 2026-10-22 (cuenta de Josué) + arrastre pendientes 2026-10-21",
+  "stamp": "2026-10-22-tarde"
+}
