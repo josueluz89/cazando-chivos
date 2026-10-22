@@ -1,6 +1,6 @@
-# Vigilancia 20261022-0433 (2x/dia)
+# Vigilancia 20261022-1911 (2x/dia)
 
-Novedades: 2 | Fuentes pendientes: 34
+Novedades: 3 | Fuentes pendientes: 34
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
 
 ## Amon Solar
@@ -9,13 +9,20 @@ Novedades: 2 | Fuentes pendientes: 34
 
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261022-0433/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
-  - Imagen original: candidatos/20261022-0433/anfiteatro-imperial-parque-viva-4f5707eb.jpg
-  - Imagen original: candidatos/20261022-0433/anfiteatro-imperial-parque-viva-3ee8268f.jpg
-  - Imagen original: candidatos/20261022-0433/anfiteatro-imperial-parque-viva-f4861e7a.jpg
-  - Imagen original: candidatos/20261022-0433/anfiteatro-imperial-parque-viva-45183140.jpg
-  - Imagen original: candidatos/20261022-0433/anfiteatro-imperial-parque-viva-6189069c.jpg
-  - Imagen original: candidatos/20261022-0433/anfiteatro-imperial-parque-viva-0b5a7dcd.jpg
+  - Imagen original: candidatos/20261022-1911/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
+  - Imagen original: candidatos/20261022-1911/anfiteatro-imperial-parque-viva-7e818349.jpg
+  - Imagen original: candidatos/20261022-1911/anfiteatro-imperial-parque-viva-e53b27be.jpg
+  - Imagen original: candidatos/20261022-1911/anfiteatro-imperial-parque-viva-b338d3a4.jpg
+  - Imagen original: candidatos/20261022-1911/anfiteatro-imperial-parque-viva-6189069c.jpg
+  - Imagen original: candidatos/20261022-1911/anfiteatro-imperial-parque-viva-76060bdc.jpg
+  - Imagen original: candidatos/20261022-1911/anfiteatro-imperial-parque-viva-9c0800c6.jpg
+
+## Fulcro Gastro Bar
+- Fuente: https://linktr.ee/fulcrogastrobar | Tipo: cambio_detectado
+- Titulo: @fulcrogastrobarr Restaurant - Visit to Find Food Options & See @fulcrogastrobarr Social Media & Official Accounts | Linktree
+  - Imagen original: candidatos/20261022-1911/fulcro-gastro-bar-f6013b1a.jpg
+  - Imagen original: candidatos/20261022-1911/fulcro-gastro-bar-7b1b1ace.jpg
+  - Imagen original: candidatos/20261022-1911/fulcro-gastro-bar-aad1e031.jpg
 
 ## Pendientes (revision manual/WhatsApp)
 - Bar Reflexiones: FB/IG configurado pero requiere token o revision manual
