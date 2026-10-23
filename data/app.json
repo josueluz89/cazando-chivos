@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-22T15:21:52-06:00",
+ "actualizado": "2026-10-23T15:24:14-06:00",
  "ventana_dias": 60,
  "zonas": [
   "Alajuela",
@@ -8,29 +8,6 @@
   "San José"
  ],
  "eventos": [
-  {
-   "banda": "Niña Lobo + A Su Ladera",
-   "bar": "Bar Starview",
-   "cover": "",
-   "direccion_display": "La Línea, Barrio Otoya, San José",
-   "fecha": "2026-10-22",
-   "flyer": "flyers/niña-lobo-a-su-ladera-2026-10-22.jpg",
-   "fuente": "https://www.bandsintown.com/es/e/109055367-nina-lobo-at-la-linea-restaurant-and-bar",
-   "hora": "20:00",
-   "region": "San José"
-  },
-  {
-   "banda": "Diesel Rock CR — Night of the Damned (Halloween Sessions)",
-   "bar": "Teatro Espressivo",
-   "cover": "¢12.500",
-   "direccion_display": "Teatro Espressivo, Momentum Pinares, Curridabat",
-   "fecha": "2026-10-22",
-   "flyer": "flyers/diesel-rock-cr-night-of-the-damned-halloween-sessions-2026-10-22.jpg",
-   "fuente": "https://boleteria.espressivo.cr/eventperformances.asp?evt=521",
-   "hora": "20:00",
-   "nota": "Única presentación; repertorio rock + ambientación Halloween. Precio IVA y cargos incluidos.",
-   "region": "San José"
-  },
   {
    "banda": "SEKA | Desorden Siniestro | Adrián Poveda",
    "bar": "Amon Solar",
@@ -403,6 +380,18 @@
    "region": "Alajuela"
   },
   {
+   "banda": "Estamos Perdidos",
+   "bar": "Bar Starview",
+   "cover": "",
+   "direccion_display": "La Línea, Barrio Otoya, San José",
+   "fecha": "2026-11-20",
+   "flyer": "flyers/estamos-perdidos-2026-11-20.jpg",
+   "fuente": "https://www.bandsintown.com/es/e/109064299-estamos-perdidos-at-la-linea-restaurant-and-bar",
+   "hora": "20:00",
+   "nota": "Rock alternativo/garage/post-punk/shoegaze de Quito, Ecuador; primera vez en Costa Rica.",
+   "region": "San José"
+  },
+  {
    "banda": "Bad Moon (tributo a Creedence Clearwater Revival)",
    "bar": "Stereo Caníbal",
    "fecha": "2026-11-20",
@@ -481,6 +470,18 @@
    "direccion_display": "Mercadito La California, San José",
    "region": "San José",
    "fuente": "https://passline.cr"
+  },
+  {
+   "banda": "A.N.I.M.A.L + Deznuke + Tributo a Rage Against the Machine",
+   "bar": "Pepper's Club",
+   "cover": "",
+   "direccion_display": "Pepper's Club, Zapote, San José",
+   "fecha": "2026-11-27",
+   "flyer": "",
+   "fuente": "https://www.nacion.com/viva/sean-paul-y-animal-daran-conciertos-en-costa-rica/I2BC6UXYQ5BNBELRFZYBVK5LFQ/story/",
+   "hora": "Por confirmar",
+   "nota": "Metal argentino; con Deznuke (CR) y tributo a Rage Against the Machine. Entradas en kuikpei.com (productora Grito Latino).",
+   "region": "San José"
   },
   {
    "banda": "Voices of Faith: Jamie Rowe + Guardian + Bloodgood (rock cristiano)",
