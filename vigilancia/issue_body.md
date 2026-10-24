@@ -1,6 +1,6 @@
-# Vigilancia 20261023-1908 (2x/dia)
+# Vigilancia 20261024-0427 (2x/dia)
 
-Novedades: 3 | Fuentes pendientes: 35
+Novedades: 4 | Fuentes pendientes: 35
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
 
 ## Amon Solar
@@ -9,20 +9,24 @@ Novedades: 3 | Fuentes pendientes: 35
 
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261023-1908/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
-  - Imagen original: candidatos/20261023-1908/anfiteatro-imperial-parque-viva-81cbc43d.jpg
-  - Imagen original: candidatos/20261023-1908/anfiteatro-imperial-parque-viva-e53b27be.jpg
-  - Imagen original: candidatos/20261023-1908/anfiteatro-imperial-parque-viva-6b2e1209.jpg
-  - Imagen original: candidatos/20261023-1908/anfiteatro-imperial-parque-viva-fe1fcacd.jpg
-  - Imagen original: candidatos/20261023-1908/anfiteatro-imperial-parque-viva-5a41518b.jpg
-  - Imagen original: candidatos/20261023-1908/anfiteatro-imperial-parque-viva-a7114307.jpg
+  - Imagen original: candidatos/20261024-0427/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
+  - Imagen original: candidatos/20261024-0427/anfiteatro-imperial-parque-viva-fe1fcacd.jpg
+  - Imagen original: candidatos/20261024-0427/anfiteatro-imperial-parque-viva-5afaea16.jpg
+  - Imagen original: candidatos/20261024-0427/anfiteatro-imperial-parque-viva-bc8453cc.jpg
+  - Imagen original: candidatos/20261024-0427/anfiteatro-imperial-parque-viva-d48b3535.jpg
+  - Imagen original: candidatos/20261024-0427/anfiteatro-imperial-parque-viva-81cbc43d.jpg
+  - Imagen original: candidatos/20261024-0427/anfiteatro-imperial-parque-viva-6b2e1209.jpg
+
+## Music Factory
+- Fuente: https://musicfactorycr.com | Tipo: cambio_detectado
+- Titulo: Music Factory CR - 3 Restaurantes y Música en Vivo
+  - Imagen original: candidatos/20261024-0427/music-factory-940e43a7.jpg
+  - Imagen original: candidatos/20261024-0427/music-factory-cf9d3e85.jpg
+  - Imagen original: candidatos/20261024-0427/music-factory-1c4f6b16.jpg
 
 ## Fulcro Gastro Bar
 - Fuente: https://linktr.ee/fulcrogastrobar | Tipo: cambio_detectado
-- Titulo: @fulcrogastrobarr Restaurant - Visit to Find Food Options & See @fulcrogastrobarr Social Media & Official Accounts | Linktree
-  - Imagen original: candidatos/20261023-1908/fulcro-gastro-bar-f6013b1a.jpg
-  - Imagen original: candidatos/20261023-1908/fulcro-gastro-bar-7b1b1ace.jpg
-  - Imagen original: candidatos/20261023-1908/fulcro-gastro-bar-aad1e031.jpg
+- Titulo: @fulcrogastrobarr Official: TikTok, Instagram, Facebook | Linktree
 
 ## Pendientes (revision manual/WhatsApp)
 - Bar Reflexiones: FB/IG configurado pero requiere token o revision manual
