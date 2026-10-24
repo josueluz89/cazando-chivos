@@ -1,0 +1,41 @@
+{
+ "candidatos": [
+  {
+   "banda": "Bihotza + Endemia + Vendaval",
+   "bar": "Por confirmar",
+   "cover": "",
+   "detalle": "PENDIENTE (arrastre): (1) Teletica (2026-09-23) dice que la noche incluye participación de DJ Six — regla anti-DJ; (2) CONFLICTO DE FECHA sin resolver: Teletica dice 4 de noviembre en Club Oasis (Calle de la Amargura, San Pedro), Bandsintown en vivo dice 4 de diciembre 20:00 en Xcape Bar La Calle. La cartelera ya tiene Endemia+Bihotza el 2026-12-04 en Xcape Bar La Calle. No publicar la versión del 4-nov hasta desempate. (2026-10-22-tarde: sin novedades; además Bihotza toca en el Festival Ruido Ibérico, CDMX, el 28-nov-2026.)",
+   "direccion_display": "",
+   "fecha": "2026-11-04",
+   "flyer": "",
+   "fuente": "https://www.teletica.com/entretenimiento/bihotza-llegara-por-primera-vez-a-costa-rica-junto-a-endemia-y-vendaval_417714",
+   "hora": "",
+   "region": "San José"
+  },
+  {
+   "banda": "Diffuse Horizons En Concierto",
+   "bar": "Amon Solar",
+   "cover": "",
+   "detalle": "PENDIENTE (arrastre): GAM Cultural lo lista en la agenda de Amón Solar (ficha 2026-11-29T01:00 → noche del 28). Sigue sin evidencia de que sea rock en vivo. No publicar hasta confirmar género. Amon Solar sigue con fuente caída (RemoteDisconnected) el 2026-10-23.",
+   "direccion_display": "Calle 3, Av 9-11, Barrio Amón, San José",
+   "fecha": "2026-11-28",
+   "flyer": "",
+   "fuente": "https://www.gamcultural.com/cr/events/1356950/twin-tribes",
+   "hora": "",
+   "region": "San José"
+  },
+  {
+   "banda": "El Último Ke Zierre (EUKZ)",
+   "bar": "Pepper Disco Club",
+   "cover": "",
+   "detalle": "PENDIENTE (nuevo 2026-10-24-tarde): Concert Archives lista EUKZ en Pepper Disco Club el 2026-11-29, pero es la ÚNICA fuente secundaria y Hypebot dice que la banda no tiene fechas de gira 2026-2027. Sin anuncio oficial de Pepper's, ticketera ni la banda. No publicar hasta confirmación oficial.",
+   "direccion_display": "Zapote, San José",
+   "fecha": "2026-11-29",
+   "flyer": "",
+   "fuente": "https://www.concertarchives.org/venues/pepper-disco-club",
+   "hora": "",
+   "region": "San José"
+  }
+ ],
+ "nota": "Dudosos pendientes de aprobación. No van a la cartelera. Actualizado 2026-10-24-tarde: 1 PUBLICADO — Homel Lewis (rock en solista), 2026-10-24 20:30, El Corsa (San Pedro, Calle de la Amargura), anunciado hoy por el propio Homel Lewis en su perfil de Facebook. FB events discover (4 búsquedas, 2026-10-24→2026-12-23): solo el ya publicado (Glorious Bastards + Bad Moon, 24-oct Grecia) → nada nuevo. check.py: 2 novedades — Amon Solar fuente caída (RemoteDisconnected, igual que días anteriores), Anfiteatro Imperial (eticket) 7 imágenes: logo eticket, Omar Courtz (urbano), Circuito Aguas Abiertas (deporte), Los Fabulosos Cadillacs + Molotov 19-nov (YA PUBLICADO), White City Epic (ciclismo), Milo J (urbano), Carmen vs Carmen (ballet flamenco) — ningún rock nuevo. Barrido web: todo lo demás ya publicado (Bunbury 26-oct, Def Leppard + Extreme 27-oct, A Wilhelm Scream 7-nov, Kaos Urbano 7-nov, Gorillaz 14-nov, Picha 21-nov, Liberación Punk 31-oct). NUEVO PENDIENTE: El Último Ke Zierre 29-nov Pepper's (una sola fuente secundaria, sin confirmación oficial). Blackline Productions CR sigue 403 (solo visible para amigos)."
+}

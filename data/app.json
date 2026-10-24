@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-23T15:24:14-06:00",
+ "actualizado": "2026-10-24T15:10:40-06:00",
  "ventana_dias": 60,
  "zonas": [
   "Alajuela",
@@ -8,29 +8,6 @@
   "San José"
  ],
  "eventos": [
-  {
-   "banda": "SEKA | Desorden Siniestro | Adrián Poveda",
-   "bar": "Amon Solar",
-   "cover": "",
-   "direccion_display": "Calle 3, Av 9-11, Barrio Amón, San José",
-   "fecha": "2026-10-23",
-   "flyer": "",
-   "fuente": "https://www.gamcultural.com/cr/events/1356950/twin-tribes",
-   "hora": "19:00",
-   "nota": "Punk tico (Seka) en vivo. Hora 19:00 explícita en GAM Cultural.",
-   "region": "San José"
-  },
-  {
-   "banda": "Crypt Monarch + AVERSION (Total Doom Vol. 2, presenta MORBID SOUND)",
-   "bar": "Bar Starview",
-   "cover": "₡5,000",
-   "direccion_display": "La Línea, Barrio Otoya, San José",
-   "fecha": "2026-10-23",
-   "flyer": "flyers/crypt-monarch-aversion-total-doom-vol-2-presenta-morbid-sound-2026-10-23.jpg",
-   "fuente": "https://www.bandsintown.com/es/e/108806932-crypt-monarch-at-la-linea-restaurant-and-bar",
-   "hora": "20:00",
-   "region": "San José"
-  },
   {
    "banda": "The Glorious Bastards CR + Bad Moon (tributo a Creedence Clearwater Revival)",
    "bar": "Mangisfera",
@@ -41,6 +18,19 @@
    "region": "Alajuela",
    "cover": "₡5000",
    "fuente": "https://www.facebook.com/events/1768115011137905/"
+  },
+  {
+   "banda": "Homel Lewis",
+   "bar": "El Corsa",
+   "fecha": "2026-10-24",
+   "hora": "20:30",
+   "cover": "",
+   "flyer": "",
+   "formato": "solista",
+   "rama": "chivo_en_solista",
+   "fuente": "https://facebook.com/100000918916945/posts/pfbid026fGdAzppT6Hzak3a1qR36dFhK5v8Ei1QbKd5FfWQxWmjJsMp2hMi9DdB54j3khqjl/",
+   "direccion_display": "Calle de la Amargura, San Pedro, Montes de Oca",
+   "region": "San José"
   },
   {
    "banda": "Acústico en el Boulevard: Pesacabal + Descafeinados + LANNN + NOX Melodiam",
