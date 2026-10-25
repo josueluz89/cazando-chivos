@@ -1,6 +1,6 @@
-# Vigilancia 20261024-1804 (2x/dia)
+# Vigilancia 20261025-0431 (2x/dia)
 
-Novedades: 3 | Fuentes pendientes: 35
+Novedades: 2 | Fuentes pendientes: 35
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
 
 ## Amon Solar
@@ -9,20 +9,13 @@ Novedades: 3 | Fuentes pendientes: 35
 
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261024-1804/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
-  - Imagen original: candidatos/20261024-1804/anfiteatro-imperial-parque-viva-5fab6f76.jpg
-  - Imagen original: candidatos/20261024-1804/anfiteatro-imperial-parque-viva-40e3ac18.jpg
-  - Imagen original: candidatos/20261024-1804/anfiteatro-imperial-parque-viva-710646b9.jpg
-  - Imagen original: candidatos/20261024-1804/anfiteatro-imperial-parque-viva-f4861e7a.jpg
-  - Imagen original: candidatos/20261024-1804/anfiteatro-imperial-parque-viva-6b2e1209.jpg
-  - Imagen original: candidatos/20261024-1804/anfiteatro-imperial-parque-viva-dbb88842.jpg
-
-## Fulcro Gastro Bar
-- Fuente: https://linktr.ee/fulcrogastrobar | Tipo: cambio_detectado
-- Titulo: @fulcrogastrobarr Restaurant - Visit to Find Food Options & See @fulcrogastrobarr Social Media & Official Accounts | Linktree
-  - Imagen original: candidatos/20261024-1804/fulcro-gastro-bar-f6013b1a.jpg
-  - Imagen original: candidatos/20261024-1804/fulcro-gastro-bar-7b1b1ace.jpg
-  - Imagen original: candidatos/20261024-1804/fulcro-gastro-bar-aad1e031.jpg
+  - Imagen original: candidatos/20261025-0431/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
+  - Imagen original: candidatos/20261025-0431/anfiteatro-imperial-parque-viva-40e3ac18.jpg
+  - Imagen original: candidatos/20261025-0431/anfiteatro-imperial-parque-viva-dbb88842.jpg
+  - Imagen original: candidatos/20261025-0431/anfiteatro-imperial-parque-viva-6189069c.jpg
+  - Imagen original: candidatos/20261025-0431/anfiteatro-imperial-parque-viva-9c0800c6.jpg
+  - Imagen original: candidatos/20261025-0431/anfiteatro-imperial-parque-viva-5a41518b.jpg
+  - Imagen original: candidatos/20261025-0431/anfiteatro-imperial-parque-viva-81cbc43d.jpg
 
 ## Pendientes (revision manual/WhatsApp)
 - Bar Reflexiones: FB/IG configurado pero requiere token o revision manual
