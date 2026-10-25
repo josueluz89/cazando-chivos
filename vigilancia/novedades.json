@@ -1,11 +1,11 @@
 {
- "stamp": "20261025-1822",
+ "stamp": "20261025-2108",
  "novedades": [
   {
    "bar": "Amon Solar",
    "fuente": "https://amonsolar.com",
    "tipo": "fuente_caida",
-   "detalle": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
+   "detalle": "RemoteDisconnected: Remote end closed connection without response"
   },
   {
    "bar": "Anfiteatro Imperial (Parque Viva)",
@@ -13,31 +13,25 @@
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261025-1822/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
-    "candidatos/20261025-1822/anfiteatro-imperial-parque-viva-d48b3535.jpg",
-    "candidatos/20261025-1822/anfiteatro-imperial-parque-viva-fe1fcacd.jpg",
-    "candidatos/20261025-1822/anfiteatro-imperial-parque-viva-710646b9.jpg",
-    "candidatos/20261025-1822/anfiteatro-imperial-parque-viva-9c0800c6.jpg",
-    "candidatos/20261025-1822/anfiteatro-imperial-parque-viva-6b2e1209.jpg",
-    "candidatos/20261025-1822/anfiteatro-imperial-parque-viva-2b27c54c.jpg"
+    "candidatos/20261025-2108/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
+    "candidatos/20261025-2108/anfiteatro-imperial-parque-viva-0b5a7dcd.jpg",
+    "candidatos/20261025-2108/anfiteatro-imperial-parque-viva-5a41518b.jpg",
+    "candidatos/20261025-2108/anfiteatro-imperial-parque-viva-bc8453cc.jpg",
+    "candidatos/20261025-2108/anfiteatro-imperial-parque-viva-2b27c54c.jpg",
+    "candidatos/20261025-2108/anfiteatro-imperial-parque-viva-a7114307.jpg",
+    "candidatos/20261025-2108/anfiteatro-imperial-parque-viva-81cbc43d.jpg"
    ]
   },
   {
-   "bar": "Music Factory",
-   "fuente": "https://musicfactorycr.com",
+   "bar": "Fulcro Gastro Bar",
+   "fuente": "https://linktr.ee/fulcrogastrobar",
    "tipo": "cambio_detectado",
-   "titulo": "Music Factory CR - 3 Restaurantes y Música en Vivo",
+   "titulo": "@fulcrogastrobarr Official: TikTok, Instagram, Facebook | Linktree",
    "imagenes": [
-    "candidatos/20261025-1822/music-factory-cf9d3e85.jpg",
-    "candidatos/20261025-1822/music-factory-1c4f6b16.jpg",
-    "candidatos/20261025-1822/music-factory-f31f2630.jpg"
+    "candidatos/20261025-2108/fulcro-gastro-bar-f6013b1a.jpg",
+    "candidatos/20261025-2108/fulcro-gastro-bar-7b1b1ace.jpg",
+    "candidatos/20261025-2108/fulcro-gastro-bar-aad1e031.jpg"
    ]
-  },
-  {
-   "bar": "Palacio de los Deportes",
-   "fuente": "https://www.heredia.go.cr/",
-   "tipo": "fuente_caida",
-   "detalle": "TimeoutError: The read operation timed out"
   }
  ],
  "pendientes": [
