@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-24T15:10:40-06:00",
+ "actualizado": "2026-10-26T15:14:28-06:00",
  "ventana_dias": 60,
  "zonas": [
   "Alajuela",
@@ -8,65 +8,6 @@
   "San José"
  ],
  "eventos": [
-  {
-   "banda": "The Glorious Bastards CR + Bad Moon (tributo a Creedence Clearwater Revival)",
-   "bar": "Mangisfera",
-   "fecha": "2026-10-24",
-   "hora": "20:00",
-   "flyer": "flyers/badmoon-tour.jpg",
-   "direccion_display": "Grecia",
-   "region": "Alajuela",
-   "cover": "₡5000",
-   "fuente": "https://www.facebook.com/events/1768115011137905/"
-  },
-  {
-   "banda": "Homel Lewis",
-   "bar": "El Corsa",
-   "fecha": "2026-10-24",
-   "hora": "20:30",
-   "cover": "",
-   "flyer": "",
-   "formato": "solista",
-   "rama": "chivo_en_solista",
-   "fuente": "https://facebook.com/100000918916945/posts/pfbid026fGdAzppT6Hzak3a1qR36dFhK5v8Ei1QbKd5FfWQxWmjJsMp2hMi9DdB54j3khqjl/",
-   "direccion_display": "Calle de la Amargura, San Pedro, Montes de Oca",
-   "region": "San José"
-  },
-  {
-   "banda": "Acústico en el Boulevard: Pesacabal + Descafeinados + LANNN + NOX Melodiam",
-   "bar": "Cartago Ruins",
-   "cover": "",
-   "direccion_display": "Boulevard de Cartago, a un costado de la Municipalidad, Cartago",
-   "fecha": "2026-10-25",
-   "flyer": "flyers/acústico-en-el-boulevard-pesacabal-descafeinados-lannn-nox-melodiam-2026-10-25.jpg",
-   "fuente": "https://www.bandsintown.com/es/e/109045409-descafeinados-at-cartago-ruins",
-   "hora": "13:00",
-   "region": "Cartago"
-  },
-  {
-   "banda": "Ploho (post-punk, Rusia)",
-   "bar": "Amon Solar",
-   "fecha": "2026-10-25",
-   "hora": "19:00",
-   "cover": "",
-   "flyer": "flyers/ploho-post-punk-rusia-2026-10-25.jpg",
-   "direccion_display": "Calle 3, Barrio Amón, San José",
-   "region": "San José",
-   "fuente": "https://gosconcerts.com/ploho/",
-   "entradas": "Gira por Latinoamérica 2026 de la banda siberiana de post-punk."
-  },
-  {
-   "banda": "Gorilla Fun + bandas invitadas",
-   "bar": "La Esquina Rock Bar",
-   "cover": "",
-   "direccion_display": "La Esquina Rock Bar, Heredia",
-   "fecha": "2026-10-25",
-   "flyer": "flyers/gorilla-fun-bandas-invitadas-2026-10-25.jpg",
-   "fuente": "https://www.bandsintown.com/es/e/108973923-gorilla-fun-at-esquina-rock-bar",
-   "hora": "20:00",
-   "nota": "GORILLA FUN LIVE: 4 bandas en tarima, cumpleaños de Gerson, entrada gratis. Rock en vivo confirmado.",
-   "region": "Heredia"
-  },
   {
    "banda": "Enrique Bunbury",
    "bar": "Anfiteatro Imperial (Parque Viva)",
@@ -272,6 +213,18 @@
    "direccion_display": "Club de Bello, Escazú",
    "region": "San José",
    "fuente": "flyers/badmoon-tour.jpg"
+  },
+  {
+   "banda": "Lari Basilio — Laney Latin America Clinic Tour",
+   "bar": "Central Pub London Room",
+   "cover": "65 USD",
+   "direccion_display": "Av 2, Calle 38-40, Paseo Colón, San José",
+   "fecha": "2026-11-10",
+   "flyer": "",
+   "fuente": "https://concerts.hypebot.com/artist/l/2646193-lari-basilio",
+   "hora": "Por confirmar",
+   "nota": "Guitarra instrumental en vivo (clínica Laney; gira latinoamericana: Paraguay 3-nov, Chile 5-nov, São Paulo 7-nov, San José 10-nov, Medellín 12-nov, Bogotá 13-nov). Hora por confirmar: Bandsintown indica 19:00 y Hypebot 19:00 UTC (13:00 CR).",
+   "region": "San José"
   },
   {
    "banda": "Soda Stereo 2026",
