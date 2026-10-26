@@ -1,11 +1,11 @@
 {
- "stamp": "20261025-2108",
+ "stamp": "20261026-0436",
  "novedades": [
   {
    "bar": "Amon Solar",
    "fuente": "https://amonsolar.com",
    "tipo": "fuente_caida",
-   "detalle": "RemoteDisconnected: Remote end closed connection without response"
+   "detalle": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
   },
   {
    "bar": "Anfiteatro Imperial (Parque Viva)",
@@ -13,24 +13,24 @@
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261025-2108/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
-    "candidatos/20261025-2108/anfiteatro-imperial-parque-viva-0b5a7dcd.jpg",
-    "candidatos/20261025-2108/anfiteatro-imperial-parque-viva-5a41518b.jpg",
-    "candidatos/20261025-2108/anfiteatro-imperial-parque-viva-bc8453cc.jpg",
-    "candidatos/20261025-2108/anfiteatro-imperial-parque-viva-2b27c54c.jpg",
-    "candidatos/20261025-2108/anfiteatro-imperial-parque-viva-a7114307.jpg",
-    "candidatos/20261025-2108/anfiteatro-imperial-parque-viva-81cbc43d.jpg"
+    "candidatos/20261026-0436/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
+    "candidatos/20261026-0436/anfiteatro-imperial-parque-viva-5a41518b.jpg",
+    "candidatos/20261026-0436/anfiteatro-imperial-parque-viva-b338d3a4.jpg",
+    "candidatos/20261026-0436/anfiteatro-imperial-parque-viva-9c0800c6.jpg",
+    "candidatos/20261026-0436/anfiteatro-imperial-parque-viva-a7114307.jpg",
+    "candidatos/20261026-0436/anfiteatro-imperial-parque-viva-710646b9.jpg",
+    "candidatos/20261026-0436/anfiteatro-imperial-parque-viva-d5e93129.jpg"
    ]
   },
   {
    "bar": "Fulcro Gastro Bar",
    "fuente": "https://linktr.ee/fulcrogastrobar",
    "tipo": "cambio_detectado",
-   "titulo": "@fulcrogastrobarr Official: TikTok, Instagram, Facebook | Linktree",
+   "titulo": "@fulcrogastrobarr Restaurant - Visit to Find Food Options & See @fulcrogastrobarr Social Media & Official Accounts | Linktree",
    "imagenes": [
-    "candidatos/20261025-2108/fulcro-gastro-bar-f6013b1a.jpg",
-    "candidatos/20261025-2108/fulcro-gastro-bar-7b1b1ace.jpg",
-    "candidatos/20261025-2108/fulcro-gastro-bar-aad1e031.jpg"
+    "candidatos/20261026-0436/fulcro-gastro-bar-f6013b1a.jpg",
+    "candidatos/20261026-0436/fulcro-gastro-bar-7b1b1ace.jpg",
+    "candidatos/20261026-0436/fulcro-gastro-bar-aad1e031.jpg"
    ]
   }
  ],
