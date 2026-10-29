@@ -1,0 +1,77 @@
+{
+ "candidatos": [
+  {
+   "banda": "Bihotza + Endemia + Vendaval",
+   "bar": "Por confirmar",
+   "cover": "",
+   "detalle": "PENDIENTE (arrastre): (1) Teletica (2026-09-23) dice que la noche incluye participación de DJ Six — regla anti-DJ; (2) CONFLICTO DE FECHA sin resolver: Teletica dice 4 de noviembre en Club Oasis (Calle de la Amargura, San Pedro), Bandsintown en vivo dice 4 de diciembre 20:00 en Xcape Bar La Calle. La cartelera ya tiene Endemia+Bihotza el 2026-12-04 en Xcape Bar La Calle. No publicar la versión del 4-nov hasta desempate. (2026-10-27-tarde: Bandsintown lista el 4-dic como Bihotza+Endemia+Vendaval en Xcape Bar La Calle, lo que apoya que la versión 4-dic — ya publicada como Endemia+Bihotza — es la vigente; la versión 4-nov sigue sin desempate y NO se publica.) (2026-10-28-tarde: barrido web confirma de nuevo el 4-dic como Bihotza+Endemia+Vendaval en la página 2 de Bandsintown San José; no se modifica lo publicado con fuente secundaria (Vendaval no se agrega al cartel publicado sin confirmación oficial) y la versión 4-nov sigue pendiente sin desempate.) (2026-10-29-tarde: Bandsintown mantiene el 4-dic 20:00 como Bihotza+Endemia+Vendaval, sin confirmar la sede Xcape; la versión 4-nov sigue sin desempate. No se publica.)",
+   "direccion_display": "",
+   "fecha": "2026-11-04",
+   "flyer": "",
+   "fuente": "https://www.teletica.com/entretenimiento/bihotza-llegara-por-primera-vez-a-costa-rica-junto-a-endemia-y-vendaval_417714",
+   "hora": "",
+   "region": "San José"
+  },
+  {
+   "banda": "Diffuse Horizons En Concierto",
+   "bar": "Amon Solar",
+   "cover": "",
+   "detalle": "PENDIENTE (arrastre): GAM Cultural lo lista en la agenda de Amón Solar (ficha 2026-11-29T01:00 → noche del 28). Sigue sin evidencia de que sea rock en vivo. No publicar hasta confirmar género. Amon Solar sigue con fuente caída (RemoteDisconnected) el 2026-10-28; además la página de GAM Cultural del venue da 404. (2026-10-28-tarde: barrido web sin resultados nuevos; la agenda de Amon Solar en Bandsintown no muestra ningún otro evento en la ventana.) (2026-10-29-tarde: sin novedades; barrido web sin resultados nuevos.)",
+   "direccion_display": "Calle 3, Av 9-11, Barrio Amón, San José",
+   "fecha": "2026-11-28",
+   "flyer": "",
+   "fuente": "https://www.gamcultural.com/cr/events/1356950/twin-tribes",
+   "hora": "",
+   "region": "San José"
+  },
+  {
+   "banda": "El Último Ke Zierre (EUKZ)",
+   "bar": "Pepper Disco Club",
+   "cover": "",
+   "detalle": "PENDIENTE (arrastre 2026-10-24-tarde): Concert Archives lista EUKZ en Pepper Disco Club el 2026-11-29, pero es la ÚNICA fuente secundaria y Hypebot dice que la banda no tiene fechas de gira 2026-2027. Sin anuncio oficial de Pepper's, ticketera ni la banda. No publicar hasta confirmación oficial. (2026-10-27-tarde: sin novedades.) (2026-10-28-tarde: sin novedades; barrido web no encontró ticketera ni anuncio oficial.) (2026-10-29-tarde: el barrido volvió a encontrar solo el listado ya conocido de Concert Archives; sigue siendo una única fuente secundaria, sin anuncio oficial de Pepper's, ticketera ni la banda. No se publica.)",
+   "direccion_display": "Zapote, San José",
+   "fecha": "2026-11-29",
+   "flyer": "",
+   "fuente": "https://www.concertarchives.org/venues/pepper-disco-club",
+   "hora": "",
+   "region": "San José"
+  },
+  {
+   "banda": "Whitecross & MKL",
+   "bar": "Goodfellow's Pizzeria",
+   "cover": "",
+   "detalle": "PENDIENTE (arrastre 2026-10-26-tarde): allevents.in + stayhappening listan 'Whitecross & MKL en concierto – Noche especial' el 2026-12-20 18:00 en Goodfellow's Pizzeria (Calle 56, Uruca). Sin confirmación oficial: la página de Whitecross en Bandsintown no muestra fecha en CR y no hay anuncio de promotora ni ticketera. Además es ambiguo si es la banda estadounidense o un acto local. No publicar hasta confirmación oficial. (2026-10-27-tarde: sin novedades.) (2026-10-28-tarde: doble corroboración de agregadores — allevents.in y stayhappening listan los mismos datos (20-dic 18:00, Goodfellow's) — y el género (hard rock clásico) encaja, pero sigue sin flyer, ticketera ni anuncio oficial; se mantiene pendiente.) (2026-10-29-tarde: sin confirmación nueva; la página de Whitecross en Bandsintown no muestra fecha en CR.)",
+   "direccion_display": "Calle 56, 10107 Uruca, San José",
+   "fecha": "2026-12-20",
+   "flyer": "",
+   "fuente": "https://allevents.in/san-jose-cr?ref=amp-similar-cityhome",
+   "hora": "18:00",
+   "region": "San José"
+  },
+  {
+   "banda": "bloodlines",
+   "bar": "Central Pub London Room",
+   "cover": "",
+   "detalle": "PENDIENTE (arrastre 2026-10-26-tarde): Bandsintown (página de San José) lista bloodlines en London Room el 2026-10-31 19:00, pero Hypebot muestra la gira de bloodlines en EE. UU. del 24 al 29-oct (Grand Junction, Davenport, West Chicago, Nashville) sin fecha en CR. Conflicto sin resolver y una sola fuente secundaria. No publicar hasta confirmación oficial. (2026-10-27-tarde: sin novedades.) (2026-10-28-tarde: Bandsintown confirma que el evento existe ('Halloween Party · Bloodlines'), pero sigue sin evidencia del género de esta banda local — no confundir con Bloodline, bandas europeas de black/thrash metal —; se mantiene pendiente.) (2026-10-29-tarde: Bandsintown confirma fecha/lugar en varios listados — sáb 31-oct 19:00, 'Halloween Party · Bloodlines', London Room — pero el género sigue sin verificar; se mantiene pendiente.)",
+   "direccion_display": "Av 2, Calle 38-40, Paseo Colón, San José",
+   "fecha": "2026-10-31",
+   "flyer": "",
+   "fuente": "https://www.bandsintown.com/c/san-jose-costa-rica?came_from=283&latitude=9.9386756&longitude=-84.0771202&utm_medium=web&utm_source=artist_event_page&utm_campaign=city_link",
+   "hora": "19:00",
+   "region": "San José"
+  },
+  {
+   "banda": "KalleWave$",
+   "bar": "Amon Solar",
+   "cover": "",
+   "detalle": "PENDIENTE (arrastre 2026-10-26-tarde): Bandsintown lista KalleWave$ en Amon Solar el 2026-11-06 13:30. Sin evidencia de que sea rock en vivo (nombre sugiere electrónica) y la web de Amon Solar sigue caída. No publicar hasta confirmar género. (2026-10-27-tarde: sin novedades.) (2026-10-28-tarde: la página del venue en Bandsintown confirma lugar/fecha/hora ('SAN JOSÉ: TROPIC STATIC'), pero sigue sin evidencia de rock en vivo; se mantiene pendiente.) (2026-10-29-tarde: Bandsintown confirma fecha/lugar/hora — vie 6-nov 13:30, 'SAN JOSÉ: TROPIC STATIC', Amon Solar — pero el género sigue sin verificar; se mantiene pendiente.)",
+   "direccion_display": "Calle 3, Av 9-11, Barrio Amón, San José",
+   "fecha": "2026-11-06",
+   "flyer": "",
+   "fuente": "https://www.bandsintown.com/c/san-jose-costa-rica?came_from=251&latitude=9.9386756&longitude=-84.0771202&utm_medium=web&utm_source=artist_event_page&utm_campaign=city_link",
+   "hora": "13:30",
+   "region": "San José"
+  }
+ ],
+ "nota": "Actualizado 2026-10-29-tarde: 0 PUBLICADOS. FB events discover (4 búsquedas, 2026-10-29→2026-12-28): sin resultados. check.py 20261029-2108: 2 novedades. Amon Solar fuente caída (RemoteDisconnected, igual que días anteriores); eticket 7 imágenes revisadas una por una: logo eticket, Fonseca 12-mar-2027 Parque Viva (fuera de ventana, no rock), Jay Wheeler 29-may-2027 Parque Viva (fuera de ventana, urbano), Rawayana 12-dic Parque Viva (rap/trap), Karol G 27-28 nov Estadio Nacional (urbano), Los Fabulosos Cadillacs 19-nov Parque Viva (YA PUBLICADO), Mon Laferte 5-dic Parque Viva (pop) → ningún rock nuevo. Homel Lewis timeline: post más reciente 2026-10-28 20:36 CR republica el Halloween Bash 31-oct en Playa Hermosa — FUERA DEL GAM, no se publica. Barrido web: 0 nuevos publicables. Los supuestos nuevos del barrido ya estaban publicados (Metal Roadshow 22-nov, Militarie Gun 22-nov, Gorilla Fun 13-nov = Sin Anestesia, Kreator+Dimmu 6-dic, NOX 5-dic Cartago Ruins, Endemia 6-dic Mercadito); TOMMA/ONEIRO 29-nov es electrónico; Enuff Z'Nuff 2-dic es evento privado; Machine Girl electrónica. Discrepancia Metal Roadshow RESUELTA a favor de lo publicado: Teletica (2026-07-31) confirma Pepper's Club, 22-nov desde las 4 p. m.; los agregadores que dicen SPORTS PALACE/Palacio de los Deportes confunden la sede. Dato verificado sin cambiar lo publicado: la entrada del Metal Roadshow no lleva hora y Teletica dice 16:00."
+}
