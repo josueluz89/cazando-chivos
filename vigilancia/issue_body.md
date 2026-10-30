@@ -1,4 +1,4 @@
-# Vigilancia 20261030-0537 (2x/dia)
+# Vigilancia 20261030-1954 (2x/dia)
 
 Novedades: 3 | Fuentes pendientes: 35
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
@@ -9,17 +9,20 @@ Novedades: 3 | Fuentes pendientes: 35
 
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261030-0537/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
-  - Imagen original: candidatos/20261030-0537/anfiteatro-imperial-parque-viva-d5e93129.jpg
-  - Imagen original: candidatos/20261030-0537/anfiteatro-imperial-parque-viva-7f652c34.jpg
-  - Imagen original: candidatos/20261030-0537/anfiteatro-imperial-parque-viva-6189069c.jpg
-  - Imagen original: candidatos/20261030-0537/anfiteatro-imperial-parque-viva-b338d3a4.jpg
-  - Imagen original: candidatos/20261030-0537/anfiteatro-imperial-parque-viva-40e3ac18.jpg
-  - Imagen original: candidatos/20261030-0537/anfiteatro-imperial-parque-viva-0b5a7dcd.jpg
+  - Imagen original: candidatos/20261030-1954/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
+  - Imagen original: candidatos/20261030-1954/anfiteatro-imperial-parque-viva-710646b9.jpg
+  - Imagen original: candidatos/20261030-1954/anfiteatro-imperial-parque-viva-3c5cf67b.jpg
+  - Imagen original: candidatos/20261030-1954/anfiteatro-imperial-parque-viva-d5e93129.jpg
+  - Imagen original: candidatos/20261030-1954/anfiteatro-imperial-parque-viva-d48b3535.jpg
+  - Imagen original: candidatos/20261030-1954/anfiteatro-imperial-parque-viva-76060bdc.jpg
+  - Imagen original: candidatos/20261030-1954/anfiteatro-imperial-parque-viva-dbb88842.jpg
 
-## CIC ANDE (Anfiteatro)
-- Fuente: https://www.ande.cr/ | Tipo: fuente_caida
-- Detalle: HTTPError: HTTP Error 403: Forbidden
+## Fulcro Gastro Bar
+- Fuente: https://linktr.ee/fulcrogastrobar | Tipo: cambio_detectado
+- Titulo: @fulcrogastrobarr Restaurant - Visit to Find Food Options & See @fulcrogastrobarr Social Media & Official Accounts | Linktree
+  - Imagen original: candidatos/20261030-1954/fulcro-gastro-bar-f6013b1a.jpg
+  - Imagen original: candidatos/20261030-1954/fulcro-gastro-bar-7b1b1ace.jpg
+  - Imagen original: candidatos/20261030-1954/fulcro-gastro-bar-aad1e031.jpg
 
 ## Pendientes (revision manual/WhatsApp)
 - Bar Reflexiones: FB/IG configurado pero requiere token o revision manual
