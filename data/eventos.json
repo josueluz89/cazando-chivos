@@ -600,6 +600,17 @@
   "region": "San José"
  },
  {
+  "banda": "Picha (Oscuro Maldito 2026)",
+  "bar": "El Muro ArtPub & Comedy Club",
+  "cover": "",
+  "direccion_display": "50 m norte del Parque Morazán, Barrio Amón, San José",
+  "fecha": "2026-10-31",
+  "flyer": "",
+  "fuente": "https://www.bandsintown.com/es/v/10357528-el-muro-art-pub-and-comedy-club?came_from=253&utm_medium=web&utm_source=home&utm_campaign=close_by_venues",
+  "hora": "20:00",
+  "region": "San José"
+ },
+ {
   "banda": "Bad Moon (tributo a Creedence Clearwater Revival)",
   "bar": "Campo Verde",
   "fecha": "2026-10-31",
@@ -788,6 +799,17 @@
   "region": "San José"
  },
  {
+  "banda": "Diesel Rock presenta: Especial de Metallica",
+  "bar": "Jazz Café",
+  "cover": "₡10.000",
+  "direccion_display": "Paralela a la Autopista Próspero Fernández, Escazú",
+  "fecha": "2026-11-13",
+  "flyer": "flyers/diesel-rock-presenta-especial-de-metallica-2026-11-13.jpg",
+  "fuente": "https://www.gamcultural.com/cr/events/1461457/diesel-rock",
+  "hora": "20:30",
+  "region": "San José"
+ },
+ {
   "banda": "Awesome as Fuck presenta Tributo a Green Day",
   "bar": "Amon Solar",
   "cover": "",
@@ -846,6 +868,17 @@
   "fuente": "https://eticket.cr/eventos.aspx?idartista=1132",
   "hora": "19:00",
   "region": "Alajuela"
+ },
+ {
+  "banda": "ROLLER COASTER presenta: PULSE (tributo a Pink Floyd)",
+  "bar": "Jazz Café",
+  "cover": "",
+  "direccion_display": "Paralela a la Autopista Próspero Fernández, Escazú",
+  "fecha": "2026-11-19",
+  "flyer": "",
+  "fuente": "https://www.gamcultural.com/cr/events/1461457/diesel-rock",
+  "hora": "20:00",
+  "region": "San José"
  },
  {
   "banda": "Estamos Perdidos",
@@ -938,6 +971,18 @@
   "direccion_display": "Mercadito La California, San José",
   "region": "San José",
   "fuente": "https://passline.cr"
+ },
+ {
+  "banda": "Time's Forgotten (20 años)",
+  "bar": "Teatro Eugene O'Neill",
+  "cover": "₡13.000",
+  "direccion_display": "San Pedro, San José",
+  "fecha": "2026-11-26",
+  "flyer": "flyers/time-s-forgotten-20-años-2026-11-26.jpg",
+  "fuente": "https://delfino.cr/2026/10/times-forgotten-celebrara-20-anos-con-concierto-en-el-teatro-eugene-oneill",
+  "hora": "20:00",
+  "nota": "Interpreta completo su álbum debut 'A Relative Moment of Peace' más repertorio reciente. Entradas en Tiquetebox.",
+  "region": "San José"
  },
  {
   "banda": "A.N.I.M.A.L + Deznuke + Tributo a Rage Against the Machine",
