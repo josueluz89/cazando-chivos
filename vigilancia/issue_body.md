@@ -1,6 +1,6 @@
-# Vigilancia 20261029-2014 (2x/dia)
+# Vigilancia 20261030-0537 (2x/dia)
 
-Novedades: 5 | Fuentes pendientes: 35
+Novedades: 3 | Fuentes pendientes: 35
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
 
 ## Amon Solar
@@ -9,28 +9,17 @@ Novedades: 5 | Fuentes pendientes: 35
 
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261029-2014/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
-  - Imagen original: candidatos/20261029-2014/anfiteatro-imperial-parque-viva-6189069c.jpg
-  - Imagen original: candidatos/20261029-2014/anfiteatro-imperial-parque-viva-8274a2b0.jpg
-  - Imagen original: candidatos/20261029-2014/anfiteatro-imperial-parque-viva-40e3ac18.jpg
-  - Imagen original: candidatos/20261029-2014/anfiteatro-imperial-parque-viva-710646b9.jpg
-  - Imagen original: candidatos/20261029-2014/anfiteatro-imperial-parque-viva-ed1ede53.jpg
-  - Imagen original: candidatos/20261029-2014/anfiteatro-imperial-parque-viva-d5e93129.jpg
+  - Imagen original: candidatos/20261030-0537/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
+  - Imagen original: candidatos/20261030-0537/anfiteatro-imperial-parque-viva-d5e93129.jpg
+  - Imagen original: candidatos/20261030-0537/anfiteatro-imperial-parque-viva-7f652c34.jpg
+  - Imagen original: candidatos/20261030-0537/anfiteatro-imperial-parque-viva-6189069c.jpg
+  - Imagen original: candidatos/20261030-0537/anfiteatro-imperial-parque-viva-b338d3a4.jpg
+  - Imagen original: candidatos/20261030-0537/anfiteatro-imperial-parque-viva-40e3ac18.jpg
+  - Imagen original: candidatos/20261030-0537/anfiteatro-imperial-parque-viva-0b5a7dcd.jpg
 
-## Music Factory
-- Fuente: https://musicfactorycr.com | Tipo: cambio_detectado
-- Titulo: Music Factory CR - 3 Restaurantes y Música en Vivo
-  - Imagen original: candidatos/20261029-2014/music-factory-1c4f6b16.jpg
-  - Imagen original: candidatos/20261029-2014/music-factory-f31f2630.jpg
-  - Imagen original: candidatos/20261029-2014/music-factory-b4995849.jpg
-
-## Fulcro Gastro Bar
-- Fuente: https://linktr.ee/fulcrogastrobar | Tipo: cambio_detectado
-- Titulo: @fulcrogastrobarr Official: TikTok, Instagram, Facebook | Linktree
-
-## Palacio de los Deportes
-- Fuente: https://www.heredia.go.cr/ | Tipo: cambio_detectado
-- Titulo: Portal Municipalidad de Heredia
+## CIC ANDE (Anfiteatro)
+- Fuente: https://www.ande.cr/ | Tipo: fuente_caida
+- Detalle: HTTPError: HTTP Error 403: Forbidden
 
 ## Pendientes (revision manual/WhatsApp)
 - Bar Reflexiones: FB/IG configurado pero requiere token o revision manual

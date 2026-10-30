@@ -1,5 +1,5 @@
 {
- "stamp": "20261029-2014",
+ "stamp": "20261030-0537",
  "novedades": [
   {
    "bar": "Amon Solar",
@@ -13,39 +13,20 @@
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261029-2014/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
-    "candidatos/20261029-2014/anfiteatro-imperial-parque-viva-6189069c.jpg",
-    "candidatos/20261029-2014/anfiteatro-imperial-parque-viva-8274a2b0.jpg",
-    "candidatos/20261029-2014/anfiteatro-imperial-parque-viva-40e3ac18.jpg",
-    "candidatos/20261029-2014/anfiteatro-imperial-parque-viva-710646b9.jpg",
-    "candidatos/20261029-2014/anfiteatro-imperial-parque-viva-ed1ede53.jpg",
-    "candidatos/20261029-2014/anfiteatro-imperial-parque-viva-d5e93129.jpg"
+    "candidatos/20261030-0537/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
+    "candidatos/20261030-0537/anfiteatro-imperial-parque-viva-d5e93129.jpg",
+    "candidatos/20261030-0537/anfiteatro-imperial-parque-viva-7f652c34.jpg",
+    "candidatos/20261030-0537/anfiteatro-imperial-parque-viva-6189069c.jpg",
+    "candidatos/20261030-0537/anfiteatro-imperial-parque-viva-b338d3a4.jpg",
+    "candidatos/20261030-0537/anfiteatro-imperial-parque-viva-40e3ac18.jpg",
+    "candidatos/20261030-0537/anfiteatro-imperial-parque-viva-0b5a7dcd.jpg"
    ]
   },
   {
-   "bar": "Music Factory",
-   "fuente": "https://musicfactorycr.com",
-   "tipo": "cambio_detectado",
-   "titulo": "Music Factory CR - 3 Restaurantes y Música en Vivo",
-   "imagenes": [
-    "candidatos/20261029-2014/music-factory-1c4f6b16.jpg",
-    "candidatos/20261029-2014/music-factory-f31f2630.jpg",
-    "candidatos/20261029-2014/music-factory-b4995849.jpg"
-   ]
-  },
-  {
-   "bar": "Fulcro Gastro Bar",
-   "fuente": "https://linktr.ee/fulcrogastrobar",
-   "tipo": "cambio_detectado",
-   "titulo": "@fulcrogastrobarr Official: TikTok, Instagram, Facebook | Linktree",
-   "imagenes": []
-  },
-  {
-   "bar": "Palacio de los Deportes",
-   "fuente": "https://www.heredia.go.cr/",
-   "tipo": "cambio_detectado",
-   "titulo": "Portal Municipalidad de Heredia",
-   "imagenes": []
+   "bar": "CIC ANDE (Anfiteatro)",
+   "fuente": "https://www.ande.cr/",
+   "tipo": "fuente_caida",
+   "detalle": "HTTPError: HTTP Error 403: Forbidden"
   }
  ],
  "pendientes": [
