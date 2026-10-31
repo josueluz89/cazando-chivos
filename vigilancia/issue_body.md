@@ -1,21 +1,31 @@
-# Vigilancia 20261031-0527 (2x/dia)
+# Vigilancia 20261031-1915 (2x/dia)
 
-Novedades: 2 | Fuentes pendientes: 36
+Novedades: 4 | Fuentes pendientes: 36
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
 
 ## Amon Solar
 - Fuente: https://amonsolar.com | Tipo: fuente_caida
 - Detalle: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>
 
+## Mercadito La California
+- Fuente: https://starticket.cr | Tipo: cambio_detectado
+  - Imagen original: candidatos/20261031-1915/mercadito-la-california-cbeecc69.jpg
+  - Imagen original: candidatos/20261031-1915/mercadito-la-california-7c78d650.jpg
+  - Imagen original: candidatos/20261031-1915/mercadito-la-california-25f963d3.jpg
+  - Imagen original: candidatos/20261031-1915/mercadito-la-california-a34c2144.jpg
+
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261031-0527/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
-  - Imagen original: candidatos/20261031-0527/anfiteatro-imperial-parque-viva-f4861e7a.jpg
-  - Imagen original: candidatos/20261031-0527/anfiteatro-imperial-parque-viva-d5e93129.jpg
-  - Imagen original: candidatos/20261031-0527/anfiteatro-imperial-parque-viva-2c38e756.jpg
-  - Imagen original: candidatos/20261031-0527/anfiteatro-imperial-parque-viva-76060bdc.jpg
-  - Imagen original: candidatos/20261031-0527/anfiteatro-imperial-parque-viva-a7114307.jpg
-  - Imagen original: candidatos/20261031-0527/anfiteatro-imperial-parque-viva-d48b3535.jpg
+  - Imagen original: candidatos/20261031-1915/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
+  - Imagen original: candidatos/20261031-1915/anfiteatro-imperial-parque-viva-0b5a7dcd.jpg
+  - Imagen original: candidatos/20261031-1915/anfiteatro-imperial-parque-viva-8274a2b0.jpg
+  - Imagen original: candidatos/20261031-1915/anfiteatro-imperial-parque-viva-2c38e756.jpg
+  - Imagen original: candidatos/20261031-1915/anfiteatro-imperial-parque-viva-5afaea16.jpg
+  - Imagen original: candidatos/20261031-1915/anfiteatro-imperial-parque-viva-9c0800c6.jpg
+
+## Music Factory
+- Fuente: https://musicfactorycr.com | Tipo: cambio_detectado
+- Titulo: Music Factory CR - 3 Restaurantes y Música en Vivo
 
 ## Pendientes (revision manual/WhatsApp)
 - Bar Reflexiones: FB/IG configurado pero requiere token o revision manual

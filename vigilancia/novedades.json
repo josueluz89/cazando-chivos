@@ -1,5 +1,5 @@
 {
- "stamp": "20261031-0527",
+ "stamp": "20261031-1915",
  "novedades": [
   {
    "bar": "Amon Solar",
@@ -8,19 +8,37 @@
    "detalle": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
   },
   {
+   "bar": "Mercadito La California",
+   "fuente": "https://starticket.cr",
+   "tipo": "cambio_detectado",
+   "titulo": "",
+   "imagenes": [
+    "candidatos/20261031-1915/mercadito-la-california-cbeecc69.jpg",
+    "candidatos/20261031-1915/mercadito-la-california-7c78d650.jpg",
+    "candidatos/20261031-1915/mercadito-la-california-25f963d3.jpg",
+    "candidatos/20261031-1915/mercadito-la-california-a34c2144.jpg"
+   ]
+  },
+  {
    "bar": "Anfiteatro Imperial (Parque Viva)",
    "fuente": "https://www.eticket.cr",
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261031-0527/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
-    "candidatos/20261031-0527/anfiteatro-imperial-parque-viva-f4861e7a.jpg",
-    "candidatos/20261031-0527/anfiteatro-imperial-parque-viva-d5e93129.jpg",
-    "candidatos/20261031-0527/anfiteatro-imperial-parque-viva-2c38e756.jpg",
-    "candidatos/20261031-0527/anfiteatro-imperial-parque-viva-76060bdc.jpg",
-    "candidatos/20261031-0527/anfiteatro-imperial-parque-viva-a7114307.jpg",
-    "candidatos/20261031-0527/anfiteatro-imperial-parque-viva-d48b3535.jpg"
+    "candidatos/20261031-1915/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
+    "candidatos/20261031-1915/anfiteatro-imperial-parque-viva-0b5a7dcd.jpg",
+    "candidatos/20261031-1915/anfiteatro-imperial-parque-viva-8274a2b0.jpg",
+    "candidatos/20261031-1915/anfiteatro-imperial-parque-viva-2c38e756.jpg",
+    "candidatos/20261031-1915/anfiteatro-imperial-parque-viva-5afaea16.jpg",
+    "candidatos/20261031-1915/anfiteatro-imperial-parque-viva-9c0800c6.jpg"
    ]
+  },
+  {
+   "bar": "Music Factory",
+   "fuente": "https://musicfactorycr.com",
+   "tipo": "cambio_detectado",
+   "titulo": "Music Factory CR - 3 Restaurantes y Música en Vivo",
+   "imagenes": []
   }
  ],
  "pendientes": [
