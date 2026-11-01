@@ -1,5 +1,5 @@
 {
- "stamp": "20261031-1915",
+ "stamp": "20261101-0553",
  "novedades": [
   {
    "bar": "Amon Solar",
@@ -8,37 +8,30 @@
    "detalle": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
   },
   {
-   "bar": "Mercadito La California",
-   "fuente": "https://starticket.cr",
-   "tipo": "cambio_detectado",
-   "titulo": "",
-   "imagenes": [
-    "candidatos/20261031-1915/mercadito-la-california-cbeecc69.jpg",
-    "candidatos/20261031-1915/mercadito-la-california-7c78d650.jpg",
-    "candidatos/20261031-1915/mercadito-la-california-25f963d3.jpg",
-    "candidatos/20261031-1915/mercadito-la-california-a34c2144.jpg"
-   ]
-  },
-  {
    "bar": "Anfiteatro Imperial (Parque Viva)",
    "fuente": "https://www.eticket.cr",
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261031-1915/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
-    "candidatos/20261031-1915/anfiteatro-imperial-parque-viva-0b5a7dcd.jpg",
-    "candidatos/20261031-1915/anfiteatro-imperial-parque-viva-8274a2b0.jpg",
-    "candidatos/20261031-1915/anfiteatro-imperial-parque-viva-2c38e756.jpg",
-    "candidatos/20261031-1915/anfiteatro-imperial-parque-viva-5afaea16.jpg",
-    "candidatos/20261031-1915/anfiteatro-imperial-parque-viva-9c0800c6.jpg"
+    "candidatos/20261101-0553/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
+    "candidatos/20261101-0553/anfiteatro-imperial-parque-viva-40e3ac18.jpg",
+    "candidatos/20261101-0553/anfiteatro-imperial-parque-viva-5a41518b.jpg",
+    "candidatos/20261101-0553/anfiteatro-imperial-parque-viva-e003131b.jpg",
+    "candidatos/20261101-0553/anfiteatro-imperial-parque-viva-ab796e15.jpg",
+    "candidatos/20261101-0553/anfiteatro-imperial-parque-viva-d37ac2b0.jpg",
+    "candidatos/20261101-0553/anfiteatro-imperial-parque-viva-8274a2b0.jpg"
    ]
   },
   {
-   "bar": "Music Factory",
-   "fuente": "https://musicfactorycr.com",
+   "bar": "Fulcro Gastro Bar",
+   "fuente": "https://linktr.ee/fulcrogastrobar",
    "tipo": "cambio_detectado",
-   "titulo": "Music Factory CR - 3 Restaurantes y Música en Vivo",
-   "imagenes": []
+   "titulo": "@fulcrogastrobarr Official: TikTok, Instagram, Facebook | Linktree",
+   "imagenes": [
+    "candidatos/20261101-0553/fulcro-gastro-bar-f6013b1a.jpg",
+    "candidatos/20261101-0553/fulcro-gastro-bar-7b1b1ace.jpg",
+    "candidatos/20261101-0553/fulcro-gastro-bar-aad1e031.jpg"
+   ]
   }
  ],
  "pendientes": [
