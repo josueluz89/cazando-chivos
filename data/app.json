@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-31T15:21:36-06:00",
+ "actualizado": "2026-11-01T15:17:55-06:00",
  "ventana_dias": 60,
  "zonas": [
   "Alajuela",
@@ -8,59 +8,6 @@
   "San José"
  ],
  "eventos": [
-  {
-   "banda": "Los Cuchillos (Fiesta de Halloween)",
-   "bar": "Amon Solar",
-   "fecha": "2026-10-31",
-   "hora": "20:00",
-   "cover": "Desde $17.00",
-   "flyer": "flyers/los-cuchillos-fiesta-de-halloween-2026-10-31.png",
-   "direccion_display": "Calle 3, Av 9-11, Barrio Amón, San José",
-   "region": "San José",
-   "fuente": "https://starticket.cr/o/2776/amon-solar"
-  },
-  {
-   "banda": "Halloween Party — evento musical en vivo + concurso de disfraces",
-   "bar": "Bar Reflexiones",
-   "cover": "₡3000",
-   "fecha": "2026-10-31",
-   "flyer": "flyers/halloween-reflexiones.jpg",
-   "hora": "20:00",
-   "reservas": "8814-1791",
-   "direccion_display": "San Rafael de Heredia",
-   "region": "Heredia"
-  },
-  {
-   "banda": "Liberación Punk + Phantom Lord + Astro Zombies (Concierto de Halloween)",
-   "bar": "Butts Bar",
-   "cover": "",
-   "direccion_display": "75 Este del Parque Nacional, San José",
-   "fecha": "2026-10-31",
-   "flyer": "flyers/liberación-punk-phantom-lord-astro-zombies-concierto-de-halloween-2026-10-31.jpg",
-   "fuente": "https://www.bandsintown.com/es/e/108750795-liberacion-punk-at-butts-bar-metal",
-   "hora": "20:00",
-   "region": "San José"
-  },
-  {
-   "banda": "Picha (Oscuro Maldito 2026)",
-   "bar": "El Muro ArtPub & Comedy Club",
-   "cover": "",
-   "direccion_display": "50 m norte del Parque Morazán, Barrio Amón, San José",
-   "fecha": "2026-10-31",
-   "flyer": "",
-   "fuente": "https://www.bandsintown.com/es/v/10357528-el-muro-art-pub-and-comedy-club?came_from=253&utm_medium=web&utm_source=home&utm_campaign=close_by_venues",
-   "hora": "20:00",
-   "region": "San José"
-  },
-  {
-   "banda": "Bad Moon (tributo a Creedence Clearwater Revival)",
-   "bar": "Campo Verde",
-   "fecha": "2026-10-31",
-   "hora": "Por confirmar",
-   "flyer": "flyers/badmoon-tour.jpg",
-   "direccion_display": "Atenas",
-   "region": "Alajuela"
-  },
   {
    "banda": "Tributo Soda Stereo: 40 años de SIGNOS + éxitos de Soda Stereo & Cerati",
    "bar": "Jazz Café",
@@ -449,6 +396,17 @@
    "region": "San José",
    "fuente": "https://passline.cr",
    "entradas": "Concierto público de rock/metal cristiano."
+  },
+  {
+   "banda": "Diffuse Horizons En Concierto",
+   "bar": "Amon Solar",
+   "fecha": "2026-11-28",
+   "hora": "19:00",
+   "cover": "",
+   "flyer": "",
+   "direccion_display": "Calle 3, Av 9-11, Barrio Amón, San José",
+   "region": "San José",
+   "fuente": "https://www.gamcultural.com/cr/events/1356950/twin-tribes"
   },
   {
    "banda": "Eclipse y Demolition Lovers presenta 20 aniversario de Black Parade (tributo a My Chemical Romance)",
