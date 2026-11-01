@@ -1,5 +1,5 @@
 {
- "stamp": "20261101-0553",
+ "stamp": "20261101-1936",
  "novedades": [
   {
    "bar": "Amon Solar",
@@ -8,30 +8,43 @@
    "detalle": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
   },
   {
+   "bar": "Mercadito La California",
+   "fuente": "https://starticket.cr",
+   "tipo": "cambio_detectado",
+   "titulo": "",
+   "imagenes": [
+    "candidatos/20261101-1936/mercadito-la-california-25f963d3.jpg",
+    "candidatos/20261101-1936/mercadito-la-california-7c78d650.jpg",
+    "candidatos/20261101-1936/mercadito-la-california-628e4aad.png",
+    "candidatos/20261101-1936/mercadito-la-california-dc3340e9.png",
+    "candidatos/20261101-1936/mercadito-la-california-29e378c4.png",
+    "candidatos/20261101-1936/mercadito-la-california-8e1e1806.png",
+    "candidatos/20261101-1936/mercadito-la-california-8f53d498.jpg",
+    "candidatos/20261101-1936/mercadito-la-california-e56144b6.png",
+    "candidatos/20261101-1936/mercadito-la-california-e832d9f8.png",
+    "candidatos/20261101-1936/mercadito-la-california-f02bcf80.png"
+   ]
+  },
+  {
    "bar": "Anfiteatro Imperial (Parque Viva)",
    "fuente": "https://www.eticket.cr",
    "tipo": "cambio_detectado",
    "titulo": "",
-   "imagenes": [
-    "candidatos/20261101-0553/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
-    "candidatos/20261101-0553/anfiteatro-imperial-parque-viva-40e3ac18.jpg",
-    "candidatos/20261101-0553/anfiteatro-imperial-parque-viva-5a41518b.jpg",
-    "candidatos/20261101-0553/anfiteatro-imperial-parque-viva-e003131b.jpg",
-    "candidatos/20261101-0553/anfiteatro-imperial-parque-viva-ab796e15.jpg",
-    "candidatos/20261101-0553/anfiteatro-imperial-parque-viva-d37ac2b0.jpg",
-    "candidatos/20261101-0553/anfiteatro-imperial-parque-viva-8274a2b0.jpg"
-   ]
+   "imagenes": []
+  },
+  {
+   "bar": "Music Factory",
+   "fuente": "https://musicfactorycr.com",
+   "tipo": "cambio_detectado",
+   "titulo": "Music Factory CR - 3 Restaurantes y Música en Vivo",
+   "imagenes": []
   },
   {
    "bar": "Fulcro Gastro Bar",
    "fuente": "https://linktr.ee/fulcrogastrobar",
    "tipo": "cambio_detectado",
-   "titulo": "@fulcrogastrobarr Official: TikTok, Instagram, Facebook | Linktree",
-   "imagenes": [
-    "candidatos/20261101-0553/fulcro-gastro-bar-f6013b1a.jpg",
-    "candidatos/20261101-0553/fulcro-gastro-bar-7b1b1ace.jpg",
-    "candidatos/20261101-0553/fulcro-gastro-bar-aad1e031.jpg"
-   ]
+   "titulo": "@fulcrogastrobarr Restaurant - Visit to Find Food Options & See @fulcrogastrobarr Social Media & Official Accounts | Linktree",
+   "imagenes": []
   }
  ],
  "pendientes": [
