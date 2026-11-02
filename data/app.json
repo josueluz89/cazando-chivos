@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-01T15:17:55-06:00",
+ "actualizado": "2026-11-02T15:16:36-06:00",
  "ventana_dias": 60,
  "zonas": [
   "Alajuela",
@@ -221,6 +221,17 @@
    "region": "Alajuela",
    "fuente": "https://atenasayuda.com/",
    "nota": "Concierto benéfico a beneficio del Hogar de Ancianos. Bandas de rock en vivo en dos escenarios alternos; cartel por anunciar. Puertas 9:00 AM, cierre 10:00 PM. Entradas: SINPE Móvil 8487-0115 (comprobante por WhatsApp). Menores de 10 gratis."
+  },
+  {
+   "banda": "Manolo Kabezabolo y los Maes del Bolo",
+   "bar": "Oasis",
+   "cover": "",
+   "direccion_display": "Calle 61, San Pedro - Montes de Oca",
+   "fecha": "2026-11-14",
+   "flyer": "",
+   "fuente": "https://www.gamcultural.com/cr/events/1539519/como-antes",
+   "hora": "17:00",
+   "region": "San José"
   },
   {
    "banda": "Gorillaz (The Mountain Tour 2026, totalmente en vivo)",
