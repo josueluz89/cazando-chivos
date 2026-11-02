@@ -1,21 +1,27 @@
-# Vigilancia 20261101-2110 (2x/dia)
+# Vigilancia 20261102-0552 (2x/dia)
 
-Novedades: 2 | Fuentes pendientes: 36
+Novedades: 3 | Fuentes pendientes: 36
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
 
 ## Amon Solar
 - Fuente: https://amonsolar.com | Tipo: fuente_caida
-- Detalle: RemoteDisconnected: Remote end closed connection without response
+- Detalle: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>
+
+## Mercadito La California
+- Fuente: https://starticket.cr | Tipo: cambio_detectado
+  - Imagen original: candidatos/20261102-0552/mercadito-la-california-7c78d650.jpg
+  - Imagen original: candidatos/20261102-0552/mercadito-la-california-25f963d3.jpg
+  - Imagen original: candidatos/20261102-0552/mercadito-la-california-628e4aad.png
+  - Imagen original: candidatos/20261102-0552/mercadito-la-california-dc3340e9.png
+  - Imagen original: candidatos/20261102-0552/mercadito-la-california-29e378c4.png
+  - Imagen original: candidatos/20261102-0552/mercadito-la-california-8e1e1806.png
+  - Imagen original: candidatos/20261102-0552/mercadito-la-california-8f53d498.jpg
+  - Imagen original: candidatos/20261102-0552/mercadito-la-california-e56144b6.png
+  - Imagen original: candidatos/20261102-0552/mercadito-la-california-e832d9f8.png
+  - Imagen original: candidatos/20261102-0552/mercadito-la-california-f02bcf80.png
 
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261101-2110/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
-  - Imagen original: candidatos/20261101-2110/anfiteatro-imperial-parque-viva-ab796e15.jpg
-  - Imagen original: candidatos/20261101-2110/anfiteatro-imperial-parque-viva-d5e93129.jpg
-  - Imagen original: candidatos/20261101-2110/anfiteatro-imperial-parque-viva-6189069c.jpg
-  - Imagen original: candidatos/20261101-2110/anfiteatro-imperial-parque-viva-9c0800c6.jpg
-  - Imagen original: candidatos/20261101-2110/anfiteatro-imperial-parque-viva-d37ac2b0.jpg
-  - Imagen original: candidatos/20261101-2110/anfiteatro-imperial-parque-viva-dbb88842.jpg
 
 ## Pendientes (revision manual/WhatsApp)
 - Bar Reflexiones: FB/IG configurado pero requiere token o revision manual
