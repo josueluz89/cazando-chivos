@@ -1,5 +1,5 @@
 {
- "stamp": "20261103-2056",
+ "stamp": "20261104-0604",
  "novedades": [
   {
    "bar": "Amon Solar",
@@ -13,16 +13,16 @@
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261103-2056/mercadito-la-california-7c78d650.jpg",
-    "candidatos/20261103-2056/mercadito-la-california-25f963d3.jpg",
-    "candidatos/20261103-2056/mercadito-la-california-628e4aad.png",
-    "candidatos/20261103-2056/mercadito-la-california-dc3340e9.png",
-    "candidatos/20261103-2056/mercadito-la-california-29e378c4.png",
-    "candidatos/20261103-2056/mercadito-la-california-8e1e1806.png",
-    "candidatos/20261103-2056/mercadito-la-california-e832d9f8.png",
-    "candidatos/20261103-2056/mercadito-la-california-8f53d498.jpg",
-    "candidatos/20261103-2056/mercadito-la-california-e56144b6.png",
-    "candidatos/20261103-2056/mercadito-la-california-f02bcf80.png"
+    "candidatos/20261104-0604/mercadito-la-california-7c78d650.jpg",
+    "candidatos/20261104-0604/mercadito-la-california-25f963d3.jpg",
+    "candidatos/20261104-0604/mercadito-la-california-628e4aad.png",
+    "candidatos/20261104-0604/mercadito-la-california-dc3340e9.png",
+    "candidatos/20261104-0604/mercadito-la-california-29e378c4.png",
+    "candidatos/20261104-0604/mercadito-la-california-8e1e1806.png",
+    "candidatos/20261104-0604/mercadito-la-california-e832d9f8.png",
+    "candidatos/20261104-0604/mercadito-la-california-8f53d498.jpg",
+    "candidatos/20261104-0604/mercadito-la-california-e56144b6.png",
+    "candidatos/20261104-0604/mercadito-la-california-f02bcf80.png"
    ]
   },
   {
@@ -30,19 +30,6 @@
    "fuente": "https://www.eticket.cr",
    "tipo": "cambio_detectado",
    "titulo": "",
-   "imagenes": []
-  },
-  {
-   "bar": "Central Pub London Room",
-   "fuente": "https://www.gamcultural.com/cr/p/v-CentralPubLondonRoom",
-   "tipo": "fuente_caida",
-   "detalle": "HTTPError: HTTP Error 403: Forbidden"
-  },
-  {
-   "bar": "Palacio de los Deportes",
-   "fuente": "https://www.heredia.go.cr/",
-   "tipo": "cambio_detectado",
-   "titulo": "Portal Municipalidad de Heredia",
    "imagenes": []
   }
  ],
