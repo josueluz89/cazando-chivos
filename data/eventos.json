@@ -644,6 +644,18 @@
   "region": "San José"
  },
  {
+  "banda": "Tierra Santa + Dragonfly",
+  "bar": "Mercadito La California",
+  "fecha": "2026-11-06",
+  "hora": "18:00",
+  "cover": "",
+  "flyer": "",
+  "direccion_display": "Mercadito La California, San José",
+  "region": "San José",
+  "fuente": "https://passline.cr",
+  "entradas": "Heavy/power metal español."
+ },
+ {
   "banda": "Rawhead en concierto — White Metal (covers)",
   "bar": "Auditorio Vida Abundante",
   "fecha": "2026-11-06",
@@ -666,18 +678,6 @@
   "hora": "20:00",
   "nota": "Concierto debut en vivo: clásicos del rock y metal. Reservas 8941-6204 / 7114-7439.",
   "region": "Heredia"
- },
- {
-  "banda": "Tierra Santa + Dragonfly",
-  "bar": "Mercadito La California",
-  "fecha": "2026-11-06",
-  "hora": "",
-  "cover": "",
-  "flyer": "",
-  "direccion_display": "Mercadito La California, San José",
-  "region": "San José",
-  "fuente": "https://passline.cr",
-  "entradas": "Heavy/power metal español."
  },
  {
   "banda": "Kaos Urbano + Bastardos Oi!",

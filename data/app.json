@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-02T15:16:36-06:00",
+ "actualizado": "2026-11-05T15:16:26-06:00",
  "ventana_dias": 60,
  "zonas": [
   "Alajuela",
@@ -8,18 +8,6 @@
   "San José"
  ],
  "eventos": [
-  {
-   "banda": "Tributo Soda Stereo: 40 años de SIGNOS + éxitos de Soda Stereo & Cerati",
-   "bar": "Jazz Café",
-   "cover": "",
-   "direccion_display": "Jazz Café, Escazú",
-   "fecha": "2026-11-04",
-   "flyer": "",
-   "fuente": "https://www.gamcultural.com/cr/events/1690317/sesion-de-rock-clasico-en-jazz-cafe-7-de-noviembre",
-   "hora": "20:00",
-   "nota": "Tributo en vivo; distinto al show Soda Stereo 2026 del 11 nov en Parque Viva.",
-   "region": "San José"
-  },
   {
    "banda": "NOX Melodiam + Quienes Somos?",
    "bar": "Mundoloco El Chante",
@@ -31,6 +19,18 @@
    "hora": "19:30",
    "nota": "NOXTIFICADOS Vol. 1: noche llena de rock. NOX Melodiam (rock/metal/pop punk de Cartago) + Quienes Somos?. Preventa al 7285-8486.",
    "region": "San José"
+  },
+  {
+   "banda": "Tierra Santa + Dragonfly",
+   "bar": "Mercadito La California",
+   "fecha": "2026-11-06",
+   "hora": "18:00",
+   "cover": "",
+   "flyer": "",
+   "direccion_display": "Mercadito La California, San José",
+   "region": "San José",
+   "fuente": "https://passline.cr",
+   "entradas": "Heavy/power metal español."
   },
   {
    "banda": "Rawhead en concierto — White Metal (covers)",
@@ -55,18 +55,6 @@
    "hora": "20:00",
    "nota": "Concierto debut en vivo: clásicos del rock y metal. Reservas 8941-6204 / 7114-7439.",
    "region": "Heredia"
-  },
-  {
-   "banda": "Tierra Santa + Dragonfly",
-   "bar": "Mercadito La California",
-   "fecha": "2026-11-06",
-   "hora": "Por confirmar",
-   "cover": "",
-   "flyer": "",
-   "direccion_display": "Mercadito La California, San José",
-   "region": "San José",
-   "fuente": "https://passline.cr",
-   "entradas": "Heavy/power metal español."
   },
   {
    "banda": "Kaos Urbano + Bastardos Oi!",
