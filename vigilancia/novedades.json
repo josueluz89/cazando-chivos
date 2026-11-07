@@ -1,5 +1,5 @@
 {
- "stamp": "20261107-0550",
+ "stamp": "20261107-1923",
  "novedades": [
   {
    "bar": "Amon Solar",
@@ -12,22 +12,25 @@
    "fuente": "https://starticket.cr",
    "tipo": "cambio_detectado",
    "titulo": "",
-   "imagenes": []
+   "imagenes": [
+    "candidatos/20261107-1923/mercadito-la-california-7c78d650.jpg",
+    "candidatos/20261107-1923/mercadito-la-california-25f963d3.jpg",
+    "candidatos/20261107-1923/mercadito-la-california-628e4aad.png",
+    "candidatos/20261107-1923/mercadito-la-california-dc3340e9.png",
+    "candidatos/20261107-1923/mercadito-la-california-29e378c4.png",
+    "candidatos/20261107-1923/mercadito-la-california-8e1e1806.png",
+    "candidatos/20261107-1923/mercadito-la-california-8f53d498.jpg",
+    "candidatos/20261107-1923/mercadito-la-california-e832d9f8.png",
+    "candidatos/20261107-1923/mercadito-la-california-83360b07.png",
+    "candidatos/20261107-1923/mercadito-la-california-e56144b6.png"
+   ]
   },
   {
    "bar": "Anfiteatro Imperial (Parque Viva)",
    "fuente": "https://www.eticket.cr",
    "tipo": "cambio_detectado",
    "titulo": "",
-   "imagenes": [
-    "candidatos/20261107-0550/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
-    "candidatos/20261107-0550/anfiteatro-imperial-parque-viva-8274a2b0.jpg",
-    "candidatos/20261107-0550/anfiteatro-imperial-parque-viva-710646b9.jpg",
-    "candidatos/20261107-0550/anfiteatro-imperial-parque-viva-e53b27be.jpg",
-    "candidatos/20261107-0550/anfiteatro-imperial-parque-viva-e003131b.jpg",
-    "candidatos/20261107-0550/anfiteatro-imperial-parque-viva-d48b3535.jpg",
-    "candidatos/20261107-0550/anfiteatro-imperial-parque-viva-6189069c.jpg"
-   ]
+   "imagenes": []
   }
  ],
  "pendientes": [
