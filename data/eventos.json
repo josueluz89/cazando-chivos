@@ -857,7 +857,7 @@
   "region": "Alajuela"
  },
  {
-  "banda": "Invasion Grunge Chepe: The Skarlatas + In Front To Doom + Needlejar",
+  "banda": "Invasion Grunge Chepe: The Skarlatas + Dharma + Needlejar",
   "bar": "Bar Retro",
   "cover": "₡2.000",
   "direccion_display": "Av. 2, 50 m este de la entrada al Barrio Chino, frente a parada de Tres Ríos, San José",
@@ -865,11 +865,11 @@
   "flyer": "flyers/invasion-grunge-chepe-the-skarlatas-in-front-to-doom-needlejar-2026-11-14.jpg",
   "fuente": "https://delfino.cr/2026/10/invasion-grunge-chepe-reunira-a-tres-bandas-costarricenses-en-san-jose",
   "hora": "20:00",
-  "nota": "3ª edición: grunge / nu metal / post-grunge en vivo. Puertas 19:30. Reservas 7035-4145.",
+  "nota": "3ª edición: grunge / nu metal / post-grunge en vivo. Puertas 19:30. Reservas 7035-4145. (Dharma reemplaza a In Front To Doom, actualización delfino.cr 2026-11-05.)",
   "region": "San José"
  },
  {
-  "banda": "Los Fabulosos Cadillacs",
+  "banda": "Los Fabulosos Cadillacs + Molotov (abre: Calle Dolores)",
   "bar": "Anfiteatro Imperial (Parque Viva)",
   "cover": "",
   "direccion_display": "Parque Viva, La Guácima, Alajuela",
@@ -878,7 +878,8 @@
   "flyer": "flyers/los-fabulosos-cadillacs-2026-11-19.jpg",
   "fuente": "https://eticket.cr/eventos.aspx?idartista=1132",
   "hora": "19:00",
-  "region": "Alajuela"
+  "region": "Alajuela",
+  "nota": "Molotov co-estelar; abre Calle Dolores (ska tico, regreso a los escenarios). Entradas eticket."
  },
  {
   "banda": "ROLLER COASTER presenta: PULSE (tributo a Pink Floyd)",
