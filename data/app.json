@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07T15:11:13-06:00",
+ "actualizado": "2026-11-08T15:19:54-06:00",
  "ventana_dias": 60,
  "zonas": [
   "Alajuela",
@@ -9,75 +9,16 @@
  ],
  "eventos": [
   {
-   "banda": "Kaos Urbano + Bastardos Oi!",
+   "banda": "El Chopo Tico 5° aniversario: The Freak & The Puppet + Dylan Thomas + Lentamente + FAV & Tino Amor",
    "bar": "Mercadito La California",
-   "cover": "₡27.000 final",
+   "cover": "₡5.000",
    "direccion_display": "Calle 21, Av 0-1, Barrio La California, San José",
-   "fecha": "2026-11-07",
-   "flyer": "flyers/kaos-urbano-bastardos-oi-2026-11-07.jpg",
-   "fuente": "https://www.passline.com/eventos/kaos-urbano-en-costa-rica",
-   "hora": "18:00",
-   "nota": "Gira 30 aniversario, punk callejero. Solo +18. Banda nacional: Bastardos Oi!.",
+   "fecha": "2026-11-08",
+   "flyer": "flyers/el-chopo-tico-5-aniversario-the-freak-the-puppet-dylan-thomas-lentamente-fav-tino-amor-2026-11-08.jpg",
+   "fuente": "https://ticosound.com/el-chopo-tico-celebra-cinco-anos-de-historia-apoyando-la-musica-nacional-y-la-cultura-independiente-de-costa-rica/",
+   "hora": "15:00",
+   "nota": "5° aniversario con música en vivo; también DJ Ari Nosleep.",
    "region": "San José"
-  },
-  {
-   "banda": "Percance 20 Años (ska/rock CR)",
-   "bar": "CIC ANDE (Anfiteatro)",
-   "fecha": "2026-11-07",
-   "hora": "19:00",
-   "cover": "Desde ₡19,800",
-   "flyer": "flyers/percance-20-años-ska-rock-cr-2026-11-07.jpg",
-   "direccion_display": "CIC ANDE, San Antonio de Belén, Heredia",
-   "region": "Heredia",
-   "fuente": "https://www.eticket.cr/masinformacion.aspx?idevento=9342",
-   "entradas": "Concierto de 20 años en el anfiteatro del CIC ANDE."
-  },
-  {
-   "banda": "Magpie Jay + Ramón & The Go Go Dancer + The Freak & The Puppet",
-   "bar": "Jazz Café",
-   "fecha": "2026-11-07",
-   "hora": "19:00",
-   "cover": "Desde $22.00",
-   "flyer": "flyers/magpie-jay-ramón-the-go-go-dancer-the-freak-the-puppet-2026-11-07.png",
-   "direccion_display": "Jazz Café, San José",
-   "region": "San José",
-   "fuente": "https://starticket.cr/",
-   "entradas": ""
-  },
-  {
-   "banda": "Gorilla Fun + Lo Que Me Queda + Científicos Advierten",
-   "bar": "Retro Videos Clasicos Chepe 50's, 60's, 70's Y 80's",
-   "cover": "₡3,000 (preventa 2x1 ₡3,000)",
-   "direccion_display": "75 este del arco del, San José",
-   "fecha": "2026-11-07",
-   "flyer": "flyers/gorilla-fun-lo-que-me-queda-científicos-advierten-2026-11-07.jpg",
-   "fuente": "https://www.bandsintown.com/es/e/109045488-gorilla-fun-at-retro-videos-clasicos-chepe-50's-60's-70's-y-80's",
-   "hora": "19:00",
-   "nota": "3 bandas en escena, toda la fuerza del rock nacional, música en vivo.",
-   "region": "San José"
-  },
-  {
-   "banda": "A Wilhelm Scream (banda invitada: Nomat)",
-   "bar": "Amon Solar",
-   "fecha": "2026-11-07",
-   "hora": "20:00",
-   "cover": "",
-   "flyer": "flyers/a-wilhelm-scream-banda-invitada-nomat-2026-11-07.jpg",
-   "direccion_display": "Calle 3, Barrio Amón, San José",
-   "region": "San José",
-   "fuente": "https://starticket.cr/e/a-wilhelm-scream-en-costa-rica/8669",
-   "nota": "Melodic hardcore en vivo."
-  },
-  {
-   "banda": "Bad Moon (tributo a Creedence Clearwater Revival)",
-   "bar": "Club de Bello",
-   "fecha": "2026-11-07",
-   "hora": "Por confirmar",
-   "cover": "",
-   "flyer": "flyers/badmoon-tour.jpg",
-   "direccion_display": "Club de Bello, Escazú",
-   "region": "San José",
-   "fuente": "flyers/badmoon-tour.jpg"
   },
   {
    "banda": "Lari Basilio — Laney Latin America Clinic Tour",
@@ -126,6 +67,17 @@
    "hora": "19:00",
    "nota": "Rock alternativo y punk en vivo: The Riot Company (nuevo sencillo Entre Líneas), Morfinx (punk rock), Gorilla Fun (rock alternativo).",
    "region": "San José"
+  },
+  {
+   "banda": "La Experiencia Queen + Beatles (Ed Quesada & Full Banda)",
+   "bar": "Fulcro Gastro Bar",
+   "cover": "₡5.000",
+   "direccion_display": "2km al Oeste de DEKRA, Quebradilla, Barrio Tejar - El Guarco",
+   "fecha": "2026-11-13",
+   "flyer": "flyers/la-experiencia-queen-beatles-ed-quesada-full-banda-2026-11-13.jpg",
+   "fuente": "https://www.gamcultural.com/cr/events/1875665/la-experiencia-queen-beatles-ed-quesada-full-banda",
+   "hora": "20:30",
+   "region": "Cartago"
   },
   {
    "banda": "Diesel Rock presenta: Especial de Metallica",
@@ -195,6 +147,17 @@
    "fuente": "https://delfino.cr/2026/10/invasion-grunge-chepe-reunira-a-tres-bandas-costarricenses-en-san-jose",
    "hora": "20:00",
    "nota": "3ª edición: grunge / nu metal / post-grunge en vivo. Puertas 19:30. Reservas 7035-4145. (Dharma reemplaza a In Front To Doom, actualización delfino.cr 2026-11-05.)",
+   "region": "San José"
+  },
+  {
+   "banda": "Especial a Oasis",
+   "bar": "Central Pub London Room",
+   "cover": "",
+   "direccion_display": "Av 2, Calle 38-40, Paseo Colón, San José",
+   "fecha": "2026-11-14",
+   "flyer": "",
+   "fuente": "https://www.gamcultural.com/cr/events/1849790/firepit-en-vivo",
+   "hora": "20:30",
    "region": "San José"
   },
   {

@@ -751,6 +751,18 @@
   "fuente": "flyers/badmoon-tour.jpg"
  },
  {
+  "banda": "El Chopo Tico 5° aniversario: The Freak & The Puppet + Dylan Thomas + Lentamente + FAV & Tino Amor",
+  "bar": "Mercadito La California",
+  "cover": "₡5.000",
+  "direccion_display": "Calle 21, Av 0-1, Barrio La California, San José",
+  "fecha": "2026-11-08",
+  "flyer": "flyers/el-chopo-tico-5-aniversario-the-freak-the-puppet-dylan-thomas-lentamente-fav-tino-amor-2026-11-08.jpg",
+  "fuente": "https://ticosound.com/el-chopo-tico-celebra-cinco-anos-de-historia-apoyando-la-musica-nacional-y-la-cultura-independiente-de-costa-rica/",
+  "hora": "15:00",
+  "nota": "5° aniversario con música en vivo; también DJ Ari Nosleep.",
+  "region": "San José"
+ },
+ {
   "banda": "Lari Basilio — Laney Latin America Clinic Tour",
   "bar": "Central Pub London Room",
   "cover": "65 USD",
@@ -797,6 +809,17 @@
   "hora": "19:00",
   "nota": "Rock alternativo y punk en vivo: The Riot Company (nuevo sencillo Entre Líneas), Morfinx (punk rock), Gorilla Fun (rock alternativo).",
   "region": "San José"
+ },
+ {
+  "banda": "La Experiencia Queen + Beatles (Ed Quesada & Full Banda)",
+  "bar": "Fulcro Gastro Bar",
+  "cover": "₡5.000",
+  "direccion_display": "2km al Oeste de DEKRA, Quebradilla, Barrio Tejar - El Guarco",
+  "fecha": "2026-11-13",
+  "flyer": "flyers/la-experiencia-queen-beatles-ed-quesada-full-banda-2026-11-13.jpg",
+  "fuente": "https://www.gamcultural.com/cr/events/1875665/la-experiencia-queen-beatles-ed-quesada-full-banda",
+  "hora": "20:30",
+  "region": "Cartago"
  },
  {
   "banda": "Diesel Rock presenta: Especial de Metallica",
@@ -866,6 +889,17 @@
   "fuente": "https://delfino.cr/2026/10/invasion-grunge-chepe-reunira-a-tres-bandas-costarricenses-en-san-jose",
   "hora": "20:00",
   "nota": "3ª edición: grunge / nu metal / post-grunge en vivo. Puertas 19:30. Reservas 7035-4145. (Dharma reemplaza a In Front To Doom, actualización delfino.cr 2026-11-05.)",
+  "region": "San José"
+ },
+ {
+  "banda": "Especial a Oasis",
+  "bar": "Central Pub London Room",
+  "cover": "",
+  "direccion_display": "Av 2, Calle 38-40, Paseo Colón, San José",
+  "fecha": "2026-11-14",
+  "flyer": "",
+  "fuente": "https://www.gamcultural.com/cr/events/1849790/firepit-en-vivo",
+  "hora": "20:30",
   "region": "San José"
  },
  {
