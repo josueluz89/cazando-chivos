@@ -1,5 +1,5 @@
 {
- "stamp": "20261107-1923",
+ "stamp": "20261108-0552",
  "novedades": [
   {
    "bar": "Amon Solar",
@@ -13,16 +13,16 @@
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261107-1923/mercadito-la-california-7c78d650.jpg",
-    "candidatos/20261107-1923/mercadito-la-california-25f963d3.jpg",
-    "candidatos/20261107-1923/mercadito-la-california-628e4aad.png",
-    "candidatos/20261107-1923/mercadito-la-california-dc3340e9.png",
-    "candidatos/20261107-1923/mercadito-la-california-29e378c4.png",
-    "candidatos/20261107-1923/mercadito-la-california-8e1e1806.png",
-    "candidatos/20261107-1923/mercadito-la-california-8f53d498.jpg",
-    "candidatos/20261107-1923/mercadito-la-california-e832d9f8.png",
-    "candidatos/20261107-1923/mercadito-la-california-83360b07.png",
-    "candidatos/20261107-1923/mercadito-la-california-e56144b6.png"
+    "candidatos/20261108-0552/mercadito-la-california-7c78d650.jpg",
+    "candidatos/20261108-0552/mercadito-la-california-25f963d3.jpg",
+    "candidatos/20261108-0552/mercadito-la-california-83dbf984.jpg",
+    "candidatos/20261108-0552/mercadito-la-california-628e4aad.png",
+    "candidatos/20261108-0552/mercadito-la-california-dc3340e9.png",
+    "candidatos/20261108-0552/mercadito-la-california-29e378c4.png",
+    "candidatos/20261108-0552/mercadito-la-california-8e1e1806.png",
+    "candidatos/20261108-0552/mercadito-la-california-8f53d498.jpg",
+    "candidatos/20261108-0552/mercadito-la-california-e832d9f8.png",
+    "candidatos/20261108-0552/mercadito-la-california-83360b07.png"
    ]
   },
   {
@@ -30,6 +30,13 @@
    "fuente": "https://www.eticket.cr",
    "tipo": "cambio_detectado",
    "titulo": "",
+   "imagenes": []
+  },
+  {
+   "bar": "Fulcro Gastro Bar",
+   "fuente": "https://linktr.ee/fulcrogastrobar",
+   "tipo": "cambio_detectado",
+   "titulo": "@fulcrogastrobarr Restaurant - Visit to Find Food Options & See @fulcrogastrobarr Social Media & Official Accounts | Linktree",
    "imagenes": []
   }
  ],
