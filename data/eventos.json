@@ -939,6 +939,19 @@
   "region": "San José"
  },
  {
+  "banda": "ASCENDANT – Tributo a Avenged Sevenfold",
+  "bar": "Music Factory",
+  "fecha": "2026-11-20",
+  "hora": "20:00",
+  "cover": "General ₡5.000",
+  "flyer": "flyers/ascendant-tributo-a-avenged-sevenfold-2026-11-20.jpg",
+  "direccion_display": "Plaza Veritas, Zapote, San José",
+  "region": "San José",
+  "fuente": "https://www.gamcultural.com/cr/events/1869334/ascendant-tributo-a-avenged-sevenfold",
+  "entradas": "Tiquetebox: https://www.tiquetebox.app/e/ascendant_tributo_a_avenged_sevenfold",
+  "nota": "Tributo metal en vivo; debut en vivo de ASCENDANT. GAM muestra 14:00 en la tarjeta pero la descripción dice 8:00 p.m.; se publica 20:00."
+ },
+ {
   "banda": "Bad Moon (tributo a Creedence Clearwater Revival)",
   "bar": "Stereo Caníbal",
   "fecha": "2026-11-20",
@@ -1192,6 +1205,19 @@
   "entradas": "Fecha única en Centroamérica. Apertura de puertas 18:00."
  },
  {
+  "banda": "Adiós Cometa + RosaViolento + SRUF",
+  "bar": "Stein Room",
+  "fecha": "2026-12-11",
+  "hora": "19:00",
+  "cover": "₡8.000–₡10.000",
+  "flyer": "flyers/adiós-cometa-rosaviolento-sruf-2026-12-11.jpg",
+  "direccion_display": "Stein Room, Edificio Steinvorth, El Carmen, San José",
+  "region": "San José",
+  "fuente": "https://www.gamcultural.com/cr/events/1879509/adios-cometa-en-el-stein-room",
+  "entradas": "Tiquetebox: https://www.tiquetebox.app/e/adios_cometa_en_el_stein_room",
+  "nota": "GAM muestra 13:00 pero el póster oficial dice 19:00; se publica 19:00."
+ },
+ {
   "banda": "BLACK SABBATH & OZZY OSBOURNE — THE LEGACY",
   "bar": "Jazz Café",
   "cover": "",
@@ -1214,5 +1240,17 @@
   "region": "Heredia",
   "fuente": "https://www.bandsintown.com/es/e/109097679-acero-heavy-metal-costa-rica-at-esquina-rock-bar",
   "nota": "Chivo del Clan Agotaras. Heavy metal costarricense en vivo."
+ },
+ {
+  "banda": "Whitecross & MKL",
+  "bar": "Auditorio Vida Abundante",
+  "fecha": "2026-12-13",
+  "hora": "18:00",
+  "cover": "",
+  "flyer": "flyers/whitecross-mkl-2026-12-13.jpg",
+  "direccion_display": "La Uruca, San José",
+  "region": "San José",
+  "fuente": "https://www.gamcultural.com/cr/events/1769861/whitecross-mkl-en-concierto-noche-especial",
+  "nota": "Metal cristiano en vivo, concierto público abierto (Metal y Fe presenta); entradas aún sin publicar en GAM ('Pronto mas información')."
  }
 ]

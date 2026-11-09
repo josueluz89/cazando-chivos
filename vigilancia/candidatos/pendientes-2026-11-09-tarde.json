@@ -304,7 +304,7 @@
    "banda": "Whitecross & MKL",
    "bar": "Goodfellow's Pizzeria",
    "cover": "",
-   "detalle": "PENDIENTE (arrastre 2026-10-26-tarde): allevents.in + stayhappening listan 'Whitecross & MKL en concierto – Noche especial' el 2026-12-20 18:00 en Goodfellow's Pizzeria (Calle 56, Uruca). Sin confirmación oficial: la página de Whitecross en Bandsintown no muestra fecha en CR y no hay anuncio de promotora ni ticketera. Además es ambiguo si es la banda estadounidense o un acto local. No publicar hasta confirmación oficial. (2026-10-27-tarde: sin novedades.) (2026-10-28-tarde: doble corroboración de agregadores — allevents.in y stayhappening listan los mismos datos (20-dic 18:00, Goodfellow's) — y el género (hard rock clásico) encaja, pero sigue sin flyer, ticketera ni anuncio oficial; se mantiene pendiente.) (2026-10-29-tarde: sin confirmación nueva; la página de Whitecross en Bandsintown no muestra fecha en CR.) (2026-10-30-tarde: sin novedades; barrido web sin resultados nuevos.) (2026-10-31-tarde: sin novedades; barrido web sin resultados nuevos.) (2026-11-01-tarde: búsqueda sin fecha CR confirmada; sigue pendiente.) (2026-11-02-tarde: sin novedades; sigue sin fecha CR confirmada. No se publica.) (2026-11-04-tarde: sin novedades; sigue pendiente, no se publica.) (2026-11-05-tarde: sin novedades; sigue pendiente, no se publica.) (2026-11-06-tarde: sin novedades; sigue pendiente, no se publica.) (2026-11-07-tarde: sin novedades; sigue pendiente, no se publica.) (2026-11-08-tarde: sin novedades; sigue pendiente, no se publica.) (2026-11-09-tarde: sin novedades; sigue pendiente, no se publica.)",
+   "detalle": "PENDIENTE (arrastre 2026-10-26-tarde): allevents.in + stayhappening listan 'Whitecross & MKL en concierto – Noche especial' el 2026-12-20 18:00 en Goodfellow's Pizzeria (Calle 56, Uruca). Sin confirmación oficial: la página de Whitecross en Bandsintown no muestra fecha en CR y no hay anuncio de promotora ni ticketera. Además es ambiguo si es la banda estadounidense o un acto local. No publicar hasta confirmación oficial. (2026-10-27-tarde: sin novedades.) (2026-10-28-tarde: doble corroboración de agregadores — allevents.in y stayhappening listan los mismos datos (20-dic 18:00, Goodfellow's) — y el género (hard rock clásico) encaja, pero sigue sin flyer, ticketera ni anuncio oficial; se mantiene pendiente.) (2026-10-29-tarde: sin confirmación nueva; la página de Whitecross en Bandsintown no muestra fecha en CR.) (2026-10-30-tarde: sin novedades; barrido web sin resultados nuevos.) (2026-10-31-tarde: sin novedades; barrido web sin resultados nuevos.) (2026-11-01-tarde: búsqueda sin fecha CR confirmada; sigue pendiente.) (2026-11-02-tarde: sin novedades; sigue sin fecha CR confirmada. No se publica.) (2026-11-04-tarde: sin novedades; sigue pendiente, no se publica.) (2026-11-05-tarde: sin novedades; sigue pendiente, no se publica.) (2026-11-06-tarde: sin novedades; sigue pendiente, no se publica.) (2026-11-07-tarde: sin novedades; sigue pendiente, no se publica.) (2026-11-08-tarde: sin novedades; sigue pendiente, no se publica.) (2026-11-09-tarde: sin novedades; sigue pendiente, no se publica.) (2026-11-09-tarde: PUBLICADO: GAM confirma 13-dic 18:00 en Auditorio Vida Abundante; concierto público de metal cristiano (Metal y Fe). Ya en cartelera.)",
    "direccion_display": "Calle 56, 10107 Uruca, San José",
    "fecha": "2026-12-20",
    "flyer": "",
@@ -359,6 +359,30 @@
    "flyer": "",
    "direccion_display": "",
    "detalle": "DESCARTADO (2026-11-09-tarde): acto electrónico/breakcore en vivo, no rock. No se publica."
+  },
+  {
+   "banda": "DURAN DURAN & SIMPLY RED — Una noche para volver a los 80’s",
+   "bar": "Jazz Café",
+   "fecha": "2026-12-16",
+   "hora": "20:00",
+   "region": "San José",
+   "fuente": "https://www.gamcultural.com/cr/events/1879512/duran-duran-simply-red-una-noche-para-volver-a-los-80-s",
+   "cover": "Preventa ₡12.500 | Día del evento ₡15.000",
+   "flyer": "",
+   "direccion_display": "Jazz Café, Escazú",
+   "detalle": "DESCARTADO (2026-11-09-tarde): tributo pop a Duran Duran y Simply Red (Wild Boys & Stars); la ficha lo etiqueta #pop. No rock para arriba. No se publica."
+  },
+  {
+   "banda": "Chocolate En Vivo",
+   "bar": "Mundoloco",
+   "fecha": "2026-11-11",
+   "hora": "19:30",
+   "region": "San José",
+   "fuente": "https://www.gamcultural.com/cr/events/1870553/chocolate-en-vivo",
+   "cover": "₡8.565–₡9.565",
+   "flyer": "",
+   "direccion_display": "Av 0, Calle 5-7, San Pedro, Montes de Oca",
+   "detalle": "DESCARTADO (2026-11-09-tarde): concierto de música cubana bailable, no rock. No se publica."
   }
  ]
 }
