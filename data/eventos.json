@@ -768,8 +768,8 @@
   "cover": "65 USD",
   "direccion_display": "Av 2, Calle 38-40, Paseo Colón, San José",
   "fecha": "2026-11-10",
-  "flyer": "",
-  "fuente": "https://concerts.hypebot.com/artist/l/2646193-lari-basilio",
+  "flyer": "flyers/lari-basilio-clinic-2026-11-10.jpg",
+  "fuente": "https://www.instagram.com/p/Dej-DpKDkPA/",
   "hora": "",
   "nota": "Guitarra instrumental en vivo (clínica Laney; gira latinoamericana: Paraguay 3-nov, Chile 5-nov, São Paulo 7-nov, San José 10-nov, Medellín 12-nov, Bogotá 13-nov). Hora por confirmar: Bandsintown indica 19:00 y Hypebot 19:00 UTC (13:00 CR).",
   "region": "San José"
@@ -838,8 +838,8 @@
   "cover": "",
   "direccion_display": "Calle 3, Av 9-11, Barrio Amón, San José",
   "fecha": "2026-11-13",
-  "flyer": "",
-  "fuente": "https://www.gamcultural.com/cr/events/1356950/twin-tribes",
+  "flyer": "flyers/awesome-as-fuck-tributo-a-green-day-2026-11-13.jpg",
+  "fuente": "https://www.gamcultural.com/cr/events/1840279/awesome-as-fuck-presente-tributo-a-green-day",
   "hora": "21:00",
   "nota": "Tributo en vivo. Hora 21:00 según patrón GAM Cultural (ficha 2026-11-14T03:00).",
   "region": "San José"
@@ -862,8 +862,8 @@
   "cover": "",
   "direccion_display": "Calle 61, San Pedro - Montes de Oca",
   "fecha": "2026-11-14",
-  "flyer": "",
-  "fuente": "https://www.gamcultural.com/cr/events/1539519/como-antes",
+  "flyer": "flyers/manolo-kabezabolo-y-los-maes-del-bolo-2026-11-14.jpg",
+  "fuente": "https://www.gamcultural.com/cr/events/1838264/manolo-kabezabolo-y-los-maes-del-bolo",
   "hora": "17:00",
   "region": "San José"
  },
@@ -897,8 +897,8 @@
   "cover": "",
   "direccion_display": "Av 2, Calle 38-40, Paseo Colón, San José",
   "fecha": "2026-11-14",
-  "flyer": "",
-  "fuente": "https://www.gamcultural.com/cr/events/1849790/firepit-en-vivo",
+  "flyer": "flyers/especial-a-oasis-2026-11-14.jpg",
+  "fuente": "https://www.gamcultural.com/cr/events/1860657/especial-a-oasis",
   "hora": "20:30",
   "region": "San José"
  },
@@ -909,9 +909,9 @@
   "direccion_display": "Calle 3, Av 9-11, Barrio Amón, San José",
   "entradas": "Starticket.cr; SINPE Móvil 6162-3987",
   "fecha": "2026-11-15",
-  "flyer": "",
-  "fuente": "https://www.teletica.com/musica/solocarne-celebra-30-anos-en-los-escenarios-junto-a-codefendants-y-bufonic_388580",
-  "hora": "",
+  "flyer": "flyers/solocarne-30-anos-codefendants-bufonic-2026-11-15.jpg",
+  "fuente": "https://eventos.cr/evento/25-11-15-codefendants",
+  "hora": "20:00",
   "nota": "Punk rock: Solocarne celebra 30 años con Codefendants (EE. UU., proyecto de Fat Mike de NOFX) y Bufonic. Organiza Stand Up.",
   "region": "San José"
  },
@@ -934,8 +934,8 @@
   "cover": "",
   "direccion_display": "Paralela a la Autopista Próspero Fernández, Escazú",
   "fecha": "2026-11-19",
-  "flyer": "",
-  "fuente": "https://www.gamcultural.com/cr/events/1461457/diesel-rock",
+  "flyer": "flyers/roller-coaster-presenta-pulse-tributo-a-pink-floyd-2026-11-19.jpg",
+  "fuente": "https://www.gamcultural.com/cr/events/1855017/roller-coaster-presenta-pulse",
   "hora": "20:00",
   "region": "San José"
  },
@@ -1039,10 +1039,10 @@
   "fecha": "2026-11-22",
   "hora": "19:00",
   "cover": "",
-  "flyer": "",
+  "flyer": "flyers/allison-euforia-tour-2026-11-22.jpg",
   "direccion_display": "Mercadito La California, San José",
   "region": "San José",
-  "fuente": "https://passline.cr"
+  "fuente": "https://www.passline.com/eventos/allison-euforia-tour"
  },
  {
   "banda": "Gandhi — A LA CARTA",
@@ -1050,10 +1050,10 @@
   "fecha": "2026-11-26",
   "hora": "14:30",
   "cover": "",
-  "flyer": "",
+  "flyer": "flyers/gandhi-a-la-carta-2026-11-26.jpg",
   "direccion_display": "Paralela a la Autopista Próspero Fernández, Escazú",
   "region": "San José",
-  "fuente": "https://www.gamcultural.com/cr/events/1461457/diesel-rock"
+  "fuente": "https://www.gamcultural.com/cr/events/1879502/gandhi-a-la-carta-26-de-noviembre"
  },
  {
   "banda": "Time's Forgotten (20 años)",
@@ -1073,10 +1073,10 @@
   "fecha": "2026-11-27",
   "hora": "14:30",
   "cover": "",
-  "flyer": "",
+  "flyer": "flyers/gandhi-a-la-carta-2026-11-26.jpg",
   "direccion_display": "Paralela a la Autopista Próspero Fernández, Escazú",
   "region": "San José",
-  "fuente": "https://www.gamcultural.com/cr/events/1461457/diesel-rock"
+  "fuente": "https://www.gamcultural.com/cr/events/1879503/gandhi-a-la-carta-27-de-noviembre"
  },
  {
   "banda": "SLAVON 30 aniversario + Eviltwin",
@@ -1097,9 +1097,9 @@
   "cover": "",
   "direccion_display": "Pepper's Club, Zapote, San José",
   "fecha": "2026-11-27",
-  "flyer": "",
-  "fuente": "https://www.nacion.com/viva/sean-paul-y-animal-daran-conciertos-en-costa-rica/I2BC6UXYQ5BNBELRFZYBVK5LFQ/story/",
-  "hora": "",
+  "flyer": "flyers/a-n-i-m-a-l-deznuke-tributo-a-rage-against-the-machine-2026-11-27.jpg",
+  "fuente": "https://kuikpei.com/evento/animal-30-costa-rica-2026",
+  "hora": "19:00",
   "nota": "Metal argentino; con Deznuke (CR) y tributo a Rage Against the Machine. Entradas en kuikpei.com (productora Grito Latino).",
   "region": "San José"
  },
@@ -1121,10 +1121,10 @@
   "fecha": "2026-11-28",
   "hora": "19:00",
   "cover": "",
-  "flyer": "",
+  "flyer": "flyers/diffuse-horizons-en-concierto-2026-11-28.jpg",
   "direccion_display": "Calle 3, Av 9-11, Barrio Amón, San José",
   "region": "San José",
-  "fuente": "https://www.gamcultural.com/cr/events/1356950/twin-tribes"
+  "fuente": "https://www.gamcultural.com/cr/events/1855018/diffuse-horizons-en-concierto"
  },
  {
   "banda": "Eclipse y Demolition Lovers presenta 20 aniversario de Black Parade (tributo a My Chemical Romance)",
@@ -1132,8 +1132,8 @@
   "cover": "",
   "direccion_display": "Av. 34, Calle 61-63, Zapote, San José",
   "fecha": "2026-11-28",
-  "flyer": "",
-  "fuente": "https://www.gamcultural.com/cr/events/1480274/avalanch-trick-or-treat-en-costa-rica",
+  "flyer": "flyers/eclipse-demolition-lovers-20-aniversario-de-black-parade-2026-11-28.jpg",
+  "fuente": "https://www.gamcultural.com/cr/events/1864647/eclipse-y-demolition-lovers-presenta-20-aniversario-de-black-parade",
   "hora": "20:00",
   "nota": "Tributo en vivo. Hora 20:00 según patrón GAM Cultural (ficha 2026-11-29T02:00).",
   "region": "San José"
@@ -1177,10 +1177,10 @@
   "fecha": "2026-12-04",
   "hora": "20:00",
   "cover": "",
-  "flyer": "",
+  "flyer": "flyers/endemia-bihotza-2026-12-04.jpg",
   "direccion_display": "Xcape Bar La Calle, San Pedro, Montes de Oca",
   "region": "San José",
-  "fuente": "https://www.bandsintown.com/es/c/desamparados-costa-rica",
+  "fuente": "https://www.bandsintown.com/e/108567320-endemia-at-oasis-la-calle",
   "entradas": "Punk rock tico (Endemia) + punk español (Bihotza)."
  },
  {
@@ -1262,8 +1262,8 @@
   "cover": "",
   "direccion_display": "Jazz Café, Escazú",
   "fecha": "2026-12-12",
-  "flyer": "",
-  "fuente": "https://www.gamcultural.com/cr/events/1690317/sesion-de-rock-clasico-en-jazz-cafe-7-de-noviembre",
+  "flyer": "flyers/black-sabbath-ozzy-osbourne-the-legacy-2026-12-12.jpg",
+  "fuente": "https://www.gamcultural.com/cr/events/1864649/black-sabbath-ozzy-osbourne-the-legacy",
   "hora": "20:00",
   "nota": "Tributo en vivo. Hora 20:00 según patrón GAM Cultural (ficha 2026-12-13T02:00).",
   "region": "San José"
