@@ -903,6 +903,19 @@
   "region": "San José"
  },
  {
+  "banda": "Solocarne 30 años + Codefendants + Bufonic",
+  "bar": "Amon Solar",
+  "cover": "",
+  "direccion_display": "Calle 3, Av 9-11, Barrio Amón, San José",
+  "entradas": "Starticket.cr; SINPE Móvil 6162-3987",
+  "fecha": "2026-11-15",
+  "flyer": "",
+  "fuente": "https://www.teletica.com/musica/solocarne-celebra-30-anos-en-los-escenarios-junto-a-codefendants-y-bufonic_388580",
+  "hora": "",
+  "nota": "Punk rock: Solocarne celebra 30 años con Codefendants (EE. UU., proyecto de Fat Mike de NOFX) y Bufonic. Organiza Stand Up.",
+  "region": "San José"
+ },
+ {
   "banda": "Los Fabulosos Cadillacs + Molotov (abre: Calle Dolores)",
   "bar": "Anfiteatro Imperial (Parque Viva)",
   "cover": "",
@@ -1066,6 +1079,19 @@
   "fuente": "https://www.gamcultural.com/cr/events/1461457/diesel-rock"
  },
  {
+  "banda": "SLAVON 30 aniversario + Eviltwin",
+  "bar": "Music Factory",
+  "cover": "₡10.000",
+  "direccion_display": "Centro Comercial Veritas, Zapote, San José",
+  "entradas": "",
+  "fecha": "2026-11-27",
+  "flyer": "flyers/slavon-30-aniversario-eviltwin-2026-11-27.jpg",
+  "fuente": "https://www.musicfactorycr.com/eventos/slavon-30-aniversario-300030",
+  "hora": "20:00",
+  "nota": "Heavy metal tico: Slavon 30 aniversario, banda invitada Eviltwin. Información y reservas 8757-9901.",
+  "region": "San José"
+ },
+ {
   "banda": "A.N.I.M.A.L + Deznuke + Tributo a Rage Against the Machine",
   "bar": "Pepper's Club",
   "cover": "",
@@ -1168,6 +1194,19 @@
   "hora": "14:00",
   "nota": "Sábado de Rock: show gratis al aire libre con otras bandas de rock de Cartago.",
   "region": "Cartago"
+ },
+ {
+  "banda": "Liverpool — La leyenda del Rock",
+  "bar": "Music Factory",
+  "cover": "₡10.000",
+  "direccion_display": "Centro Comercial Veritas, Zapote, San José",
+  "entradas": "",
+  "fecha": "2026-12-05",
+  "flyer": "flyers/liverpool-la-leyenda-del-rock-2026-12-05.jpg",
+  "fuente": "https://www.musicfactorycr.com/eventos/liverpool-la-leyenda-del-rock-4f0694",
+  "hora": "21:00",
+  "nota": "Tributo rock en vivo: Álvaro Sibaja, Jacinto Acuña, Erick Nassar, Alberto Choto, Marco Chinchilla. Reservas 88210938.",
+  "region": "San José"
  },
  {
   "banda": "Bad Moon (tributo a Creedence Clearwater Revival)",
