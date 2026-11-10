@@ -1,5 +1,5 @@
 {
- "stamp": "20261110-0707",
+ "stamp": "20261110-2115",
  "novedades": [
   {
    "bar": "Amon Solar",
@@ -8,25 +8,29 @@
    "detalle": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
   },
   {
-   "bar": "Mercadito La California",
-   "fuente": "https://starticket.cr",
-   "tipo": "cambio_detectado",
-   "titulo": "",
-   "imagenes": []
-  },
-  {
    "bar": "Anfiteatro Imperial (Parque Viva)",
    "fuente": "https://www.eticket.cr",
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261110-0707/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
-    "candidatos/20261110-0707/anfiteatro-imperial-parque-viva-ab796e15.jpg",
-    "candidatos/20261110-0707/anfiteatro-imperial-parque-viva-710646b9.jpg",
-    "candidatos/20261110-0707/anfiteatro-imperial-parque-viva-7f652c34.jpg",
-    "candidatos/20261110-0707/anfiteatro-imperial-parque-viva-a7114307.jpg",
-    "candidatos/20261110-0707/anfiteatro-imperial-parque-viva-e53b27be.jpg",
-    "candidatos/20261110-0707/anfiteatro-imperial-parque-viva-f4861e7a.jpg"
+    "candidatos/20261110-2115/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
+    "candidatos/20261110-2115/anfiteatro-imperial-parque-viva-9c0800c6.jpg",
+    "candidatos/20261110-2115/anfiteatro-imperial-parque-viva-9ff5515c.jpg",
+    "candidatos/20261110-2115/anfiteatro-imperial-parque-viva-d5e93129.jpg",
+    "candidatos/20261110-2115/anfiteatro-imperial-parque-viva-40e3ac18.jpg",
+    "candidatos/20261110-2115/anfiteatro-imperial-parque-viva-735f596d.jpg",
+    "candidatos/20261110-2115/anfiteatro-imperial-parque-viva-d48b3535.jpg"
+   ]
+  },
+  {
+   "bar": "Music Factory",
+   "fuente": "https://musicfactorycr.com",
+   "tipo": "cambio_detectado",
+   "titulo": "Music Factory CR - 3 Restaurantes y Música en Vivo",
+   "imagenes": [
+    "candidatos/20261110-2115/music-factory-ae01c4ec.jpg",
+    "candidatos/20261110-2115/music-factory-ea3f30f6.jpg",
+    "candidatos/20261110-2115/music-factory-ffd546ac.jpg"
    ]
   },
   {
@@ -34,10 +38,7 @@
    "fuente": "https://www.heredia.go.cr/",
    "tipo": "cambio_detectado",
    "titulo": "Portal Municipalidad de Heredia",
-   "imagenes": [
-    "candidatos/20261110-0707/palacio-de-los-deportes-1de075b8.png",
-    "candidatos/20261110-0707/palacio-de-los-deportes-32cae6bc.jpg"
-   ]
+   "imagenes": []
   }
  ],
  "pendientes": [

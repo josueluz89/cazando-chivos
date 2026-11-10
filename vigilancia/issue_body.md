@@ -1,4 +1,4 @@
-# Vigilancia 20261110-0707 (2x/dia)
+# Vigilancia 20261110-2115 (2x/dia)
 
 Novedades: 4 | Fuentes pendientes: 36
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
@@ -7,24 +7,26 @@ Novedades: 4 | Fuentes pendientes: 36
 - Fuente: https://amonsolar.com | Tipo: fuente_caida
 - Detalle: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>
 
-## Mercadito La California
-- Fuente: https://starticket.cr | Tipo: cambio_detectado
-
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261110-0707/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
-  - Imagen original: candidatos/20261110-0707/anfiteatro-imperial-parque-viva-ab796e15.jpg
-  - Imagen original: candidatos/20261110-0707/anfiteatro-imperial-parque-viva-710646b9.jpg
-  - Imagen original: candidatos/20261110-0707/anfiteatro-imperial-parque-viva-7f652c34.jpg
-  - Imagen original: candidatos/20261110-0707/anfiteatro-imperial-parque-viva-a7114307.jpg
-  - Imagen original: candidatos/20261110-0707/anfiteatro-imperial-parque-viva-e53b27be.jpg
-  - Imagen original: candidatos/20261110-0707/anfiteatro-imperial-parque-viva-f4861e7a.jpg
+  - Imagen original: candidatos/20261110-2115/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
+  - Imagen original: candidatos/20261110-2115/anfiteatro-imperial-parque-viva-9c0800c6.jpg
+  - Imagen original: candidatos/20261110-2115/anfiteatro-imperial-parque-viva-9ff5515c.jpg
+  - Imagen original: candidatos/20261110-2115/anfiteatro-imperial-parque-viva-d5e93129.jpg
+  - Imagen original: candidatos/20261110-2115/anfiteatro-imperial-parque-viva-40e3ac18.jpg
+  - Imagen original: candidatos/20261110-2115/anfiteatro-imperial-parque-viva-735f596d.jpg
+  - Imagen original: candidatos/20261110-2115/anfiteatro-imperial-parque-viva-d48b3535.jpg
+
+## Music Factory
+- Fuente: https://musicfactorycr.com | Tipo: cambio_detectado
+- Titulo: Music Factory CR - 3 Restaurantes y Música en Vivo
+  - Imagen original: candidatos/20261110-2115/music-factory-ae01c4ec.jpg
+  - Imagen original: candidatos/20261110-2115/music-factory-ea3f30f6.jpg
+  - Imagen original: candidatos/20261110-2115/music-factory-ffd546ac.jpg
 
 ## Palacio de los Deportes
 - Fuente: https://www.heredia.go.cr/ | Tipo: cambio_detectado
 - Titulo: Portal Municipalidad de Heredia
-  - Imagen original: candidatos/20261110-0707/palacio-de-los-deportes-1de075b8.png
-  - Imagen original: candidatos/20261110-0707/palacio-de-los-deportes-32cae6bc.jpg
 
 ## Pendientes (revision manual/WhatsApp)
 - Bar Reflexiones: FB/IG configurado pero requiere token o revision manual
