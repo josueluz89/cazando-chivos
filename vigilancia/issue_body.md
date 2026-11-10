@@ -1,6 +1,6 @@
-# Vigilancia 20261109-2345 (2x/dia)
+# Vigilancia 20261110-0707 (2x/dia)
 
-Novedades: 6 | Fuentes pendientes: 36
+Novedades: 4 | Fuentes pendientes: 36
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
 
 ## Amon Solar
@@ -9,31 +9,22 @@ Novedades: 6 | Fuentes pendientes: 36
 
 ## Mercadito La California
 - Fuente: https://starticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261109-2345/mercadito-la-california-7c78d650.jpg
-  - Imagen original: candidatos/20261109-2345/mercadito-la-california-25f963d3.jpg
-  - Imagen original: candidatos/20261109-2345/mercadito-la-california-83dbf984.jpg
-  - Imagen original: candidatos/20261109-2345/mercadito-la-california-628e4aad.png
-  - Imagen original: candidatos/20261109-2345/mercadito-la-california-dc3340e9.png
-  - Imagen original: candidatos/20261109-2345/mercadito-la-california-29e378c4.png
-  - Imagen original: candidatos/20261109-2345/mercadito-la-california-8e1e1806.png
-  - Imagen original: candidatos/20261109-2345/mercadito-la-california-8f53d498.jpg
-  - Imagen original: candidatos/20261109-2345/mercadito-la-california-83360b07.png
-  - Imagen original: candidatos/20261109-2345/mercadito-la-california-e832d9f8.png
 
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
-
-## Music Factory
-- Fuente: https://musicfactorycr.com | Tipo: cambio_detectado
-- Titulo: Music Factory CR - 3 Restaurantes y Música en Vivo
-
-## Fulcro Gastro Bar
-- Fuente: https://linktr.ee/fulcrogastrobar | Tipo: cambio_detectado
-- Titulo: @fulcrogastrobarr Official: TikTok, Instagram, Facebook | Linktree
+  - Imagen original: candidatos/20261110-0707/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
+  - Imagen original: candidatos/20261110-0707/anfiteatro-imperial-parque-viva-ab796e15.jpg
+  - Imagen original: candidatos/20261110-0707/anfiteatro-imperial-parque-viva-710646b9.jpg
+  - Imagen original: candidatos/20261110-0707/anfiteatro-imperial-parque-viva-7f652c34.jpg
+  - Imagen original: candidatos/20261110-0707/anfiteatro-imperial-parque-viva-a7114307.jpg
+  - Imagen original: candidatos/20261110-0707/anfiteatro-imperial-parque-viva-e53b27be.jpg
+  - Imagen original: candidatos/20261110-0707/anfiteatro-imperial-parque-viva-f4861e7a.jpg
 
 ## Palacio de los Deportes
-- Fuente: https://www.heredia.go.cr/ | Tipo: fuente_caida
-- Detalle: TimeoutError: The read operation timed out
+- Fuente: https://www.heredia.go.cr/ | Tipo: cambio_detectado
+- Titulo: Portal Municipalidad de Heredia
+  - Imagen original: candidatos/20261110-0707/palacio-de-los-deportes-1de075b8.png
+  - Imagen original: candidatos/20261110-0707/palacio-de-los-deportes-32cae6bc.jpg
 
 ## Pendientes (revision manual/WhatsApp)
 - Bar Reflexiones: FB/IG configurado pero requiere token o revision manual

@@ -1,5 +1,5 @@
 {
- "stamp": "20261109-2345",
+ "stamp": "20261110-0707",
  "novedades": [
   {
    "bar": "Amon Solar",
@@ -12,45 +12,32 @@
    "fuente": "https://starticket.cr",
    "tipo": "cambio_detectado",
    "titulo": "",
-   "imagenes": [
-    "candidatos/20261109-2345/mercadito-la-california-7c78d650.jpg",
-    "candidatos/20261109-2345/mercadito-la-california-25f963d3.jpg",
-    "candidatos/20261109-2345/mercadito-la-california-83dbf984.jpg",
-    "candidatos/20261109-2345/mercadito-la-california-628e4aad.png",
-    "candidatos/20261109-2345/mercadito-la-california-dc3340e9.png",
-    "candidatos/20261109-2345/mercadito-la-california-29e378c4.png",
-    "candidatos/20261109-2345/mercadito-la-california-8e1e1806.png",
-    "candidatos/20261109-2345/mercadito-la-california-8f53d498.jpg",
-    "candidatos/20261109-2345/mercadito-la-california-83360b07.png",
-    "candidatos/20261109-2345/mercadito-la-california-e832d9f8.png"
-   ]
+   "imagenes": []
   },
   {
    "bar": "Anfiteatro Imperial (Parque Viva)",
    "fuente": "https://www.eticket.cr",
    "tipo": "cambio_detectado",
    "titulo": "",
-   "imagenes": []
-  },
-  {
-   "bar": "Music Factory",
-   "fuente": "https://musicfactorycr.com",
-   "tipo": "cambio_detectado",
-   "titulo": "Music Factory CR - 3 Restaurantes y Música en Vivo",
-   "imagenes": []
-  },
-  {
-   "bar": "Fulcro Gastro Bar",
-   "fuente": "https://linktr.ee/fulcrogastrobar",
-   "tipo": "cambio_detectado",
-   "titulo": "@fulcrogastrobarr Official: TikTok, Instagram, Facebook | Linktree",
-   "imagenes": []
+   "imagenes": [
+    "candidatos/20261110-0707/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
+    "candidatos/20261110-0707/anfiteatro-imperial-parque-viva-ab796e15.jpg",
+    "candidatos/20261110-0707/anfiteatro-imperial-parque-viva-710646b9.jpg",
+    "candidatos/20261110-0707/anfiteatro-imperial-parque-viva-7f652c34.jpg",
+    "candidatos/20261110-0707/anfiteatro-imperial-parque-viva-a7114307.jpg",
+    "candidatos/20261110-0707/anfiteatro-imperial-parque-viva-e53b27be.jpg",
+    "candidatos/20261110-0707/anfiteatro-imperial-parque-viva-f4861e7a.jpg"
+   ]
   },
   {
    "bar": "Palacio de los Deportes",
    "fuente": "https://www.heredia.go.cr/",
-   "tipo": "fuente_caida",
-   "detalle": "TimeoutError: The read operation timed out"
+   "tipo": "cambio_detectado",
+   "titulo": "Portal Municipalidad de Heredia",
+   "imagenes": [
+    "candidatos/20261110-0707/palacio-de-los-deportes-1de075b8.png",
+    "candidatos/20261110-0707/palacio-de-los-deportes-32cae6bc.jpg"
+   ]
   }
  ],
  "pendientes": [
