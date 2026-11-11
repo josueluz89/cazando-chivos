@@ -845,6 +845,18 @@
   "region": "San José"
  },
  {
+  "banda": "El Parque — Lanzamiento del EP “Inercia”",
+  "bar": "Central Pub London Room",
+  "fecha": "2026-11-13",
+  "hora": "",
+  "cover": "₡10.000 + IVA",
+  "flyer": "flyers/el-parque-lanzamiento-del-ep-inercia-2026-11-13.jpg",
+  "direccion_display": "Av 2, Calle 38-40, Paseo Colón, San José",
+  "region": "San José",
+  "fuente": "https://www.larepublica.net/el-parque-estrena-inercia-y-prepara-una-noche-de-recuerdos/",
+  "nota": "Lanzamiento del EP “Inercia” (4 canciones + videoclip “Instinto”) + grandes éxitos. Reservas WhatsApp 8890-8586."
+ },
+ {
   "banda": "Rock con Todo Corazón (festival benéfico)",
   "bar": "Campo Ferial Hogar de Ancianos",
   "fecha": "2026-11-14",
@@ -901,6 +913,18 @@
   "fuente": "https://www.gamcultural.com/cr/events/1860657/especial-a-oasis",
   "hora": "20:30",
   "region": "San José"
+ },
+ {
+  "banda": "Sight of Emptiness + Fractal Sun — “ADIÓS 2026”",
+  "bar": "Central Pub London Room",
+  "fecha": "2026-11-15",
+  "hora": "18:00",
+  "cover": "₡6.000",
+  "flyer": "",
+  "direccion_display": "Av 2, Calle 38-40, Paseo Colón, San José",
+  "region": "San José",
+  "fuente": "https://www.bandsintown.com/es/e/109132042-sight-of-emptiness-at-london-room",
+  "nota": "Último concierto del año; recorrido por sus 5 álbumes. Death metal melódico."
  },
  {
   "banda": "Solocarne 30 años + Codefendants + Bufonic",
@@ -1079,6 +1103,18 @@
   "fuente": "https://www.gamcultural.com/cr/events/1879503/gandhi-a-la-carta-27-de-noviembre"
  },
  {
+  "banda": "A.N.I.M.A.L + Deznuke + Tributo a Rage Against the Machine",
+  "bar": "Pepper's Club",
+  "cover": "",
+  "direccion_display": "Pepper's Club, Zapote, San José",
+  "fecha": "2026-11-27",
+  "flyer": "flyers/a-n-i-m-a-l-deznuke-tributo-a-rage-against-the-machine-2026-11-27.jpg",
+  "fuente": "https://kuikpei.com/evento/animal-30-costa-rica-2026",
+  "hora": "19:00",
+  "nota": "Metal argentino; con Deznuke (CR) y tributo a Rage Against the Machine. Entradas en kuikpei.com (productora Grito Latino).",
+  "region": "San José"
+ },
+ {
   "banda": "SLAVON 30 aniversario + Eviltwin",
   "bar": "Music Factory",
   "cover": "₡10.000",
@@ -1089,18 +1125,6 @@
   "fuente": "https://www.musicfactorycr.com/eventos/slavon-30-aniversario-300030",
   "hora": "20:00",
   "nota": "Heavy metal tico: Slavon 30 aniversario, banda invitada Eviltwin. Información y reservas 8757-9901.",
-  "region": "San José"
- },
- {
-  "banda": "A.N.I.M.A.L + Deznuke + Tributo a Rage Against the Machine",
-  "bar": "Pepper's Club",
-  "cover": "",
-  "direccion_display": "Pepper's Club, Zapote, San José",
-  "fecha": "2026-11-27",
-  "flyer": "flyers/a-n-i-m-a-l-deznuke-tributo-a-rage-against-the-machine-2026-11-27.jpg",
-  "fuente": "https://kuikpei.com/evento/animal-30-costa-rica-2026",
-  "hora": "19:00",
-  "nota": "Metal argentino; con Deznuke (CR) y tributo a Rage Against the Machine. Entradas en kuikpei.com (productora Grito Latino).",
   "region": "San José"
  },
  {
@@ -1158,6 +1182,18 @@
   "region": "San José",
   "fuente": "https://www.gamcultural.com/cr/events/1469834/las-tortugas",
   "nota": "Hora en GAM: ficha 14:00, descripción 8:00 PM; se publica sin hora confirmada."
+ },
+ {
+  "banda": "El Último Ke Zierre (EUKZ)",
+  "bar": "Pepper's Club",
+  "fecha": "2026-11-29",
+  "hora": "20:00",
+  "cover": "General ₡30.000 / VIP ₡40.000",
+  "flyer": "",
+  "direccion_display": "Av. 34, Calle 61-63, Zapote, San José",
+  "region": "San José",
+  "fuente": "https://eleven-to.com/product/eukz-el-tour-mas-esperado/",
+  "nota": "Punk en español; regreso a Pepper's Club. Puertas 18:00. +15 con adulto."
  },
  {
   "banda": "A Night Like This: Tributo a The Cure",
@@ -1279,6 +1315,18 @@
   "region": "Heredia",
   "fuente": "https://www.bandsintown.com/es/e/109097679-acero-heavy-metal-costa-rica-at-esquina-rock-bar",
   "nota": "Chivo del Clan Agotaras. Heavy metal costarricense en vivo."
+ },
+ {
+  "banda": "Navidad Metal Fest: Insanity + Salt + Gorilla Fun",
+  "bar": "Bar Starview",
+  "fecha": "2026-12-13",
+  "hora": "15:00",
+  "cover": "Un regalo no bélico sin envolver para niño/a",
+  "flyer": "",
+  "direccion_display": "La Línea, Barrio Otoya, San José",
+  "region": "San José",
+  "fuente": "https://www.bandsintown.com/es/e/109105994-gorilla-fun-at-la-linea-restaurant-and-bar",
+  "nota": "Pactum Producciones presenta tarde de metal y rock en vivo (La Linea Restaurant and Bar / Starview Bar)."
  },
  {
   "banda": "Whitecross & MKL",
