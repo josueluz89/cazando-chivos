@@ -1,4 +1,4 @@
-# Vigilancia 20261112-0701 (2x/dia)
+# Vigilancia 20261112-2149 (2x/dia)
 
 Novedades: 4 | Fuentes pendientes: 36
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
@@ -9,24 +9,24 @@ Novedades: 4 | Fuentes pendientes: 36
 
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261112-0701/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
-  - Imagen original: candidatos/20261112-0701/anfiteatro-imperial-parque-viva-ab796e15.jpg
-  - Imagen original: candidatos/20261112-0701/anfiteatro-imperial-parque-viva-2b27c54c.jpg
-  - Imagen original: candidatos/20261112-0701/anfiteatro-imperial-parque-viva-2c38e756.jpg
-  - Imagen original: candidatos/20261112-0701/anfiteatro-imperial-parque-viva-735f596d.jpg
-  - Imagen original: candidatos/20261112-0701/anfiteatro-imperial-parque-viva-ed1ede53.jpg
-  - Imagen original: candidatos/20261112-0701/anfiteatro-imperial-parque-viva-5afaea16.jpg
+  - Imagen original: candidatos/20261112-2149/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
+  - Imagen original: candidatos/20261112-2149/anfiteatro-imperial-parque-viva-710646b9.jpg
+  - Imagen original: candidatos/20261112-2149/anfiteatro-imperial-parque-viva-735f596d.jpg
+  - Imagen original: candidatos/20261112-2149/anfiteatro-imperial-parque-viva-7f652c34.jpg
+  - Imagen original: candidatos/20261112-2149/anfiteatro-imperial-parque-viva-d48b3535.jpg
+  - Imagen original: candidatos/20261112-2149/anfiteatro-imperial-parque-viva-3c5cf67b.jpg
+  - Imagen original: candidatos/20261112-2149/anfiteatro-imperial-parque-viva-2b27c54c.jpg
+
+## Music Factory
+- Fuente: https://musicfactorycr.com | Tipo: cambio_detectado
+- Titulo: Music Factory CR - 3 Restaurantes y Música en Vivo
+  - Imagen original: candidatos/20261112-2149/music-factory-ae01c4ec.jpg
+  - Imagen original: candidatos/20261112-2149/music-factory-ea3f30f6.jpg
+  - Imagen original: candidatos/20261112-2149/music-factory-ffd546ac.jpg
 
 ## CIC ANDE (Anfiteatro)
 - Fuente: https://www.ande.cr/ | Tipo: fuente_caida
 - Detalle: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>
-
-## Xcape Bar La Calle
-- Fuente: https://starticket.cr/o/3186/xcape-bar-la-calle | Tipo: cambio_detectado
-- Titulo: Xcape Bar La Calle
-  - Imagen original: candidatos/20261112-0701/xcape-bar-la-calle-7d85c1a2.png
-  - Imagen original: candidatos/20261112-0701/xcape-bar-la-calle-e1d293e6.png
-  - Imagen original: candidatos/20261112-0701/xcape-bar-la-calle-7297c7a1.png
 
 ## Pendientes (revision manual/WhatsApp)
 - Bar Reflexiones: FB/IG configurado pero requiere token o revision manual
