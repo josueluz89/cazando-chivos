@@ -1,5 +1,5 @@
 {
- "stamp": "20261111-2153",
+ "stamp": "20261112-0701",
  "novedades": [
   {
    "bar": "Amon Solar",
@@ -8,44 +8,19 @@
    "detalle": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
   },
   {
-   "bar": "Mercadito La California",
-   "fuente": "https://starticket.cr",
-   "tipo": "cambio_detectado",
-   "titulo": "",
-   "imagenes": []
-  },
-  {
    "bar": "Anfiteatro Imperial (Parque Viva)",
    "fuente": "https://www.eticket.cr",
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261111-2153/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
-    "candidatos/20261111-2153/anfiteatro-imperial-parque-viva-a7114307.jpg",
-    "candidatos/20261111-2153/anfiteatro-imperial-parque-viva-710646b9.jpg",
-    "candidatos/20261111-2153/anfiteatro-imperial-parque-viva-5afaea16.jpg",
-    "candidatos/20261111-2153/anfiteatro-imperial-parque-viva-e53b27be.jpg",
-    "candidatos/20261111-2153/anfiteatro-imperial-parque-viva-735f596d.jpg",
-    "candidatos/20261111-2153/anfiteatro-imperial-parque-viva-6189069c.jpg"
+    "candidatos/20261112-0701/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
+    "candidatos/20261112-0701/anfiteatro-imperial-parque-viva-ab796e15.jpg",
+    "candidatos/20261112-0701/anfiteatro-imperial-parque-viva-2b27c54c.jpg",
+    "candidatos/20261112-0701/anfiteatro-imperial-parque-viva-2c38e756.jpg",
+    "candidatos/20261112-0701/anfiteatro-imperial-parque-viva-735f596d.jpg",
+    "candidatos/20261112-0701/anfiteatro-imperial-parque-viva-ed1ede53.jpg",
+    "candidatos/20261112-0701/anfiteatro-imperial-parque-viva-5afaea16.jpg"
    ]
-  },
-  {
-   "bar": "Music Factory",
-   "fuente": "https://musicfactorycr.com",
-   "tipo": "cambio_detectado",
-   "titulo": "Music Factory CR - 3 Restaurantes y Música en Vivo",
-   "imagenes": [
-    "candidatos/20261111-2153/music-factory-ae01c4ec.jpg",
-    "candidatos/20261111-2153/music-factory-ea3f30f6.jpg",
-    "candidatos/20261111-2153/music-factory-ffd546ac.jpg"
-   ]
-  },
-  {
-   "bar": "Fulcro Gastro Bar",
-   "fuente": "https://linktr.ee/fulcrogastrobar",
-   "tipo": "cambio_detectado",
-   "titulo": "@fulcrogastrobarr Official: TikTok, Instagram, Facebook | Linktree",
-   "imagenes": []
   },
   {
    "bar": "CIC ANDE (Anfiteatro)",
@@ -54,11 +29,15 @@
    "detalle": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>"
   },
   {
-   "bar": "Palacio de los Deportes",
-   "fuente": "https://www.heredia.go.cr/",
+   "bar": "Xcape Bar La Calle",
+   "fuente": "https://starticket.cr/o/3186/xcape-bar-la-calle",
    "tipo": "cambio_detectado",
-   "titulo": "Portal Municipalidad de Heredia",
-   "imagenes": []
+   "titulo": "Xcape Bar La Calle",
+   "imagenes": [
+    "candidatos/20261112-0701/xcape-bar-la-calle-7d85c1a2.png",
+    "candidatos/20261112-0701/xcape-bar-la-calle-e1d293e6.png",
+    "candidatos/20261112-0701/xcape-bar-la-calle-7297c7a1.png"
+   ]
   }
  ],
  "pendientes": [

@@ -1,43 +1,32 @@
-# Vigilancia 20261111-2153 (2x/dia)
+# Vigilancia 20261112-0701 (2x/dia)
 
-Novedades: 7 | Fuentes pendientes: 36
+Novedades: 4 | Fuentes pendientes: 36
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
 
 ## Amon Solar
 - Fuente: https://amonsolar.com | Tipo: fuente_caida
 - Detalle: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>
 
-## Mercadito La California
-- Fuente: https://starticket.cr | Tipo: cambio_detectado
-
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261111-2153/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
-  - Imagen original: candidatos/20261111-2153/anfiteatro-imperial-parque-viva-a7114307.jpg
-  - Imagen original: candidatos/20261111-2153/anfiteatro-imperial-parque-viva-710646b9.jpg
-  - Imagen original: candidatos/20261111-2153/anfiteatro-imperial-parque-viva-5afaea16.jpg
-  - Imagen original: candidatos/20261111-2153/anfiteatro-imperial-parque-viva-e53b27be.jpg
-  - Imagen original: candidatos/20261111-2153/anfiteatro-imperial-parque-viva-735f596d.jpg
-  - Imagen original: candidatos/20261111-2153/anfiteatro-imperial-parque-viva-6189069c.jpg
-
-## Music Factory
-- Fuente: https://musicfactorycr.com | Tipo: cambio_detectado
-- Titulo: Music Factory CR - 3 Restaurantes y Música en Vivo
-  - Imagen original: candidatos/20261111-2153/music-factory-ae01c4ec.jpg
-  - Imagen original: candidatos/20261111-2153/music-factory-ea3f30f6.jpg
-  - Imagen original: candidatos/20261111-2153/music-factory-ffd546ac.jpg
-
-## Fulcro Gastro Bar
-- Fuente: https://linktr.ee/fulcrogastrobar | Tipo: cambio_detectado
-- Titulo: @fulcrogastrobarr Official: TikTok, Instagram, Facebook | Linktree
+  - Imagen original: candidatos/20261112-0701/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
+  - Imagen original: candidatos/20261112-0701/anfiteatro-imperial-parque-viva-ab796e15.jpg
+  - Imagen original: candidatos/20261112-0701/anfiteatro-imperial-parque-viva-2b27c54c.jpg
+  - Imagen original: candidatos/20261112-0701/anfiteatro-imperial-parque-viva-2c38e756.jpg
+  - Imagen original: candidatos/20261112-0701/anfiteatro-imperial-parque-viva-735f596d.jpg
+  - Imagen original: candidatos/20261112-0701/anfiteatro-imperial-parque-viva-ed1ede53.jpg
+  - Imagen original: candidatos/20261112-0701/anfiteatro-imperial-parque-viva-5afaea16.jpg
 
 ## CIC ANDE (Anfiteatro)
 - Fuente: https://www.ande.cr/ | Tipo: fuente_caida
 - Detalle: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>
 
-## Palacio de los Deportes
-- Fuente: https://www.heredia.go.cr/ | Tipo: cambio_detectado
-- Titulo: Portal Municipalidad de Heredia
+## Xcape Bar La Calle
+- Fuente: https://starticket.cr/o/3186/xcape-bar-la-calle | Tipo: cambio_detectado
+- Titulo: Xcape Bar La Calle
+  - Imagen original: candidatos/20261112-0701/xcape-bar-la-calle-7d85c1a2.png
+  - Imagen original: candidatos/20261112-0701/xcape-bar-la-calle-e1d293e6.png
+  - Imagen original: candidatos/20261112-0701/xcape-bar-la-calle-7297c7a1.png
 
 ## Pendientes (revision manual/WhatsApp)
 - Bar Reflexiones: FB/IG configurado pero requiere token o revision manual
