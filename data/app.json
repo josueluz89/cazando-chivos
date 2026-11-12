@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11T15:25:26-06:00",
+ "actualizado": "2026-11-12T15:23:00-06:00",
  "ventana_dias": 60,
  "zonas": [
   "Alajuela",
@@ -9,16 +9,16 @@
  ],
  "eventos": [
   {
-   "banda": "Soda Stereo 2026",
-   "bar": "Anfiteatro Imperial (Parque Viva)",
-   "cover": "",
-   "direccion_display": "Parque Viva, La Guácima, Alajuela",
-   "entradas": "eticket",
-   "fecha": "2026-11-11",
-   "flyer": "flyers/soda-stereo-2026-2026-11-11.jpg",
-   "fuente": "https://eticket.cr/eventos.aspx?idartista=1339",
-   "hora": "19:00",
-   "region": "Alajuela"
+   "banda": "Firepit — Estreno del disco “The Truth” (rock en inglés)",
+   "bar": "Central Pub London Room",
+   "fecha": "2026-11-12",
+   "hora": "20:00",
+   "cover": "₡12.500",
+   "flyer": "flyers/firepit-estreno-del-disco-the-truth-rock-en-inglés-2026-11-12.jpg",
+   "direccion_display": "Av 2, Calle 38-40, Paseo Colón, San José",
+   "region": "San José",
+   "fuente": "https://www.teletica.com/entretenimiento/banda-costarricense-firepit-estrena-este-jueves-su-segundo-disco_420971",
+   "entradas": "Venta en Tiquetebox"
   },
   {
    "banda": "CRIM (punk rock, gira despedida)",
@@ -91,6 +91,18 @@
    "nota": "Lanzamiento del EP “Inercia” (4 canciones + videoclip “Instinto”) + grandes éxitos. Reservas WhatsApp 8890-8586."
   },
   {
+   "banda": "BACK TO SEATTLE III — Alice in Chains + Nirvana (noche 1)",
+   "bar": "El Muro ArtPub & Comedy Club",
+   "fecha": "2026-11-13",
+   "hora": "Por confirmar",
+   "cover": "₡8.000",
+   "flyer": "flyers/back-to-seattle-iii-alice-in-chains-nirvana-noche-1-2026-11-13.jpg",
+   "direccion_display": "Calle 7, Avenida 5 y 7, San José",
+   "region": "San José",
+   "fuente": "https://www.gamcultural.com/cr/events/1873741/back-to-seattle-iii",
+   "entradas": "Venta en Tiquetebox"
+  },
+  {
    "banda": "Rock con Todo Corazón (festival benéfico)",
    "bar": "Campo Ferial Hogar de Ancianos",
    "fecha": "2026-11-14",
@@ -138,6 +150,18 @@
    "region": "San José"
   },
   {
+   "banda": "Outside Attack Reason (Outside The Circle + Attack Sick + Reason Remains)",
+   "bar": "Oasis",
+   "fecha": "2026-11-14",
+   "hora": "20:00",
+   "cover": "₡7.000–₡10.000",
+   "flyer": "flyers/outside-attack-reason-outside-the-circle-attack-sick-reason-remains-2026-11-14.jpg",
+   "direccion_display": "Calle 61, San Pedro - Montes de Oca",
+   "region": "San José",
+   "fuente": "https://www.gamcultural.com/cr/events/1870556/outside-attack-reason",
+   "entradas": "Venta en Tiquetebox"
+  },
+  {
    "banda": "Especial a Oasis",
    "bar": "Central Pub London Room",
    "cover": "",
@@ -147,6 +171,18 @@
    "fuente": "https://www.gamcultural.com/cr/events/1860657/especial-a-oasis",
    "hora": "20:30",
    "region": "San José"
+  },
+  {
+   "banda": "BACK TO SEATTLE III — Stone Temple Pilots + Pearl Jam (noche 2)",
+   "bar": "El Muro ArtPub & Comedy Club",
+   "fecha": "2026-11-14",
+   "hora": "21:00",
+   "cover": "₡8.000",
+   "flyer": "flyers/back-to-seattle-iii-stone-temple-pilots-pearl-jam-noche-2-2026-11-14.jpg",
+   "direccion_display": "Calle 7, Avenida 5 y 7, San José",
+   "region": "San José",
+   "fuente": "https://www.gamcultural.com/cr/events/1873741/back-to-seattle-iii",
+   "entradas": "Venta en Tiquetebox"
   },
   {
    "banda": "Sight of Emptiness + Fractal Sun — “ADIÓS 2026”",
@@ -303,6 +339,18 @@
    "fuente": "https://www.passline.com/eventos/allison-euforia-tour"
   },
   {
+   "banda": "Nirvana Unplugged y otros éxitos (tributo a Nirvana)",
+   "bar": "Jazz Café",
+   "fecha": "2026-11-25",
+   "hora": "14:30",
+   "cover": "₡8.000–₡10.000",
+   "flyer": "flyers/nirvana-unplugged-y-otros-éxitos-tributo-a-nirvana-2026-11-25.jpg",
+   "direccion_display": "Ruta 27, Lateral, San Rafael, Escazú",
+   "region": "San José",
+   "fuente": "https://www.gamcultural.com/cr/events/1869305/nirvana-unplugged-y-otros-exitos",
+   "entradas": "Venta en Tiquetebox"
+  },
+  {
    "banda": "Gandhi — A LA CARTA",
    "bar": "Jazz Café",
    "fecha": "2026-11-26",
@@ -442,6 +490,18 @@
    "region": "San José"
   },
   {
+   "banda": "ALT NATION (Carter's: Arctic Monkeys, The Strokes, Foo Fighters, The Killers, Incubus, Muse)",
+   "bar": "Central Pub London Room",
+   "fecha": "2026-12-04",
+   "hora": "20:00",
+   "cover": "₡10.000",
+   "flyer": "flyers/alt-nation-carter-s-arctic-monkeys-the-strokes-foo-fighters-the-killers-incubus-muse-2026-12-04.jpg",
+   "direccion_display": "Av 2, Calle 38-40, Paseo Colón, San José",
+   "region": "San José",
+   "fuente": "https://www.gamcultural.com/cr/events/1870558/alt-nation",
+   "entradas": "Venta en Tiquetebox"
+  },
+  {
    "banda": "Endemia + Bihotza",
    "bar": "Club Oasis",
    "fecha": "2026-12-04",
@@ -452,6 +512,18 @@
    "region": "San José",
    "fuente": "https://www.bandsintown.com/e/108567320-endemia-at-oasis-la-calle",
    "entradas": "Punk rock tico (Endemia) + punk español (Bihotza) + DJ Six. Entradas: La Tiquetera CR / SINPE 8308-6619."
+  },
+  {
+   "banda": "Dave Matthews Band (tributo, The Central Park Concert)",
+   "bar": "El Muro ArtPub & Comedy Club",
+   "fecha": "2026-12-04",
+   "hora": "20:30",
+   "cover": "₡8.500–₡10.000",
+   "flyer": "flyers/dave-matthews-band-tributo-the-central-park-concert-2026-12-04.jpg",
+   "direccion_display": "Calle 7, Avenida 5 y 7, San José",
+   "region": "San José",
+   "fuente": "https://www.gamcultural.com/cr/events/1867939/dave-matthews-band",
+   "entradas": "Venta en Tiquetebox"
   },
   {
    "banda": "NOX Melodiam",
@@ -512,6 +584,18 @@
    "region": "Heredia",
    "fuente": "https://eleven-to.com/product/kreator-y-dimmu-borgir-the-grand-karmageddon/",
    "entradas": "Fecha única en Centroamérica. Apertura de puertas 18:00."
+  },
+  {
+   "banda": "Scream for me Mundoloco!! (Especial Iron Maiden — World Slavery Tour)",
+   "bar": "MundoLoco El Chante",
+   "fecha": "2026-12-10",
+   "hora": "14:30",
+   "cover": "₡5.565–₡10.000",
+   "flyer": "flyers/scream-for-me-mundoloco-especial-iron-maiden-world-slavery-tour-2026-12-10.jpg",
+   "direccion_display": "Av 0, Calle 5-7, San Pedro - Montes de Oca",
+   "region": "San José",
+   "fuente": "https://www.gamcultural.com/cr/events/1869306/scream-for-me-mundoloco",
+   "entradas": "Venta en Tiquetebox"
   },
   {
    "banda": "Adiós Cometa + RosaViolento + SRUF",
