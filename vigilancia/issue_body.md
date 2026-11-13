@@ -1,4 +1,4 @@
-# Vigilancia 20261112-2149 (2x/dia)
+# Vigilancia 20261113-0630 (2x/dia)
 
 Novedades: 4 | Fuentes pendientes: 36
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
@@ -9,20 +9,20 @@ Novedades: 4 | Fuentes pendientes: 36
 
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261112-2149/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
-  - Imagen original: candidatos/20261112-2149/anfiteatro-imperial-parque-viva-710646b9.jpg
-  - Imagen original: candidatos/20261112-2149/anfiteatro-imperial-parque-viva-735f596d.jpg
-  - Imagen original: candidatos/20261112-2149/anfiteatro-imperial-parque-viva-7f652c34.jpg
-  - Imagen original: candidatos/20261112-2149/anfiteatro-imperial-parque-viva-d48b3535.jpg
-  - Imagen original: candidatos/20261112-2149/anfiteatro-imperial-parque-viva-3c5cf67b.jpg
-  - Imagen original: candidatos/20261112-2149/anfiteatro-imperial-parque-viva-2b27c54c.jpg
+  - Imagen original: candidatos/20261113-0630/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
+  - Imagen original: candidatos/20261113-0630/anfiteatro-imperial-parque-viva-e53b27be.jpg
+  - Imagen original: candidatos/20261113-0630/anfiteatro-imperial-parque-viva-3ebd13e5.jpg
+  - Imagen original: candidatos/20261113-0630/anfiteatro-imperial-parque-viva-7f652c34.jpg
+  - Imagen original: candidatos/20261113-0630/anfiteatro-imperial-parque-viva-ed1ede53.jpg
+  - Imagen original: candidatos/20261113-0630/anfiteatro-imperial-parque-viva-0b5a7dcd.jpg
+  - Imagen original: candidatos/20261113-0630/anfiteatro-imperial-parque-viva-735f596d.jpg
 
 ## Music Factory
 - Fuente: https://musicfactorycr.com | Tipo: cambio_detectado
 - Titulo: Music Factory CR - 3 Restaurantes y Música en Vivo
-  - Imagen original: candidatos/20261112-2149/music-factory-ae01c4ec.jpg
-  - Imagen original: candidatos/20261112-2149/music-factory-ea3f30f6.jpg
-  - Imagen original: candidatos/20261112-2149/music-factory-ffd546ac.jpg
+  - Imagen original: candidatos/20261113-0630/music-factory-ea3f30f6.jpg
+  - Imagen original: candidatos/20261113-0630/music-factory-ffd546ac.jpg
+  - Imagen original: candidatos/20261113-0630/music-factory-f2e993c4.jpg
 
 ## CIC ANDE (Anfiteatro)
 - Fuente: https://www.ande.cr/ | Tipo: fuente_caida
