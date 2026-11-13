@@ -1,4 +1,4 @@
-# Vigilancia 20261113-0630 (2x/dia)
+# Vigilancia 20261113-2124 (2x/dia)
 
 Novedades: 4 | Fuentes pendientes: 36
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
@@ -9,24 +9,23 @@ Novedades: 4 | Fuentes pendientes: 36
 
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261113-0630/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
-  - Imagen original: candidatos/20261113-0630/anfiteatro-imperial-parque-viva-e53b27be.jpg
-  - Imagen original: candidatos/20261113-0630/anfiteatro-imperial-parque-viva-3ebd13e5.jpg
-  - Imagen original: candidatos/20261113-0630/anfiteatro-imperial-parque-viva-7f652c34.jpg
-  - Imagen original: candidatos/20261113-0630/anfiteatro-imperial-parque-viva-ed1ede53.jpg
-  - Imagen original: candidatos/20261113-0630/anfiteatro-imperial-parque-viva-0b5a7dcd.jpg
-  - Imagen original: candidatos/20261113-0630/anfiteatro-imperial-parque-viva-735f596d.jpg
-
-## Music Factory
-- Fuente: https://musicfactorycr.com | Tipo: cambio_detectado
-- Titulo: Music Factory CR - 3 Restaurantes y Música en Vivo
-  - Imagen original: candidatos/20261113-0630/music-factory-ea3f30f6.jpg
-  - Imagen original: candidatos/20261113-0630/music-factory-ffd546ac.jpg
-  - Imagen original: candidatos/20261113-0630/music-factory-f2e993c4.jpg
+  - Imagen original: candidatos/20261113-2124/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
+  - Imagen original: candidatos/20261113-2124/anfiteatro-imperial-parque-viva-2b27c54c.jpg
+  - Imagen original: candidatos/20261113-2124/anfiteatro-imperial-parque-viva-fe1fcacd.jpg
+  - Imagen original: candidatos/20261113-2124/anfiteatro-imperial-parque-viva-735f596d.jpg
+  - Imagen original: candidatos/20261113-2124/anfiteatro-imperial-parque-viva-ed1ede53.jpg
+  - Imagen original: candidatos/20261113-2124/anfiteatro-imperial-parque-viva-d37ac2b0.jpg
+  - Imagen original: candidatos/20261113-2124/anfiteatro-imperial-parque-viva-e003131b.jpg
 
 ## CIC ANDE (Anfiteatro)
 - Fuente: https://www.ande.cr/ | Tipo: fuente_caida
 - Detalle: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>
+
+## Palacio de los Deportes
+- Fuente: https://www.heredia.go.cr/ | Tipo: cambio_detectado
+- Titulo: Portal Municipalidad de Heredia
+  - Imagen original: candidatos/20261113-2124/palacio-de-los-deportes-1de075b8.png
+  - Imagen original: candidatos/20261113-2124/palacio-de-los-deportes-32cae6bc.jpg
 
 ## Pendientes (revision manual/WhatsApp)
 - Bar Reflexiones: FB/IG configurado pero requiere token o revision manual

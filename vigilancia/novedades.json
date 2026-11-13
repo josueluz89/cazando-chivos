@@ -1,5 +1,5 @@
 {
- "stamp": "20261113-0630",
+ "stamp": "20261113-2124",
  "novedades": [
   {
    "bar": "Amon Solar",
@@ -13,24 +13,13 @@
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261113-0630/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
-    "candidatos/20261113-0630/anfiteatro-imperial-parque-viva-e53b27be.jpg",
-    "candidatos/20261113-0630/anfiteatro-imperial-parque-viva-3ebd13e5.jpg",
-    "candidatos/20261113-0630/anfiteatro-imperial-parque-viva-7f652c34.jpg",
-    "candidatos/20261113-0630/anfiteatro-imperial-parque-viva-ed1ede53.jpg",
-    "candidatos/20261113-0630/anfiteatro-imperial-parque-viva-0b5a7dcd.jpg",
-    "candidatos/20261113-0630/anfiteatro-imperial-parque-viva-735f596d.jpg"
-   ]
-  },
-  {
-   "bar": "Music Factory",
-   "fuente": "https://musicfactorycr.com",
-   "tipo": "cambio_detectado",
-   "titulo": "Music Factory CR - 3 Restaurantes y Música en Vivo",
-   "imagenes": [
-    "candidatos/20261113-0630/music-factory-ea3f30f6.jpg",
-    "candidatos/20261113-0630/music-factory-ffd546ac.jpg",
-    "candidatos/20261113-0630/music-factory-f2e993c4.jpg"
+    "candidatos/20261113-2124/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
+    "candidatos/20261113-2124/anfiteatro-imperial-parque-viva-2b27c54c.jpg",
+    "candidatos/20261113-2124/anfiteatro-imperial-parque-viva-fe1fcacd.jpg",
+    "candidatos/20261113-2124/anfiteatro-imperial-parque-viva-735f596d.jpg",
+    "candidatos/20261113-2124/anfiteatro-imperial-parque-viva-ed1ede53.jpg",
+    "candidatos/20261113-2124/anfiteatro-imperial-parque-viva-d37ac2b0.jpg",
+    "candidatos/20261113-2124/anfiteatro-imperial-parque-viva-e003131b.jpg"
    ]
   },
   {
@@ -38,6 +27,16 @@
    "fuente": "https://www.ande.cr/",
    "tipo": "fuente_caida",
    "detalle": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>"
+  },
+  {
+   "bar": "Palacio de los Deportes",
+   "fuente": "https://www.heredia.go.cr/",
+   "tipo": "cambio_detectado",
+   "titulo": "Portal Municipalidad de Heredia",
+   "imagenes": [
+    "candidatos/20261113-2124/palacio-de-los-deportes-1de075b8.png",
+    "candidatos/20261113-2124/palacio-de-los-deportes-32cae6bc.jpg"
+   ]
   }
  ],
  "pendientes": [
