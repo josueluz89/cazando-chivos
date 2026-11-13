@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12T18:17:20-06:00",
+ "actualizado": "2026-11-13T15:28:32-06:00",
  "ventana_dias": 60,
  "zonas": [
   "Alajuela",
@@ -8,30 +8,6 @@
   "San José"
  ],
  "eventos": [
-  {
-   "banda": "Firepit — Estreno del disco “The Truth” (rock en inglés)",
-   "bar": "Central Pub London Room",
-   "fecha": "2026-11-12",
-   "hora": "20:00",
-   "cover": "₡12.500",
-   "flyer": "flyers/firepit-estreno-del-disco-the-truth-rock-en-inglés-2026-11-12.jpg",
-   "direccion_display": "Av 2, Calle 38-40, Paseo Colón, San José",
-   "region": "San José",
-   "fuente": "https://www.teletica.com/entretenimiento/banda-costarricense-firepit-estrena-este-jueves-su-segundo-disco_420971",
-   "entradas": "Venta en Tiquetebox"
-  },
-  {
-   "banda": "CRIM (punk rock, gira despedida)",
-   "bar": "Amon Solar",
-   "cover": "Desde ₡8.000",
-   "direccion_display": "Calle 3, Barrio Amón, San José",
-   "entradas": "starticket",
-   "fecha": "2026-11-12",
-   "flyer": "flyers/crim-punk-rock-gira-despedida-2026-11-12.png",
-   "fuente": "https://www.starticket.cr",
-   "hora": "7:30 PM",
-   "region": "San José"
-  },
   {
    "banda": "Sin Anestesia: The Riot Company + Morfinx + Gorilla Fun",
    "bar": "Stereo Caníbal",
@@ -114,6 +90,18 @@
    "region": "Alajuela",
    "fuente": "https://atenasayuda.com/",
    "nota": "Concierto benéfico a beneficio del Hogar de Ancianos. Bandas de rock en vivo en dos escenarios alternos; cartel por anunciar. Puertas 9:00 AM, cierre 10:00 PM. Entradas: SINPE Móvil 8487-0115 (comprobante por WhatsApp). Menores de 10 gratis."
+  },
+  {
+   "banda": "Elektra Stroke",
+   "bar": "Anfiteatro de Cartago",
+   "fecha": "2026-11-14",
+   "hora": "16:30",
+   "cover": "Gratis",
+   "flyer": "",
+   "direccion_display": "Anfiteatro de Cartago, Cartago",
+   "region": "Cartago",
+   "fuente": "https://gammadigital.uia.ac.cr/bandas-ticas-celebran-decadas-de-historia-y-vigencia-en-los-escenarios/",
+   "nota": "Décimo aniversario. Rock alternativo con influencias post-punk, synth pop y new wave; con Peregrino Gris. Concierto gratuito en el marco del Día del Músico Costarricense."
   },
   {
    "banda": "Manolo Kabezabolo y los Maes del Bolo",
@@ -209,6 +197,18 @@
    "hora": "20:00",
    "nota": "Punk rock: Solocarne celebra 30 años con Codefendants (EE. UU., proyecto de Fat Mike de NOFX) y Bufonic. Organiza Stand Up.",
    "region": "San José"
+  },
+  {
+   "banda": "The Rushing Notes",
+   "bar": "Jazz Café",
+   "fecha": "2026-11-18",
+   "hora": "19:30",
+   "cover": "₡8.000",
+   "flyer": "flyers/the-rushing-notes-2026-11-18.jpg",
+   "direccion_display": "Ruta 27, Lateral, San Rafael, Escazú",
+   "region": "San José",
+   "fuente": "https://www.gamcultural.com/cr/events/1840303/the-rushing-notes",
+   "nota": "Before Streaming: Music Through The Screen. Grunge y rock alternativo de los 90 hasta pop y punk de los 2000 (Pearl Jam, Alice In Chains, Oasis, Blink-182, Green Day, Incubus). (Póster oficial: 7:30 PM; la ficha GAM lista 20:00.)"
   },
   {
    "banda": "Los Fabulosos Cadillacs + Molotov (abre: Calle Dolores)",
@@ -535,7 +535,7 @@
    "flyer": "flyers/nox-melodiam-2026-12-05.jpg",
    "fuente": "https://www.bandsintown.com/es/e/108457319-nox-melodiam-at-cartago-ruins",
    "hora": "14:00",
-   "nota": "Sábado de Rock: show gratis al aire libre con otras bandas de rock de Cartago.",
+   "nota": "Sábado de Rock (gratis, al aire libre): NOX Melodiam + Banda Pesacabal + Descafeinados + Contratempo.",
    "region": "Cartago"
   },
   {
@@ -610,6 +610,18 @@
    "fuente": "https://www.gamcultural.com/cr/events/1879509/adios-cometa-en-el-stein-room",
    "entradas": "Tiquetebox: https://www.tiquetebox.app/e/adios_cometa_en_el_stein_room",
    "nota": "GAM muestra 13:00 pero el póster oficial dice 19:00; se publica 19:00."
+  },
+  {
+   "banda": "CATARSIS",
+   "bar": "Music Factory",
+   "fecha": "2026-12-11",
+   "hora": "20:00",
+   "cover": "",
+   "flyer": "",
+   "direccion_display": "Centro Comercial Veritas, Zapote, San José",
+   "region": "San José",
+   "fuente": "https://musicfactorycr.com/eventos",
+   "nota": "Canciones originales y éxitos del rock en español."
   },
   {
    "banda": "BLACK SABBATH & OZZY OSBOURNE — THE LEGACY",
@@ -1083,6 +1095,13 @@
   {
    "nombre": "Club Oasis",
    "direccion": "Club Oasis, Calle de la Amargura, San Pedro",
+   "estilo": "",
+   "telefono": "",
+   "historial": []
+  },
+  {
+   "nombre": "Anfiteatro de Cartago",
+   "direccion": "Anfiteatro de Cartago, Cartago",
    "estilo": "",
    "telefono": "",
    "historial": []
