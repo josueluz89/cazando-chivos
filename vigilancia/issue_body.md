@@ -1,4 +1,4 @@
-# Vigilancia 20261114-0608 (2x/dia)
+# Vigilancia 20261114-1953 (2x/dia)
 
 Novedades: 5 | Fuentes pendientes: 36
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
@@ -7,26 +7,25 @@ Novedades: 5 | Fuentes pendientes: 36
 - Fuente: https://amonsolar.com | Tipo: fuente_caida
 - Detalle: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>
 
+## Mercadito La California
+- Fuente: https://starticket.cr | Tipo: cambio_detectado
+  - Imagen original: candidatos/20261114-1953/mercadito-la-california-7c78d650.jpg
+  - Imagen original: candidatos/20261114-1953/mercadito-la-california-83dbf984.jpg
+  - Imagen original: candidatos/20261114-1953/mercadito-la-california-25f963d3.jpg
+
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261114-0608/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
-  - Imagen original: candidatos/20261114-0608/anfiteatro-imperial-parque-viva-7f652c34.jpg
-  - Imagen original: candidatos/20261114-0608/anfiteatro-imperial-parque-viva-40e3ac18.jpg
-  - Imagen original: candidatos/20261114-0608/anfiteatro-imperial-parque-viva-710646b9.jpg
-  - Imagen original: candidatos/20261114-0608/anfiteatro-imperial-parque-viva-d48b3535.jpg
-  - Imagen original: candidatos/20261114-0608/anfiteatro-imperial-parque-viva-e003131b.jpg
-  - Imagen original: candidatos/20261114-0608/anfiteatro-imperial-parque-viva-d37ac2b0.jpg
-
-## Music Factory
-- Fuente: https://musicfactorycr.com | Tipo: cambio_detectado
-- Titulo: Music Factory CR - 3 Restaurantes y Música en Vivo
-  - Imagen original: candidatos/20261114-0608/music-factory-ffd546ac.jpg
-  - Imagen original: candidatos/20261114-0608/music-factory-f2e993c4.jpg
-  - Imagen original: candidatos/20261114-0608/music-factory-b50eaa70.jpg
+  - Imagen original: candidatos/20261114-1953/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
+  - Imagen original: candidatos/20261114-1953/anfiteatro-imperial-parque-viva-d48b3535.jpg
+  - Imagen original: candidatos/20261114-1953/anfiteatro-imperial-parque-viva-3c5cf67b.jpg
+  - Imagen original: candidatos/20261114-1953/anfiteatro-imperial-parque-viva-d5e93129.jpg
+  - Imagen original: candidatos/20261114-1953/anfiteatro-imperial-parque-viva-5a41518b.jpg
+  - Imagen original: candidatos/20261114-1953/anfiteatro-imperial-parque-viva-2b27c54c.jpg
+  - Imagen original: candidatos/20261114-1953/anfiteatro-imperial-parque-viva-d37ac2b0.jpg
 
 ## Fulcro Gastro Bar
 - Fuente: https://linktr.ee/fulcrogastrobar | Tipo: cambio_detectado
-- Titulo: @fulcrogastrobarr Restaurant - Visit to Find Food Options & See @fulcrogastrobarr Social Media & Official Accounts | Linktree
+- Titulo: @fulcrogastrobarr Official: TikTok, Instagram, Facebook | Linktree
 
 ## CIC ANDE (Anfiteatro)
 - Fuente: https://www.ande.cr/ | Tipo: fuente_caida

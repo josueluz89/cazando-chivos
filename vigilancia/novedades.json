@@ -1,5 +1,5 @@
 {
- "stamp": "20261114-0608",
+ "stamp": "20261114-1953",
  "novedades": [
   {
    "bar": "Amon Solar",
@@ -8,36 +8,36 @@
    "detalle": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
   },
   {
+   "bar": "Mercadito La California",
+   "fuente": "https://starticket.cr",
+   "tipo": "cambio_detectado",
+   "titulo": "",
+   "imagenes": [
+    "candidatos/20261114-1953/mercadito-la-california-7c78d650.jpg",
+    "candidatos/20261114-1953/mercadito-la-california-83dbf984.jpg",
+    "candidatos/20261114-1953/mercadito-la-california-25f963d3.jpg"
+   ]
+  },
+  {
    "bar": "Anfiteatro Imperial (Parque Viva)",
    "fuente": "https://www.eticket.cr",
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261114-0608/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
-    "candidatos/20261114-0608/anfiteatro-imperial-parque-viva-7f652c34.jpg",
-    "candidatos/20261114-0608/anfiteatro-imperial-parque-viva-40e3ac18.jpg",
-    "candidatos/20261114-0608/anfiteatro-imperial-parque-viva-710646b9.jpg",
-    "candidatos/20261114-0608/anfiteatro-imperial-parque-viva-d48b3535.jpg",
-    "candidatos/20261114-0608/anfiteatro-imperial-parque-viva-e003131b.jpg",
-    "candidatos/20261114-0608/anfiteatro-imperial-parque-viva-d37ac2b0.jpg"
-   ]
-  },
-  {
-   "bar": "Music Factory",
-   "fuente": "https://musicfactorycr.com",
-   "tipo": "cambio_detectado",
-   "titulo": "Music Factory CR - 3 Restaurantes y Música en Vivo",
-   "imagenes": [
-    "candidatos/20261114-0608/music-factory-ffd546ac.jpg",
-    "candidatos/20261114-0608/music-factory-f2e993c4.jpg",
-    "candidatos/20261114-0608/music-factory-b50eaa70.jpg"
+    "candidatos/20261114-1953/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
+    "candidatos/20261114-1953/anfiteatro-imperial-parque-viva-d48b3535.jpg",
+    "candidatos/20261114-1953/anfiteatro-imperial-parque-viva-3c5cf67b.jpg",
+    "candidatos/20261114-1953/anfiteatro-imperial-parque-viva-d5e93129.jpg",
+    "candidatos/20261114-1953/anfiteatro-imperial-parque-viva-5a41518b.jpg",
+    "candidatos/20261114-1953/anfiteatro-imperial-parque-viva-2b27c54c.jpg",
+    "candidatos/20261114-1953/anfiteatro-imperial-parque-viva-d37ac2b0.jpg"
    ]
   },
   {
    "bar": "Fulcro Gastro Bar",
    "fuente": "https://linktr.ee/fulcrogastrobar",
    "tipo": "cambio_detectado",
-   "titulo": "@fulcrogastrobarr Restaurant - Visit to Find Food Options & See @fulcrogastrobarr Social Media & Official Accounts | Linktree",
+   "titulo": "@fulcrogastrobarr Official: TikTok, Instagram, Facebook | Linktree",
    "imagenes": []
   },
   {
