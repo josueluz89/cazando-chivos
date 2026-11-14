@@ -433,5 +433,16 @@
    "Elektra Stroke"
   ],
   "telefono": ""
+ },
+ {
+  "nombre": "Plaza Mayor de Cartago",
+  "direccion": "Plaza Mayor, Cartago centro",
+  "estilo": "Plaza pública, conciertos municipales gratuitos",
+  "historial": [
+   "Gaviota",
+   "Pimienta Negra",
+   "Contraforma"
+  ],
+  "telefono": ""
  }
 ]

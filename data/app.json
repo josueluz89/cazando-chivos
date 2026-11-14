@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13T19:13:41-06:00",
+ "actualizado": "2026-11-14T15:27:45-06:00",
  "ventana_dias": 60,
  "zonas": [
   "Alajuela",
@@ -8,77 +8,6 @@
   "San José"
  ],
  "eventos": [
-  {
-   "banda": "Sin Anestesia: The Riot Company + Morfinx + Gorilla Fun",
-   "bar": "Stereo Caníbal",
-   "cover": "Preventa $10,40 / General $12,60",
-   "direccion_display": "Stereo Caníbal, San José",
-   "fecha": "2026-11-13",
-   "flyer": "flyers/sin-anestesia-the-riot-company-morfinx-gorilla-fun-2026-11-13.png",
-   "fuente": "https://starticket.cr/e/sin-anestesia/10242",
-   "hora": "19:00",
-   "nota": "Rock alternativo y punk en vivo: The Riot Company (nuevo sencillo Entre Líneas), Morfinx (punk rock), Gorilla Fun (rock alternativo).",
-   "region": "San José"
-  },
-  {
-   "banda": "La Experiencia Queen + Beatles (Ed Quesada & Full Banda)",
-   "bar": "Fulcro Gastro Bar",
-   "cover": "₡5.000",
-   "direccion_display": "2km al Oeste de DEKRA, Quebradilla, Barrio Tejar - El Guarco",
-   "fecha": "2026-11-13",
-   "flyer": "flyers/la-experiencia-queen-beatles-ed-quesada-full-banda-2026-11-13.jpg",
-   "fuente": "https://www.gamcultural.com/cr/events/1875665/la-experiencia-queen-beatles-ed-quesada-full-banda",
-   "hora": "20:30",
-   "region": "Cartago"
-  },
-  {
-   "banda": "Diesel Rock presenta: Especial de Metallica",
-   "bar": "Jazz Café",
-   "cover": "₡10.000",
-   "direccion_display": "Paralela a la Autopista Próspero Fernández, Escazú",
-   "fecha": "2026-11-13",
-   "flyer": "flyers/diesel-rock-presenta-especial-de-metallica-2026-11-13.jpg",
-   "fuente": "https://www.gamcultural.com/cr/events/1461457/diesel-rock",
-   "hora": "20:30",
-   "region": "San José"
-  },
-  {
-   "banda": "Awesome as Fuck presenta Tributo a Green Day",
-   "bar": "Amon Solar",
-   "cover": "",
-   "direccion_display": "Calle 3, Av 9-11, Barrio Amón, San José",
-   "fecha": "2026-11-13",
-   "flyer": "flyers/awesome-as-fuck-tributo-a-green-day-2026-11-13.jpg",
-   "fuente": "https://www.gamcultural.com/cr/events/1840279/awesome-as-fuck-presente-tributo-a-green-day",
-   "hora": "21:00",
-   "nota": "Tributo en vivo. Hora 21:00 confirmada en GAM Cultural.",
-   "region": "San José"
-  },
-  {
-   "banda": "BACK TO SEATTLE III — Alice in Chains + Nirvana (noche 1)",
-   "bar": "El Muro ArtPub & Comedy Club",
-   "fecha": "2026-11-13",
-   "hora": "21:00",
-   "cover": "₡8.000",
-   "flyer": "flyers/back-to-seattle-iii-alice-in-chains-nirvana-noche-1-2026-11-13.jpg",
-   "direccion_display": "Calle 7, Avenida 5 y 7, San José",
-   "region": "San José",
-   "fuente": "https://www.gamcultural.com/cr/events/1873741/back-to-seattle-iii",
-   "entradas": "Venta en Tiquetebox",
-   "nota": "Hora 21:00 según póster oficial (13 y 14 de noviembre, 9:00 PM, El Muro)."
-  },
-  {
-   "banda": "El Parque — Lanzamiento del EP “Inercia”",
-   "bar": "Central Pub London Room",
-   "fecha": "2026-11-13",
-   "hora": "Por confirmar",
-   "cover": "₡10.000 + IVA",
-   "flyer": "flyers/el-parque-lanzamiento-del-ep-inercia-2026-11-13.jpg",
-   "direccion_display": "Av 2, Calle 38-40, Paseo Colón, San José",
-   "region": "San José",
-   "fuente": "https://www.larepublica.net/el-parque-estrena-inercia-y-prepara-una-noche-de-recuerdos/",
-   "nota": "Lanzamiento del EP “Inercia” (4 canciones + videoclip “Instinto”) + grandes éxitos. Reservas WhatsApp 8890-8586."
-  },
   {
    "banda": "Rock con Todo Corazón (festival benéfico)",
    "bar": "Campo Ferial Hogar de Ancianos",
@@ -503,7 +432,7 @@
    "entradas": "Venta en Tiquetebox"
   },
   {
-   "banda": "Endemia + Bihotza",
+   "banda": "Endemia + Bihotza + Vendaval",
    "bar": "Club Oasis",
    "fecha": "2026-12-04",
    "hora": "20:00",
@@ -512,7 +441,8 @@
    "direccion_display": "Club Oasis, Calle de la Amargura, San Pedro",
    "region": "San José",
    "fuente": "https://www.bandsintown.com/e/108567320-endemia-at-oasis-la-calle",
-   "entradas": "Punk rock tico (Endemia) + punk español (Bihotza) + DJ Six. Entradas: La Tiquetera CR / SINPE 8308-6619."
+   "entradas": "Punk rock tico (Endemia) + punk español (Bihotza) + Vendaval + DJ Six. Entradas: La Tiquetera CR / SINPE 8308-6619.",
+   "nota": "Punk rock tico (Endemia) + punk español (Bihotza) + Vendaval + DJ Six. Entradas: La Tiquetera CR / SINPE 8308-6619."
   },
   {
    "banda": "Dave Matthews Band (tributo, The Central Park Concert)",
@@ -563,7 +493,7 @@
    "fuente": "flyers/badmoon-tour.jpg"
   },
   {
-   "banda": "Endemia",
+   "banda": "UFO 30 años: UFO + Seka + El Guato + Tropa 56 + Wise Up + Deznuke + Endemia + Bastardos Oi! + Mala Fama",
    "bar": "Mercadito La California",
    "cover": "",
    "direccion_display": "Mercadito La California, Barrio La California, San José",
@@ -571,7 +501,7 @@
    "flyer": "flyers/endemia-2026-12-06.jpg",
    "fuente": "https://www.bandsintown.com/es/e/108912399-endemia-at-mercadito-la-california",
    "hora": "15:00",
-   "nota": "El Chopo Tico presenta: 30 años de UFO. Endemia (punk rock) en vivo.",
+   "nota": "El Chopo Tico presenta: 30 años de UFO (punk tico), 15:00-22:00. UFO + Seka + El Guato + Tropa 56 + Wise Up + Deznuke + Endemia + Bastardos Oi! + Mala Fama en vivo. Fuentes: Gamma Digital 4-nov-2026 y Bandsintown.",
    "region": "San José"
   },
   {
@@ -1105,6 +1035,17 @@
    "estilo": "Anfiteatro, música en vivo",
    "historial": [
     "Elektra Stroke"
+   ],
+   "telefono": ""
+  },
+  {
+   "nombre": "Plaza Mayor de Cartago",
+   "direccion": "Plaza Mayor, Cartago centro",
+   "estilo": "Plaza pública, conciertos municipales gratuitos",
+   "historial": [
+    "Gaviota",
+    "Pimienta Negra",
+    "Contraforma"
    ],
    "telefono": ""
   }
