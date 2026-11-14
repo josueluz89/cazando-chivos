@@ -424,5 +424,14 @@
   "estilo": "",
   "telefono": "",
   "historial": []
+ },
+ {
+  "nombre": "Anfiteatro de Cartago",
+  "direccion": "Anfiteatro de Cartago, Cartago",
+  "estilo": "Anfiteatro, música en vivo",
+  "historial": [
+   "Elektra Stroke"
+  ],
+  "telefono": ""
  }
 ]
