@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13T15:28:32-06:00",
+ "actualizado": "2026-11-13T19:13:41-06:00",
  "ventana_dias": 60,
  "zonas": [
   "Alajuela",
@@ -84,7 +84,7 @@
    "bar": "Campo Ferial Hogar de Ancianos",
    "fecha": "2026-11-14",
    "hora": "10:30",
-   "cover": "₡5,000 preventa / ₡7,000 puerta",
+   "cover": "₡5,000 preventa o en puerta",
    "flyer": "",
    "direccion_display": "Calle 5 20501, Atenas, Alajuela (Hogar de Ancianos Hortensia Rodríguez Sandoval de Bolaños)",
    "region": "Alajuela",
@@ -1102,9 +1102,11 @@
   {
    "nombre": "Anfiteatro de Cartago",
    "direccion": "Anfiteatro de Cartago, Cartago",
-   "estilo": "",
-   "telefono": "",
-   "historial": []
+   "estilo": "Anfiteatro, música en vivo",
+   "historial": [
+    "Elektra Stroke"
+   ],
+   "telefono": ""
   }
  ]
 }
