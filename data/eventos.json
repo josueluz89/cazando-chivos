@@ -1154,6 +1154,18 @@
   "entradas": "Venta en Tiquetebox"
  },
  {
+  "banda": "Time After: Tributo a Nirvana",
+  "bar": "Jazz Café",
+  "cover": "₡8.000 preventa / ₡10.000",
+  "direccion_display": "Ruta 27, Lateral, San Rafael, Escazú",
+  "fecha": "2026-11-25",
+  "flyer": "flyers/time-after-tributo-a-nirvana-2026-11-25.jpg",
+  "fuente": "https://www.gamcultural.com/cr/events/1883049/time-after-tributo-a-nirvana",
+  "hora": "20:30",
+  "nota": "Unplugged in New York y otros éxitos. Segundo tributo a Nirvana del día en Jazz Café (el de las 14:30 es de Stone Dive).",
+  "region": "San José"
+ },
+ {
   "banda": "Gandhi — A LA CARTA",
   "bar": "Jazz Café",
   "fecha": "2026-11-26",
@@ -1400,6 +1412,18 @@
   "region": "San José",
   "fuente": "https://www.gamcultural.com/cr/events/1869306/scream-for-me-mundoloco",
   "entradas": "Venta en Tiquetebox"
+ },
+ {
+  "banda": "Tributo a BUNBURY (Secuencia)",
+  "bar": "Jazz Café",
+  "cover": "",
+  "direccion_display": "Ruta 27, Lateral, San Rafael, Escazú",
+  "fecha": "2026-12-10",
+  "flyer": "flyers/tributo-a-bunbury-secuencia-2026-12-10.jpg",
+  "fuente": "https://www.gamcultural.com/cr/events/1883054/tributo-a-bunbury",
+  "hora": "20:30",
+  "nota": "Último show de Secuencia del año 2026, Nuevas Mutaciones Tour 2026. Entradas por WhatsApp (wa.link/77z99h).",
+  "region": "San José"
  },
  {
   "banda": "Adiós Cometa + RosaViolento + SRUF",

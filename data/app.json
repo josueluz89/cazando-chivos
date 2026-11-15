@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-14T15:27:45-06:00",
+ "actualizado": "2026-11-15T15:17:05-06:00",
  "ventana_dias": 60,
  "zonas": [
   "Alajuela",
@@ -8,100 +8,6 @@
   "San José"
  ],
  "eventos": [
-  {
-   "banda": "Rock con Todo Corazón (festival benéfico)",
-   "bar": "Campo Ferial Hogar de Ancianos",
-   "fecha": "2026-11-14",
-   "hora": "10:30",
-   "cover": "₡5,000 preventa o en puerta",
-   "flyer": "",
-   "direccion_display": "Calle 5 20501, Atenas, Alajuela (Hogar de Ancianos Hortensia Rodríguez Sandoval de Bolaños)",
-   "region": "Alajuela",
-   "fuente": "https://atenasayuda.com/",
-   "nota": "Concierto benéfico a beneficio del Hogar de Ancianos. Bandas de rock en vivo en dos escenarios alternos; cartel por anunciar. Puertas 9:00 AM, cierre 10:00 PM. Entradas: SINPE Móvil 8487-0115 (comprobante por WhatsApp). Menores de 10 gratis."
-  },
-  {
-   "banda": "Elektra Stroke",
-   "bar": "Anfiteatro de Cartago",
-   "fecha": "2026-11-14",
-   "hora": "16:30",
-   "cover": "Gratis",
-   "flyer": "",
-   "direccion_display": "Anfiteatro de Cartago, Cartago",
-   "region": "Cartago",
-   "fuente": "https://gammadigital.uia.ac.cr/bandas-ticas-celebran-decadas-de-historia-y-vigencia-en-los-escenarios/",
-   "nota": "Décimo aniversario. Rock alternativo con influencias post-punk, synth pop y new wave; con Peregrino Gris. Concierto gratuito en el marco del Día del Músico Costarricense."
-  },
-  {
-   "banda": "Manolo Kabezabolo y los Maes del Bolo",
-   "bar": "Oasis",
-   "cover": "",
-   "direccion_display": "Calle 61, San Pedro - Montes de Oca",
-   "fecha": "2026-11-14",
-   "flyer": "flyers/manolo-kabezabolo-y-los-maes-del-bolo-2026-11-14.jpg",
-   "fuente": "https://www.gamcultural.com/cr/events/1838264/manolo-kabezabolo-y-los-maes-del-bolo",
-   "hora": "17:00",
-   "region": "San José"
-  },
-  {
-   "banda": "Gorillaz (The Mountain Tour 2026, totalmente en vivo)",
-   "bar": "Anfiteatro Imperial (Parque Viva)",
-   "cover": "Desde ₡38.000 (Gramilla)",
-   "direccion_display": "Parque Viva, La Guácima, Alajuela",
-   "entradas": "eticket",
-   "fecha": "2026-11-14",
-   "flyer": "flyers/gorillaz-2026-11-14.jpg",
-   "fuente": "https://eticket.cr/eventos.aspx?idartista=1366",
-   "hora": "19:00",
-   "region": "Alajuela"
-  },
-  {
-   "banda": "Invasion Grunge Chepe: The Skarlatas + Dharma + Needlejar",
-   "bar": "Bar Retro",
-   "cover": "₡2.000",
-   "direccion_display": "Av. 2, 50 m este de la entrada al Barrio Chino, frente a parada de Tres Ríos, San José",
-   "fecha": "2026-11-14",
-   "flyer": "flyers/invasion-grunge-chepe-the-skarlatas-in-front-to-doom-needlejar-2026-11-14.jpg",
-   "fuente": "https://delfino.cr/2026/10/invasion-grunge-chepe-reunira-a-tres-bandas-costarricenses-en-san-jose",
-   "hora": "20:00",
-   "nota": "3ª edición: grunge / nu metal / post-grunge en vivo. Puertas 19:30. Reservas 7035-4145. (Dharma reemplaza a In Front To Doom, actualización delfino.cr 2026-11-05.)",
-   "region": "San José"
-  },
-  {
-   "banda": "Outside Attack Reason (Outside The Circle + Attack Sick + Reason Remains)",
-   "bar": "Oasis",
-   "fecha": "2026-11-14",
-   "hora": "20:00",
-   "cover": "₡7.000–₡10.000",
-   "flyer": "flyers/outside-attack-reason-outside-the-circle-attack-sick-reason-remains-2026-11-14.jpg",
-   "direccion_display": "Calle 61, San Pedro - Montes de Oca",
-   "region": "San José",
-   "fuente": "https://www.gamcultural.com/cr/events/1870556/outside-attack-reason",
-   "entradas": "Venta en Tiquetebox"
-  },
-  {
-   "banda": "Especial a Oasis",
-   "bar": "Central Pub London Room",
-   "cover": "",
-   "direccion_display": "Av 2, Calle 38-40, Paseo Colón, San José",
-   "fecha": "2026-11-14",
-   "flyer": "flyers/especial-a-oasis-2026-11-14.jpg",
-   "fuente": "https://www.gamcultural.com/cr/events/1860657/especial-a-oasis",
-   "hora": "20:30",
-   "region": "San José"
-  },
-  {
-   "banda": "BACK TO SEATTLE III — Stone Temple Pilots + Pearl Jam (noche 2)",
-   "bar": "El Muro ArtPub & Comedy Club",
-   "fecha": "2026-11-14",
-   "hora": "21:00",
-   "cover": "₡8.000",
-   "flyer": "flyers/back-to-seattle-iii-stone-temple-pilots-pearl-jam-noche-2-2026-11-14.jpg",
-   "direccion_display": "Calle 7, Avenida 5 y 7, San José",
-   "region": "San José",
-   "fuente": "https://www.gamcultural.com/cr/events/1873741/back-to-seattle-iii",
-   "entradas": "Venta en Tiquetebox"
-  },
   {
    "banda": "Sight of Emptiness + Fractal Sun — “ADIÓS 2026”",
    "bar": "Central Pub London Room",
@@ -279,6 +185,18 @@
    "region": "San José",
    "fuente": "https://www.gamcultural.com/cr/events/1869305/nirvana-unplugged-y-otros-exitos",
    "entradas": "Venta en Tiquetebox"
+  },
+  {
+   "banda": "Time After: Tributo a Nirvana",
+   "bar": "Jazz Café",
+   "cover": "₡8.000 preventa / ₡10.000",
+   "direccion_display": "Ruta 27, Lateral, San Rafael, Escazú",
+   "fecha": "2026-11-25",
+   "flyer": "flyers/time-after-tributo-a-nirvana-2026-11-25.jpg",
+   "fuente": "https://www.gamcultural.com/cr/events/1883049/time-after-tributo-a-nirvana",
+   "hora": "20:30",
+   "nota": "Unplugged in New York y otros éxitos. Segundo tributo a Nirvana del día en Jazz Café (el de las 14:30 es de Stone Dive).",
+   "region": "San José"
   },
   {
    "banda": "Gandhi — A LA CARTA",
@@ -527,6 +445,18 @@
    "region": "San José",
    "fuente": "https://www.gamcultural.com/cr/events/1869306/scream-for-me-mundoloco",
    "entradas": "Venta en Tiquetebox"
+  },
+  {
+   "banda": "Tributo a BUNBURY (Secuencia)",
+   "bar": "Jazz Café",
+   "cover": "",
+   "direccion_display": "Ruta 27, Lateral, San Rafael, Escazú",
+   "fecha": "2026-12-10",
+   "flyer": "flyers/tributo-a-bunbury-secuencia-2026-12-10.jpg",
+   "fuente": "https://www.gamcultural.com/cr/events/1883054/tributo-a-bunbury",
+   "hora": "20:30",
+   "nota": "Último show de Secuencia del año 2026, Nuevas Mutaciones Tour 2026. Entradas por WhatsApp (wa.link/77z99h).",
+   "region": "San José"
   },
   {
    "banda": "Adiós Cometa + RosaViolento + SRUF",
