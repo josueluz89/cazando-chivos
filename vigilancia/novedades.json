@@ -1,5 +1,5 @@
 {
- "stamp": "20261114-1953",
+ "stamp": "20261115-0616",
  "novedades": [
   {
    "bar": "Amon Solar",
@@ -13,9 +13,12 @@
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261114-1953/mercadito-la-california-7c78d650.jpg",
-    "candidatos/20261114-1953/mercadito-la-california-83dbf984.jpg",
-    "candidatos/20261114-1953/mercadito-la-california-25f963d3.jpg"
+    "candidatos/20261115-0616/mercadito-la-california-25f963d3.jpg",
+    "candidatos/20261115-0616/mercadito-la-california-83dbf984.jpg",
+    "candidatos/20261115-0616/mercadito-la-california-7c78d650.jpg",
+    "candidatos/20261115-0616/mercadito-la-california-628e4aad.png",
+    "candidatos/20261115-0616/mercadito-la-california-dc3340e9.png",
+    "candidatos/20261115-0616/mercadito-la-california-29e378c4.png"
    ]
   },
   {
@@ -24,20 +27,24 @@
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261114-1953/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
-    "candidatos/20261114-1953/anfiteatro-imperial-parque-viva-d48b3535.jpg",
-    "candidatos/20261114-1953/anfiteatro-imperial-parque-viva-3c5cf67b.jpg",
-    "candidatos/20261114-1953/anfiteatro-imperial-parque-viva-d5e93129.jpg",
-    "candidatos/20261114-1953/anfiteatro-imperial-parque-viva-5a41518b.jpg",
-    "candidatos/20261114-1953/anfiteatro-imperial-parque-viva-2b27c54c.jpg",
-    "candidatos/20261114-1953/anfiteatro-imperial-parque-viva-d37ac2b0.jpg"
+    "candidatos/20261115-0616/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
+    "candidatos/20261115-0616/anfiteatro-imperial-parque-viva-9ff5515c.jpg",
+    "candidatos/20261115-0616/anfiteatro-imperial-parque-viva-735f596d.jpg",
+    "candidatos/20261115-0616/anfiteatro-imperial-parque-viva-2b27c54c.jpg"
    ]
+  },
+  {
+   "bar": "Music Factory",
+   "fuente": "https://musicfactorycr.com",
+   "tipo": "cambio_detectado",
+   "titulo": "Music Factory CR - 3 Restaurantes y Música en Vivo",
+   "imagenes": []
   },
   {
    "bar": "Fulcro Gastro Bar",
    "fuente": "https://linktr.ee/fulcrogastrobar",
    "tipo": "cambio_detectado",
-   "titulo": "@fulcrogastrobarr Official: TikTok, Instagram, Facebook | Linktree",
+   "titulo": "@fulcrogastrobarr Restaurant - Visit to Find Food Options & See @fulcrogastrobarr Social Media & Official Accounts | Linktree",
    "imagenes": []
   },
   {
@@ -83,7 +90,8 @@
   "Cartago Ruins: sin fuente web, revision manual o WhatsApp",
   "Bar Starview: sin fuente web, revision manual o WhatsApp",
   "Clande Arte Rock: sin fuente web, revision manual o WhatsApp",
-  "Teatro Eugene O'Neill: sin fuente web, revision manual o WhatsApp"
+  "Teatro Eugene O'Neill: sin fuente web, revision manual o WhatsApp",
+  "Plaza Mayor de Cartago: sin fuente web, revision manual o WhatsApp"
  ],
  "eventos_conocidos": 21
 }

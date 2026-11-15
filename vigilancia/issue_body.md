@@ -1,6 +1,6 @@
-# Vigilancia 20261114-1953 (2x/dia)
+# Vigilancia 20261115-0616 (2x/dia)
 
-Novedades: 5 | Fuentes pendientes: 36
+Novedades: 6 | Fuentes pendientes: 37
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
 
 ## Amon Solar
@@ -9,23 +9,27 @@ Novedades: 5 | Fuentes pendientes: 36
 
 ## Mercadito La California
 - Fuente: https://starticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261114-1953/mercadito-la-california-7c78d650.jpg
-  - Imagen original: candidatos/20261114-1953/mercadito-la-california-83dbf984.jpg
-  - Imagen original: candidatos/20261114-1953/mercadito-la-california-25f963d3.jpg
+  - Imagen original: candidatos/20261115-0616/mercadito-la-california-25f963d3.jpg
+  - Imagen original: candidatos/20261115-0616/mercadito-la-california-83dbf984.jpg
+  - Imagen original: candidatos/20261115-0616/mercadito-la-california-7c78d650.jpg
+  - Imagen original: candidatos/20261115-0616/mercadito-la-california-628e4aad.png
+  - Imagen original: candidatos/20261115-0616/mercadito-la-california-dc3340e9.png
+  - Imagen original: candidatos/20261115-0616/mercadito-la-california-29e378c4.png
 
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261114-1953/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
-  - Imagen original: candidatos/20261114-1953/anfiteatro-imperial-parque-viva-d48b3535.jpg
-  - Imagen original: candidatos/20261114-1953/anfiteatro-imperial-parque-viva-3c5cf67b.jpg
-  - Imagen original: candidatos/20261114-1953/anfiteatro-imperial-parque-viva-d5e93129.jpg
-  - Imagen original: candidatos/20261114-1953/anfiteatro-imperial-parque-viva-5a41518b.jpg
-  - Imagen original: candidatos/20261114-1953/anfiteatro-imperial-parque-viva-2b27c54c.jpg
-  - Imagen original: candidatos/20261114-1953/anfiteatro-imperial-parque-viva-d37ac2b0.jpg
+  - Imagen original: candidatos/20261115-0616/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
+  - Imagen original: candidatos/20261115-0616/anfiteatro-imperial-parque-viva-9ff5515c.jpg
+  - Imagen original: candidatos/20261115-0616/anfiteatro-imperial-parque-viva-735f596d.jpg
+  - Imagen original: candidatos/20261115-0616/anfiteatro-imperial-parque-viva-2b27c54c.jpg
+
+## Music Factory
+- Fuente: https://musicfactorycr.com | Tipo: cambio_detectado
+- Titulo: Music Factory CR - 3 Restaurantes y Música en Vivo
 
 ## Fulcro Gastro Bar
 - Fuente: https://linktr.ee/fulcrogastrobar | Tipo: cambio_detectado
-- Titulo: @fulcrogastrobarr Official: TikTok, Instagram, Facebook | Linktree
+- Titulo: @fulcrogastrobarr Restaurant - Visit to Find Food Options & See @fulcrogastrobarr Social Media & Official Accounts | Linktree
 
 ## CIC ANDE (Anfiteatro)
 - Fuente: https://www.ande.cr/ | Tipo: fuente_caida
@@ -68,3 +72,4 @@ Novedades: 5 | Fuentes pendientes: 36
 - Bar Starview: sin fuente web, revision manual o WhatsApp
 - Clande Arte Rock: sin fuente web, revision manual o WhatsApp
 - Teatro Eugene O'Neill: sin fuente web, revision manual o WhatsApp
+- Plaza Mayor de Cartago: sin fuente web, revision manual o WhatsApp
