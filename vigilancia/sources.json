@@ -296,6 +296,12 @@
       "web": null,
       "facebook": null,
       "instagram": null
+    },
+    {
+      "bar": "Fever Sport Bar",
+      "web": "https://www.gamcultural.com/cr/p/v-FeverSportBarZapote",
+      "facebook": null,
+      "instagram": null
     }
   ],
   "personas": [
@@ -863,6 +869,11 @@
       "nombre": "Secuencia",
       "facebook": null,
       "nota": "Agregado 2026-11-15-tarde: banda tributo a Bunbury; toca en Jazz Café el 2026-12-10 20:30. Sin página encontrada."
+    },
+    {
+      "nombre": "El Rito",
+      "facebook": null,
+      "nota": "Agregado 2026-11-16-tarde: banda tributo a Soda Stereo y Cerati (Instagram @elritocr); toca en Fever Sport Bar el 2026-11-20 21:00. Sin página de Facebook encontrada."
     }
   ]
 }

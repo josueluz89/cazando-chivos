@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-15T15:17:05-06:00",
+ "actualizado": "2026-11-16T15:16:21-06:00",
  "ventana_dias": 60,
  "zonas": [
   "Alajuela",
@@ -8,31 +8,6 @@
   "San José"
  ],
  "eventos": [
-  {
-   "banda": "Sight of Emptiness + Fractal Sun — “ADIÓS 2026”",
-   "bar": "Central Pub London Room",
-   "fecha": "2026-11-15",
-   "hora": "18:00",
-   "cover": "₡6.000",
-   "flyer": "",
-   "direccion_display": "Av 2, Calle 38-40, Paseo Colón, San José",
-   "region": "San José",
-   "fuente": "https://www.bandsintown.com/es/e/109132042-sight-of-emptiness-at-london-room",
-   "nota": "Último concierto del año; recorrido por sus 5 álbumes. Death metal melódico."
-  },
-  {
-   "banda": "Solocarne 30 años + Codefendants + Bufonic",
-   "bar": "Amon Solar",
-   "cover": "",
-   "direccion_display": "Calle 3, Av 9-11, Barrio Amón, San José",
-   "entradas": "Starticket.cr; SINPE Móvil 6162-3987",
-   "fecha": "2026-11-15",
-   "flyer": "flyers/solocarne-30-anos-codefendants-bufonic-2026-11-15.jpg",
-   "fuente": "https://eventos.cr/evento/25-11-15-codefendants",
-   "hora": "20:00",
-   "nota": "Punk rock: Solocarne celebra 30 años con Codefendants (EE. UU., proyecto de Fat Mike de NOFX) y Bufonic. Organiza Stand Up.",
-   "region": "San José"
-  },
   {
    "banda": "The Rushing Notes",
    "bar": "Jazz Café",
@@ -93,6 +68,18 @@
    "fuente": "https://www.gamcultural.com/cr/events/1869334/ascendant-tributo-a-avenged-sevenfold",
    "entradas": "Tiquetebox: https://www.tiquetebox.app/e/ascendant_tributo_a_avenged_sevenfold",
    "nota": "Tributo metal en vivo; debut en vivo de ASCENDANT. GAM muestra 14:00 en la tarjeta pero la descripción dice 8:00 p.m.; se publica 20:00."
+  },
+  {
+   "banda": "El Rito — Especial Soda Stereo & Gustavo Cerati",
+   "bar": "Fever Sport Bar",
+   "fecha": "2026-11-20",
+   "hora": "21:00",
+   "cover": "₡5.000",
+   "flyer": "flyers/el-rito-especial-soda-stereo-gustavo-cerati-2026-11-20.png",
+   "direccion_display": "300 m oeste de Casa Presidencial, Zapote, San José",
+   "region": "San José",
+   "fuente": "https://www.gamcultural.com/cr/events/1883483/soda-stereo-cerati",
+   "nota": "Tributo en vivo a Soda Stereo y Cerati; primera vez de El Rito en Fever. Reservas WhatsApp 8404-2923."
   },
   {
    "banda": "Bad Moon (tributo a Creedence Clearwater Revival)",
@@ -978,6 +965,13 @@
     "Contraforma"
    ],
    "telefono": ""
+  },
+  {
+   "nombre": "Fever Sport Bar",
+   "direccion": "300 m oeste de Casa Presidencial, Zapote, San José",
+   "estilo": "",
+   "telefono": "",
+   "historial": []
   }
  ]
 }
