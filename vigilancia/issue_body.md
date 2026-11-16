@@ -1,4 +1,4 @@
-# Vigilancia 20261116-0614 (2x/dia)
+# Vigilancia 20261116-2343 (2x/dia)
 
 Novedades: 6 | Fuentes pendientes: 37
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
@@ -9,23 +9,19 @@ Novedades: 6 | Fuentes pendientes: 37
 
 ## Mercadito La California
 - Fuente: https://starticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261116-0614/mercadito-la-california-25f963d3.jpg
-  - Imagen original: candidatos/20261116-0614/mercadito-la-california-83dbf984.jpg
-  - Imagen original: candidatos/20261116-0614/mercadito-la-california-7c78d650.jpg
-  - Imagen original: candidatos/20261116-0614/mercadito-la-california-628e4aad.png
-  - Imagen original: candidatos/20261116-0614/mercadito-la-california-dc3340e9.png
-  - Imagen original: candidatos/20261116-0614/mercadito-la-california-29e378c4.png
-  - Imagen original: candidatos/20261116-0614/mercadito-la-california-8e1e1806.png
-  - Imagen original: candidatos/20261116-0614/mercadito-la-california-ded5be86.png
-  - Imagen original: candidatos/20261116-0614/mercadito-la-california-87c82584.png
-  - Imagen original: candidatos/20261116-0614/mercadito-la-california-09d077f4.png
+  - Imagen original: candidatos/20261116-2343/mercadito-la-california-7c78d650.jpg
+  - Imagen original: candidatos/20261116-2343/mercadito-la-california-83dbf984.jpg
+  - Imagen original: candidatos/20261116-2343/mercadito-la-california-25f963d3.jpg
+  - Imagen original: candidatos/20261116-2343/mercadito-la-california-628e4aad.png
+  - Imagen original: candidatos/20261116-2343/mercadito-la-california-dc3340e9.png
+  - Imagen original: candidatos/20261116-2343/mercadito-la-california-8e1e1806.png
+  - Imagen original: candidatos/20261116-2343/mercadito-la-california-29e378c4.png
+  - Imagen original: candidatos/20261116-2343/mercadito-la-california-ded5be86.png
+  - Imagen original: candidatos/20261116-2343/mercadito-la-california-87c82584.png
+  - Imagen original: candidatos/20261116-2343/mercadito-la-california-09d077f4.png
 
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
-
-## Fulcro Gastro Bar
-- Fuente: https://linktr.ee/fulcrogastrobar | Tipo: cambio_detectado
-- Titulo: @fulcrogastrobarr Restaurant - Visit to Find Food Options & See @fulcrogastrobarr Social Media & Official Accounts | Linktree
 
 ## CIC ANDE (Anfiteatro)
 - Fuente: https://www.ande.cr/ | Tipo: fuente_caida
@@ -34,6 +30,11 @@ Novedades: 6 | Fuentes pendientes: 37
 ## Palacio de los Deportes
 - Fuente: https://www.heredia.go.cr/ | Tipo: cambio_detectado
 - Titulo: Portal Municipalidad de Heredia
+
+## Fever Sport Bar
+- Fuente: https://www.gamcultural.com/cr/p/v-FeverSportBarZapote | Tipo: cambio_detectado
+- Titulo: Fever Sport Bar, Zapote - GAM Cultural
+  - Logo del bar guardado en logos-bares/
 
 ## Pendientes (revision manual/WhatsApp)
 - Bar Reflexiones: FB/IG configurado pero requiere token o revision manual
