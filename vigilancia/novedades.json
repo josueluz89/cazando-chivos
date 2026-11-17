@@ -1,5 +1,5 @@
 {
- "stamp": "20261116-2343",
+ "stamp": "20261117-0747",
  "novedades": [
   {
    "bar": "Amon Solar",
@@ -13,16 +13,12 @@
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261116-2343/mercadito-la-california-7c78d650.jpg",
-    "candidatos/20261116-2343/mercadito-la-california-83dbf984.jpg",
-    "candidatos/20261116-2343/mercadito-la-california-25f963d3.jpg",
-    "candidatos/20261116-2343/mercadito-la-california-628e4aad.png",
-    "candidatos/20261116-2343/mercadito-la-california-dc3340e9.png",
-    "candidatos/20261116-2343/mercadito-la-california-8e1e1806.png",
-    "candidatos/20261116-2343/mercadito-la-california-29e378c4.png",
-    "candidatos/20261116-2343/mercadito-la-california-ded5be86.png",
-    "candidatos/20261116-2343/mercadito-la-california-87c82584.png",
-    "candidatos/20261116-2343/mercadito-la-california-09d077f4.png"
+    "candidatos/20261117-0747/mercadito-la-california-628e4aad.png",
+    "candidatos/20261117-0747/mercadito-la-california-dc3340e9.png",
+    "candidatos/20261117-0747/mercadito-la-california-8e1e1806.png",
+    "candidatos/20261117-0747/mercadito-la-california-29e378c4.png",
+    "candidatos/20261117-0747/mercadito-la-california-ded5be86.png",
+    "candidatos/20261117-0747/mercadito-la-california-87c82584.png"
    ]
   },
   {
@@ -30,6 +26,18 @@
    "fuente": "https://www.eticket.cr",
    "tipo": "cambio_detectado",
    "titulo": "",
+   "imagenes": [
+    "candidatos/20261117-0747/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
+    "candidatos/20261117-0747/anfiteatro-imperial-parque-viva-ed1ede53.jpg",
+    "candidatos/20261117-0747/anfiteatro-imperial-parque-viva-ab796e15.jpg",
+    "candidatos/20261117-0747/anfiteatro-imperial-parque-viva-735f596d.jpg"
+   ]
+  },
+  {
+   "bar": "Fulcro Gastro Bar",
+   "fuente": "https://linktr.ee/fulcrogastrobar",
+   "tipo": "cambio_detectado",
+   "titulo": "@fulcrogastrobarr Official: TikTok, Instagram, Facebook | Linktree",
    "imagenes": []
   },
   {
@@ -37,21 +45,6 @@
    "fuente": "https://www.ande.cr/",
    "tipo": "fuente_caida",
    "detalle": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>"
-  },
-  {
-   "bar": "Palacio de los Deportes",
-   "fuente": "https://www.heredia.go.cr/",
-   "tipo": "cambio_detectado",
-   "titulo": "Portal Municipalidad de Heredia",
-   "imagenes": []
-  },
-  {
-   "bar": "Fever Sport Bar",
-   "fuente": "https://www.gamcultural.com/cr/p/v-FeverSportBarZapote",
-   "tipo": "cambio_detectado",
-   "titulo": "Fever Sport Bar, Zapote - GAM Cultural",
-   "imagenes": [],
-   "logo_bar": true
   }
  ],
  "pendientes": [
