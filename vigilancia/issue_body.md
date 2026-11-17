@@ -1,6 +1,6 @@
-# Vigilancia 20261117-0747 (2x/dia)
+# Vigilancia 20261117-2251 (2x/dia)
 
-Novedades: 5 | Fuentes pendientes: 37
+Novedades: 4 | Fuentes pendientes: 37
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
 
 ## Amon Solar
@@ -9,23 +9,19 @@ Novedades: 5 | Fuentes pendientes: 37
 
 ## Mercadito La California
 - Fuente: https://starticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261117-0747/mercadito-la-california-628e4aad.png
-  - Imagen original: candidatos/20261117-0747/mercadito-la-california-dc3340e9.png
-  - Imagen original: candidatos/20261117-0747/mercadito-la-california-8e1e1806.png
-  - Imagen original: candidatos/20261117-0747/mercadito-la-california-29e378c4.png
-  - Imagen original: candidatos/20261117-0747/mercadito-la-california-ded5be86.png
-  - Imagen original: candidatos/20261117-0747/mercadito-la-california-87c82584.png
+  - Imagen original: candidatos/20261117-2251/mercadito-la-california-bd88c2d1.jpg
+  - Imagen original: candidatos/20261117-2251/mercadito-la-california-83dbf984.jpg
+  - Imagen original: candidatos/20261117-2251/mercadito-la-california-7c78d650.jpg
+  - Imagen original: candidatos/20261117-2251/mercadito-la-california-75242e16.jpg
+  - Imagen original: candidatos/20261117-2251/mercadito-la-california-fcdd458a.jpg
+  - Imagen original: candidatos/20261117-2251/mercadito-la-california-628e4aad.png
+  - Imagen original: candidatos/20261117-2251/mercadito-la-california-dc3340e9.png
+  - Imagen original: candidatos/20261117-2251/mercadito-la-california-8e1e1806.png
+  - Imagen original: candidatos/20261117-2251/mercadito-la-california-29e378c4.png
+  - Imagen original: candidatos/20261117-2251/mercadito-la-california-ded5be86.png
 
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261117-0747/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
-  - Imagen original: candidatos/20261117-0747/anfiteatro-imperial-parque-viva-ed1ede53.jpg
-  - Imagen original: candidatos/20261117-0747/anfiteatro-imperial-parque-viva-ab796e15.jpg
-  - Imagen original: candidatos/20261117-0747/anfiteatro-imperial-parque-viva-735f596d.jpg
-
-## Fulcro Gastro Bar
-- Fuente: https://linktr.ee/fulcrogastrobar | Tipo: cambio_detectado
-- Titulo: @fulcrogastrobarr Official: TikTok, Instagram, Facebook | Linktree
 
 ## CIC ANDE (Anfiteatro)
 - Fuente: https://www.ande.cr/ | Tipo: fuente_caida
