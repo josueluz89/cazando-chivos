@@ -1,4 +1,4 @@
-# Vigilancia 20261117-2251 (2x/dia)
+# Vigilancia 20261118-0714 (2x/dia)
 
 Novedades: 4 | Fuentes pendientes: 37
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
@@ -9,16 +9,16 @@ Novedades: 4 | Fuentes pendientes: 37
 
 ## Mercadito La California
 - Fuente: https://starticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261117-2251/mercadito-la-california-bd88c2d1.jpg
-  - Imagen original: candidatos/20261117-2251/mercadito-la-california-83dbf984.jpg
-  - Imagen original: candidatos/20261117-2251/mercadito-la-california-7c78d650.jpg
-  - Imagen original: candidatos/20261117-2251/mercadito-la-california-75242e16.jpg
-  - Imagen original: candidatos/20261117-2251/mercadito-la-california-fcdd458a.jpg
-  - Imagen original: candidatos/20261117-2251/mercadito-la-california-628e4aad.png
-  - Imagen original: candidatos/20261117-2251/mercadito-la-california-dc3340e9.png
-  - Imagen original: candidatos/20261117-2251/mercadito-la-california-8e1e1806.png
-  - Imagen original: candidatos/20261117-2251/mercadito-la-california-29e378c4.png
-  - Imagen original: candidatos/20261117-2251/mercadito-la-california-ded5be86.png
+  - Imagen original: candidatos/20261118-0714/mercadito-la-california-75242e16.jpg
+  - Imagen original: candidatos/20261118-0714/mercadito-la-california-0a94d4dd.png
+  - Imagen original: candidatos/20261118-0714/mercadito-la-california-bd88c2d1.jpg
+  - Imagen original: candidatos/20261118-0714/mercadito-la-california-7c78d650.jpg
+  - Imagen original: candidatos/20261118-0714/mercadito-la-california-fcdd458a.jpg
+  - Imagen original: candidatos/20261118-0714/mercadito-la-california-628e4aad.png
+  - Imagen original: candidatos/20261118-0714/mercadito-la-california-dc3340e9.png
+  - Imagen original: candidatos/20261118-0714/mercadito-la-california-8e1e1806.png
+  - Imagen original: candidatos/20261118-0714/mercadito-la-california-29e378c4.png
+  - Imagen original: candidatos/20261118-0714/mercadito-la-california-ded5be86.png
 
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
