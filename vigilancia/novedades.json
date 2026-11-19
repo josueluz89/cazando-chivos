@@ -1,5 +1,5 @@
 {
- "stamp": "20261118-2234",
+ "stamp": "20261119-0714",
  "novedades": [
   {
    "bar": "Amon Solar",
@@ -13,16 +13,16 @@
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261118-2234/mercadito-la-california-7c78d650.jpg",
-    "candidatos/20261118-2234/mercadito-la-california-75242e16.jpg",
-    "candidatos/20261118-2234/mercadito-la-california-0a94d4dd.png",
-    "candidatos/20261118-2234/mercadito-la-california-fcdd458a.jpg",
-    "candidatos/20261118-2234/mercadito-la-california-bd88c2d1.jpg",
-    "candidatos/20261118-2234/mercadito-la-california-628e4aad.png",
-    "candidatos/20261118-2234/mercadito-la-california-dc3340e9.png",
-    "candidatos/20261118-2234/mercadito-la-california-8e1e1806.png",
-    "candidatos/20261118-2234/mercadito-la-california-29e378c4.png",
-    "candidatos/20261118-2234/mercadito-la-california-ded5be86.png"
+    "candidatos/20261119-0714/mercadito-la-california-bd88c2d1.jpg",
+    "candidatos/20261119-0714/mercadito-la-california-0a94d4dd.png",
+    "candidatos/20261119-0714/mercadito-la-california-fcdd458a.jpg",
+    "candidatos/20261119-0714/mercadito-la-california-75242e16.jpg",
+    "candidatos/20261119-0714/mercadito-la-california-7c78d650.jpg",
+    "candidatos/20261119-0714/mercadito-la-california-628e4aad.png",
+    "candidatos/20261119-0714/mercadito-la-california-dc3340e9.png",
+    "candidatos/20261119-0714/mercadito-la-california-8e1e1806.png",
+    "candidatos/20261119-0714/mercadito-la-california-29e378c4.png",
+    "candidatos/20261119-0714/mercadito-la-california-ded5be86.png"
    ]
   },
   {
@@ -36,7 +36,7 @@
    "bar": "Fulcro Gastro Bar",
    "fuente": "https://linktr.ee/fulcrogastrobar",
    "tipo": "cambio_detectado",
-   "titulo": "@fulcrogastrobarr Restaurant - Visit to Find Food Options & See @fulcrogastrobarr Social Media & Official Accounts | Linktree",
+   "titulo": "@fulcrogastrobarr Official: TikTok, Instagram, Facebook | Linktree",
    "imagenes": []
   },
   {
@@ -44,6 +44,12 @@
    "fuente": "https://www.ande.cr/",
    "tipo": "fuente_caida",
    "detalle": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>"
+  },
+  {
+   "bar": "Palacio de los Deportes",
+   "fuente": "https://www.heredia.go.cr/",
+   "tipo": "fuente_caida",
+   "detalle": "TimeoutError: The read operation timed out"
   }
  ],
  "pendientes": [
