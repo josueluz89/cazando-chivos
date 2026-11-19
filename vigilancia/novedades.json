@@ -1,5 +1,5 @@
 {
- "stamp": "20261119-0714",
+ "stamp": "20261119-2238",
  "novedades": [
   {
    "bar": "Amon Solar",
@@ -13,16 +13,13 @@
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261119-0714/mercadito-la-california-bd88c2d1.jpg",
-    "candidatos/20261119-0714/mercadito-la-california-0a94d4dd.png",
-    "candidatos/20261119-0714/mercadito-la-california-fcdd458a.jpg",
-    "candidatos/20261119-0714/mercadito-la-california-75242e16.jpg",
-    "candidatos/20261119-0714/mercadito-la-california-7c78d650.jpg",
-    "candidatos/20261119-0714/mercadito-la-california-628e4aad.png",
-    "candidatos/20261119-0714/mercadito-la-california-dc3340e9.png",
-    "candidatos/20261119-0714/mercadito-la-california-8e1e1806.png",
-    "candidatos/20261119-0714/mercadito-la-california-29e378c4.png",
-    "candidatos/20261119-0714/mercadito-la-california-ded5be86.png"
+    "candidatos/20261119-2238/mercadito-la-california-bd88c2d1.jpg",
+    "candidatos/20261119-2238/mercadito-la-california-7c78d650.jpg",
+    "candidatos/20261119-2238/mercadito-la-california-0a94d4dd.png",
+    "candidatos/20261119-2238/mercadito-la-california-fcdd458a.jpg",
+    "candidatos/20261119-2238/mercadito-la-california-75242e16.jpg",
+    "candidatos/20261119-2238/mercadito-la-california-628e4aad.png",
+    "candidatos/20261119-2238/mercadito-la-california-dc3340e9.png"
    ]
   },
   {
@@ -30,13 +27,17 @@
    "fuente": "https://www.eticket.cr",
    "tipo": "cambio_detectado",
    "titulo": "",
-   "imagenes": []
+   "imagenes": [
+    "candidatos/20261119-2238/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
+    "candidatos/20261119-2238/anfiteatro-imperial-parque-viva-d5e93129.jpg",
+    "candidatos/20261119-2238/anfiteatro-imperial-parque-viva-f4861e7a.jpg"
+   ]
   },
   {
-   "bar": "Fulcro Gastro Bar",
-   "fuente": "https://linktr.ee/fulcrogastrobar",
+   "bar": "Music Factory",
+   "fuente": "https://musicfactorycr.com",
    "tipo": "cambio_detectado",
-   "titulo": "@fulcrogastrobarr Official: TikTok, Instagram, Facebook | Linktree",
+   "titulo": "Music Factory CR - 3 Restaurantes y Música en Vivo",
    "imagenes": []
   },
   {
@@ -46,10 +47,11 @@
    "detalle": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>"
   },
   {
-   "bar": "Palacio de los Deportes",
-   "fuente": "https://www.heredia.go.cr/",
-   "tipo": "fuente_caida",
-   "detalle": "TimeoutError: The read operation timed out"
+   "bar": "Xcape Bar La Calle",
+   "fuente": "https://starticket.cr/o/3186/xcape-bar-la-calle",
+   "tipo": "cambio_detectado",
+   "titulo": "Xcape Bar La Calle",
+   "imagenes": []
   }
  ],
  "pendientes": [

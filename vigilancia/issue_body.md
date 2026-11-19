@@ -1,4 +1,4 @@
-# Vigilancia 20261119-0714 (2x/dia)
+# Vigilancia 20261119-2238 (2x/dia)
 
 Novedades: 6 | Fuentes pendientes: 37
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
@@ -9,31 +9,31 @@ Novedades: 6 | Fuentes pendientes: 37
 
 ## Mercadito La California
 - Fuente: https://starticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261119-0714/mercadito-la-california-bd88c2d1.jpg
-  - Imagen original: candidatos/20261119-0714/mercadito-la-california-0a94d4dd.png
-  - Imagen original: candidatos/20261119-0714/mercadito-la-california-fcdd458a.jpg
-  - Imagen original: candidatos/20261119-0714/mercadito-la-california-75242e16.jpg
-  - Imagen original: candidatos/20261119-0714/mercadito-la-california-7c78d650.jpg
-  - Imagen original: candidatos/20261119-0714/mercadito-la-california-628e4aad.png
-  - Imagen original: candidatos/20261119-0714/mercadito-la-california-dc3340e9.png
-  - Imagen original: candidatos/20261119-0714/mercadito-la-california-8e1e1806.png
-  - Imagen original: candidatos/20261119-0714/mercadito-la-california-29e378c4.png
-  - Imagen original: candidatos/20261119-0714/mercadito-la-california-ded5be86.png
+  - Imagen original: candidatos/20261119-2238/mercadito-la-california-bd88c2d1.jpg
+  - Imagen original: candidatos/20261119-2238/mercadito-la-california-7c78d650.jpg
+  - Imagen original: candidatos/20261119-2238/mercadito-la-california-0a94d4dd.png
+  - Imagen original: candidatos/20261119-2238/mercadito-la-california-fcdd458a.jpg
+  - Imagen original: candidatos/20261119-2238/mercadito-la-california-75242e16.jpg
+  - Imagen original: candidatos/20261119-2238/mercadito-la-california-628e4aad.png
+  - Imagen original: candidatos/20261119-2238/mercadito-la-california-dc3340e9.png
 
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
+  - Imagen original: candidatos/20261119-2238/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
+  - Imagen original: candidatos/20261119-2238/anfiteatro-imperial-parque-viva-d5e93129.jpg
+  - Imagen original: candidatos/20261119-2238/anfiteatro-imperial-parque-viva-f4861e7a.jpg
 
-## Fulcro Gastro Bar
-- Fuente: https://linktr.ee/fulcrogastrobar | Tipo: cambio_detectado
-- Titulo: @fulcrogastrobarr Official: TikTok, Instagram, Facebook | Linktree
+## Music Factory
+- Fuente: https://musicfactorycr.com | Tipo: cambio_detectado
+- Titulo: Music Factory CR - 3 Restaurantes y Música en Vivo
 
 ## CIC ANDE (Anfiteatro)
 - Fuente: https://www.ande.cr/ | Tipo: fuente_caida
 - Detalle: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>
 
-## Palacio de los Deportes
-- Fuente: https://www.heredia.go.cr/ | Tipo: fuente_caida
-- Detalle: TimeoutError: The read operation timed out
+## Xcape Bar La Calle
+- Fuente: https://starticket.cr/o/3186/xcape-bar-la-calle | Tipo: cambio_detectado
+- Titulo: Xcape Bar La Calle
 
 ## Pendientes (revision manual/WhatsApp)
 - Bar Reflexiones: FB/IG configurado pero requiere token o revision manual
