@@ -1,35 +1,39 @@
-# Vigilancia 20261120-0701 (2x/dia)
+# Vigilancia 20261120-2213 (2x/dia)
 
-Novedades: 5 | Fuentes pendientes: 37
+Novedades: 6 | Fuentes pendientes: 37
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
 
 ## Amon Solar
-- Fuente: https://amonsolar.com | Tipo: fuente_caida
-- Detalle: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>
+- Fuente: https://amonsolar.com | Tipo: cambio_detectado
 
 ## Mercadito La California
 - Fuente: https://starticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261120-0701/mercadito-la-california-f5344062.png
-  - Imagen original: candidatos/20261120-0701/mercadito-la-california-628e4aad.png
-  - Imagen original: candidatos/20261120-0701/mercadito-la-california-dc3340e9.png
-  - Imagen original: candidatos/20261120-0701/mercadito-la-california-8e1e1806.png
-  - Imagen original: candidatos/20261120-0701/mercadito-la-california-29e378c4.png
+  - Imagen original: candidatos/20261120-2213/mercadito-la-california-bd88c2d1.jpg
+  - Imagen original: candidatos/20261120-2213/mercadito-la-california-7c78d650.jpg
+  - Imagen original: candidatos/20261120-2213/mercadito-la-california-0a94d4dd.png
+  - Imagen original: candidatos/20261120-2213/mercadito-la-california-fcdd458a.jpg
+  - Imagen original: candidatos/20261120-2213/mercadito-la-california-75242e16.jpg
+  - Imagen original: candidatos/20261120-2213/mercadito-la-california-628e4aad.png
+  - Imagen original: candidatos/20261120-2213/mercadito-la-california-dc3340e9.png
 
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261120-0701/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
-  - Imagen original: candidatos/20261120-0701/anfiteatro-imperial-parque-viva-2b27c54c.jpg
-  - Imagen original: candidatos/20261120-0701/anfiteatro-imperial-parque-viva-f4861e7a.jpg
-  - Imagen original: candidatos/20261120-0701/anfiteatro-imperial-parque-viva-735f596d.jpg
-  - Imagen original: candidatos/20261120-0701/anfiteatro-imperial-parque-viva-ed1ede53.jpg
+  - Imagen original: candidatos/20261120-2213/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
+  - Imagen original: candidatos/20261120-2213/anfiteatro-imperial-parque-viva-2c38e756.jpg
+  - Imagen original: candidatos/20261120-2213/anfiteatro-imperial-parque-viva-5a41518b.jpg
 
 ## Fulcro Gastro Bar
 - Fuente: https://linktr.ee/fulcrogastrobar | Tipo: cambio_detectado
-- Titulo: @fulcrogastrobarr Restaurant - Visit to Find Food Options & See @fulcrogastrobarr Social Media & Official Accounts | Linktree
+- Titulo: @fulcrogastrobarr Official: TikTok, Instagram, Facebook | Linktree
 
 ## CIC ANDE (Anfiteatro)
 - Fuente: https://www.ande.cr/ | Tipo: fuente_caida
 - Detalle: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>
+
+## Pisos Rústicos San Antonio
+- Fuente: http://www.mosaicossanantonio.com/ | Tipo: cambio_detectado
+- Titulo: Pisos Rústicos San Antonio
+  - Logo del bar guardado en logos-bares/
 
 ## Pendientes (revision manual/WhatsApp)
 - Bar Reflexiones: FB/IG configurado pero requiere token o revision manual
