@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T15:16:21-06:00",
+ "actualizado": "2026-11-20T15:17:16-06:00",
  "ventana_dias": 60,
  "zonas": [
   "Alajuela",
@@ -8,42 +8,6 @@
   "San José"
  ],
  "eventos": [
-  {
-   "banda": "The Rushing Notes",
-   "bar": "Jazz Café",
-   "fecha": "2026-11-18",
-   "hora": "19:30",
-   "cover": "₡8.000",
-   "flyer": "flyers/the-rushing-notes-2026-11-18.jpg",
-   "direccion_display": "Ruta 27, Lateral, San Rafael, Escazú",
-   "region": "San José",
-   "fuente": "https://www.gamcultural.com/cr/events/1840303/the-rushing-notes",
-   "nota": "Before Streaming: Music Through The Screen. Grunge y rock alternativo de los 90 hasta pop y punk de los 2000 (Pearl Jam, Alice In Chains, Oasis, Blink-182, Green Day, Incubus). (Póster oficial: 7:30 PM; la ficha GAM lista 20:00.)"
-  },
-  {
-   "banda": "Los Fabulosos Cadillacs + Molotov (abre: Calle Dolores)",
-   "bar": "Anfiteatro Imperial (Parque Viva)",
-   "cover": "",
-   "direccion_display": "Parque Viva, La Guácima, Alajuela",
-   "entradas": "eticket",
-   "fecha": "2026-11-19",
-   "flyer": "flyers/los-fabulosos-cadillacs-2026-11-19.jpg",
-   "fuente": "https://eticket.cr/eventos.aspx?idartista=1132",
-   "hora": "19:00",
-   "region": "Alajuela",
-   "nota": "Molotov co-estelar; abre Calle Dolores (ska tico, regreso a los escenarios). Entradas eticket."
-  },
-  {
-   "banda": "ROLLER COASTER presenta: PULSE (tributo a Pink Floyd)",
-   "bar": "Jazz Café",
-   "cover": "",
-   "direccion_display": "Paralela a la Autopista Próspero Fernández, Escazú",
-   "fecha": "2026-11-19",
-   "flyer": "flyers/roller-coaster-presenta-pulse-tributo-a-pink-floyd-2026-11-19.jpg",
-   "fuente": "https://www.gamcultural.com/cr/events/1855017/roller-coaster-presenta-pulse",
-   "hora": "20:00",
-   "region": "San José"
-  },
   {
    "banda": "Estamos Perdidos",
    "bar": "Bar Starview",
@@ -126,6 +90,19 @@
    "direccion_display": "Antologías, Desamparados",
    "region": "San José",
    "fuente": "flyers/badmoon-tour.jpg"
+  },
+  {
+   "banda": "Liberacion Punk",
+   "bar": "Pisos Rústicos San Antonio",
+   "fecha": "2026-11-22",
+   "hora": "10:00",
+   "cover": "",
+   "flyer": "",
+   "direccion_display": "Pisos Rústicos San Antonio, Quebradilla, Cartago",
+   "region": "Cartago",
+   "fuente": "https://www.bandsintown.com/es/c/desamparados-costa-rica",
+   "entradas": "Punk en vivo; serie punk del GAM.",
+   "nota": "Punk en vivo; serie punk del GAM. Confirmado por Bandsintown (lugar + hora)."
   },
   {
    "banda": "The Metal Roadshow: Testament + Municipal Waste + Dying Fetus + Immolation",
@@ -243,6 +220,19 @@
    "hora": "20:00",
    "nota": "Heavy metal tico: Slavon 30 aniversario, banda invitada Eviltwin. Información y reservas 8757-9901.",
    "region": "San José"
+  },
+  {
+   "banda": "Sangre X Sangre: Sentencia + BORYS + MOMENTOS + Exile + Living End + Terminal Force + Inersia + Sideways",
+   "bar": "Club Oasis",
+   "fecha": "2026-11-28",
+   "hora": "15:00",
+   "cover": "₡5.000 preventa / ₡7.000 en puerta",
+   "flyer": "flyers/sangre-x-sangre-sentencia-borys-momentos-exile-living-end-terminal-force-inersia-sideways-2026-11-28.jpg",
+   "direccion_display": "Club Oasis, Calle de la Amargura, San Pedro",
+   "region": "San José",
+   "fuente": "https://www.teletica.com/amp/entretenimiento/lo-mejor-del-hardcore-de-centroamerica-se-reunira-en-el-festival-sangre-x-sangre_421398",
+   "entradas": "Festival hardcore centroamericano: Sentencia (El Salvador), BORYS (Honduras), MOMENTOS (Panamá) + Exile, Living End, Terminal Force, Inersia y Sideways (CR). Organizan Omega Crew Productions y karmax1vez.",
+   "nota": "Festival hardcore centroamericano (Teletica 18-nov-2026)."
   },
   {
    "banda": "Voices of Faith: Jamie Rowe + Guardian + Bloodgood (rock cristiano)",
@@ -372,6 +362,19 @@
    "hora": "14:00",
    "nota": "Sábado de Rock (gratis, al aire libre): NOX Melodiam + Banda Pesacabal + Descafeinados + Contratempo.",
    "region": "Cartago"
+  },
+  {
+   "banda": "El Rito — Especial Soda Stereo",
+   "bar": "Club de Bello",
+   "fecha": "2026-12-05",
+   "hora": "21:00",
+   "cover": "₡3.000",
+   "flyer": "flyers/el-rito-especial-soda-stereo-2026-12-05.jpg",
+   "direccion_display": "Club de Bello, Escazú",
+   "region": "San José",
+   "fuente": "https://www.gamcultural.com/cr/events/1884190/soda-stereo",
+   "entradas": "Reservas por WhatsApp: 8404-2923.",
+   "nota": "Especial a Soda Stereo por El Rito CR (promotor del evento en GAM). Reservas WhatsApp 8404-2923."
   },
   {
    "banda": "Liverpool — La leyenda del Rock",
@@ -969,6 +972,13 @@
   {
    "nombre": "Fever Sport Bar",
    "direccion": "300 m oeste de Casa Presidencial, Zapote, San José",
+   "estilo": "",
+   "telefono": "",
+   "historial": []
+  },
+  {
+   "nombre": "Pisos Rústicos San Antonio",
+   "direccion": "Pisos Rústicos San Antonio, Quebradilla, Cartago",
    "estilo": "",
    "telefono": "",
    "historial": []

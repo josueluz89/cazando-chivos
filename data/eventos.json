@@ -1,155 +1,5 @@
 [
  {
-  "banda": "Tributo a Creed & Chevelle — Noche de Rock Alternativo (Metal y Fe)",
-  "bar": "Auditorio Vida Abundante",
-  "fecha": "2026-10-02",
-  "hora": "19:00",
-  "cover": "Gratis",
-  "flyer": "",
-  "fuente": "https://www.facebook.com/events/1439063837811230/",
-  "direccion_display": "La Uruca, San José",
-  "region": "San José"
- },
- {
-  "banda": "Homel Lewis",
-  "bar": "Casey's Bar & Restaurante",
-  "fecha": "2026-10-02",
-  "hora": "20:30",
-  "cover": "",
-  "flyer": "flyers/homel-lewis-caseys.jpg",
-  "fuente": "https://www.facebook.com/homel.lewis",
-  "direccion_display": "San Pedro de Poás, Alajuela",
-  "region": "Alajuela"
- },
- {
-  "banda": "APOCALIPSIS 18: Servile Conceptions (USA), Colemesis, Arsenal, Golgota, Flesh Storm, Mortinox, Cloaca, Human Mass Extermination",
-  "bar": "Pepper's Club",
-  "fecha": "2026-10-03",
-  "hora": "16:00",
-  "cover": "Preventa ₡5500 | Puerta ₡6000",
-  "flyer": "",
-  "fuente": "https://www.facebook.com/events/1538599417830508/",
-  "direccion_display": "Av. 34, Calle 61-63, Zapote, San José",
-  "region": "San José"
- },
- {
-  "banda": "Rotten Souls + Belial Horde + Suppressor + Enfleshed",
-  "bar": "Amon Solar",
-  "fecha": "2026-10-03",
-  "hora": "18:30",
-  "cover": "₡5000",
-  "flyer": "",
-  "direccion_display": "Calle 3, Av 9-11, Barrio Amón, San José",
-  "region": "San José"
- },
- {
-  "banda": "Tigers Jaw",
-  "bar": "Mercadito La California",
-  "fecha": "2026-10-03",
-  "hora": "19:30",
-  "cover": "",
-  "flyer": "flyers/tigers-jaw-2026-10-03.png",
-  "direccion_display": "Barrio La California, San José",
-  "region": "San José",
-  "fuente": "https://starticket.cr/e/tigers-jaw/9144",
-  "nota": "Banda estadounidense de emo/indie rock en vivo; regresa a Costa Rica."
- },
- {
-  "banda": "Flashback — Classics Rock Show",
-  "bar": "Bar Chamuco",
-  "fecha": "2026-10-03",
-  "hora": "20:00",
-  "cover": "₡2000",
-  "entradas": "Info: 88739070",
-  "flyer": "flyers/flashback-chamuco.jpg",
-  "direccion_display": "Cartago, frente al antiguo Hogares Crea",
-  "region": "Cartago"
- },
- {
-  "banda": "Wrathchilds (tributo a Iron Maiden) — Flight 666",
-  "bar": "Bar Legendario",
-  "cover": "Preventa ₡7000 | Día del evento ₡10000",
-  "entradas": "6046-1040 (José Mario Delgado)",
-  "fecha": "2026-10-03",
-  "flyer": "",
-  "hora": "20:00",
-  "direccion_display": "Calle 4, de Correos 100 m oeste y 125 m sur, Heredia (Yesterday Classic Rock Bar, mismo local)",
-  "region": "Heredia"
- },
- {
-  "banda": "Zona Púrpura (clásicos en inglés) + Error Óptico (clásicos en español)",
-  "bar": "Music Factory",
-  "cover": "Preventa ₡6000 | Día del evento ₡8000",
-  "direccion": "Los Yoses",
-  "fecha": "2026-10-03",
-  "flyer": "flyers/rock-dos-idiomas-musicfactory.jpg",
-  "hora": "20:00",
-  "info": "8340-0950 / musicfactorycr.com",
-  "direccion_display": "Los Yoses",
-  "region": "San José"
- },
- {
-  "banda": "MarAdentro (tributo a Héroes del Silencio)",
-  "bar": "El Muro ArtPub & Comedy Club",
-  "fecha": "2026-10-03",
-  "hora": "21:00",
-  "cover": "Preventa ₡7000 | Día del evento ₡9000",
-  "entradas": "Sinpe: 8332-8255",
-  "flyer": "flyers/maradentro-elmuro.jpg",
-  "direccion_display": "50 m norte del Parque Morazán, Barrio Amón, San José",
-  "region": "San José"
- },
- {
-  "banda": "Iron Fist (Alcatraz Tattoo Riot — flash day de tatuajes)",
-  "bar": "Bar Alcatraz",
-  "cover": "",
-  "fecha": "2026-10-03",
-  "flyer": "flyers/tattoo-riot-alcatraz.jpg",
-  "hora": "",
-  "direccion_display": "Av. 1 / Calle 5, Heredia",
-  "region": "Heredia"
- },
- {
-  "banda": "Bad Moon (tributo a Creedence Clearwater Revival)",
-  "bar": "Casa Jimmy",
-  "fecha": "2026-10-03",
-  "hora": "",
-  "flyer": "flyers/badmoon-tour.jpg",
-  "direccion_display": "Santa Ana",
-  "region": "San José"
- },
- {
-  "banda": "Diesel Rock CR en Oktober Costa Rica",
-  "bar": "Centro de Eventos Pedregal",
-  "fecha": "2026-10-03",
-  "fecha_fin": "2026-10-04",
-  "hora": "",
-  "cover": "",
-  "flyer": "flyers/diesel-oktober-pedregal.jpg",
-  "direccion_display": "",
-  "region": "Heredia"
- },
- {
-  "banda": "Emo for the Broken Hearts (noche emo/rock tributo)",
-  "bar": "Yellow Submarine Bar",
-  "fecha": "2026-10-03",
-  "hora": "",
-  "cover": "Reservas WhatsApp 8342-9214",
-  "flyer": "",
-  "direccion_display": "C.C. Plaza Los Colegios, Av 65, Moravia",
-  "region": "San José"
- },
- {
-  "banda": "A Flock of Seagulls + Sisterboi",
-  "bar": "Mercadito La California",
-  "fecha": "2026-10-04",
-  "hora": "19:00",
-  "cover": "Entradas en TICKZ.CR",
-  "flyer": "",
-  "direccion_display": "Calle 21, Av 0-1, Barrio La California, San José",
-  "region": "San José"
- },
- {
   "banda": "Espinoza — Rock Argentino Íntimo (voz y guitarra: Fito, Charly García, Spinetta, Cerati, Soda Stereo, Enanitos Verdes)",
   "bar": "MundoLoco El Chante",
   "fecha": "2026-10-06",
@@ -1120,6 +970,19 @@
   "fuente": "flyers/badmoon-tour.jpg"
  },
  {
+  "banda": "Liberacion Punk",
+  "bar": "Pisos Rústicos San Antonio",
+  "fecha": "2026-11-22",
+  "hora": "10:00",
+  "cover": "",
+  "flyer": "",
+  "direccion_display": "Pisos Rústicos San Antonio, Quebradilla, Cartago",
+  "region": "Cartago",
+  "fuente": "https://www.bandsintown.com/es/c/desamparados-costa-rica",
+  "entradas": "Punk en vivo; serie punk del GAM.",
+  "nota": "Punk en vivo; serie punk del GAM. Confirmado por Bandsintown (lugar + hora)."
+ },
+ {
   "banda": "The Metal Roadshow: Testament + Municipal Waste + Dying Fetus + Immolation",
   "bar": "Pepper's Club",
   "fecha": "2026-11-22",
@@ -1235,6 +1098,19 @@
   "hora": "20:00",
   "nota": "Heavy metal tico: Slavon 30 aniversario, banda invitada Eviltwin. Información y reservas 8757-9901.",
   "region": "San José"
+ },
+ {
+  "banda": "Sangre X Sangre: Sentencia + BORYS + MOMENTOS + Exile + Living End + Terminal Force + Inersia + Sideways",
+  "bar": "Club Oasis",
+  "fecha": "2026-11-28",
+  "hora": "15:00",
+  "cover": "₡5.000 preventa / ₡7.000 en puerta",
+  "flyer": "flyers/sangre-x-sangre-sentencia-borys-momentos-exile-living-end-terminal-force-inersia-sideways-2026-11-28.jpg",
+  "direccion_display": "Club Oasis, Calle de la Amargura, San Pedro",
+  "region": "San José",
+  "fuente": "https://www.teletica.com/amp/entretenimiento/lo-mejor-del-hardcore-de-centroamerica-se-reunira-en-el-festival-sangre-x-sangre_421398",
+  "entradas": "Festival hardcore centroamericano: Sentencia (El Salvador), BORYS (Honduras), MOMENTOS (Panamá) + Exile, Living End, Terminal Force, Inersia y Sideways (CR). Organizan Omega Crew Productions y karmax1vez.",
+  "nota": "Festival hardcore centroamericano (Teletica 18-nov-2026)."
  },
  {
   "banda": "Voices of Faith: Jamie Rowe + Guardian + Bloodgood (rock cristiano)",
@@ -1364,6 +1240,19 @@
   "hora": "14:00",
   "nota": "Sábado de Rock (gratis, al aire libre): NOX Melodiam + Banda Pesacabal + Descafeinados + Contratempo.",
   "region": "Cartago"
+ },
+ {
+  "banda": "El Rito — Especial Soda Stereo",
+  "bar": "Club de Bello",
+  "fecha": "2026-12-05",
+  "hora": "21:00",
+  "cover": "₡3.000",
+  "flyer": "flyers/el-rito-especial-soda-stereo-2026-12-05.jpg",
+  "direccion_display": "Club de Bello, Escazú",
+  "region": "San José",
+  "fuente": "https://www.gamcultural.com/cr/events/1884190/soda-stereo",
+  "entradas": "Reservas por WhatsApp: 8404-2923.",
+  "nota": "Especial a Soda Stereo por El Rito CR (promotor del evento en GAM). Reservas WhatsApp 8404-2923."
  },
  {
   "banda": "Liverpool — La leyenda del Rock",
