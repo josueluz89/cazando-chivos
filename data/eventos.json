@@ -1,18 +1,5 @@
 [
  {
-  "banda": "Espinoza — Rock Argentino Íntimo (voz y guitarra: Fito, Charly García, Spinetta, Cerati, Soda Stereo, Enanitos Verdes)",
-  "bar": "MundoLoco El Chante",
-  "fecha": "2026-10-06",
-  "hora": "20:00",
-  "cover": "₡2500",
-  "entradas": "Sinpe: 64876641",
-  "flyer": "flyers/espinoza-mundoloco.jpg",
-  "formato": "solista",
-  "rama": "chivo_en_solista",
-  "direccion_display": "San Pedro",
-  "region": "San José"
- },
- {
   "banda": "Amorphis (Borderland Tour 2026)",
   "bar": "Pepper's Club",
   "fecha": "2026-10-07",
@@ -1181,6 +1168,19 @@
   "nota": "Punk en español; regreso a Pepper's Club. Puertas 18:00. +15 con adulto."
  },
  {
+  "banda": "Voltaje + Liberacion Punk + Dosis DK (Ruido por Sonrisas)",
+  "bar": "Bar Restaurante LA SODA del Guarco",
+  "cover": "Un regalo sin envolver y no bélico",
+  "direccion_display": "25 sur del parque, El Tejar, El Guarco, Cartago",
+  "entradas": "Concierto benéfico Ruido por Sonrisas; punk en vivo.",
+  "fecha": "2026-12-03",
+  "flyer": "",
+  "fuente": "https://www.bandsintown.com/es/e/109147928-liberacion-punk-at-bar-restaurante-la-soda-del-guarco",
+  "hora": "19:00",
+  "nota": "Confirmado por Bandsintown: Voltaje, Liberación Punk y Dosis DK; entrada un regalo sin envolver y no bélico; organizan El Fest y Dona con Amor.",
+  "region": "Cartago"
+ },
+ {
   "banda": "A Night Like This: Tributo a The Cure",
   "bar": "Amon Solar",
   "cover": "$7,98",
@@ -1398,5 +1398,18 @@
   "region": "San José",
   "fuente": "https://www.gamcultural.com/cr/events/1769861/whitecross-mkl-en-concierto-noche-especial",
   "nota": "Metal cristiano en vivo, concierto público abierto (Metal y Fe presenta); entradas aún sin publicar en GAM ('Pronto mas información')."
+ },
+ {
+  "banda": "Avatar",
+  "bar": "Pepper's Club",
+  "cover": "",
+  "direccion_display": "Av. 34, Calle 61-63, Zapote, San José",
+  "entradas": "Metal en vivo; gira internacional.",
+  "fecha": "2027-01-20",
+  "flyer": "",
+  "fuente": "https://www.bandsintown.com/es/e/108758328-avatar-at-pepper's-club",
+  "hora": "18:30",
+  "nota": "Confirmado por Bandsintown: Avatar (metal, Suecia) en Pepper's Club.",
+  "region": "San José"
  }
 ]

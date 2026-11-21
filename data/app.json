@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T15:17:16-06:00",
+ "actualizado": "2026-11-21T15:15:01-06:00",
  "ventana_dias": 60,
  "zonas": [
   "Alajuela",
@@ -8,54 +8,6 @@
   "San José"
  ],
  "eventos": [
-  {
-   "banda": "Estamos Perdidos",
-   "bar": "Bar Starview",
-   "cover": "",
-   "direccion_display": "La Línea, Barrio Otoya, San José",
-   "fecha": "2026-11-20",
-   "flyer": "flyers/estamos-perdidos-2026-11-20.jpg",
-   "fuente": "https://www.bandsintown.com/es/e/109064299-estamos-perdidos-at-la-linea-restaurant-and-bar",
-   "hora": "20:00",
-   "nota": "Rock alternativo/garage/post-punk/shoegaze de Quito, Ecuador; primera vez en Costa Rica.",
-   "region": "San José"
-  },
-  {
-   "banda": "ASCENDANT – Tributo a Avenged Sevenfold",
-   "bar": "Music Factory",
-   "fecha": "2026-11-20",
-   "hora": "20:00",
-   "cover": "General ₡5.000",
-   "flyer": "flyers/ascendant-tributo-a-avenged-sevenfold-2026-11-20.jpg",
-   "direccion_display": "Plaza Veritas, Zapote, San José",
-   "region": "San José",
-   "fuente": "https://www.gamcultural.com/cr/events/1869334/ascendant-tributo-a-avenged-sevenfold",
-   "entradas": "Tiquetebox: https://www.tiquetebox.app/e/ascendant_tributo_a_avenged_sevenfold",
-   "nota": "Tributo metal en vivo; debut en vivo de ASCENDANT. GAM muestra 14:00 en la tarjeta pero la descripción dice 8:00 p.m.; se publica 20:00."
-  },
-  {
-   "banda": "El Rito — Especial Soda Stereo & Gustavo Cerati",
-   "bar": "Fever Sport Bar",
-   "fecha": "2026-11-20",
-   "hora": "21:00",
-   "cover": "₡5.000",
-   "flyer": "flyers/el-rito-especial-soda-stereo-gustavo-cerati-2026-11-20.png",
-   "direccion_display": "300 m oeste de Casa Presidencial, Zapote, San José",
-   "region": "San José",
-   "fuente": "https://www.gamcultural.com/cr/events/1883483/soda-stereo-cerati",
-   "nota": "Tributo en vivo a Soda Stereo y Cerati; primera vez de El Rito en Fever. Reservas WhatsApp 8404-2923."
-  },
-  {
-   "banda": "Bad Moon (tributo a Creedence Clearwater Revival)",
-   "bar": "Stereo Caníbal",
-   "fecha": "2026-11-20",
-   "hora": "Por confirmar",
-   "cover": "",
-   "flyer": "flyers/badmoon-tour.jpg",
-   "direccion_display": "Stereo Caníbal, San José",
-   "region": "San José",
-   "fuente": "flyers/badmoon-tour.jpg"
-  },
   {
    "banda": "Picha",
    "bar": "Clande Arte Rock",
@@ -303,6 +255,19 @@
    "nota": "Punk en español; regreso a Pepper's Club. Puertas 18:00. +15 con adulto."
   },
   {
+   "banda": "Voltaje + Liberacion Punk + Dosis DK (Ruido por Sonrisas)",
+   "bar": "Bar Restaurante LA SODA del Guarco",
+   "cover": "Un regalo sin envolver y no bélico",
+   "direccion_display": "25 sur del parque, El Tejar, El Guarco, Cartago",
+   "entradas": "Concierto benéfico Ruido por Sonrisas; punk en vivo.",
+   "fecha": "2026-12-03",
+   "flyer": "",
+   "fuente": "https://www.bandsintown.com/es/e/109147928-liberacion-punk-at-bar-restaurante-la-soda-del-guarco",
+   "hora": "19:00",
+   "nota": "Confirmado por Bandsintown: Voltaje, Liberación Punk y Dosis DK; entrada un regalo sin envolver y no bélico; organizan El Fest y Dona con Amor.",
+   "region": "Cartago"
+  },
+  {
    "banda": "A Night Like This: Tributo a The Cure",
    "bar": "Amon Solar",
    "cover": "$7,98",
@@ -520,6 +485,19 @@
    "region": "San José",
    "fuente": "https://www.gamcultural.com/cr/events/1769861/whitecross-mkl-en-concierto-noche-especial",
    "nota": "Metal cristiano en vivo, concierto público abierto (Metal y Fe presenta); entradas aún sin publicar en GAM ('Pronto mas información')."
+  },
+  {
+   "banda": "Avatar",
+   "bar": "Pepper's Club",
+   "cover": "",
+   "direccion_display": "Av. 34, Calle 61-63, Zapote, San José",
+   "entradas": "Metal en vivo; gira internacional.",
+   "fecha": "2027-01-20",
+   "flyer": "",
+   "fuente": "https://www.bandsintown.com/es/e/108758328-avatar-at-pepper's-club",
+   "hora": "18:30",
+   "nota": "Confirmado por Bandsintown: Avatar (metal, Suecia) en Pepper's Club.",
+   "region": "San José"
   }
  ],
  "locales": [
@@ -979,6 +957,13 @@
   {
    "nombre": "Pisos Rústicos San Antonio",
    "direccion": "Pisos Rústicos San Antonio, Quebradilla, Cartago",
+   "estilo": "",
+   "telefono": "",
+   "historial": []
+  },
+  {
+   "nombre": "Bar Restaurante LA SODA del Guarco",
+   "direccion": "25 sur del parque, El Tejar, El Guarco, Cartago",
    "estilo": "",
    "telefono": "",
    "historial": []
