@@ -1,26 +1,21 @@
 {
- "stamp": "20261120-2213",
+ "stamp": "20261121-0656",
  "novedades": [
-  {
-   "bar": "Amon Solar",
-   "fuente": "https://amonsolar.com",
-   "tipo": "cambio_detectado",
-   "titulo": "",
-   "imagenes": []
-  },
   {
    "bar": "Mercadito La California",
    "fuente": "https://starticket.cr",
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261120-2213/mercadito-la-california-bd88c2d1.jpg",
-    "candidatos/20261120-2213/mercadito-la-california-7c78d650.jpg",
-    "candidatos/20261120-2213/mercadito-la-california-0a94d4dd.png",
-    "candidatos/20261120-2213/mercadito-la-california-fcdd458a.jpg",
-    "candidatos/20261120-2213/mercadito-la-california-75242e16.jpg",
-    "candidatos/20261120-2213/mercadito-la-california-628e4aad.png",
-    "candidatos/20261120-2213/mercadito-la-california-dc3340e9.png"
+    "candidatos/20261121-0656/mercadito-la-california-75242e16.jpg",
+    "candidatos/20261121-0656/mercadito-la-california-7c78d650.jpg",
+    "candidatos/20261121-0656/mercadito-la-california-fcdd458a.jpg",
+    "candidatos/20261121-0656/mercadito-la-california-bd88c2d1.jpg",
+    "candidatos/20261121-0656/mercadito-la-california-0a94d4dd.png",
+    "candidatos/20261121-0656/mercadito-la-california-628e4aad.png",
+    "candidatos/20261121-0656/mercadito-la-california-dc3340e9.png",
+    "candidatos/20261121-0656/mercadito-la-california-8e1e1806.png",
+    "candidatos/20261121-0656/mercadito-la-california-29e378c4.png"
    ]
   },
   {
@@ -29,16 +24,14 @@
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261120-2213/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
-    "candidatos/20261120-2213/anfiteatro-imperial-parque-viva-2c38e756.jpg",
-    "candidatos/20261120-2213/anfiteatro-imperial-parque-viva-5a41518b.jpg"
+    "candidatos/20261121-0656/anfiteatro-imperial-parque-viva-9b72d5f7.jpg"
    ]
   },
   {
-   "bar": "Fulcro Gastro Bar",
-   "fuente": "https://linktr.ee/fulcrogastrobar",
+   "bar": "Music Factory",
+   "fuente": "https://musicfactorycr.com",
    "tipo": "cambio_detectado",
-   "titulo": "@fulcrogastrobarr Official: TikTok, Instagram, Facebook | Linktree",
+   "titulo": "Music Factory CR - 3 Restaurantes y Música en Vivo",
    "imagenes": []
   },
   {
@@ -48,12 +41,11 @@
    "detalle": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>"
   },
   {
-   "bar": "Pisos Rústicos San Antonio",
-   "fuente": "http://www.mosaicossanantonio.com/",
+   "bar": "Palacio de los Deportes",
+   "fuente": "https://www.heredia.go.cr/",
    "tipo": "cambio_detectado",
-   "titulo": "Pisos Rústicos San Antonio",
-   "imagenes": [],
-   "logo_bar": true
+   "titulo": "Portal Municipalidad de Heredia",
+   "imagenes": []
   }
  ],
  "pendientes": [
