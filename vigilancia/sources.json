@@ -315,6 +315,12 @@
       "web": null,
       "facebook": "https://www.facebook.com/lasodaelguarco",
       "instagram": null
+    },
+    {
+      "bar": "15NA Pub",
+      "web": null,
+      "facebook": null,
+      "instagram": "https://instagram.com/15na_pub"
     }
   ],
   "personas": [
@@ -942,6 +948,11 @@
       "nombre": "Dosis DK",
       "facebook": null,
       "nota": "Agregado 2026-11-21-tarde: sin página encontrada; tocó en Ruido por Sonrisas 2026-12-03, Bar Restaurante LA SODA del Guarco"
+    },
+    {
+      "nombre": "Moldo",
+      "facebook": null,
+      "nota": "Agregado 2026-11-22-tarde por regla (cartelera): bajista y miembro fundador de Evolución; solista rock; sin página encontrada"
     }
   ]
 }

@@ -1,16 +1,5 @@
 [
  {
-  "banda": "Amorphis (Borderland Tour 2026)",
-  "bar": "Pepper's Club",
-  "fecha": "2026-10-07",
-  "hora": "20:00",
-  "cover": "General ₡36.000 / VIP ₡46.000",
-  "flyer": "flyers/amorphis-borderland-tour-2026-2026-10-07.webp",
-  "direccion_display": "Av. 34, Calle 61-63, Zapote, San José",
-  "region": "San José",
-  "fuente": "https://eleven-to.com/product/amorphis-borderland-tour-2026/"
- },
- {
   "banda": "Iron Maiden + The Raven Age (Run For Your Lives — 50 aniversario)",
   "bar": "Estadio Nacional",
   "fecha": "2026-10-08",
@@ -1350,6 +1339,19 @@
   "region": "San José",
   "fuente": "https://musicfactorycr.com/eventos",
   "nota": "Canciones originales y éxitos del rock en español."
+ },
+ {
+  "banda": "Moldo",
+  "bar": "15NA Pub",
+  "fecha": "2026-12-12",
+  "hora": "20:00",
+  "cover": "",
+  "flyer": "",
+  "direccion_display": "Av. 33, Guadalupe, San José",
+  "region": "San José",
+  "fuente": "https://www.bandsintown.com/es/e/109183139-moldo-at-15na-pub",
+  "entradas": "Entrada gratis",
+  "nota": "Moldo Solo Show en su aniversario (Bandsintown)"
  },
  {
   "banda": "BLACK SABBATH & OZZY OSBOURNE — THE LEGACY",

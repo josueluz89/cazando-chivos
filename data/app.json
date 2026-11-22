@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21T15:15:01-06:00",
+ "actualizado": "2026-11-22T15:17:43-06:00",
  "ventana_dias": 60,
  "zonas": [
   "Alajuela",
@@ -8,41 +8,6 @@
   "San José"
  ],
  "eventos": [
-  {
-   "banda": "Picha",
-   "bar": "Clande Arte Rock",
-   "cover": "",
-   "direccion_display": "Clande Arte Rock, San José",
-   "fecha": "2026-11-21",
-   "flyer": "",
-   "fuente": "https://www.bandsintown.com/c/san-jose-costa-rica",
-   "hora": "18:00",
-   "nota": "punk tico (Bandsintown)",
-   "region": "San José"
-  },
-  {
-   "banda": "Tributo a Bullet for My Valentine interpretado x Burst Into Fire (2ª edición)",
-   "bar": "Amon Solar",
-   "fecha": "2026-11-21",
-   "hora": "20:00",
-   "cover": "Pre-venta ₡7,000 / Puerta ₡10,000",
-   "flyer": "flyers/tributo-a-bullet-for-my-valentine-interpretado-x-burst-into-fire-2ª-edición-2026-11-21.jpg",
-   "direccion_display": "Calle 3, Barrio Amón, San José",
-   "region": "San José",
-   "fuente": "https://starticket.cr/e/tributo-a-bullet-for-my-valentine-interpretado-x-burst-into-fire-segunda-edicion/9828",
-   "entradas": "Segunda edición del tributo en vivo. Cupo limitado."
-  },
-  {
-   "banda": "Bad Moon (tributo a Creedence Clearwater Revival)",
-   "bar": "Antologías",
-   "fecha": "2026-11-21",
-   "hora": "Por confirmar",
-   "cover": "",
-   "flyer": "flyers/badmoon-tour.jpg",
-   "direccion_display": "Antologías, Desamparados",
-   "region": "San José",
-   "fuente": "flyers/badmoon-tour.jpg"
-  },
   {
    "banda": "Liberacion Punk",
    "bar": "Pisos Rústicos San Antonio",
@@ -437,6 +402,19 @@
    "region": "San José",
    "fuente": "https://musicfactorycr.com/eventos",
    "nota": "Canciones originales y éxitos del rock en español."
+  },
+  {
+   "banda": "Moldo",
+   "bar": "15NA Pub",
+   "fecha": "2026-12-12",
+   "hora": "20:00",
+   "cover": "",
+   "flyer": "",
+   "direccion_display": "Av. 33, Guadalupe, San José",
+   "region": "San José",
+   "fuente": "https://www.bandsintown.com/es/e/109183139-moldo-at-15na-pub",
+   "entradas": "Entrada gratis",
+   "nota": "Moldo Solo Show en su aniversario (Bandsintown)"
   },
   {
    "banda": "BLACK SABBATH & OZZY OSBOURNE — THE LEGACY",
@@ -964,6 +942,13 @@
   {
    "nombre": "Bar Restaurante LA SODA del Guarco",
    "direccion": "25 sur del parque, El Tejar, El Guarco, Cartago",
+   "estilo": "",
+   "telefono": "",
+   "historial": []
+  },
+  {
+   "nombre": "15NA Pub",
+   "direccion": "Av. 33, Guadalupe, San José",
    "estilo": "",
    "telefono": "",
    "historial": []
