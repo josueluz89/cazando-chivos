@@ -1,27 +1,31 @@
-# Vigilancia 20261121-2052 (2x/dia)
+# Vigilancia 20261122-0634 (2x/dia)
 
-Novedades: 4 | Fuentes pendientes: 37
+Novedades: 5 | Fuentes pendientes: 38
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
 
 ## Mercadito La California
 - Fuente: https://starticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261121-2052/mercadito-la-california-fcdd458a.jpg
-  - Imagen original: candidatos/20261121-2052/mercadito-la-california-bd88c2d1.jpg
-  - Imagen original: candidatos/20261121-2052/mercadito-la-california-0a94d4dd.png
-  - Imagen original: candidatos/20261121-2052/mercadito-la-california-7c78d650.jpg
-  - Imagen original: candidatos/20261121-2052/mercadito-la-california-628e4aad.png
-  - Imagen original: candidatos/20261121-2052/mercadito-la-california-dc3340e9.png
-  - Imagen original: candidatos/20261121-2052/mercadito-la-california-8e1e1806.png
-  - Imagen original: candidatos/20261121-2052/mercadito-la-california-29e378c4.png
-  - Imagen original: candidatos/20261121-2052/mercadito-la-california-ded5be86.png
-  - Imagen original: candidatos/20261121-2052/mercadito-la-california-87c82584.png
+  - Imagen original: candidatos/20261122-0634/mercadito-la-california-fcdd458a.jpg
+  - Imagen original: candidatos/20261122-0634/mercadito-la-california-0a94d4dd.png
+  - Imagen original: candidatos/20261122-0634/mercadito-la-california-bd88c2d1.jpg
+  - Imagen original: candidatos/20261122-0634/mercadito-la-california-7c78d650.jpg
+  - Imagen original: candidatos/20261122-0634/mercadito-la-california-628e4aad.png
+  - Imagen original: candidatos/20261122-0634/mercadito-la-california-dc3340e9.png
+  - Imagen original: candidatos/20261122-0634/mercadito-la-california-8e1e1806.png
+  - Imagen original: candidatos/20261122-0634/mercadito-la-california-29e378c4.png
+  - Imagen original: candidatos/20261122-0634/mercadito-la-california-ded5be86.png
+  - Imagen original: candidatos/20261122-0634/mercadito-la-california-87c82584.png
 
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
 
-## Fulcro Gastro Bar
-- Fuente: https://linktr.ee/fulcrogastrobar | Tipo: cambio_detectado
-- Titulo: @fulcrogastrobarr Restaurant - Visit to Find Food Options & See @fulcrogastrobarr Social Media & Official Accounts | Linktree
+## Music Factory
+- Fuente: https://musicfactorycr.com | Tipo: cambio_detectado
+- Titulo: Music Factory CR - 3 Restaurantes y Música en Vivo
+
+## Central Pub London Room
+- Fuente: https://www.gamcultural.com/cr/p/v-CentralPubLondonRoom | Tipo: cambio_detectado
+- Titulo: Central Pub London Room - GAM Cultural
 
 ## CIC ANDE (Anfiteatro)
 - Fuente: https://www.ande.cr/ | Tipo: fuente_caida
@@ -65,3 +69,4 @@ Novedades: 4 | Fuentes pendientes: 37
 - Clande Arte Rock: sin fuente web, revision manual o WhatsApp
 - Teatro Eugene O'Neill: sin fuente web, revision manual o WhatsApp
 - Plaza Mayor de Cartago: sin fuente web, revision manual o WhatsApp
+- Bar Restaurante LA SODA del Guarco: FB/IG configurado pero requiere token o revision manual
