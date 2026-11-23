@@ -1,18 +1,5 @@
 [
  {
-  "banda": "Iron Maiden + The Raven Age (Run For Your Lives — 50 aniversario)",
-  "bar": "Estadio Nacional",
-  "fecha": "2026-10-08",
-  "hora": "18:30",
-  "cover": "",
-  "entradas": "eticket (₡33.500 a ₡71.600)",
-  "flyer": "flyers/iron-maiden-cr.jpg",
-  "direccion_display": "Estadio Nacional, La Sabana, San José",
-  "region": "San José",
-  "fuente": "https://www.eticket.cr",
-  "nota": "Metal en vivo: Iron Maiden + banda invitada The Raven Age. Solo quedan The Trooper y Gramilla (18+) en eticket."
- },
- {
   "banda": "Homel Lewis",
   "bar": "Bar Reflexiones",
   "fecha": "2026-10-09",
@@ -1390,6 +1377,18 @@
   "nota": "Pactum Producciones presenta tarde de metal y rock en vivo (La Linea Restaurant and Bar / Starview Bar)."
  },
  {
+  "banda": "Gorilla Fun",
+  "bar": "La Linea Restaurant and Bar",
+  "cover": "",
+  "direccion_display": "",
+  "fecha": "2026-12-13",
+  "flyer": "",
+  "fuente": "https://www.bandsintown.com/es/c/san-jose-costa-rica/all-dates/genre/rock",
+  "hora": "15:00",
+  "nota": "Rock alternativo tico (confirmado en GAM: Sin Anestesia 13-nov, Stereo Caníbal). Solo Bandsintown como fuente del show; banda ya guardada en sources.json. Bar nuevo: La Linea Restaurant and Bar no está en data/locales.json — agregar al publicar.",
+  "region": "San José"
+ },
+ {
   "banda": "Whitecross & MKL",
   "bar": "Auditorio Vida Abundante",
   "fecha": "2026-12-13",
@@ -1412,6 +1411,18 @@
   "fuente": "https://www.bandsintown.com/es/e/108758328-avatar-at-pepper's-club",
   "hora": "18:30",
   "nota": "Confirmado por Bandsintown: Avatar (metal, Suecia) en Pepper's Club.",
+  "region": "San José"
+ },
+ {
+  "banda": "Evergreen Terrace",
+  "bar": "Amon Solar",
+  "cover": "Fase 2 ₡19.850",
+  "direccion_display": "Calle 3, Av 9-11, Barrio Amón, San José",
+  "fecha": "2027-01-22",
+  "flyer": "flyers/evergreen-terrace-2027-01-22.jpg",
+  "fuente": "https://www.gamcultural.com/cr/events/1832453/sofi-paez",
+  "hora": "20:00",
+  "nota": "Metalcore de Jacksonville, Florida; regresa a CR después de casi 22 años. Confirmado en Starticket (Fase 1 ₡17.050 agotada, Fase 2 ₡19.850), GAM agenda Amon Solar y Concert Archives. Entra en ventana de 60 días hoy 2026-11-23 (FIN 2027-01-22).",
   "region": "San José"
  }
 ]

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22T15:17:43-06:00",
+ "actualizado": "2026-11-23T15:16:34-06:00",
  "ventana_dias": 60,
  "zonas": [
   "Alajuela",
@@ -8,53 +8,6 @@
   "San José"
  ],
  "eventos": [
-  {
-   "banda": "Liberacion Punk",
-   "bar": "Pisos Rústicos San Antonio",
-   "fecha": "2026-11-22",
-   "hora": "10:00",
-   "cover": "",
-   "flyer": "",
-   "direccion_display": "Pisos Rústicos San Antonio, Quebradilla, Cartago",
-   "region": "Cartago",
-   "fuente": "https://www.bandsintown.com/es/c/desamparados-costa-rica",
-   "entradas": "Punk en vivo; serie punk del GAM.",
-   "nota": "Punk en vivo; serie punk del GAM. Confirmado por Bandsintown (lugar + hora)."
-  },
-  {
-   "banda": "The Metal Roadshow: Testament + Municipal Waste + Dying Fetus + Immolation",
-   "bar": "Pepper's Club",
-   "fecha": "2026-11-22",
-   "hora": "16:00",
-   "cover": "General ₡33.000 / VIP ₡42.000 (preventa hasta 31 oct)",
-   "flyer": "flyers/the-metal-roadshow-testament-municipal-waste-dying-fetus-immolation-2026-11-22.webp",
-   "direccion_display": "Av. 34, Calle 61-63, Zapote, San José",
-   "region": "San José",
-   "fuente": "https://www.teletica.com/entretenimiento/the-metal-roadshow-reunira-a-cuatro-gigantes-del-metal-en-costa-rica_414567"
-  },
-  {
-   "banda": "Militarie Gun",
-   "bar": "Stein Room",
-   "fecha": "2026-11-22",
-   "hora": "18:00",
-   "cover": "",
-   "flyer": "flyers/militarie-gun-2026-11-22.png",
-   "direccion_display": "El Carmen, San José",
-   "region": "San José",
-   "fuente": "https://starticket.cr/e/militarie-gun/9383",
-   "nota": "Hardcore punk en vivo."
-  },
-  {
-   "banda": "Allison (Euforia Tour)",
-   "bar": "Mercadito La California",
-   "fecha": "2026-11-22",
-   "hora": "19:00",
-   "cover": "",
-   "flyer": "flyers/allison-euforia-tour-2026-11-22.jpg",
-   "direccion_display": "Mercadito La California, San José",
-   "region": "San José",
-   "fuente": "https://www.passline.com/eventos/allison-euforia-tour"
-  },
   {
    "banda": "Nirvana Unplugged y otros éxitos (tributo a Nirvana)",
    "bar": "Jazz Café",
@@ -453,6 +406,18 @@
    "nota": "Pactum Producciones presenta tarde de metal y rock en vivo (La Linea Restaurant and Bar / Starview Bar)."
   },
   {
+   "banda": "Gorilla Fun",
+   "bar": "La Linea Restaurant and Bar",
+   "cover": "",
+   "direccion_display": "",
+   "fecha": "2026-12-13",
+   "flyer": "",
+   "fuente": "https://www.bandsintown.com/es/c/san-jose-costa-rica/all-dates/genre/rock",
+   "hora": "15:00",
+   "nota": "Rock alternativo tico (confirmado en GAM: Sin Anestesia 13-nov, Stereo Caníbal). Solo Bandsintown como fuente del show; banda ya guardada en sources.json. Bar nuevo: La Linea Restaurant and Bar no está en data/locales.json — agregar al publicar.",
+   "region": "San José"
+  },
+  {
    "banda": "Whitecross & MKL",
    "bar": "Auditorio Vida Abundante",
    "fecha": "2026-12-13",
@@ -475,6 +440,18 @@
    "fuente": "https://www.bandsintown.com/es/e/108758328-avatar-at-pepper's-club",
    "hora": "18:30",
    "nota": "Confirmado por Bandsintown: Avatar (metal, Suecia) en Pepper's Club.",
+   "region": "San José"
+  },
+  {
+   "banda": "Evergreen Terrace",
+   "bar": "Amon Solar",
+   "cover": "Fase 2 ₡19.850",
+   "direccion_display": "Calle 3, Av 9-11, Barrio Amón, San José",
+   "fecha": "2027-01-22",
+   "flyer": "flyers/evergreen-terrace-2027-01-22.jpg",
+   "fuente": "https://www.gamcultural.com/cr/events/1832453/sofi-paez",
+   "hora": "20:00",
+   "nota": "Metalcore de Jacksonville, Florida; regresa a CR después de casi 22 años. Confirmado en Starticket (Fase 1 ₡17.050 agotada, Fase 2 ₡19.850), GAM agenda Amon Solar y Concert Archives. Entra en ventana de 60 días hoy 2026-11-23 (FIN 2027-01-22).",
    "region": "San José"
   }
  ],
@@ -949,6 +926,13 @@
   {
    "nombre": "15NA Pub",
    "direccion": "Av. 33, Guadalupe, San José",
+   "estilo": "",
+   "telefono": "",
+   "historial": []
+  },
+  {
+   "nombre": "La Linea Restaurant and Bar",
+   "direccion": "Dirección sin confirmar",
    "estilo": "",
    "telefono": "",
    "historial": []
