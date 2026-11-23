@@ -1,20 +1,20 @@
-# Vigilancia 20261122-2101 (2x/dia)
+# Vigilancia 20261123-0724 (2x/dia)
 
-Novedades: 3 | Fuentes pendientes: 38
+Novedades: 3 | Fuentes pendientes: 39
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
 
 ## Mercadito La California
 - Fuente: https://starticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261122-2101/mercadito-la-california-bd88c2d1.jpg
-  - Imagen original: candidatos/20261122-2101/mercadito-la-california-0a94d4dd.png
-  - Imagen original: candidatos/20261122-2101/mercadito-la-california-fcdd458a.jpg
-  - Imagen original: candidatos/20261122-2101/mercadito-la-california-628e4aad.png
-  - Imagen original: candidatos/20261122-2101/mercadito-la-california-dc3340e9.png
-  - Imagen original: candidatos/20261122-2101/mercadito-la-california-8e1e1806.png
-  - Imagen original: candidatos/20261122-2101/mercadito-la-california-29e378c4.png
-  - Imagen original: candidatos/20261122-2101/mercadito-la-california-87c82584.png
-  - Imagen original: candidatos/20261122-2101/mercadito-la-california-09d077f4.png
-  - Imagen original: candidatos/20261122-2101/mercadito-la-california-e56144b6.png
+  - Imagen original: candidatos/20261123-0724/mercadito-la-california-0a94d4dd.png
+  - Imagen original: candidatos/20261123-0724/mercadito-la-california-fcdd458a.jpg
+  - Imagen original: candidatos/20261123-0724/mercadito-la-california-bd88c2d1.jpg
+  - Imagen original: candidatos/20261123-0724/mercadito-la-california-628e4aad.png
+  - Imagen original: candidatos/20261123-0724/mercadito-la-california-dc3340e9.png
+  - Imagen original: candidatos/20261123-0724/mercadito-la-california-8e1e1806.png
+  - Imagen original: candidatos/20261123-0724/mercadito-la-california-29e378c4.png
+  - Imagen original: candidatos/20261123-0724/mercadito-la-california-09d077f4.png
+  - Imagen original: candidatos/20261123-0724/mercadito-la-california-e56144b6.png
+  - Imagen original: candidatos/20261123-0724/mercadito-la-california-561e00f4.png
 
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
@@ -62,3 +62,4 @@ Novedades: 3 | Fuentes pendientes: 38
 - Teatro Eugene O'Neill: sin fuente web, revision manual o WhatsApp
 - Plaza Mayor de Cartago: sin fuente web, revision manual o WhatsApp
 - Bar Restaurante LA SODA del Guarco: FB/IG configurado pero requiere token o revision manual
+- 15NA Pub: FB/IG configurado pero requiere token o revision manual
