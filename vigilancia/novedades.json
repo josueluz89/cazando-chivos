@@ -1,5 +1,5 @@
 {
- "stamp": "20261124-0208",
+ "stamp": "20261124-0944",
  "novedades": [
   {
    "bar": "Mercadito La California",
@@ -7,16 +7,14 @@
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261124-0208/mercadito-la-california-bd88c2d1.jpg",
-    "candidatos/20261124-0208/mercadito-la-california-fcdd458a.jpg",
-    "candidatos/20261124-0208/mercadito-la-california-0a94d4dd.png",
-    "candidatos/20261124-0208/mercadito-la-california-628e4aad.png",
-    "candidatos/20261124-0208/mercadito-la-california-8e1e1806.png",
-    "candidatos/20261124-0208/mercadito-la-california-dc3340e9.png",
-    "candidatos/20261124-0208/mercadito-la-california-29e378c4.png",
-    "candidatos/20261124-0208/mercadito-la-california-09d077f4.png",
-    "candidatos/20261124-0208/mercadito-la-california-e56144b6.png",
-    "candidatos/20261124-0208/mercadito-la-california-561e00f4.png"
+    "candidatos/20261124-0944/mercadito-la-california-f5344062.png",
+    "candidatos/20261124-0944/mercadito-la-california-628e4aad.png",
+    "candidatos/20261124-0944/mercadito-la-california-8e1e1806.png",
+    "candidatos/20261124-0944/mercadito-la-california-dc3340e9.png",
+    "candidatos/20261124-0944/mercadito-la-california-29e378c4.png",
+    "candidatos/20261124-0944/mercadito-la-california-09d077f4.png",
+    "candidatos/20261124-0944/mercadito-la-california-e56144b6.png",
+    "candidatos/20261124-0944/mercadito-la-california-561e00f4.png"
    ]
   },
   {
@@ -24,14 +22,10 @@
    "fuente": "https://www.eticket.cr",
    "tipo": "cambio_detectado",
    "titulo": "",
-   "imagenes": []
-  },
-  {
-   "bar": "Fulcro Gastro Bar",
-   "fuente": "https://linktr.ee/fulcrogastrobar",
-   "tipo": "cambio_detectado",
-   "titulo": "@fulcrogastrobarr Official: TikTok, Instagram, Facebook | Linktree",
-   "imagenes": []
+   "imagenes": [
+    "candidatos/20261124-0944/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
+    "candidatos/20261124-0944/anfiteatro-imperial-parque-viva-5a41518b.jpg"
+   ]
   },
   {
    "bar": "CIC ANDE (Anfiteatro)",
