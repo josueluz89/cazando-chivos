@@ -1,5 +1,5 @@
 {
- "stamp": "20261124-0944",
+ "stamp": "20261124-2351",
  "novedades": [
   {
    "bar": "Mercadito La California",
@@ -7,14 +7,16 @@
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261124-0944/mercadito-la-california-f5344062.png",
-    "candidatos/20261124-0944/mercadito-la-california-628e4aad.png",
-    "candidatos/20261124-0944/mercadito-la-california-8e1e1806.png",
-    "candidatos/20261124-0944/mercadito-la-california-dc3340e9.png",
-    "candidatos/20261124-0944/mercadito-la-california-29e378c4.png",
-    "candidatos/20261124-0944/mercadito-la-california-09d077f4.png",
-    "candidatos/20261124-0944/mercadito-la-california-e56144b6.png",
-    "candidatos/20261124-0944/mercadito-la-california-561e00f4.png"
+    "candidatos/20261124-2351/mercadito-la-california-0a94d4dd.png",
+    "candidatos/20261124-2351/mercadito-la-california-08a99769.jpg",
+    "candidatos/20261124-2351/mercadito-la-california-75cacb37.jpg",
+    "candidatos/20261124-2351/mercadito-la-california-fcdd458a.jpg",
+    "candidatos/20261124-2351/mercadito-la-california-bd88c2d1.jpg",
+    "candidatos/20261124-2351/mercadito-la-california-628e4aad.png",
+    "candidatos/20261124-2351/mercadito-la-california-8e1e1806.png",
+    "candidatos/20261124-2351/mercadito-la-california-dc3340e9.png",
+    "candidatos/20261124-2351/mercadito-la-california-29e378c4.png",
+    "candidatos/20261124-2351/mercadito-la-california-09d077f4.png"
    ]
   },
   {
@@ -22,16 +24,34 @@
    "fuente": "https://www.eticket.cr",
    "tipo": "cambio_detectado",
    "titulo": "",
-   "imagenes": [
-    "candidatos/20261124-0944/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
-    "candidatos/20261124-0944/anfiteatro-imperial-parque-viva-5a41518b.jpg"
-   ]
+   "imagenes": []
+  },
+  {
+   "bar": "Music Factory",
+   "fuente": "https://musicfactorycr.com",
+   "tipo": "cambio_detectado",
+   "titulo": "Music Factory CR - 3 Restaurantes y Música en Vivo",
+   "imagenes": []
+  },
+  {
+   "bar": "Fulcro Gastro Bar",
+   "fuente": "https://linktr.ee/fulcrogastrobar",
+   "tipo": "cambio_detectado",
+   "titulo": "@fulcrogastrobarr Restaurant - Visit to Find Food Options & See @fulcrogastrobarr Social Media & Official Accounts | Linktree",
+   "imagenes": []
   },
   {
    "bar": "CIC ANDE (Anfiteatro)",
    "fuente": "https://www.ande.cr/",
    "tipo": "fuente_caida",
    "detalle": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>"
+  },
+  {
+   "bar": "Palacio de los Deportes",
+   "fuente": "https://www.heredia.go.cr/",
+   "tipo": "cambio_detectado",
+   "titulo": "Portal Municipalidad de Heredia",
+   "imagenes": []
   }
  ],
  "pendientes": [
