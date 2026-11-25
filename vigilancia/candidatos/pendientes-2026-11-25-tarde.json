@@ -1,0 +1,65 @@
+{
+ "nota": "Actualizado 2026-11-25-tarde. PUBLICADOS HOY (5): Apocalyptica 24-ene-2027 Pepper's Club; Mustang65 18 Aniversario 28-nov Central Pub; PROVINCIA+MFLA 27-nov Amón Solar; The Castros 3-dic Las Arcadas; Golpe Bajo 10° aniversario 4-dic Stein Room. CORRECCIÓN: Whitecross & MKL pasa de 13-dic a 20-dic 19:00 (póster oficial Metal y Fe; GAM desactualizado); flyer viejo con fecha 13-dic eliminado, sin flyer nuevo hasta conseguir el póster del 20-dic. DESCARTADO: todos los shows de Club Hell (Diest, Bélgica, no CR — confirmado en la corrida 2026-11-23). FB events discover (4 búsquedas, 2026-11-25→2027-01-24): sin resultados. Descartados hoy: D'Classics 3-dic (pop nostálgico), Mentados 19-dic (ska/reggae), MODSKA 13-dic (ska), Ignite+NFA 9-dic (artículo de 2023), Red Flag 12-dic (stand-up Dezca), DOPE 27-nov (fiesta DJ nu-metal), Enuff Z'Nuff 6-dic Jacó (fuera del GAM), Homel Lewis 26-nov Jacó (fuera del GAM), NECROFEST III 12-dic Ciudad Quesada (fuera del GAM), Nonpalidece 12/13-dic (reggae), Mon Laferte/Trueno/KAROL G (pop). Pendientes: 5.",
+ "candidatos": [
+  {
+   "banda": "Natsu 10° Aniversario",
+   "bar": "Central Pub London Room",
+   "fecha": "2026-11-26",
+   "hora": "18:00",
+   "cover": "₡5.500/₡6.500",
+   "flyer": "",
+   "direccion_display": "Av 2 Calle 38-40, Paseo Colón, San José",
+   "region": "San José",
+   "fuente": "https://www.tiquetebox.com/",
+   "nota": "Banda de música anime/covers de anime, con Imani Campbell y Adrián Martín; género dudoso (no rock) — pendiente de decisión."
+  },
+  {
+   "banda": "Orquesta Filarmónica: Clásicos de Led Zeppelin",
+   "bar": "Teatro Popular Melico Salazar",
+   "fecha": "2026-11-28",
+   "hora": "20:00",
+   "cover": "desde ₡26.000",
+   "flyer": "",
+   "direccion_display": "Teatro Popular Melico Salazar, San José",
+   "region": "San José",
+   "fuente": "https://www.publitickets.com/",
+   "nota": "Tributo sinfónico (Stairway, Whole Lotta Love, Kashmir...); también dom 29-nov 16:00; formato orquestal, no banda de rock — pendiente."
+  },
+  {
+   "banda": "Contraforma",
+   "bar": "Plaza Mayor de Cartago",
+   "fecha": "2026-12-19",
+   "hora": "14:00",
+   "cover": "",
+   "flyer": "",
+   "direccion_display": "Plaza Mayor de Cartago, Cartago",
+   "region": "Cartago",
+   "fuente": "",
+   "nota": "Banda indie-pop/rock, sonido limítrofe rock/pop; programa municipal navideño — pendiente."
+  },
+  {
+   "banda": "Concierto Benéfico 2026 (Territorio de Zaguates)",
+   "bar": "Stereo Caníbal",
+   "fecha": "2026-11-28",
+   "hora": "10:00",
+   "cover": "₡6.000",
+   "flyer": "",
+   "direccion_display": "Stereo Caníbal, San José",
+   "region": "San José",
+   "fuente": "https://www.gamcultural.com/",
+   "nota": "Sin cartel de bandas confirmado (GAM y tiquetebox no listan artistas) — pendiente."
+  },
+  {
+   "banda": "Becoming Ashes (Tributo a Pearl Jam)",
+   "bar": "Monk's Irish Pub",
+   "fecha": "2026-11-28",
+   "hora": "20:00",
+   "cover": "",
+   "flyer": "",
+   "direccion_display": "Monk's Irish Pub (ciudad sin confirmar)",
+   "region": "San José",
+   "fuente": "",
+   "nota": "Ciudad del bar SIN confirmar (las búsquedas solo devuelven un Monk's de Mérida, México); cover según flyer '$50' ambiguo — pendiente salvo confirmar ubicación GAM."
+  }
+ ]
+}

@@ -321,6 +321,12 @@
       "web": null,
       "facebook": null,
       "instagram": "https://instagram.com/15na_pub"
+    },
+    {
+      "bar": "Las Arcadas",
+      "web": null,
+      "facebook": null,
+      "instagram": null
     }
   ],
   "personas": [
@@ -953,6 +959,36 @@
       "nombre": "Moldo",
       "facebook": null,
       "nota": "Agregado 2026-11-22-tarde por regla (cartelera): bajista y miembro fundador de Evolución; solista rock; sin página encontrada"
+    },
+    {
+      "nombre": "PROVINCIA",
+      "facebook": null,
+      "nota": "Agregada 2026-11-25: toca en Amón Solar el 2026-11-27; sin página encontrada"
+    },
+    {
+      "nombre": "MFLA",
+      "facebook": null,
+      "nota": "Agregada 2026-11-25: toca en Amón Solar el 2026-11-27; IG @M_F_L_A; sin página de FB encontrada"
+    },
+    {
+      "nombre": "Golpe Bajo",
+      "facebook": null,
+      "nota": "Agregada 2026-11-25: toca en Stein Room el 2026-12-04 (10° aniversario); sin página encontrada"
+    },
+    {
+      "nombre": "Sobre Tormentas",
+      "facebook": null,
+      "nota": "Agregada 2026-11-25: toca en Stein Room el 2026-12-04 con Golpe Bajo; sin página encontrada"
+    },
+    {
+      "nombre": "Sin Caer",
+      "facebook": null,
+      "nota": "Agregada 2026-11-25: toca en Stein Room el 2026-12-04 con Golpe Bajo; sin página encontrada"
+    },
+    {
+      "nombre": "Overseas",
+      "facebook": null,
+      "nota": "Agregada 2026-11-25: toca en Stein Room el 2026-12-04 con Golpe Bajo; sin página encontrada"
     }
   ]
 }

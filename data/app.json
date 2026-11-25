@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-23T15:16:34-06:00",
+ "actualizado": "2026-11-25T15:22:04-06:00",
  "ventana_dias": 60,
  "zonas": [
   "Alajuela",
@@ -79,6 +79,18 @@
    "region": "San José"
   },
   {
+   "banda": "PROVINCIA + MFLA",
+   "bar": "Amón Solar",
+   "fecha": "2026-11-27",
+   "hora": "20:00",
+   "cover": "₡5.000–₡7.000",
+   "flyer": "flyers/provincia-mfla-2026-11-27.jpg",
+   "direccion_display": "Amón Solar, San José",
+   "region": "San José",
+   "fuente": "https://www.gamcultural.com/cr/events/1884760/provincia-mfla-no-es-casa-por-siempre",
+   "nota": "'NO ES CASA POR SIEMPRE'; preventa ₡5.000 / día del evento ₡7.000; rock alternativo/indie."
+  },
+  {
    "banda": "SLAVON 30 aniversario + Eviltwin",
    "bar": "Music Factory",
    "cover": "₡10.000",
@@ -126,6 +138,18 @@
    "direccion_display": "Calle 3, Av 9-11, Barrio Amón, San José",
    "region": "San José",
    "fuente": "https://www.gamcultural.com/cr/events/1855018/diffuse-horizons-en-concierto"
+  },
+  {
+   "banda": "Mustang65 18 Aniversario",
+   "bar": "Central Pub London Room",
+   "fecha": "2026-11-28",
+   "hora": "20:00",
+   "cover": "",
+   "flyer": "",
+   "direccion_display": "Av 2 Calle 38-40, Paseo Colón, San José",
+   "region": "San José",
+   "fuente": "https://www.gamcultural.com/cr/p/v-Mustang65",
+   "nota": "18 aniversario; tributo a Pearl Jam."
   },
   {
    "banda": "Eclipse y Demolition Lovers presenta 20 aniversario de Black Parade (tributo a My Chemical Romance)",
@@ -184,6 +208,30 @@
    "hora": "19:00",
    "nota": "Confirmado por Bandsintown: Voltaje, Liberación Punk y Dosis DK; entrada un regalo sin envolver y no bélico; organizan El Fest y Dona con Amor.",
    "region": "Cartago"
+  },
+  {
+   "banda": "The Castros",
+   "bar": "Las Arcadas",
+   "fecha": "2026-12-03",
+   "hora": "19:00",
+   "cover": "₡5.000",
+   "flyer": "",
+   "direccion_display": "Las Arcadas, San José",
+   "region": "San José",
+   "fuente": "https://www.facebook.com/TheCastrosMusic/posts/pfbid02LvzMzH8JfjiWeXZsPsuXerNFFx9ioBBsZtVBFNeJmNY3BRZ3KXEqc3nSafRLuXo5l",
+   "nota": "Indie Music Night; con Emma Brott y Hierba Mala Social Cult; se piden víveres o juguetes para donar."
+  },
+  {
+   "banda": "Golpe Bajo 10° Aniversario",
+   "bar": "Stein Room",
+   "fecha": "2026-12-04",
+   "hora": "19:00",
+   "cover": "₡6.000/₡8.000",
+   "flyer": "flyers/golpe-bajo-10-aniversario-2026-12-04.jpg",
+   "direccion_display": "Stein Room, San José",
+   "region": "San José",
+   "fuente": "https://www.teletica.com/entretenimiento/golpe-bajo-celebrara-sus-10-anos-con-un-concierto_421751",
+   "nota": "10° aniversario; con Sobre Tormentas, Sin Caer y Overseas; DJ set de Feeling This solo en el after party; preventa ₡6.000 / día ₡8.000."
   },
   {
    "banda": "A Night Like This: Tributo a The Cure",
@@ -420,14 +468,14 @@
   {
    "banda": "Whitecross & MKL",
    "bar": "Auditorio Vida Abundante",
-   "fecha": "2026-12-13",
-   "hora": "18:00",
+   "fecha": "2026-12-20",
+   "hora": "19:00",
    "cover": "",
-   "flyer": "flyers/whitecross-mkl-2026-12-13.jpg",
+   "flyer": "",
    "direccion_display": "La Uruca, San José",
    "region": "San José",
-   "fuente": "https://www.gamcultural.com/cr/events/1769861/whitecross-mkl-en-concierto-noche-especial",
-   "nota": "Metal cristiano en vivo, concierto público abierto (Metal y Fe presenta); entradas aún sin publicar en GAM ('Pronto mas información')."
+   "fuente": "https://www.facebook.com/metalyfecr/posts/pfbid02vMabtmz7WqLKRyyZDBKuaRvjMR2J9iZZx7uwZ555uZCp4TGdoo8eT1tXCNq6rBiFl",
+   "nota": "Metal cristiano en vivo, concierto público abierto (Metal y Fe presenta). Fecha corregida a 20-dic 19:00 según póster oficial del organizador (GAM aún muestra 13-dic, desactualizado); banda invitada MKI en el póster; entradas WhatsApp 8813-4040."
   },
   {
    "banda": "Avatar",
@@ -453,6 +501,18 @@
    "hora": "20:00",
    "nota": "Metalcore de Jacksonville, Florida; regresa a CR después de casi 22 años. Confirmado en Starticket (Fase 1 ₡17.050 agotada, Fase 2 ₡19.850), GAM agenda Amon Solar y Concert Archives. Entra en ventana de 60 días hoy 2026-11-23 (FIN 2027-01-22).",
    "region": "San José"
+  },
+  {
+   "banda": "Apocalyptica",
+   "bar": "Pepper's Club",
+   "fecha": "2027-01-24",
+   "hora": "19:30",
+   "cover": "",
+   "flyer": "",
+   "direccion_display": "Pepper's Club, Zapote, San José",
+   "region": "San José",
+   "fuente": "https://www.bandsintown.com/es/a/2210-apocalyptica",
+   "nota": "Apocalyptica Plays Metallica Vol. 2 + hits; gira LatAm; entradas eleven.to / insomnio."
   }
  ],
  "locales": [
@@ -933,6 +993,20 @@
   {
    "nombre": "La Linea Restaurant and Bar",
    "direccion": "Dirección sin confirmar",
+   "estilo": "",
+   "telefono": "",
+   "historial": []
+  },
+  {
+   "nombre": "Amón Solar",
+   "direccion": "Amón Solar, San José",
+   "estilo": "",
+   "telefono": "",
+   "historial": []
+  },
+  {
+   "nombre": "Las Arcadas",
+   "direccion": "Las Arcadas, San José",
    "estilo": "",
    "telefono": "",
    "historial": []
