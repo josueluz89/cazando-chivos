@@ -1,18 +1,6 @@
 {
- "nota": "Actualizado 2026-11-25-tarde. PUBLICADOS HOY (5): Apocalyptica 24-ene-2027 Pepper's Club; Mustang65 18 Aniversario 28-nov Central Pub; PROVINCIA+MFLA 27-nov Amón Solar; The Castros 3-dic Las Arcadas; Golpe Bajo 10° aniversario 4-dic Stein Room. CORRECCIÓN: Whitecross & MKL pasa de 13-dic a 20-dic 19:00 (póster oficial Metal y Fe; GAM desactualizado); flyer viejo con fecha 13-dic eliminado, sin flyer nuevo hasta conseguir el póster del 20-dic. DESCARTADO: todos los shows de Club Hell (Diest, Bélgica, no CR — confirmado en la corrida 2026-11-23). FB events discover (4 búsquedas, 2026-11-25→2027-01-24): sin resultados. Descartados hoy: D'Classics 3-dic (pop nostálgico), Mentados 19-dic (ska/reggae), MODSKA 13-dic (ska), Ignite+NFA 9-dic (artículo de 2023), Red Flag 12-dic (stand-up Dezca), DOPE 27-nov (fiesta DJ nu-metal), Enuff Z'Nuff 6-dic Jacó (fuera del GAM), Homel Lewis 26-nov Jacó (fuera del GAM), NECROFEST III 12-dic Ciudad Quesada (fuera del GAM), Nonpalidece 12/13-dic (reggae), Mon Laferte/Trueno/KAROL G (pop). Pendientes: 5.",
+ "nota": "Actualizado 2026-11-25-tarde RONDA 2. PUBLICADOS HOY EN TOTAL (11): ronda 1: Apocalyptica 24-ene-2027, Mustang65 28-nov, PROVINCIA+MFLA 27-nov, The Castros 3-dic, Golpe Bajo 4-dic. Ronda 2: Natsu 26-nov, Concierto Benéfico 28-nov 16:00 (póster oficial; GAM decía 10:00), Tributo a Tool & A Perfect Circle 11-dic El Muro, MarAdentro (Héroes del Silencio) 19-dic El Muro, Stereo Fest 20-dic Stereo Caníbal, Liberación Punk 9-ene-2027 Bar Klandestino. CORRECCIÓN Whitecross & MKL a 20-dic 19:00 (póster oficial Metal y Fe; el subagente verificador no encontró la confirmación porque buscó el dato erróneo de Goodfellow's, pero la fecha 20-dic está confirmada por 8 publicaciones del organizador). Mentados pasó de descartado a PENDIENTE: los subagentes dicen rock en español, pero tiene vínculos con la escena reggae (cobertura de Tiquicia Irie, patrocinador reggae en el póster); decisión de Josué. Club Hell es Diest, Bélgica (descartado). FB events discover x4: sin resultados. Para la próxima corrida: Hellripper 26-ene Amon Solar (fuera de ventana hoy); Liberación Punk 13-dic 'Concierto Dínamo pacifico central' sin venue confirmado. Pendientes: 5.",
  "candidatos": [
-  {
-   "banda": "Natsu 10° Aniversario",
-   "bar": "Central Pub London Room",
-   "fecha": "2026-11-26",
-   "hora": "18:00",
-   "cover": "₡5.500/₡6.500",
-   "flyer": "",
-   "direccion_display": "Av 2 Calle 38-40, Paseo Colón, San José",
-   "region": "San José",
-   "fuente": "https://www.tiquetebox.com/",
-   "nota": "Banda de música anime/covers de anime, con Imani Campbell y Adrián Martín; género dudoso (no rock) — pendiente de decisión."
-  },
   {
    "banda": "Orquesta Filarmónica: Clásicos de Led Zeppelin",
    "bar": "Teatro Popular Melico Salazar",
@@ -22,7 +10,7 @@
    "flyer": "",
    "direccion_display": "Teatro Popular Melico Salazar, San José",
    "region": "San José",
-   "fuente": "https://www.publitickets.com/",
+   "fuente": "https://www.larepublica.net/clasicos-de-led-zeppelin-sonaran-con-la-orquesta-filarmonica/",
    "nota": "Tributo sinfónico (Stairway, Whole Lotta Love, Kashmir...); también dom 29-nov 16:00; formato orquestal, no banda de rock — pendiente."
   },
   {
@@ -38,16 +26,28 @@
    "nota": "Banda indie-pop/rock, sonido limítrofe rock/pop; programa municipal navideño — pendiente."
   },
   {
-   "banda": "Concierto Benéfico 2026 (Territorio de Zaguates)",
+   "banda": "Mentados (Fiesta Navideña)",
    "bar": "Stereo Caníbal",
-   "fecha": "2026-11-28",
-   "hora": "10:00",
-   "cover": "₡6.000",
+   "fecha": "2026-12-19",
+   "hora": "20:00",
+   "cover": "₡7.000/₡10.000",
    "flyer": "",
-   "direccion_display": "Stereo Caníbal, San José",
+   "direccion_display": "Av 1, Calle 11-15, San José",
    "region": "San José",
-   "fuente": "https://www.gamcultural.com/",
-   "nota": "Sin cartel de bandas confirmado (GAM y tiquetebox no listan artistas) — pendiente."
+   "fuente": "https://latiqueteracr.com/producto/fiesta-navidena-de-mentados/",
+   "nota": "Género en disputa: los subagentes lo dan como rock en español en vivo (estreno de inéditas, invitado Ara Macao), pero tiene vínculos con la escena reggae (cobertura de Tiquicia Irie, patrocinador reggae en el póster) — decisión de Josué."
+  },
+  {
+   "banda": "Red Flag",
+   "bar": "Oasis, La Calle",
+   "fecha": "2026-12-12",
+   "hora": "14:00",
+   "cover": "",
+   "flyer": "",
+   "direccion_display": "Oasis, La Calle, San Pedro, San José",
+   "region": "San José",
+   "fuente": "",
+   "nota": "GAM lista 'Red Flag • 12 de diciembre' 14:00 en Oasis sin detalle, flyer ni género; NO es el show de comedia de Dezca ('El último Red Flag', 20:00 ese día) — falta confirmar si es banda de rock y quiénes tocan."
   },
   {
    "banda": "Becoming Ashes (Tributo a Pearl Jam)",

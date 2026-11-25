@@ -493,5 +493,19 @@
   "estilo": "",
   "telefono": "",
   "historial": []
+ },
+ {
+  "nombre": "El Muro",
+  "direccion": "Calle 7, Avenida 5 y 7, San José",
+  "estilo": "",
+  "telefono": "",
+  "historial": []
+ },
+ {
+  "nombre": "Bar Klandestino",
+  "direccion": "Bar Klandestino, San Pedro, San José",
+  "estilo": "",
+  "telefono": "",
+  "historial": []
  }
 ]

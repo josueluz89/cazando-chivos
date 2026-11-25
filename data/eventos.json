@@ -948,6 +948,18 @@
   "fuente": "https://www.gamcultural.com/cr/events/1879502/gandhi-a-la-carta-26-de-noviembre"
  },
  {
+  "banda": "Natsu 10° Aniversario",
+  "bar": "Central Pub London Room",
+  "fecha": "2026-11-26",
+  "hora": "18:00",
+  "cover": "₡5.500/₡6.500",
+  "flyer": "",
+  "direccion_display": "Av 2 Calle 38-40, Paseo Colón, San José",
+  "region": "San José",
+  "fuente": "https://www.instagram.com/reel/DgBaVjdu3FU/",
+  "nota": "10° aniversario; banda de rock anime en vivo (guitarra, bajo, batería, teclado y voz); invitados Imani Campbell y Adrián Martín."
+ },
+ {
   "banda": "Time's Forgotten (20 años)",
   "bar": "Teatro Eugene O'Neill",
   "cover": "₡13.000",
@@ -1031,6 +1043,18 @@
   "region": "San José",
   "fuente": "https://passline.cr",
   "entradas": "Concierto público de rock/metal cristiano."
+ },
+ {
+  "banda": "Inner Sun + Morfinx + My Sweet Agony + Inception + Elysium + Social Ink",
+  "bar": "Stereo Caníbal",
+  "fecha": "2026-11-28",
+  "hora": "16:00",
+  "cover": "₡6.000",
+  "flyer": "flyers/inner-sun-morfinx-my-sweet-agony-inception-elysium-social-ink-2026-11-28.jpg",
+  "direccion_display": "Av 1, Calle 11-15, San José",
+  "region": "San José",
+  "fuente": "https://www.gamcultural.com/cr/events/1873126/concierto-benefico-2026",
+  "nota": "Concierto Benéfico 2026, Territorio de Zaguates (Inner Sun presenta); hora 16:00 según póster oficial (GAM dice 10:00, erróneo); se reciben donaciones de alimento sellado para perros y dinero al 8387 5130."
  },
  {
   "banda": "Diffuse Horizons En Concierto",
@@ -1309,6 +1333,18 @@
   "nota": "Canciones originales y éxitos del rock en español."
  },
  {
+  "banda": "Tributo a Tool & A Perfect Circle",
+  "bar": "El Muro",
+  "fecha": "2026-12-11",
+  "hora": "21:00",
+  "cover": "",
+  "flyer": "",
+  "direccion_display": "Calle 7, Avenida 5 y 7, San José",
+  "region": "San José",
+  "fuente": "https://www.gamcultural.com/cr/events/1777199/pop-hits",
+  "nota": "Por Sweet Insanity; entradas en tiquetebox.app."
+ },
+ {
   "banda": "Moldo",
   "bar": "15NA Pub",
   "fecha": "2026-12-12",
@@ -1370,6 +1406,18 @@
   "region": "San José"
  },
  {
+  "banda": "MarAdentro — Tributo a Héroes del Silencio",
+  "bar": "El Muro",
+  "fecha": "2026-12-19",
+  "hora": "21:00",
+  "cover": "₡10.000",
+  "flyer": "",
+  "direccion_display": "Calle 7, Avenida 5 y 7, San José",
+  "region": "San José",
+  "fuente": "https://www.facebook.com/maradentrocr/posts/pfbid02SksmNbhvXf9wsJfhZNwwqKgGGuBLWNc3opxQjfXYGnvGLyUnxGGaauE7HKcNNPoBl",
+  "nota": "Mega Chivo Navideño, 3 horas dedicadas a Héroes del Silencio; reservas SINPE 8332-8255."
+ },
+ {
   "banda": "Whitecross & MKL",
   "bar": "Auditorio Vida Abundante",
   "fecha": "2026-12-20",
@@ -1380,6 +1428,30 @@
   "region": "San José",
   "fuente": "https://www.facebook.com/metalyfecr/posts/pfbid02vMabtmz7WqLKRyyZDBKuaRvjMR2J9iZZx7uwZ555uZCp4TGdoo8eT1tXCNq6rBiFl",
   "nota": "Metal cristiano en vivo, concierto público abierto (Metal y Fe presenta). Fecha corregida a 20-dic 19:00 según póster oficial del organizador (GAM aún muestra 13-dic, desactualizado); banda invitada MKI en el póster; entradas WhatsApp 8813-4040."
+ },
+ {
+  "banda": "Stereo Fest: Nájera Music + Nandez + Overdose + Inception + Kay-Man",
+  "bar": "Stereo Caníbal",
+  "fecha": "2026-12-20",
+  "hora": "",
+  "cover": "",
+  "flyer": "",
+  "direccion_display": "Av 1, Calle 11-15, San José",
+  "region": "San José",
+  "fuente": "https://www.instagram.com/reel/DgJVnCLv5cl/",
+  "nota": "Toda la tarde; Overdose anuncia su set a las 16:00; 1 invitado especial por anunciar."
+ },
+ {
+  "banda": "Liberación Punk",
+  "bar": "Bar Klandestino",
+  "fecha": "2027-01-09",
+  "hora": "17:00",
+  "cover": "",
+  "flyer": "",
+  "direccion_display": "Bar Klandestino, San Pedro, San José",
+  "region": "San José",
+  "fuente": "https://www.bandsintown.com/es/c/san-pedro-costa-rica/all-dates/genre/all-genres?free=true",
+  "nota": "Punk en vivo; nueva fecha (también tocan 3-dic en LA SODA del Guarco)."
  },
  {
   "banda": "Avatar",

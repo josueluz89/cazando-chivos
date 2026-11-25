@@ -327,6 +327,18 @@
       "web": null,
       "facebook": null,
       "instagram": null
+    },
+    {
+      "bar": "Bar Klandestino",
+      "web": null,
+      "facebook": null,
+      "instagram": null
+    },
+    {
+      "bar": "El Muro",
+      "web": null,
+      "facebook": null,
+      "instagram": null
     }
   ],
   "personas": [
@@ -989,6 +1001,66 @@
       "nombre": "Overseas",
       "facebook": null,
       "nota": "Agregada 2026-11-25: toca en Stein Room el 2026-12-04 con Golpe Bajo; sin página encontrada"
+    },
+    {
+      "nombre": "Sweet Insanity",
+      "facebook": null,
+      "nota": "Agregada 2026-11-25: tributo a Tool & A Perfect Circle, 11-dic en El Muro; sin página encontrada"
+    },
+    {
+      "nombre": "Natsu",
+      "facebook": null,
+      "nota": "Agregada 2026-11-25: banda de rock anime, 10° aniversario 26-nov Central Pub; IG @natsuband; sin página de FB encontrada"
+    },
+    {
+      "nombre": "MarAdentro",
+      "facebook": null,
+      "nota": "Agregada 2026-11-25: tributo a Héroes del Silencio, 19-dic en El Muro; sin página encontrada"
+    },
+    {
+      "nombre": "Inner Sun",
+      "facebook": null,
+      "nota": "Agregada 2026-11-25: Concierto Benéfico 2026, 28-nov Stereo Caníbal; sin página encontrada"
+    },
+    {
+      "nombre": "My Sweet Agony",
+      "facebook": null,
+      "nota": "Agregada 2026-11-25: Concierto Benéfico 2026, 28-nov Stereo Caníbal; sin página encontrada"
+    },
+    {
+      "nombre": "Inception",
+      "facebook": null,
+      "nota": "Agregada 2026-11-25: Concierto Benéfico 2026, 28-nov Stereo Caníbal y Stereo Fest 20-dic; sin página encontrada"
+    },
+    {
+      "nombre": "Elysium",
+      "facebook": null,
+      "nota": "Agregada 2026-11-25: Concierto Benéfico 2026, 28-nov Stereo Caníbal; sin página encontrada"
+    },
+    {
+      "nombre": "Social Ink",
+      "facebook": null,
+      "nota": "Agregada 2026-11-25: Concierto Benéfico 2026, 28-nov Stereo Caníbal; sin página encontrada"
+    },
+    {
+      "nombre": "Nájera Music",
+      "facebook": null,
+      "nota": "Agregada 2026-11-25: Stereo Fest, 20-dic Stereo Caníbal; IG @najeramusic; sin página de FB encontrada"
+    },
+    {
+      "nombre": "Nandez",
+      "facebook": null,
+      "nota": "Agregada 2026-11-25: Stereo Fest, 20-dic Stereo Caníbal; sin página encontrada"
+    },
+    {
+      "nombre": "Overdose",
+      "facebook": null,
+      "nota": "Agregada 2026-11-25: Stereo Fest, 20-dic Stereo Caníbal; IG @overdosebandcr; sin página de FB encontrada"
+    },
+    {
+      "nombre": "Kay-Man",
+      "facebook": null,
+      "nota": "Agregada 2026-11-25: Stereo Fest, 20-dic Stereo Caníbal; sin página encontrada"
     }
   ]
 }
