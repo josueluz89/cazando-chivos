@@ -1,5 +1,5 @@
 {
- "stamp": "20261125-0818",
+ "stamp": "20261125-2335",
  "novedades": [
   {
    "bar": "Mercadito La California",
@@ -7,16 +7,16 @@
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261125-0818/mercadito-la-california-6cde7c7b.jpg",
-    "candidatos/20261125-0818/mercadito-la-california-0a94d4dd.png",
-    "candidatos/20261125-0818/mercadito-la-california-08a99769.jpg",
-    "candidatos/20261125-0818/mercadito-la-california-6f70f3ee.jpg",
-    "candidatos/20261125-0818/mercadito-la-california-fcdd458a.jpg",
-    "candidatos/20261125-0818/mercadito-la-california-75cacb37.jpg",
-    "candidatos/20261125-0818/mercadito-la-california-bd88c2d1.jpg",
-    "candidatos/20261125-0818/mercadito-la-california-628e4aad.png",
-    "candidatos/20261125-0818/mercadito-la-california-8e1e1806.png",
-    "candidatos/20261125-0818/mercadito-la-california-dc3340e9.png"
+    "candidatos/20261125-2335/mercadito-la-california-6cde7c7b.jpg",
+    "candidatos/20261125-2335/mercadito-la-california-08a99769.jpg",
+    "candidatos/20261125-2335/mercadito-la-california-75cacb37.jpg",
+    "candidatos/20261125-2335/mercadito-la-california-6f70f3ee.jpg",
+    "candidatos/20261125-2335/mercadito-la-california-0a94d4dd.png",
+    "candidatos/20261125-2335/mercadito-la-california-fcdd458a.jpg",
+    "candidatos/20261125-2335/mercadito-la-california-bd88c2d1.jpg",
+    "candidatos/20261125-2335/mercadito-la-california-628e4aad.png",
+    "candidatos/20261125-2335/mercadito-la-california-8e1e1806.png",
+    "candidatos/20261125-2335/mercadito-la-california-dc3340e9.png"
    ]
   },
   {
@@ -27,10 +27,17 @@
    "imagenes": []
   },
   {
+   "bar": "Music Factory",
+   "fuente": "https://musicfactorycr.com",
+   "tipo": "cambio_detectado",
+   "titulo": "Music Factory CR - 3 Restaurantes y Música en Vivo",
+   "imagenes": []
+  },
+  {
    "bar": "Fulcro Gastro Bar",
    "fuente": "https://linktr.ee/fulcrogastrobar",
    "tipo": "cambio_detectado",
-   "titulo": "@fulcrogastrobarr Official: TikTok, Instagram, Facebook | Linktree",
+   "titulo": "@fulcrogastrobarr Restaurant - Visit to Find Food Options & See @fulcrogastrobarr Social Media & Official Accounts | Linktree",
    "imagenes": []
   },
   {
@@ -79,7 +86,10 @@
   "Teatro Eugene O'Neill: sin fuente web, revision manual o WhatsApp",
   "Plaza Mayor de Cartago: sin fuente web, revision manual o WhatsApp",
   "Bar Restaurante LA SODA del Guarco: FB/IG configurado pero requiere token o revision manual",
-  "15NA Pub: FB/IG configurado pero requiere token o revision manual"
+  "15NA Pub: FB/IG configurado pero requiere token o revision manual",
+  "Las Arcadas: sin fuente web, revision manual o WhatsApp",
+  "Bar Klandestino: sin fuente web, revision manual o WhatsApp",
+  "El Muro: sin fuente web, revision manual o WhatsApp"
  ],
  "eventos_conocidos": 21
 }
