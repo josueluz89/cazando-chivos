@@ -1,21 +1,36 @@
-# Vigilancia 20261126-0804 (2x/dia)
+# Vigilancia 20261126-2347 (2x/dia)
 
-Novedades: 2 | Fuentes pendientes: 42
+Novedades: 5 | Fuentes pendientes: 43
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
+
+## Amon Solar
+- Fuente: https://amonsolar.com | Tipo: cambio_detectado
+- Titulo: Amon Solar Futbol
+  - Imagen original: candidatos/20261126-2347/amon-solar-4694e73a.jpg
+  - Imagen original: candidatos/20261126-2347/amon-solar-482781ce.jpg
+  - Imagen original: candidatos/20261126-2347/amon-solar-66ded307.jpg
+  - Imagen original: candidatos/20261126-2347/amon-solar-a73bd2e6.jpg
+  - Imagen original: candidatos/20261126-2347/amon-solar-b7cf6761.jpg
+  - Imagen original: candidatos/20261126-2347/amon-solar-587c25f5.jpg
+  - Logo del bar guardado en logos-bares/
+
+## Mercadito La California
+- Fuente: https://starticket.cr | Tipo: cambio_detectado
+  - Imagen original: candidatos/20261126-2347/mercadito-la-california-7855d942.jpg
+  - Imagen original: candidatos/20261126-2347/mercadito-la-california-b1fdefe2.jpg
+  - Imagen original: candidatos/20261126-2347/mercadito-la-california-bd88c2d1.jpg
+  - Imagen original: candidatos/20261126-2347/mercadito-la-california-75cacb37.jpg
 
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261126-0804/anfiteatro-imperial-parque-viva-9b72d5f7.jpg
-  - Imagen original: candidatos/20261126-0804/anfiteatro-imperial-parque-viva-fe1fcacd.jpg
-  - Imagen original: candidatos/20261126-0804/anfiteatro-imperial-parque-viva-e53b27be.jpg
-  - Imagen original: candidatos/20261126-0804/anfiteatro-imperial-parque-viva-5a41518b.jpg
-  - Imagen original: candidatos/20261126-0804/anfiteatro-imperial-parque-viva-d37ac2b0.jpg
-  - Imagen original: candidatos/20261126-0804/anfiteatro-imperial-parque-viva-e003131b.jpg
-  - Imagen original: candidatos/20261126-0804/anfiteatro-imperial-parque-viva-2c38e756.jpg
 
 ## CIC ANDE (Anfiteatro)
 - Fuente: https://www.ande.cr/ | Tipo: fuente_caida
 - Detalle: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>
+
+## Palacio de los Deportes
+- Fuente: https://www.heredia.go.cr/ | Tipo: cambio_detectado
+- Titulo: Portal Municipalidad de Heredia
 
 ## Pendientes (revision manual/WhatsApp)
 - Bar Reflexiones: FB/IG configurado pero requiere token o revision manual
@@ -60,3 +75,4 @@ Novedades: 2 | Fuentes pendientes: 42
 - Las Arcadas: sin fuente web, revision manual o WhatsApp
 - Bar Klandestino: sin fuente web, revision manual o WhatsApp
 - El Muro: sin fuente web, revision manual o WhatsApp
+- Kiosko del Parque, Tejar: FB/IG configurado pero requiere token o revision manual
