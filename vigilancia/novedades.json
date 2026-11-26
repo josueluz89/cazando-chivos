@@ -1,44 +1,20 @@
 {
- "stamp": "20261125-2335",
+ "stamp": "20261126-0804",
  "novedades": [
-  {
-   "bar": "Mercadito La California",
-   "fuente": "https://starticket.cr",
-   "tipo": "cambio_detectado",
-   "titulo": "",
-   "imagenes": [
-    "candidatos/20261125-2335/mercadito-la-california-6cde7c7b.jpg",
-    "candidatos/20261125-2335/mercadito-la-california-08a99769.jpg",
-    "candidatos/20261125-2335/mercadito-la-california-75cacb37.jpg",
-    "candidatos/20261125-2335/mercadito-la-california-6f70f3ee.jpg",
-    "candidatos/20261125-2335/mercadito-la-california-0a94d4dd.png",
-    "candidatos/20261125-2335/mercadito-la-california-fcdd458a.jpg",
-    "candidatos/20261125-2335/mercadito-la-california-bd88c2d1.jpg",
-    "candidatos/20261125-2335/mercadito-la-california-628e4aad.png",
-    "candidatos/20261125-2335/mercadito-la-california-8e1e1806.png",
-    "candidatos/20261125-2335/mercadito-la-california-dc3340e9.png"
-   ]
-  },
   {
    "bar": "Anfiteatro Imperial (Parque Viva)",
    "fuente": "https://www.eticket.cr",
    "tipo": "cambio_detectado",
    "titulo": "",
-   "imagenes": []
-  },
-  {
-   "bar": "Music Factory",
-   "fuente": "https://musicfactorycr.com",
-   "tipo": "cambio_detectado",
-   "titulo": "Music Factory CR - 3 Restaurantes y Música en Vivo",
-   "imagenes": []
-  },
-  {
-   "bar": "Fulcro Gastro Bar",
-   "fuente": "https://linktr.ee/fulcrogastrobar",
-   "tipo": "cambio_detectado",
-   "titulo": "@fulcrogastrobarr Restaurant - Visit to Find Food Options & See @fulcrogastrobarr Social Media & Official Accounts | Linktree",
-   "imagenes": []
+   "imagenes": [
+    "candidatos/20261126-0804/anfiteatro-imperial-parque-viva-9b72d5f7.jpg",
+    "candidatos/20261126-0804/anfiteatro-imperial-parque-viva-fe1fcacd.jpg",
+    "candidatos/20261126-0804/anfiteatro-imperial-parque-viva-e53b27be.jpg",
+    "candidatos/20261126-0804/anfiteatro-imperial-parque-viva-5a41518b.jpg",
+    "candidatos/20261126-0804/anfiteatro-imperial-parque-viva-d37ac2b0.jpg",
+    "candidatos/20261126-0804/anfiteatro-imperial-parque-viva-e003131b.jpg",
+    "candidatos/20261126-0804/anfiteatro-imperial-parque-viva-2c38e756.jpg"
+   ]
   },
   {
    "bar": "CIC ANDE (Anfiteatro)",
