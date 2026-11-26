@@ -1,0 +1,101 @@
+{
+ "nota": "Actualizado 2026-11-26-tarde. PUBLICADOS HOY (3): From the Bottom of Grunge vol. 3 (27-nov, El Muro), Fireplace tributo Arctic Monkeys & The Strokes (28-nov, El Muro), Flashback Rock Show (27-nov, Kiosko del Parque Tejar, Cartago). Bandas nuevas agregadas a personas: Fireplace, Flashback Rock Show. Venue nuevo: Kiosko del Parque, Tejar (locales.json + sources.json). RESUELTOS hoy (descartados): Red Flag 12-dic (es stand-up de Dezca, no rock), Becoming Ashes 28-nov (Monk's Irish Pub de Mérida, México), Liberación Punk 13-dic Dínamo (Parque Central de Esparza, Puntarenas, fuera del GAM; ni siquiera confirmado que toque Liberación Punk). FB events discover x4: sin resultados. Eticket mañana 08:04: solo pop/reggaetón/anime/ciclismo, nada de rock. Para la próxima corrida: Hellripper 26-ene-2027 Amon Solar (metal, confirmado en Bandsintown; cae 1 día fuera de la ventana que termina 25-ene). Pendientes: 7.",
+ "candidatos": [
+  {
+   "banda": "Orquesta Filarmónica: Clásicos de Led Zeppelin",
+   "bar": "Teatro Popular Melico Salazar",
+   "fecha": "2026-11-28",
+   "hora": "20:00",
+   "cover": "desde ₡26.000",
+   "flyer": "",
+   "direccion_display": "Teatro Popular Melico Salazar, San José",
+   "region": "San José",
+   "fuente": "https://www.larepublica.net/clasicos-de-led-zeppelin-sonaran-con-la-orquesta-filarmonica/",
+   "nota": "Tributo sinfónico (Stairway, Whole Lotta Love, Kashmir...); también dom 29-nov 16:00; formato orquestal, no banda de rock — pendiente."
+  },
+  {
+   "banda": "Contraforma",
+   "bar": "Plaza Mayor de Cartago",
+   "fecha": "2026-12-19",
+   "hora": "14:00",
+   "cover": "",
+   "flyer": "",
+   "direccion_display": "Plaza Mayor de Cartago, Cartago",
+   "region": "Cartago",
+   "fuente": "",
+   "nota": "Banda indie-pop/rock, sonido limítrofe rock/pop; programa municipal navideño — pendiente."
+  },
+  {
+   "banda": "Mentados (Fiesta Navideña)",
+   "bar": "Stereo Caníbal",
+   "fecha": "2026-12-19",
+   "hora": "20:00",
+   "cover": "₡7.000/₡10.000",
+   "flyer": "",
+   "direccion_display": "Av 1, Calle 11-15, San José",
+   "region": "San José",
+   "fuente": "https://latiqueteracr.com/producto/fiesta-navidena-de-mentados/",
+   "nota": "Género en disputa: los subagentes lo dan como rock en español en vivo (estreno de inéditas, invitado Ara Macao), pero tiene vínculos con la escena reggae (cobertura de Tiquicia Irie, patrocinador reggae en el póster) — decisión de Josué."
+  },
+  {
+   "banda": "Especial de Imagine Dragons",
+   "bar": "Jazz Café Escazú",
+   "fecha": "2026-11-29",
+   "hora": "19:00",
+   "cover": "₡7.500–₡9.500",
+   "flyer": "",
+   "direccion_display": "Jazz Café, Escazú",
+   "region": "San José",
+   "fuente": "https://www.gamcultural.com/cr/events/1864648/especial-de-imagine-dragons",
+   "nota": "GAM Cultural no nombra ninguna banda tributo; podría ser noche temática/playback, no banda en vivo — pendiente confirmar que toca una banda."
+  },
+  {
+   "banda": "Jay Weinberg (ex-Slipknot)",
+   "bar": "Amón Solar",
+   "fecha": "2026-11-29",
+   "hora": "16:00",
+   "cover": "₡25.000",
+   "flyer": "",
+   "direccion_display": "Amón Solar, San José",
+   "region": "San José",
+   "fuente": "",
+   "nota": "Clínica/masterclass de batería con show en vivo, no concierto de banda — pendiente (decisión de Josué)."
+  },
+  {
+   "banda": "Mimayato (álbum debut)",
+   "bar": "El Sótano, Amón Solar",
+   "fecha": "2026-12-05",
+   "hora": "18:00",
+   "cover": "₡11.000",
+   "flyer": "",
+   "direccion_display": "El Sótano, Amón Solar, San José",
+   "region": "San José",
+   "fuente": "https://www.nitido.cr/cultura/mimayato-presentara-primer-album-cuarteto-cuerdas",
+   "nota": "Dúo instrumental con cuarteto de cuerdas, influencias del rock y música de cámara, con poesía; rock instrumental/cámara al límite de la regla — pendiente."
+  },
+  {
+   "banda": "Val Batrez — Noche de Clásicos del Rock",
+   "bar": "Laika Rock Bar y Café",
+   "fecha": "2026-11-27",
+   "hora": "21:00",
+   "cover": "",
+   "flyer": "",
+   "direccion_display": "Laika Rock Bar y Café (ciudad sin confirmar)",
+   "region": "San José",
+   "fuente": "https://www.facebook.com/permalink.php?story_fbid=pfbid02njwBGRUd2VW6KDbHkhK3SQdJNnJDb4cg1s8Qj6jmAGYH7N7fgP9N1dFPLzHjyQ9cl&id=61588190492058",
+   "nota": "Ciudad del bar SIN confirmar (no aparece en geocodificador ni en sus publicaciones) — pendiente salvo confirmar ubicación GAM."
+  },
+  {
+   "banda": "Mod-Ska CR (30 años)",
+   "bar": "Amón Solar",
+   "fecha": "2026-12-13",
+   "hora": "",
+   "cover": "",
+   "flyer": "",
+   "direccion_display": "Amón Solar, San José",
+   "region": "San José",
+   "fuente": "",
+   "nota": "Ska, 30 aniversario 'Hace 30 comenzamos'; bandas invitadas no detalladas; género dudoso para la regla — pendiente."
+  }
+ ]
+}

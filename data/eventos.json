@@ -1,17 +1,5 @@
 [
  {
-  "banda": "The Mode (tributo a Depeche Mode) — Depeche Mode Revival Experience",
-  "bar": "Amon Solar",
-  "fecha": "2026-10-11",
-  "hora": "8:00 p. m.",
-  "cover": "₡10.000",
-  "flyer": "",
-  "direccion_display": "Calle 3, Av 9-11, Barrio Amón, San José",
-  "region": "San José",
-  "fuente": "https://starticket.cr/e/the-mode-depeche-mode-revival-experience/9299",
-  "nota": "Presentado por DISSONANTTE. Tributo en vivo. Sinpe Móvil: 6007-2525."
- },
- {
   "banda": "Homel Lewis",
   "bar": "Fonda Mi Viejo",
   "fecha": "2026-10-15",
@@ -983,6 +971,18 @@
   "fuente": "https://www.gamcultural.com/cr/events/1879503/gandhi-a-la-carta-27-de-noviembre"
  },
  {
+  "banda": "Flashback Rock Show",
+  "bar": "Kiosko del Parque, Tejar",
+  "fecha": "2026-11-27",
+  "hora": "19:00",
+  "cover": "",
+  "flyer": "",
+  "direccion_display": "Kiosko del Parque, Tejar de El Guarco, Cartago",
+  "region": "Cartago",
+  "fuente": "https://www.instagram.com/p/DgGDl8uI8xv/",
+  "nota": "Clásicos del rock en vivo; apertura Fiestas Patronales Inmaculada Concepción Tejar 2026, entrada gratuita"
+ },
+ {
   "banda": "A.N.I.M.A.L + Deznuke + Tributo a Rage Against the Machine",
   "bar": "Pepper's Club",
   "cover": "",
@@ -1018,6 +1018,18 @@
   "hora": "20:00",
   "nota": "Heavy metal tico: Slavon 30 aniversario, banda invitada Eviltwin. Información y reservas 8757-9901.",
   "region": "San José"
+ },
+ {
+  "banda": "From the Bottom of Grunge vol. 3",
+  "bar": "El Muro ArtPub & Comedy Club",
+  "fecha": "2026-11-27",
+  "hora": "20:30",
+  "cover": "₡6.500",
+  "flyer": "",
+  "direccion_display": "El Muro ArtPub & Comedy Club, San José",
+  "region": "San José",
+  "fuente": "https://www.instagram.com/p/DgJOshvB0T8/",
+  "nota": "Tributos grunge en vivo: Stone Temple Pilots, Nirvana, Alice in Chains, Pearl Jam, Smashing Pumpkins, Hole, Soundgarden"
  },
  {
   "banda": "Sangre X Sangre: Sentencia + BORYS + MOMENTOS + Exile + Living End + Terminal Force + Inersia + Sideways",
@@ -1078,6 +1090,18 @@
   "region": "San José",
   "fuente": "https://www.gamcultural.com/cr/p/v-Mustang65",
   "nota": "18 aniversario; tributo a Pearl Jam."
+ },
+ {
+  "banda": "Fireplace — Tributo a Arctic Monkeys & The Strokes",
+  "bar": "El Muro ArtPub & Comedy Club",
+  "fecha": "2026-11-28",
+  "hora": "20:00",
+  "cover": "Preventa ₡8.000 / General ₡10.000",
+  "flyer": "",
+  "direccion_display": "El Muro ArtPub & Comedy Club, San José",
+  "region": "San José",
+  "fuente": "https://www.instagram.com/p/DfK_uf0O2U-/",
+  "nota": "Tributo en vivo a Arctic Monkeys & The Strokes; entradas por Tiquete Box"
  },
  {
   "banda": "Eclipse y Demolition Lovers presenta 20 aniversario de Black Parade (tributo a My Chemical Romance)",

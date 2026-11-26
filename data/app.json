@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25T15:27:26-06:00",
+ "actualizado": "2026-11-26T15:12:35-06:00",
  "ventana_dias": 60,
  "zonas": [
   "Alajuela",
@@ -8,30 +8,6 @@
   "San José"
  ],
  "eventos": [
-  {
-   "banda": "Nirvana Unplugged y otros éxitos (tributo a Nirvana)",
-   "bar": "Jazz Café",
-   "fecha": "2026-11-25",
-   "hora": "14:30",
-   "cover": "₡8.000–₡10.000",
-   "flyer": "flyers/nirvana-unplugged-y-otros-éxitos-tributo-a-nirvana-2026-11-25.jpg",
-   "direccion_display": "Ruta 27, Lateral, San Rafael, Escazú",
-   "region": "San José",
-   "fuente": "https://www.gamcultural.com/cr/events/1869305/nirvana-unplugged-y-otros-exitos",
-   "entradas": "Venta en Tiquetebox"
-  },
-  {
-   "banda": "Time After: Tributo a Nirvana",
-   "bar": "Jazz Café",
-   "cover": "₡8.000 preventa / ₡10.000",
-   "direccion_display": "Ruta 27, Lateral, San Rafael, Escazú",
-   "fecha": "2026-11-25",
-   "flyer": "flyers/time-after-tributo-a-nirvana-2026-11-25.jpg",
-   "fuente": "https://www.gamcultural.com/cr/events/1883049/time-after-tributo-a-nirvana",
-   "hora": "20:30",
-   "nota": "Unplugged in New York y otros éxitos. Segundo tributo a Nirvana del día en Jazz Café (el de las 14:30 es de Stone Dive).",
-   "region": "San José"
-  },
   {
    "banda": "Gandhi — A LA CARTA",
    "bar": "Jazz Café",
@@ -79,6 +55,18 @@
    "fuente": "https://www.gamcultural.com/cr/events/1879503/gandhi-a-la-carta-27-de-noviembre"
   },
   {
+   "banda": "Flashback Rock Show",
+   "bar": "Kiosko del Parque, Tejar",
+   "fecha": "2026-11-27",
+   "hora": "19:00",
+   "cover": "",
+   "flyer": "",
+   "direccion_display": "Kiosko del Parque, Tejar de El Guarco, Cartago",
+   "region": "Cartago",
+   "fuente": "https://www.instagram.com/p/DgGDl8uI8xv/",
+   "nota": "Clásicos del rock en vivo; apertura Fiestas Patronales Inmaculada Concepción Tejar 2026, entrada gratuita"
+  },
+  {
    "banda": "A.N.I.M.A.L + Deznuke + Tributo a Rage Against the Machine",
    "bar": "Pepper's Club",
    "cover": "",
@@ -114,6 +102,18 @@
    "hora": "20:00",
    "nota": "Heavy metal tico: Slavon 30 aniversario, banda invitada Eviltwin. Información y reservas 8757-9901.",
    "region": "San José"
+  },
+  {
+   "banda": "From the Bottom of Grunge vol. 3",
+   "bar": "El Muro ArtPub & Comedy Club",
+   "fecha": "2026-11-27",
+   "hora": "20:30",
+   "cover": "₡6.500",
+   "flyer": "",
+   "direccion_display": "El Muro ArtPub & Comedy Club, San José",
+   "region": "San José",
+   "fuente": "https://www.instagram.com/p/DgJOshvB0T8/",
+   "nota": "Tributos grunge en vivo: Stone Temple Pilots, Nirvana, Alice in Chains, Pearl Jam, Smashing Pumpkins, Hole, Soundgarden"
   },
   {
    "banda": "Sangre X Sangre: Sentencia + BORYS + MOMENTOS + Exile + Living End + Terminal Force + Inersia + Sideways",
@@ -174,6 +174,18 @@
    "region": "San José",
    "fuente": "https://www.gamcultural.com/cr/p/v-Mustang65",
    "nota": "18 aniversario; tributo a Pearl Jam."
+  },
+  {
+   "banda": "Fireplace — Tributo a Arctic Monkeys & The Strokes",
+   "bar": "El Muro ArtPub & Comedy Club",
+   "fecha": "2026-11-28",
+   "hora": "20:00",
+   "cover": "Preventa ₡8.000 / General ₡10.000",
+   "flyer": "",
+   "direccion_display": "El Muro ArtPub & Comedy Club, San José",
+   "region": "San José",
+   "fuente": "https://www.instagram.com/p/DfK_uf0O2U-/",
+   "nota": "Tributo en vivo a Arctic Monkeys & The Strokes; entradas por Tiquete Box"
   },
   {
    "banda": "Eclipse y Demolition Lovers presenta 20 aniversario de Black Parade (tributo a My Chemical Romance)",
@@ -1096,6 +1108,15 @@
    "estilo": "",
    "telefono": "",
    "historial": []
+  },
+  {
+   "nombre": "Kiosko del Parque, Tejar",
+   "direccion": "Kiosko del Parque, Tejar de El Guarco, Cartago",
+   "estilo": "Kiosko / anfiteatro al aire libre, música en vivo",
+   "historial": [
+    "Flashback Rock Show"
+   ],
+   "telefono": ""
   }
  ]
 }

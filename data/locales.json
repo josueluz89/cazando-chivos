@@ -507,5 +507,14 @@
   "estilo": "",
   "telefono": "",
   "historial": []
+ },
+ {
+  "nombre": "Kiosko del Parque, Tejar",
+  "direccion": "Kiosko del Parque, Tejar de El Guarco, Cartago",
+  "estilo": "Kiosko / anfiteatro al aire libre, música en vivo",
+  "historial": [
+   "Flashback Rock Show"
+  ],
+  "telefono": ""
  }
 ]
