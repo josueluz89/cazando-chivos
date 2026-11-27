@@ -1,31 +1,35 @@
-# Vigilancia 20261127-0813 (2x/dia)
+# Vigilancia 20261127-2323 (2x/dia)
 
-Novedades: 4 | Fuentes pendientes: 43
+Novedades: 5 | Fuentes pendientes: 47
 **Nada se publica solo: Mike aprueba antes de tocar eventos.json.**
 
 ## Mercadito La California
 - Fuente: https://starticket.cr | Tipo: cambio_detectado
-  - Imagen original: candidatos/20261127-0813/mercadito-la-california-6f70f3ee.jpg
-  - Imagen original: candidatos/20261127-0813/mercadito-la-california-08a99769.jpg
-  - Imagen original: candidatos/20261127-0813/mercadito-la-california-7855d942.jpg
-  - Imagen original: candidatos/20261127-0813/mercadito-la-california-75cacb37.jpg
-  - Imagen original: candidatos/20261127-0813/mercadito-la-california-fcdd458a.jpg
-  - Imagen original: candidatos/20261127-0813/mercadito-la-california-bd88c2d1.jpg
-  - Imagen original: candidatos/20261127-0813/mercadito-la-california-0a94d4dd.png
-  - Imagen original: candidatos/20261127-0813/mercadito-la-california-6cde7c7b.jpg
-  - Imagen original: candidatos/20261127-0813/mercadito-la-california-91288325.jpg
-  - Imagen original: candidatos/20261127-0813/mercadito-la-california-628e4aad.png
+  - Imagen original: candidatos/20261127-2323/mercadito-la-california-6f70f3ee.jpg
+  - Imagen original: candidatos/20261127-2323/mercadito-la-california-6cde7c7b.jpg
+  - Imagen original: candidatos/20261127-2323/mercadito-la-california-7855d942.jpg
+  - Imagen original: candidatos/20261127-2323/mercadito-la-california-bd88c2d1.jpg
+  - Imagen original: candidatos/20261127-2323/mercadito-la-california-91288325.jpg
+  - Imagen original: candidatos/20261127-2323/mercadito-la-california-0a94d4dd.png
+  - Imagen original: candidatos/20261127-2323/mercadito-la-california-fcdd458a.jpg
+  - Imagen original: candidatos/20261127-2323/mercadito-la-california-75cacb37.jpg
+  - Imagen original: candidatos/20261127-2323/mercadito-la-california-08a99769.jpg
+  - Imagen original: candidatos/20261127-2323/mercadito-la-california-214cba6e.jpg
 
 ## Anfiteatro Imperial (Parque Viva)
 - Fuente: https://www.eticket.cr | Tipo: cambio_detectado
 
-## Music Factory
-- Fuente: https://musicfactorycr.com | Tipo: cambio_detectado
-- Titulo: Music Factory CR - 3 Restaurantes y Música en Vivo
+## Fulcro Gastro Bar
+- Fuente: https://linktr.ee/fulcrogastrobar | Tipo: cambio_detectado
+- Titulo: @fulcrogastrobarr Official: TikTok, Instagram, Facebook | Linktree
 
 ## CIC ANDE (Anfiteatro)
 - Fuente: https://www.ande.cr/ | Tipo: fuente_caida
 - Detalle: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>
+
+## Palacio de los Deportes
+- Fuente: https://www.heredia.go.cr/ | Tipo: cambio_detectado
+- Titulo: Portal Municipalidad de Heredia
 
 ## Pendientes (revision manual/WhatsApp)
 - Bar Reflexiones: FB/IG configurado pero requiere token o revision manual
@@ -71,3 +75,7 @@ Novedades: 4 | Fuentes pendientes: 43
 - Bar Klandestino: sin fuente web, revision manual o WhatsApp
 - El Muro: sin fuente web, revision manual o WhatsApp
 - Kiosko del Parque, Tejar: FB/IG configurado pero requiere token o revision manual
+- Laika Rock Bar y Café: sin fuente web, revision manual o WhatsApp
+- Hooligan's City Mall: sin fuente web, revision manual o WhatsApp
+- Restaurante Trova y Más: sin fuente web, revision manual o WhatsApp
+- Parque Central de Grecia: sin fuente web, revision manual o WhatsApp
