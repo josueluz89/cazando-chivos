@@ -345,6 +345,34 @@
    "web": null,
    "facebook": null,
    "instagram": "https://www.instagram.com/flashback_rockshow"
+  },
+  {
+   "bar": "Laika Rock Bar y Café",
+   "web": null,
+   "facebook": null,
+   "instagram": null,
+   "nota": "Agregado 2026-11-27 por regla (cartelera: Val Batrez 27-nov); Cartago, 100 m oeste y 25 m sur de la esquina NO del Parque de la Basílica; sin página encontrada"
+  },
+  {
+   "bar": "Hooligan's City Mall",
+   "web": null,
+   "facebook": null,
+   "instagram": null,
+   "nota": "Agregado 2026-11-27 por regla (cartelera: Mustang65 30-nov); City Mall, Alajuela; sin página encontrada"
+  },
+  {
+   "bar": "Restaurante Trova y Más",
+   "web": null,
+   "facebook": null,
+   "instagram": null,
+   "nota": "Agregado 2026-11-27 por regla (cartelera: El Nervio 5-dic); San Rafael de Heredia; sin página encontrada"
+  },
+  {
+   "bar": "Parque Central de Grecia",
+   "web": null,
+   "facebook": null,
+   "instagram": null,
+   "nota": "Agregado 2026-11-27 por regla (cartelera: Malpaís 28-nov, concierto municipal gratuito); Bulevar del Parque Central, Grecia, Alajuela"
   }
  ],
  "personas": [
@@ -1077,6 +1105,46 @@
    "nombre": "Flashback Rock Show",
    "facebook": null,
    "nota": "Agregada 2026-11-26-tarde por regla (cartelera): clásicos del rock en vivo; toca en Kiosko del Parque, Tejar, el 2026-11-27. IG @flashback_rockshow; sin página de Facebook encontrada."
+  },
+  {
+   "nombre": "Triddi",
+   "facebook": null,
+   "nota": "Rock costarricense; agregada 2026-11-27 por regla (cartelera: lanzamiento «Ángel de Luz» 27-nov, Central Pub London Room); sin página encontrada"
+  },
+  {
+   "nombre": "El Nervio",
+   "facebook": "https://www.facebook.com/elnerviocr",
+   "nota": "Tributo a Caifanes; agregada 2026-11-27 por regla (cartelera: 5-dic, Trova y Más, San Rafael de Heredia)"
+  },
+  {
+   "nombre": "Último Asalto",
+   "facebook": null,
+   "nota": "Oi!/street punk (Barcelona); agregada 2026-11-27 por regla (cartelera: 24-ene-2027, Club Oasis); sin página encontrada"
+  },
+  {
+   "nombre": "Val Batrez",
+   "facebook": null,
+   "nota": "Rock clásico; agregada 2026-11-27 por regla (cartelera: Noche de Clásicos del Rock 27-nov, Laika Rock Bar y Café, Cartago); sin página encontrada"
+  },
+  {
+   "nombre": "Señor Loop",
+   "facebook": null,
+   "nota": "Rock alternativo/indie (Panamá); agregada 2026-11-27 por regla (cartelera: 11-dic, Mercadito La California); sin página encontrada (Instagram @senorloop)"
+  },
+  {
+   "nombre": "Malpaís",
+   "facebook": "https://www.facebook.com/GrupoMalpais",
+   "nota": "Rock en español (CR); agregada 2026-11-27 por regla (cartelera: 28-nov Grecia y 19-dic Mercadito La California)"
+  },
+  {
+   "nombre": "Hellripper",
+   "facebook": null,
+   "nota": "Black/speed metal (Escocia); agregada 2026-11-27 por regla (cartelera: 26-ene-2027, Amón Solar); sin página encontrada"
+  },
+  {
+   "nombre": "Especial de Imagine Dragons",
+   "facebook": null,
+   "nota": "Tributo sin nombre de escenario (músicos: Carlos Cisneros, Pablo Mesen, Ariel Arroyo, David Solano, Omar Arroyo); agregada 2026-11-27 por regla (cartelera: 29-nov, Jazz Café Escazú); pop-rock/alternativo, caso límite"
   }
  ]
 }

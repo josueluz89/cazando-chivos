@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26T15:12:35-06:00",
+ "actualizado": "2026-11-27T15:14:26-06:00",
  "ventana_dias": 60,
  "zonas": [
   "Alajuela",
@@ -8,41 +8,6 @@
   "San José"
  ],
  "eventos": [
-  {
-   "banda": "Gandhi — A LA CARTA",
-   "bar": "Jazz Café",
-   "fecha": "2026-11-26",
-   "hora": "14:30",
-   "cover": "",
-   "flyer": "flyers/gandhi-a-la-carta-2026-11-26.jpg",
-   "direccion_display": "Paralela a la Autopista Próspero Fernández, Escazú",
-   "region": "San José",
-   "fuente": "https://www.gamcultural.com/cr/events/1879502/gandhi-a-la-carta-26-de-noviembre"
-  },
-  {
-   "banda": "Natsu 10° Aniversario",
-   "bar": "Central Pub London Room",
-   "fecha": "2026-11-26",
-   "hora": "18:00",
-   "cover": "₡5.500/₡6.500",
-   "flyer": "",
-   "direccion_display": "Av 2 Calle 38-40, Paseo Colón, San José",
-   "region": "San José",
-   "fuente": "https://www.instagram.com/reel/DgBaVjdu3FU/",
-   "nota": "10° aniversario; banda de rock anime en vivo (guitarra, bajo, batería, teclado y voz); invitados Imani Campbell y Adrián Martín."
-  },
-  {
-   "banda": "Time's Forgotten (20 años)",
-   "bar": "Teatro Eugene O'Neill",
-   "cover": "₡13.000",
-   "direccion_display": "San Pedro, San José",
-   "fecha": "2026-11-26",
-   "flyer": "flyers/time-s-forgotten-20-años-2026-11-26.jpg",
-   "fuente": "https://delfino.cr/2026/10/times-forgotten-celebrara-20-anos-con-concierto-en-el-teatro-eugene-oneill",
-   "hora": "20:00",
-   "nota": "Interpreta completo su álbum debut 'A Relative Moment of Peace' más repertorio reciente. Entradas en Tiquetebox.",
-   "region": "San José"
-  },
   {
    "banda": "Gandhi — A LA CARTA",
    "bar": "Jazz Café",
@@ -104,6 +69,18 @@
    "region": "San José"
   },
   {
+   "banda": "Triddi — lanzamiento «Ángel de Luz»",
+   "bar": "Central Pub London Room",
+   "cover": "₡6.000 preventa / ₡8.000 día del evento",
+   "direccion_display": "Av. 2, Calle 38-40, Paseo Colón, San José",
+   "fecha": "2026-11-27",
+   "flyer": "",
+   "fuente": "https://eventos.cr/evento/26-11-27-triddi-lanzamiento-de-su-nuevo-album-angel-de-luz",
+   "hora": "20:30",
+   "nota": "Lanzamiento del álbum «Ángel de Luz»; entradas en La Tiquetera CR",
+   "region": "San José"
+  },
+  {
    "banda": "From the Bottom of Grunge vol. 3",
    "bar": "El Muro ArtPub & Comedy Club",
    "fecha": "2026-11-27",
@@ -114,6 +91,17 @@
    "region": "San José",
    "fuente": "https://www.instagram.com/p/DgJOshvB0T8/",
    "nota": "Tributos grunge en vivo: Stone Temple Pilots, Nirvana, Alice in Chains, Pearl Jam, Smashing Pumpkins, Hole, Soundgarden"
+  },
+  {
+   "banda": "Val Batrez — Noche de Clásicos del Rock",
+   "bar": "Laika Rock Bar y Café",
+   "cover": "Sin cover",
+   "direccion_display": "100 m oeste y 25 m sur de la esquina NO del Parque de la Basílica, Cartago",
+   "fecha": "2026-11-27",
+   "flyer": "",
+   "fuente": "https://www.facebook.com/permalink.php?story_fbid=pfbid02njwBGRUd2VW6KDbHkhK3SQdJNnJDb4cg1s8Qj6jmAGYH7N7fgP9N1dFPLzHjyQ9cl&id=61588190492058",
+   "hora": "21:00",
+   "region": "Cartago"
   },
   {
    "banda": "Sangre X Sangre: Sentencia + BORYS + MOMENTOS + Exile + Living End + Terminal Force + Inersia + Sideways",
@@ -200,6 +188,18 @@
    "region": "San José"
   },
   {
+   "banda": "Malpaís",
+   "bar": "Parque Central de Grecia",
+   "cover": "Gratis",
+   "direccion_display": "Bulevar del Parque Central, Grecia, Alajuela",
+   "fecha": "2026-11-28",
+   "flyer": "flyers/malpaís-2026-11-28.jpg",
+   "fuente": "https://delfino.cr/2026/11/grecia-encendera-su-iluminacion-navidena-con-concierto-de-malpais",
+   "hora": "20:15",
+   "nota": "Concierto gratuito de encendido navideño de la Municipalidad de Grecia",
+   "region": "Alajuela"
+  },
+  {
    "banda": "Bad Moon (tributo a Creedence Clearwater Revival)",
    "bar": "Bar Reflexiones",
    "fecha": "2026-11-28",
@@ -221,6 +221,18 @@
    "nota": "Hora en GAM: ficha 14:00, descripción 8:00 PM; se publica sin hora confirmada."
   },
   {
+   "banda": "Especial de Imagine Dragons",
+   "bar": "Jazz Café Escazú",
+   "cover": "₡7.500–₡9.500",
+   "direccion_display": "Ruta 27, Lateral, San Rafael, Escazú",
+   "fecha": "2026-11-29",
+   "flyer": "flyers/especial-de-imagine-dragons-2026-11-29.jpg",
+   "fuente": "https://www.gamcultural.com/cr/events/1864648/especial-de-imagine-dragons",
+   "hora": "19:00",
+   "nota": "Tributo en vivo, banda de 5 músicos: Carlos Cisneros, Pablo Mesen, Ariel Arroyo, David Solano, Omar Arroyo; pop-rock/alternativo",
+   "region": "San José"
+  },
+  {
    "banda": "El Último Ke Zierre (EUKZ)",
    "bar": "Pepper's Club",
    "fecha": "2026-11-29",
@@ -231,6 +243,18 @@
    "region": "San José",
    "fuente": "https://eleven-to.com/product/eukz-el-tour-mas-esperado/",
    "nota": "Punk en español; regreso a Pepper's Club. Puertas 18:00. +15 con adulto."
+  },
+  {
+   "banda": "Mustang65",
+   "bar": "Hooligan's City Mall",
+   "cover": "",
+   "direccion_display": "City Mall, Alajuela",
+   "fecha": "2026-11-30",
+   "flyer": "",
+   "fuente": "https://www.instagram.com/p/DgAdntHBSN1/",
+   "hora": "20:30",
+   "nota": "Cover por confirmar",
+   "region": "Alajuela"
   },
   {
    "banda": "Voltaje + Liberacion Punk + Dosis DK (Ruido por Sonrisas)",
@@ -331,6 +355,30 @@
    "region": "Cartago"
   },
   {
+   "banda": "Flashback Rock Show — 80s vs. 90s",
+   "bar": "Fulcro Gastro Bar",
+   "cover": "Preventa $10.40; mesa general $8.20 (SINPE)",
+   "direccion_display": "2 km al oeste de DEKRA, Quebradilla, Tejar, Cartago",
+   "fecha": "2026-12-05",
+   "flyer": "",
+   "fuente": "https://starticket.cr/e/flashback-rock-show-80s-vs-90s/10652?ref=startickethome",
+   "hora": "20:00",
+   "nota": "Éxitos 80s vs. 90s; entradas en Starticket",
+   "region": "Cartago"
+  },
+  {
+   "banda": "El Nervio — Especial a Caifanes",
+   "bar": "Restaurante Trova y Más",
+   "cover": "₡5.000 preventa",
+   "direccion_display": "San Rafael de Heredia",
+   "fecha": "2026-12-05",
+   "flyer": "",
+   "fuente": "https://www.facebook.com/elnerviocr/posts/pfbid02aAWrHf4vAndrD4VuLur4X4LExnbUMpk84SopNsxSFtwnhwafeKFdfhxYfsT6PeEMl",
+   "hora": "20:30",
+   "nota": "Tributo en vivo a Caifanes + hits de rock en español; reservas 8484-9035",
+   "region": "Heredia"
+  },
+  {
    "banda": "El Rito — Especial Soda Stereo",
    "bar": "Club de Bello",
    "fecha": "2026-12-05",
@@ -416,6 +464,18 @@
    "region": "San José"
   },
   {
+   "banda": "Señor Loop — «La Leña Que Prende Madera»",
+   "bar": "Mercadito La California",
+   "cover": "$80 (Fase 2)",
+   "direccion_display": "Calle 21, Av 0-1, Barrio La California, San José",
+   "fecha": "2026-12-11",
+   "flyer": "",
+   "fuente": "https://www.facebook.com/backstagemagazinecr/posts/pfbid0LixbdmeAg4PWRTBYKNcarVDFHD7BU3HjDPn2VXzpQJQx1ov2nPkdQxrcW3WLiTDLl",
+   "hora": "18:00",
+   "nota": "Rock alternativo/indie en vivo (Panamá); Fase 2 en La Tiquetera CR; VIP y Fase 1 agotadas",
+   "region": "San José"
+  },
+  {
    "banda": "Adiós Cometa + RosaViolento + SRUF",
    "bar": "Stein Room",
    "fecha": "2026-12-11",
@@ -427,6 +487,18 @@
    "fuente": "https://www.gamcultural.com/cr/events/1879509/adios-cometa-en-el-stein-room",
    "entradas": "Tiquetebox: https://www.tiquetebox.app/e/adios_cometa_en_el_stein_room",
    "nota": "GAM muestra 13:00 pero el póster oficial dice 19:00; se publica 19:00."
+  },
+  {
+   "banda": "Diesel Rock — «Appetite for Rock» (tributo a Guns N' Roses)",
+   "bar": "Jazz Café Escazú",
+   "cover": "₡12.000 preventa / ₡14.000 semana del evento",
+   "direccion_display": "Ruta 27, Lateral, San Rafael, Escazú",
+   "fecha": "2026-12-11",
+   "flyer": "",
+   "fuente": "https://www.facebook.com/rockfmcostarica/posts/pfbid0tA8U9H8ictYAbUj4bGaUdLrCviwo33U2tGb7tTiUxWsU9wkFkoGf54mrmh6RaVuol",
+   "hora": "19:45",
+   "nota": "Reservas por teléfono",
+   "region": "San José"
   },
   {
    "banda": "CATARSIS",
@@ -514,6 +586,18 @@
    "region": "San José"
   },
   {
+   "banda": "Malpaís — Concierto de Navidad y Fin de Año",
+   "bar": "Mercadito La California",
+   "cover": "₡5.000",
+   "direccion_display": "Calle 21, Av 0-1, Barrio La California, San José",
+   "fecha": "2026-12-19",
+   "flyer": "",
+   "fuente": "https://www.facebook.com/GrupoMalpais/posts/pfbid0284m1trrt9xrDVGUoj5ojkbqyWEcHA7aPe3kD57jEp1DeDccsTz4EF3yDEVPyeW4ml",
+   "hora": "18:00",
+   "nota": "Entradas en mistickets.com",
+   "region": "San José"
+  },
+  {
    "banda": "MarAdentro — Tributo a Héroes del Silencio",
    "bar": "El Muro",
    "fecha": "2026-12-19",
@@ -587,6 +671,18 @@
    "region": "San José"
   },
   {
+   "banda": "Último Asalto",
+   "bar": "Club Oasis",
+   "cover": "Early bird ₡20.000; general ₡25.450",
+   "direccion_display": "Oasis La Calle, San Pedro, San José",
+   "fecha": "2027-01-24",
+   "flyer": "",
+   "fuente": "https://starticket.cr/e/ultimo-asalto/10584?ref=startickethome",
+   "hora": "17:00",
+   "nota": "Oi!/street punk (Barcelona, 25+ años); bandas nacionales por anunciar; entradas en Starticket",
+   "region": "San José"
+  },
+  {
    "banda": "Apocalyptica",
    "bar": "Pepper's Club",
    "fecha": "2027-01-24",
@@ -597,6 +693,18 @@
    "region": "San José",
    "fuente": "https://www.bandsintown.com/es/a/2210-apocalyptica",
    "nota": "Apocalyptica Plays Metallica Vol. 2 + hits; gira LatAm; entradas eleven.to / insomnio."
+  },
+  {
+   "banda": "Hellripper",
+   "bar": "Amón Solar",
+   "cover": "",
+   "direccion_display": "Calle 3, Av 9-11, Barrio Amón, San José",
+   "fecha": "2027-01-26",
+   "flyer": "",
+   "fuente": "https://starticket.cr/e/hellripper/9302?ref=startickethome",
+   "hora": "19:00",
+   "nota": "Black/speed metal (Escocia), gira Latinoamérica 2027; GAM Cultural indica 20:00 — hora por confirmar; cover por confirmar",
+   "region": "San José"
   }
  ],
  "locales": [
@@ -1117,6 +1225,41 @@
     "Flashback Rock Show"
    ],
    "telefono": ""
+  },
+  {
+   "nombre": "Laika Rock Bar y Café",
+   "direccion": "100 m oeste y 25 m sur de la esquina NO del Parque de la Basílica, Cartago",
+   "estilo": "",
+   "telefono": "",
+   "historial": []
+  },
+  {
+   "nombre": "Parque Central de Grecia",
+   "direccion": "Bulevar del Parque Central, Grecia, Alajuela",
+   "estilo": "",
+   "telefono": "",
+   "historial": []
+  },
+  {
+   "nombre": "Jazz Café Escazú",
+   "direccion": "Ruta 27, Lateral, San Rafael, Escazú",
+   "estilo": "",
+   "telefono": "",
+   "historial": []
+  },
+  {
+   "nombre": "Hooligan's City Mall",
+   "direccion": "City Mall, Alajuela",
+   "estilo": "",
+   "telefono": "",
+   "historial": []
+  },
+  {
+   "nombre": "Restaurante Trova y Más",
+   "direccion": "San Rafael de Heredia",
+   "estilo": "",
+   "telefono": "",
+   "historial": []
   }
  ]
 }

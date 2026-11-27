@@ -516,5 +516,40 @@
    "Flashback Rock Show"
   ],
   "telefono": ""
+ },
+ {
+  "nombre": "Laika Rock Bar y Café",
+  "direccion": "100 m oeste y 25 m sur de la esquina NO del Parque de la Basílica, Cartago",
+  "estilo": "",
+  "telefono": "",
+  "historial": []
+ },
+ {
+  "nombre": "Parque Central de Grecia",
+  "direccion": "Bulevar del Parque Central, Grecia, Alajuela",
+  "estilo": "",
+  "telefono": "",
+  "historial": []
+ },
+ {
+  "nombre": "Jazz Café Escazú",
+  "direccion": "Ruta 27, Lateral, San Rafael, Escazú",
+  "estilo": "",
+  "telefono": "",
+  "historial": []
+ },
+ {
+  "nombre": "Hooligan's City Mall",
+  "direccion": "City Mall, Alajuela",
+  "estilo": "",
+  "telefono": "",
+  "historial": []
+ },
+ {
+  "nombre": "Restaurante Trova y Más",
+  "direccion": "San Rafael de Heredia",
+  "estilo": "",
+  "telefono": "",
+  "historial": []
  }
 ]
