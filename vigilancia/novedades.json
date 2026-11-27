@@ -1,31 +1,22 @@
 {
- "stamp": "20261126-2347",
+ "stamp": "20261127-0813",
  "novedades": [
-  {
-   "bar": "Amon Solar",
-   "fuente": "https://amonsolar.com",
-   "tipo": "cambio_detectado",
-   "titulo": "Amon Solar Futbol",
-   "imagenes": [
-    "candidatos/20261126-2347/amon-solar-4694e73a.jpg",
-    "candidatos/20261126-2347/amon-solar-482781ce.jpg",
-    "candidatos/20261126-2347/amon-solar-66ded307.jpg",
-    "candidatos/20261126-2347/amon-solar-a73bd2e6.jpg",
-    "candidatos/20261126-2347/amon-solar-b7cf6761.jpg",
-    "candidatos/20261126-2347/amon-solar-587c25f5.jpg"
-   ],
-   "logo_bar": true
-  },
   {
    "bar": "Mercadito La California",
    "fuente": "https://starticket.cr",
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261126-2347/mercadito-la-california-7855d942.jpg",
-    "candidatos/20261126-2347/mercadito-la-california-b1fdefe2.jpg",
-    "candidatos/20261126-2347/mercadito-la-california-bd88c2d1.jpg",
-    "candidatos/20261126-2347/mercadito-la-california-75cacb37.jpg"
+    "candidatos/20261127-0813/mercadito-la-california-6f70f3ee.jpg",
+    "candidatos/20261127-0813/mercadito-la-california-08a99769.jpg",
+    "candidatos/20261127-0813/mercadito-la-california-7855d942.jpg",
+    "candidatos/20261127-0813/mercadito-la-california-75cacb37.jpg",
+    "candidatos/20261127-0813/mercadito-la-california-fcdd458a.jpg",
+    "candidatos/20261127-0813/mercadito-la-california-bd88c2d1.jpg",
+    "candidatos/20261127-0813/mercadito-la-california-0a94d4dd.png",
+    "candidatos/20261127-0813/mercadito-la-california-6cde7c7b.jpg",
+    "candidatos/20261127-0813/mercadito-la-california-91288325.jpg",
+    "candidatos/20261127-0813/mercadito-la-california-628e4aad.png"
    ]
   },
   {
@@ -36,17 +27,17 @@
    "imagenes": []
   },
   {
+   "bar": "Music Factory",
+   "fuente": "https://musicfactorycr.com",
+   "tipo": "cambio_detectado",
+   "titulo": "Music Factory CR - 3 Restaurantes y Música en Vivo",
+   "imagenes": []
+  },
+  {
    "bar": "CIC ANDE (Anfiteatro)",
    "fuente": "https://www.ande.cr/",
    "tipo": "fuente_caida",
    "detalle": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>"
-  },
-  {
-   "bar": "Palacio de los Deportes",
-   "fuente": "https://www.heredia.go.cr/",
-   "tipo": "cambio_detectado",
-   "titulo": "Portal Municipalidad de Heredia",
-   "imagenes": []
   }
  ],
  "pendientes": [
