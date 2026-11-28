@@ -1103,6 +1103,18 @@
   "fuente": "https://www.gamcultural.com/cr/events/1855018/diffuse-horizons-en-concierto"
  },
  {
+  "banda": "Bad Moon (tributo a Creedence Clearwater Revival)",
+  "bar": "Bar Reflexiones",
+  "fecha": "2026-11-28",
+  "hora": "20:00",
+  "flyer": "flyers/badmoon-tour.jpg",
+  "direccion_display": "Santiago, San Rafael de Heredia",
+  "region": "Heredia",
+  "cover": "₡3.000",
+  "fuente": "https://www.facebook.com/badmooncr/posts/pfbid0uLc8LrQg7KJXxpoFLV1H8irN1h7rbspSvbLEYRabuQojCpSdciv9ghecZAs4bwZ2l",
+  "nota": "Hora y cover confirmados por el póster oficial de la banda (FB 24 nov): sáb 28 nov 8:00 PM, ₡3.000, reservas 8814 1791. Antes en la cartelera: 'Por confirmar' sin cover."
+ },
+ {
   "banda": "Mustang65 18 Aniversario",
   "bar": "Central Pub London Room",
   "fecha": "2026-11-28",
@@ -1127,6 +1139,18 @@
   "nota": "Tributo en vivo a Arctic Monkeys & The Strokes; entradas por Tiquete Box"
  },
  {
+  "banda": "Las Tortugas (Rock Clásico)",
+  "bar": "Jazz Café",
+  "fecha": "2026-11-28",
+  "hora": "20:00",
+  "cover": "₡8.500",
+  "flyer": "",
+  "direccion_display": "Paralela a la Autopista Próspero Fernández, Escazú",
+  "region": "San José",
+  "fuente": "https://www.gamcultural.com/cr/events/1879504/tortugas-rock-clasico-28-de-noviembre",
+  "nota": "Hora confirmada 8:00 PM por el póster oficial de la banda (FB 31 oct / IG 4 nov) y la agenda semanal de Jazz Café (IG 23 nov: 'Tortugas Gas Rock Clásico' 8:00 PM). Cover ₡8.500 por Tiquete Box según el póster (antes ₡8.000 en la cartelera). GAM contradice: ficha 14:00 pero descripción 8:00 PM — se toma el póster oficial, igual que el Concierto Benéfico (GAM decía 10:00, póster oficial 4:00 PM). WhatsApp info 8496 8111."
+ },
+ {
   "banda": "Eclipse y Demolition Lovers presenta 20 aniversario de Black Parade (tributo a My Chemical Romance)",
   "bar": "Pepper's Club",
   "cover": "",
@@ -1149,27 +1173,6 @@
   "hora": "20:15",
   "nota": "Concierto gratuito de encendido navideño de la Municipalidad de Grecia",
   "region": "Alajuela"
- },
- {
-  "banda": "Bad Moon (tributo a Creedence Clearwater Revival)",
-  "bar": "Bar Reflexiones",
-  "fecha": "2026-11-28",
-  "hora": "",
-  "flyer": "flyers/badmoon-tour.jpg",
-  "direccion_display": "San Rafael de Heredia",
-  "region": "Heredia"
- },
- {
-  "banda": "Las Tortugas (Rock Clásico)",
-  "bar": "Jazz Café",
-  "fecha": "2026-11-28",
-  "hora": "",
-  "cover": "₡8.000",
-  "flyer": "",
-  "direccion_display": "Paralela a la Autopista Próspero Fernández, Escazú",
-  "region": "San José",
-  "fuente": "https://www.gamcultural.com/cr/events/1469834/las-tortugas",
-  "nota": "Hora en GAM: ficha 14:00, descripción 8:00 PM; se publica sin hora confirmada."
  },
  {
   "banda": "Especial de Imagine Dragons",
