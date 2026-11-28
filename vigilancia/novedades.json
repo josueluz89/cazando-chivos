@@ -1,5 +1,5 @@
 {
- "stamp": "20261127-2323",
+ "stamp": "20261128-0737",
  "novedades": [
   {
    "bar": "Mercadito La California",
@@ -7,16 +7,16 @@
    "tipo": "cambio_detectado",
    "titulo": "",
    "imagenes": [
-    "candidatos/20261127-2323/mercadito-la-california-6f70f3ee.jpg",
-    "candidatos/20261127-2323/mercadito-la-california-6cde7c7b.jpg",
-    "candidatos/20261127-2323/mercadito-la-california-7855d942.jpg",
-    "candidatos/20261127-2323/mercadito-la-california-bd88c2d1.jpg",
-    "candidatos/20261127-2323/mercadito-la-california-91288325.jpg",
-    "candidatos/20261127-2323/mercadito-la-california-0a94d4dd.png",
-    "candidatos/20261127-2323/mercadito-la-california-fcdd458a.jpg",
-    "candidatos/20261127-2323/mercadito-la-california-75cacb37.jpg",
-    "candidatos/20261127-2323/mercadito-la-california-08a99769.jpg",
-    "candidatos/20261127-2323/mercadito-la-california-214cba6e.jpg"
+    "candidatos/20261128-0737/mercadito-la-california-0a94d4dd.png",
+    "candidatos/20261128-0737/mercadito-la-california-fcdd458a.jpg",
+    "candidatos/20261128-0737/mercadito-la-california-08a99769.jpg",
+    "candidatos/20261128-0737/mercadito-la-california-91288325.jpg",
+    "candidatos/20261128-0737/mercadito-la-california-4911bde0.jpg",
+    "candidatos/20261128-0737/mercadito-la-california-6cde7c7b.jpg",
+    "candidatos/20261128-0737/mercadito-la-california-bd88c2d1.jpg",
+    "candidatos/20261128-0737/mercadito-la-california-75cacb37.jpg",
+    "candidatos/20261128-0737/mercadito-la-california-6f70f3ee.jpg",
+    "candidatos/20261128-0737/mercadito-la-california-214cba6e.jpg"
    ]
   },
   {
@@ -27,10 +27,10 @@
    "imagenes": []
   },
   {
-   "bar": "Fulcro Gastro Bar",
-   "fuente": "https://linktr.ee/fulcrogastrobar",
+   "bar": "Music Factory",
+   "fuente": "https://musicfactorycr.com",
    "tipo": "cambio_detectado",
-   "titulo": "@fulcrogastrobarr Official: TikTok, Instagram, Facebook | Linktree",
+   "titulo": "Music Factory CR - 3 Restaurantes y Música en Vivo",
    "imagenes": []
   },
   {
@@ -38,13 +38,6 @@
    "fuente": "https://www.ande.cr/",
    "tipo": "fuente_caida",
    "detalle": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>"
-  },
-  {
-   "bar": "Palacio de los Deportes",
-   "fuente": "https://www.heredia.go.cr/",
-   "tipo": "cambio_detectado",
-   "titulo": "Portal Municipalidad de Heredia",
-   "imagenes": []
   }
  ],
  "pendientes": [
